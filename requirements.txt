@@ -1,0 +1,7 @@
+datasus-dbc
+dbfread
+matplotlib
+networkx>=3.2
+numpy
+openpyxl
+pandas
