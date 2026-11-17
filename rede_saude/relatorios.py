@@ -15,13 +15,27 @@ def salvar(df, caminho, nomes):
 def tabela_municipios(pares, coord, hier, planilha=None):
     p = pares.assign(n_fora=pares["n"].where(pares["res"] != pares["mov"], 0),
                      n_local=pares["n"].where(pares["res"] == pares["mov"], 0),
-                     n_dist=pares["n"] * pares["dist_km"])
+                     n_dist=pares["n"] * pares["dist_km"],
+                     n_dist_fora=(pares["n"] * pares["dist_km"])
+                     .where(pares["res"] != pares["mov"], 0))
     t = p.groupby("res").agg(internacoes=("n", "sum"), fora=("n_fora", "sum"),
                              locais=("n_local", "sum"),
-                             soma_dist=("n_dist", "sum")).reset_index().rename(columns={"res": "cod"})
+                             soma_dist=("n_dist", "sum"),
+                             soma_dist_fora=("n_dist_fora", "sum")).reset_index().rename(columns={"res": "cod"})
     t["pct_fora"] = (100 * t["fora"] / t["internacoes"]).round(1)
+    # Média por internação de residente; internações locais contribuem com distância zero.
     t["dist_media_km"] = (t["soma_dist"] / t["internacoes"]).round(1)
-    t = t.drop(columns=["soma_dist"])
+    # Média apenas dos deslocamentos intermunicipais realizados.
+    t["dist_media_quem_sai_km"] = (t["soma_dist_fora"] / t["fora"].replace(0, float("nan"))).round(1)
+    # Faixa relativa: quartil superior entre municípios com internações no recorte.
+    municipios_com_dados = t["internacoes"].gt(0) & t["dist_media_km"].notna()
+    limite_q75 = t.loc[municipios_com_dados, "dist_media_km"].quantile(0.75)
+    t["dificuldade_acesso_distancia"] = pd.NA
+    t.loc[municipios_com_dados, "dificuldade_acesso_distancia"] = "Demais municípios"
+    t.loc[municipios_com_dados & t["dist_media_km"].ge(limite_q75),
+          "dificuldade_acesso_distancia"] = "Maiores distâncias"
+    t["limite_q75_dist_media_km"] = round(limite_q75, 1) if pd.notna(limite_q75) else float("nan")
+    t = t.drop(columns=["soma_dist", "soma_dist_fora"])
     entradas = (pares[pares["res"] != pares["mov"]].groupby("mov")["n"].sum())
 
     # Mantém os municípios sem internações no recorte, inclusive nos nichos.
@@ -94,6 +108,9 @@ def exportar_tabelas_gephi(pares, municipios, coord, pasta_saida, identificador,
                             ("recebeu_fluxos", "Recebeu_internacoes_de_outros_municipios"),
                             ("comunidade", "Comunidade_Louvain"),
                             ("fora", "Saidas_intermunicipais"), ("entradas", "Entradas_intermunicipais"),
+                            ("dist_media_km", "Distancia_media_por_internacao_km"),
+                            ("dist_media_quem_sai_km", "Distancia_media_quem_sai_km"),
+                            ("dificuldade_acesso_distancia", "Dificuldade_acesso_distancia"),
                             ("saidas_por_1000hab", "Saidas_por_1000_habitantes"),
                             ("entradas_por_1000hab", "Entradas_por_1000_habitantes")]:
         if origem in municipios.columns:
