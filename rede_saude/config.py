@@ -6,10 +6,6 @@ FTP_HOST = "ftp.datasus.gov.br"
 FTP_PASTAS = ["/dissemin/publicos/SIHSUS/200801_/Dados", "/dissemin/publicos/SIHSUS/200801_"]
 
 
-URL_COORD = ("https://raw.githubusercontent.com/kelvins/"
-             "municipios-brasileiros/main/csv/municipios.csv")
-
-
 URL_CNES = "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/{}"   # nome do hospital pelo codigo CNES
 
 

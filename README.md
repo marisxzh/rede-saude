@@ -16,7 +16,7 @@ O objetivo é caracterizar os fluxos intermunicipais, identificar municípios qu
 
 Os dados do SIH-SUS são preparados para manter AIHs normais, residentes da UF selecionada e códigos municipais válidos. As internações são agregadas por município de residência e município da internação. O peso de cada aresta corresponde ao número de internações daquele par de municípios.
 
-As coordenadas de latitude e longitude são usadas para calcular a distância em linha reta pela fórmula de Haversine. Essa distância é calculada pelo programa: não vem no banco do SUS e não representa distância rodoviária nem tempo de viagem.
+As coordenadas de latitude e longitude vêm das sedes municipais do conjunto **Localidades do Brasil, Censo 2022, do IBGE**. A tabela usada pelo programa está em `dados/municipios_coord.csv`; ela pode ser recriada dos KMLs oficiais com `python scripts/gerar_coordenadas_ibge.py CAMINHO/Localidades_Municipios_kml/kml`. O código seleciona a pasta “Sede Municipal” e usa o código IBGE de sete dígitos, reduzido aos seis dígitos usados nos dados do SIH/SUS. A distância em linha reta é calculada pelo programa pela fórmula de Haversine; não vem no banco do SUS e não representa distância rodoviária nem tempo de viagem. Fonte: [IBGE, Localidades do Brasil](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/27385-localidades.html).
 
 O programa calcula volumes de entradas e saídas intermunicipais, proporções de internações feitas fora do município, médias e medianas de distância e proporções acima de 60 km e 100 km. No resumo municipal, a distância média por internação dos residentes conta internações locais como zero. Também é calculada a distância média considerando somente as internações realizadas fora do município.
 
@@ -147,7 +147,7 @@ O comando `baixar` obtém os arquivos mensais DBC do DATASUS e prepara a base us
 python fluxos_saude.py baixar --uf MG --ano 2025 --dados dados
 ```
 
-O arquivo resultante é `dados/rd_MG_2025.csv.gz`. Se a base for obtida pelo repositório científico do projeto, coloque o arquivo nesse caminho e pule o comando `baixar`. As coordenadas municipais são carregadas de `dados/municipios_coord.csv` e podem ser baixadas automaticamente quando necessário.
+O arquivo resultante é `dados/rd_MG_2025.csv.gz`. Se a base for obtida pelo repositório científico do projeto, coloque o arquivo nesse caminho e pule o comando `baixar`. As coordenadas oficiais do IBGE ficam em `dados/municipios_coord.csv`; para recriá-las, use o conversor descrito acima com os KMLs do IBGE.
 
 ### Executar a análise geral e os recortes de neoplasias
 

@@ -13,7 +13,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from .config import CAPITULOS, COD_UF, COLUNAS, FTP_HOST, FTP_PASTAS, ROTULO_COMPLEX, URL_CNES, URL_COORD
+from .config import CAPITULOS, COD_UF, COLUNAS, FTP_HOST, FTP_PASTAS, ROTULO_COMPLEX, URL_CNES
 
 def baixar_do_ftp(ftp, pastas, arquivo, destino):
     """Tenta baixar 'arquivo' de cada pasta do FTP ate dar certo. Devolve True/False."""
@@ -72,8 +72,11 @@ def baixar(uf, ano, pasta):
 def carregar_coordenadas(pasta):
     arq = pasta / "municipios_coord.csv"
     if not arq.exists():
-        pasta.mkdir(parents=True, exist_ok=True)
-        urllib.request.urlretrieve(URL_COORD, arq)
+        raise FileNotFoundError(
+            f"Tabela de coordenadas não encontrada: {arq}. "
+            "Gere-a com scripts/gerar_coordenadas_ibge.py a partir dos KMLs "
+            "'Localidades_Municipios_kml' do IBGE (Censo 2022)."
+        )
     c = pd.read_csv(arq, dtype={"codigo_ibge": str})
     c["cod"] = c["codigo_ibge"].str[:6]
     return c.rename(columns={"latitude": "lat", "longitude": "lon"})[["cod", "nome", "lat", "lon"]]

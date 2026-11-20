@@ -11,7 +11,7 @@ O código não desenha o grafo. Ele constrói e analisa a rede como dados e salv
 - **Nó:** município, identificado pelo código SUS de seis dígitos.
 - **Aresta direcionada:** município onde o paciente reside → município onde ocorreu a internação.
 - **Peso da aresta:** número de internações observadas naquele par de municípios.
-- **Atributo da aresta:** distância em linha reta, em quilômetros, entre as coordenadas dos municípios.
+- **Atributo da aresta:** distância em linha reta, em quilômetros, entre as sedes municipais, usando coordenadas do IBGE (Localidades do Brasil, Censo 2022).
 - **Atributos do nó:** nome, população, microrregião, macrorregião, coordenadas, comunidade Louvain e volumes/taxas de entrada e saída intermunicipais.
 
 Essa modelagem mantém separadas duas informações: a ligação representa o fluxo observado e a distância descreve a separação geográfica entre os municípios. A distância não é uma estimativa de rota ou tempo de viagem por estrada.
@@ -44,6 +44,19 @@ As etapas da análise são:
 8. **Distância e complexidade:** além da base geral, o programa calcula médias/medianas ponderadas e proporções acima de 60 km e 100 km para complexidades e nichos. A distância permanece como atributo de fluxo; ela não é usada como peso do Louvain. Neoplasias aceita `C,D00-D48`, correspondente ao capítulo II classificado no código.
 9. **Hierarquia complementar:** a hierarquia de fluxo dominante já existente continua sendo exportada como análise complementar; a detecção de comunidades passa a ser o algoritmo central para esse novo objetivo.
 10. **Exportação:** grava CSVs analíticos e dois CSVs para o Gephi: nós (`Id`, `Label`) e arestas (`Source`, `Target`, `Weight`). Mantém laços locais no arquivo de visualização, embora o Louvain não os use.
+
+### Fonte e preparação das coordenadas
+
+O arquivo `dados/municipios_coord.csv` contém as coordenadas das sedes municipais obtidas do produto **Localidades do Brasil, Censo 2022**, do IBGE. O código do município, o nome, a latitude e a longitude são guardados na tabela; os códigos IBGE de sete dígitos são reduzidos aos seis dígitos usados na base do SIH/SUS. A distância é calculada entre sedes municipais e não representa distância por estrada ou tempo de viagem. Fonte oficial: [IBGE, Localidades do Brasil](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/27385-localidades.html).
+
+A tabela de coordenadas acompanha o projeto. O comando `baixar` obtém somente os arquivos mensais do SIH/SUS no DATASUS; não baixa dados do IBGE. Para recriar `municipios_coord.csv` a partir da pasta KML oficial já baixada e extraída, execute:
+
+```bash
+python3 scripts/gerar_coordenadas_ibge.py CAMINHO/Localidades_Municipios_kml/kml \
+  --saida dados/municipios_coord.csv
+```
+
+O conversor também aceita o arquivo ZIP em vez da pasta extraída. Ele seleciona os registros da categoria “Sede Municipal” e interrompe a geração caso encontre códigos repetidos ou inválidos. Se a tabela estiver ausente, a análise informa que ela precisa ser gerada; não tenta baixá-la automaticamente.
 
 ## Por que usar essa abordagem
 
