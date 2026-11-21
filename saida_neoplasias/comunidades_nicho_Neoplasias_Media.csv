@@ -1,0 +1,14 @@
+﻿Comunidade Louvain (0 = sem fluxo intermunicipal),Número de municípios,População somada (IBGE 2025),Polo com maior força de entrada,Internações intermunicipais recebidas pelo polo,Entradas intermunicipais dos municípios do grupo,Saídas intermunicipais dos municípios do grupo,Internações entre municípios da mesma comunidade,Internações entre municípios do grupo e outros grupos,Macrorregião mais frequente,% dos municípios na macrorregião mais frequente,Microrregião mais frequente,% dos municípios na microrregião mais frequente,Modularidade global da rede
+1,27,1391271.0,Uberlândia,307,494,508,482,38,TRIÂNGULO DO NORTE,100.0,PATROCÍNIO/MONTE CARMELO,33.3,0.7526
+2,128,7024415.0,Belo Horizonte,12436,13807,12142,11971,2007,CENTRO,68.8,SETE LAGOAS,18.0,0.7526
+3,108,1541766.0,Muriaé,4623,5952,6182,5830,474,SUDESTE,50.9,MANHUAÇU,21.3,0.7526
+4,38,830248.0,Ipatinga,2000,2647,2788,2500,435,VALE DO AÇO,92.1,IPATINGA,36.8,0.7526
+5,104,1421297.0,Teófilo Otoni,796,2791,3030,2497,827,NORDESTE,53.8,GOVERNADOR VALADARES,21.2,0.7526
+6,57,1534517.0,Uberaba,827,1410,1632,1369,304,NOROESTE,52.6,FRUTAL/ITURAMA,19.3,0.7526
+7,53,1347743.0,Divinópolis,1792,2450,2647,2382,333,OESTE,98.1,DIVINÓPOLIS,15.1,0.7526
+8,89,1711563.0,Montes Claros,1761,2358,2449,2293,221,NORTE,96.6,JANAÚBA/MONTE AZUL,16.9,0.7526
+9,86,1489835.0,Juiz de Fora,1074,2271,2473,2090,564,CENTRO SUL,50.0,SÃO JOÃO DEL REI,19.8,0.7526
+10,47,917723.0,Varginha,757,1194,1315,1151,207,SUL,95.7,SÃO LOURENÇO,42.6,0.7526
+11,104,1996230.0,Passos,618,2448,2440,2375,138,EXTREMO SUL,49.0,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ,29.8,0.7526
+12,11,184684.0,Curvelo,298,298,514,287,238,CENTRO,100.0,CURVELO,100.0,0.7526
+0,1,2149.0,Sem fluxo intermunicipal no recorte,0,0,0,0,0,,,,,0.7526

@@ -1,0 +1,7 @@
+﻿Grupo analisado,Nº de internações,% do total de internações,% internados fora do município de residência,Distância média de quem se desloca (km),Distância mediana de quem se desloca (km),% das internações a mais de 60 km,% das internações a mais de 100 km
+Geral (todas as internações),1582189,100.0,36.6,61.4,37.1,11.0,5.9
+Alta complexidade,146652,9.3,58.2,84.4,55.5,27.0,15.7
+Média complexidade,1435537,90.7,34.4,57.4,34.7,9.3,4.9
+Nicho: Neoplasias,131916,8.3,53.8,72.3,49.3,21.2,11.2
+Nicho: Neoplasias_Alta,53621,3.4,61.3,75.5,53.3,26.1,13.8
+Nicho: Neoplasias_Media,78295,4.9,48.7,69.6,45.2,17.9,9.4

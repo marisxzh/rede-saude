@@ -1,0 +1,854 @@
+﻿Município,"Código do município (SUS, 6 dígitos)",Microrregião de saúde,Macrorregião de saúde,População (IBGE 2025),Internações de moradores do município,Internações realizadas no próprio município,Internações intermunicipais de moradores do município,Internações intermunicipais recebidas pelo município,Saídas intermunicipais por 1.000 habitantes,Entradas intermunicipais por 1.000 habitantes,% das internações feitas fora do município,Distância média percorrida até o hospital (km; internação local conta 0 km),Distância média das internações fora do município (km),Faixa de distância média no recorte,Limite para maiores distâncias no recorte (km),Internações por 1.000 habitantes,Recebeu internações de outros municípios neste recorte?,Comunidade detectada pelo Louvain,Nível na hierarquia (1 = polo independente),Município polo imediato (superior na hierarquia),Polo principal da rede (topo da hierarquia),Código do município polo imediato,Código do polo principal
+Abadia dos Dourados,310010,PATROCÍNIO/MONTE CARMELO,TRIÂNGULO DO NORTE,6345.0,490,92,398,0,62.7,0.0,81.2,70.0,86.1,Maiores distâncias,55.0,77.2,Não,1,5,Monte Carmelo,Belo Horizonte,314310,310620
+Abaeté,310020,SETE LAGOAS,CENTRO,23173.0,1969,1146,823,348,35.5,15.0,41.8,56.0,133.9,Maiores distâncias,55.0,85.0,Sim,2,3,Sete Lagoas,Belo Horizonte,316720,310620
+Abre Campo,310030,MANHUAÇU,LESTE DO SUL,14354.0,1582,1170,412,951,28.7,66.3,26.0,19.5,74.8,Demais municípios,55.0,110.2,Sim,3,4,Manhuaçu,Belo Horizonte,313940,310620
+Acaiaca,310040,PONTE NOVA,LESTE DO SUL,3998.0,336,0,336,0,84.0,0.0,100.0,35.2,35.2,Demais municípios,55.0,84.0,Não,4,3,Ponte Nova,Belo Horizonte,315210,310620
+Açucena,310050,IPATINGA,VALE DO AÇO,8926.0,511,0,511,0,57.2,0.0,100.0,52.8,52.8,Demais municípios,55.0,57.2,Não,5,2,Ipatinga,Ipatinga,313130,313130
+Água Boa,310060,PEÇANHA/SÃO JOÃO EVANGELISTA/SANTA MARIA DO SUAÇUÍ,LESTE,12391.0,805,174,631,0,50.9,0.0,78.4,67.4,86.0,Maiores distâncias,55.0,65.0,Não,6,3,Santa Maria do Suaçuí,Belo Horizonte,315820,310620
+Água Comprida,310070,UBERABA,TRIÂNGULO DO SUL,2171.0,173,0,173,0,79.7,0.0,100.0,38.2,38.2,Demais municípios,55.0,79.7,Não,7,3,Uberaba,Belo Horizonte,317010,310620
+Aguanil,310080,CAMPO BELO,OESTE,4509.0,507,0,507,0,112.4,0.0,100.0,33.5,33.5,Demais municípios,55.0,112.4,Não,8,3,Campo Belo,Divinópolis,311120,312230
+Águas Formosas,310090,ÁGUAS FORMOSAS,NORDESTE,18850.0,2010,1588,422,1442,22.4,76.5,21.0,38.5,183.6,Demais municípios,55.0,106.6,Sim,9,3,Teófilo Otoni,Belo Horizonte,316860,310620
+Águas Vermelhas,310100,PEDRA AZUL,NORDESTE,14567.0,1106,515,591,79,40.6,5.4,53.4,76.1,142.4,Maiores distâncias,55.0,75.9,Sim,9,4,Pedra Azul,Belo Horizonte,314870,310620
+Aimorés,310110,RESPLENDOR,LESTE,26212.0,2222,1913,309,118,11.8,4.5,13.9,11.2,80.8,Demais municípios,55.0,84.8,Sim,6,4,Resplendor,Belo Horizonte,315430,310620
+Aiuruoca,310120,SÃO LOURENÇO,SUL,6389.0,696,616,80,1572,12.5,246.0,11.5,11.3,98.5,Demais municípios,55.0,108.9,Sim,10,2,Varginha,Varginha,317070,317070
+Alagoa,310130,SÃO LOURENÇO,SUL,2820.0,276,113,163,0,57.8,0.0,59.1,26.7,45.3,Demais municípios,55.0,97.9,Não,10,3,Aiuruoca,Varginha,310120,317070
+Albertina,310140,POÇOS DE CALDAS, EXTREMO SUL,3027.0,168,0,168,0,55.5,0.0,100.0,48.1,48.1,Demais municípios,55.0,55.5,Não,11,4,Jacutinga,Belo Horizonte,313490,310620
+Além Paraíba,310150,ALÉM PARAÍBA,SUDESTE,31159.0,2772,1863,909,466,29.2,15.0,32.8,28.2,85.9,Demais municípios,55.0,89.0,Sim,3,3,Muriaé,Belo Horizonte,314390,310620
+Alfenas,310160,ALFENAS/MACHADO,SUDOESTE,82303.0,7466,6918,548,9416,6.7,114.4,7.3,6.2,85.1,Demais municípios,55.0,90.7,Sim,11,3,Poços de Caldas,Belo Horizonte,315180,310620
+Alfredo Vasconcelos,310163,BARBACENA,CENTRO SUL,7236.0,487,0,487,0,67.3,0.0,100.0,19.2,19.2,Demais municípios,55.0,67.3,Não,12,3,Barbacena,Belo Horizonte,310560,310620
+Almenara,310170,ALMENARA/JACINTO,NORDESTE,42019.0,3893,3213,680,2439,16.2,58.0,17.5,54.1,309.6,Demais municípios,55.0,92.6,Sim,9,3,Teófilo Otoni,Belo Horizonte,316860,310620
+Alpercata,310180,GOVERNADOR VALADARES,LESTE,7019.0,336,0,336,0,47.9,0.0,100.0,32.1,32.1,Demais municípios,55.0,47.9,Não,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Alpinópolis,310190,PASSOS,SUDOESTE,18673.0,1940,1074,866,255,46.4,13.7,44.6,17.3,38.8,Demais municípios,55.0,103.9,Sim,13,3,Passos,Belo Horizonte,314790,310620
+Alterosa,310200,ALFENAS/MACHADO,SUDOESTE,14272.0,1595,747,848,103,59.4,7.2,53.2,23.8,44.7,Demais municípios,55.0,111.8,Sim,11,4,Alfenas,Belo Horizonte,310160,310620
+Alto Caparaó,310205,MANHUAÇU,LESTE DO SUL,6014.0,426,0,426,0,70.8,0.0,100.0,36.9,36.9,Demais municípios,55.0,70.8,Não,3,5,Manhumirim,Belo Horizonte,313950,310620
+Alto Jequitibá,315350,MANHUAÇU,LESTE DO SUL,8606.0,601,0,601,0,69.8,0.0,100.0,34.4,34.4,Demais municípios,55.0,69.8,Não,3,5,Manhumirim,Belo Horizonte,313950,310620
+Alto Rio Doce,310210,BARBACENA,CENTRO SUL,10931.0,814,260,554,51,50.7,4.7,68.1,35.1,51.5,Demais municípios,55.0,74.5,Sim,12,3,Barbacena,Belo Horizonte,310560,310620
+Alvarenga,310220,GOVERNADOR VALADARES,LESTE,3983.0,262,0,262,0,65.8,0.0,100.0,70.4,70.4,Maiores distâncias,55.0,65.8,Não,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Alvinópolis,310230,PONTE NOVA,LESTE DO SUL,15358.0,1192,592,600,13,39.1,0.8,50.3,25.9,51.5,Demais municípios,55.0,77.6,Sim,4,3,Ponte Nova,Belo Horizonte,315210,310620
+Alvorada de Minas,310240,SERRO,JEQUITINHONHA,4359.0,493,0,493,0,113.1,0.0,100.0,28.6,28.6,Demais municípios,55.0,113.1,Não,14,4,Serro,Belo Horizonte,316710,310620
+Amparo do Serra,310250,PONTE NOVA,LESTE DO SUL,4574.0,321,0,321,0,70.2,0.0,100.0,21.1,21.1,Demais municípios,55.0,70.2,Não,4,3,Ponte Nova,Belo Horizonte,315210,310620
+Andradas,310260,POÇOS DE CALDAS, EXTREMO SUL,42501.0,3964,2928,1036,479,24.4,11.3,26.1,9.7,37.1,Demais municípios,55.0,93.3,Sim,11,3,Poços de Caldas,Belo Horizonte,315180,310620
+Andrelândia,310280,LIMA DUARTE,SUDESTE,12163.0,1112,589,523,51,43.0,4.2,47.0,47.0,100.0,Demais municípios,55.0,91.4,Sim,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Angelândia,310285,TEÓFILO OTONI/MALACACHETA,NORDESTE,7849.0,865,0,865,0,110.2,0.0,100.0,52.8,52.8,Demais municípios,55.0,110.2,Não,9,4,Malacacheta,Belo Horizonte,313920,310620
+Antônio Carlos,310290,BARBACENA,CENTRO SUL,11350.0,843,101,742,11,65.4,1.0,88.0,18.4,21.0,Demais municípios,55.0,74.3,Sim,12,3,Barbacena,Belo Horizonte,310560,310620
+Antônio Dias,310300,CORONEL FABRICIANO/TIMÓTEO,VALE DO AÇO,9375.0,649,0,649,0,69.2,0.0,100.0,43.8,43.8,Demais municípios,55.0,69.2,Não,5,3,Timóteo,Ipatinga,316870,313130
+Antônio Prado de Minas,310310,MURIAÉ,SUDESTE,1552.0,159,0,159,0,102.4,0.0,100.0,44.0,44.0,Demais municípios,55.0,102.4,Não,3,3,Muriaé,Belo Horizonte,314390,310620
+Araçaí,310320,SETE LAGOAS,CENTRO,2222.0,153,0,153,0,68.9,0.0,100.0,40.2,40.2,Demais municípios,55.0,68.9,Não,2,3,Sete Lagoas,Belo Horizonte,316720,310620
+Aracitaba,310330,SANTOS DUMONT,SUDESTE,2095.0,214,0,214,0,102.1,0.0,100.0,32.4,32.4,Demais municípios,55.0,102.1,Não,3,4,Santos Dumont,Belo Horizonte,316070,310620
+Araçuaí,310340,ARAÇUAÍ,JEQUITINHONHA,35185.0,3227,2696,531,1776,15.1,50.5,16.5,46.5,282.8,Demais municípios,55.0,91.7,Sim,14,2,Belo Horizonte,Belo Horizonte,310620,310620
+Araguari,310350,UBERLÂNDIA/ARAGUARI,TRIÂNGULO DO NORTE,123432.0,12693,12020,673,5196,5.5,42.1,5.3,2.3,42.8,Demais municípios,55.0,102.8,Sim,1,3,Uberlândia,Belo Horizonte,317020,310620
+Arantina,310360,LIMA DUARTE,SUDESTE,2998.0,250,0,250,0,83.4,0.0,100.0,64.2,64.2,Maiores distâncias,55.0,83.4,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Araponga,310370,VIÇOSA,LESTE DO SUL,8218.0,535,0,535,0,65.1,0.0,100.0,50.5,50.5,Demais municípios,55.0,65.1,Não,4,4,Viçosa,Belo Horizonte,317130,310620
+Araporã,310375,UBERLÂNDIA/ARAGUARI,TRIÂNGULO DO NORTE,9069.0,1004,753,251,1,27.7,0.1,25.0,27.3,109.4,Demais municípios,55.0,110.7,Sim,1,3,Uberlândia,Belo Horizonte,317020,310620
+Arapuá,310380,SÃO GOTARDO,NOROESTE,2668.0,121,0,121,0,45.4,0.0,100.0,89.5,89.5,Maiores distâncias,55.0,45.4,Não,15,3,Patos de Minas,Belo Horizonte,314800,310620
+Araújos,310390,DIVINÓPOLIS,OESTE,9634.0,560,0,560,0,58.1,0.0,100.0,52.0,52.0,Demais municípios,55.0,58.1,Não,8,2,Divinópolis,Divinópolis,312230,312230
+Araxá,310400,ARAXÁ,TRIÂNGULO DO SUL,118786.0,7167,5542,1625,940,13.7,7.9,22.7,25.3,111.6,Demais municípios,55.0,60.3,Sim,7,3,Uberaba,Belo Horizonte,317010,310620
+Arceburgo,310410,GUAXUPÉ,SUDOESTE,9335.0,625,154,471,0,50.5,0.0,75.4,54.5,72.4,Demais municípios,55.0,67.0,Não,11,5,Guaxupé,Belo Horizonte,312870,310620
+Arcos,310420,FORMIGA,OESTE,43653.0,3423,1936,1487,124,34.1,2.8,43.4,29.0,66.6,Demais municípios,55.0,78.4,Sim,8,2,Divinópolis,Divinópolis,312230,312230
+Areado,310430,ALFENAS/MACHADO,SUDOESTE,14229.0,1383,526,857,2,60.2,0.1,62.0,22.7,36.6,Demais municípios,55.0,97.2,Sim,11,4,Alfenas,Belo Horizonte,310160,310620
+Argirita,310440,LEOPOLDINA/CATAGUASES,SUDESTE,2715.0,253,0,253,0,93.2,0.0,100.0,63.8,63.8,Maiores distâncias,55.0,93.2,Não,3,4,Leopoldina,Belo Horizonte,313840,310620
+Aricanduva,310445,TURMALINA/MINAS NOVAS/CAPELINHA,JEQUITINHONHA,4820.0,452,0,452,0,93.8,0.0,100.0,78.6,78.6,Maiores distâncias,55.0,93.8,Não,14,3,Capelinha,Belo Horizonte,311230,310620
+Arinos,310450,UNAÍ/PARACATU,NOROESTE,17586.0,876,416,460,73,26.2,4.2,52.5,91.2,173.8,Maiores distâncias,55.0,49.8,Sim,15,4,Unaí,Belo Horizonte,317040,310620
+Astolfo Dutra,310460,LEOPOLDINA/CATAGUASES,SUDESTE,14633.0,746,0,746,0,51.0,0.0,100.0,40.1,40.1,Demais municípios,55.0,51.0,Não,3,4,Cataguases,Belo Horizonte,311530,310620
+Ataléia,310470,TEÓFILO OTONI/MALACACHETA,NORDESTE,13936.0,1237,751,486,167,34.9,12.0,39.3,30.6,77.8,Demais municípios,55.0,88.8,Sim,9,3,Teófilo Otoni,Belo Horizonte,316860,310620
+Augusto de Lima,310480,CURVELO,CENTRO,4572.0,298,0,298,0,65.2,0.0,100.0,100.9,100.9,Maiores distâncias,55.0,65.2,Não,2,3,Curvelo,Belo Horizonte,312090,310620
+Baependi,310490,SÃO LOURENÇO,SUL,18782.0,2573,2231,342,1653,18.2,88.0,13.3,10.7,80.4,Demais municípios,55.0,137.0,Sim,10,2,Varginha,Varginha,317070,317070
+Baldim,310500,SETE LAGOAS,CENTRO,7595.0,548,0,548,0,72.2,0.0,100.0,46.8,46.8,Demais municípios,55.0,72.2,Não,2,3,Sete Lagoas,Belo Horizonte,316720,310620
+Bambuí,310510,FORMIGA,OESTE,24203.0,2297,1359,938,393,38.8,16.2,40.8,42.0,102.9,Demais municípios,55.0,94.9,Sim,8,2,Divinópolis,Divinópolis,312230,312230
+Bandeira,310520,ALMENARA/JACINTO,NORDESTE,4811.0,340,0,340,0,70.7,0.0,100.0,86.2,86.2,Maiores distâncias,55.0,70.7,Não,9,4,Almenara,Belo Horizonte,310170,310620
+Bandeira do Sul,310530,ALFENAS/MACHADO,SUDOESTE,6183.0,362,0,362,0,58.5,0.0,100.0,41.3,41.3,Demais municípios,55.0,58.5,Não,11,3,Poços de Caldas,Belo Horizonte,315180,310620
+Barão de Cocais,310540,ITABIRA,CENTRO,32264.0,2125,934,1191,13,36.9,0.4,56.0,30.1,53.6,Demais municípios,55.0,65.9,Sim,16,3,Itabira,Belo Horizonte,313170,310620
+Barão do Monte Alto,310550,MURIAÉ,SUDESTE,4952.0,476,0,476,0,96.1,0.0,100.0,22.5,22.5,Demais municípios,55.0,96.1,Não,3,3,Muriaé,Belo Horizonte,314390,310620
+Barbacena,310560,BARBACENA,CENTRO SUL,129695.0,9363,8724,639,8198,4.9,63.2,6.8,8.2,119.6,Demais municípios,55.0,72.2,Sim,12,2,Belo Horizonte,Belo Horizonte,310620,310620
+Barra Longa,310570,PONTE NOVA,LESTE DO SUL,5717.0,380,0,380,0,66.5,0.0,100.0,32.2,32.2,Demais municípios,55.0,66.5,Não,4,3,Ponte Nova,Belo Horizonte,315210,310620
+Barroso,310590,SÃO JOÃO DEL REI,CENTRO SUL,20604.0,1917,1275,642,1645,31.2,79.8,33.5,13.5,40.4,Demais municípios,55.0,93.0,Sim,12,4,São João del Rei,Belo Horizonte,316250,310620
+Bela Vista de Minas,310600,JOÃO MONLEVADE,CENTRO,10427.0,851,0,851,0,81.6,0.0,100.0,24.5,24.5,Demais municípios,55.0,81.6,Não,16,3,João Monlevade,Belo Horizonte,313620,310620
+Belmiro Braga,310610,JUIZ DE FORA,SUDESTE,3292.0,190,0,190,0,57.7,0.0,100.0,26.2,26.2,Demais municípios,55.0,57.7,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Belo Horizonte,310620,BELO HORIZONTE/NOVA LIMA/SANTA LUZIA,CENTRO,2415872.0,159925,157190,2735,128971,1.1,53.4,1.7,1.0,59.2,Demais municípios,55.0,66.2,Sim,16,1,,Belo Horizonte,,310620
+Belo Oriente,310630,IPATINGA,VALE DO AÇO,24546.0,2597,1494,1103,2246,44.9,91.5,42.5,18.0,42.3,Demais municípios,55.0,105.8,Sim,5,2,Ipatinga,Ipatinga,313130,313130
+Belo Vale,310640,BELO HORIZONTE/NOVA LIMA/SANTA LUZIA,CENTRO,9012.0,1233,732,501,74,55.6,8.2,40.6,21.8,53.7,Demais municípios,55.0,136.8,Sim,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Berilo,310650,ARAÇUAÍ,JEQUITINHONHA,9638.0,831,356,475,1,49.3,0.1,57.2,85.9,150.3,Maiores distâncias,55.0,86.2,Sim,14,3,Araçuaí,Belo Horizonte,310340,310620
+Berizal,310665,TAIOBEIRAS,NORTE,4270.0,393,0,393,0,92.0,0.0,100.0,83.8,83.8,Maiores distâncias,55.0,92.0,Não,17,4,Taiobeiras,Belo Horizonte,316800,310620
+Bertópolis,310660,ÁGUAS FORMOSAS,NORDESTE,4546.0,746,0,746,0,164.1,0.0,100.0,51.6,51.6,Demais municípios,55.0,164.1,Não,9,4,Machacalis,Belo Horizonte,313890,310620
+Betim,310670,BETIM,CENTRO,431433.0,23079,16022,7057,8511,16.4,19.7,30.6,8.8,28.9,Demais municípios,55.0,53.5,Sim,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Bias Fortes,310680,LIMA DUARTE,SUDESTE,3367.0,167,0,167,0,49.6,0.0,100.0,45.8,45.8,Demais municípios,55.0,49.6,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Bicas,310690,SÃO JOÃO NEPOMUCENO,SUDESTE,14358.0,1214,459,755,301,52.6,21.0,62.2,22.4,36.1,Demais municípios,55.0,84.6,Sim,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Biquinhas,310700,SETE LAGOAS,CENTRO,2397.0,187,0,187,0,78.0,0.0,100.0,150.1,150.1,Maiores distâncias,55.0,78.0,Não,2,3,Sete Lagoas,Belo Horizonte,316720,310620
+Boa Esperança,310710,TRÊS PONTAS,SUL,41443.0,3038,1873,1165,233,28.1,5.6,38.3,26.0,67.7,Demais municípios,55.0,73.3,Sim,10,2,Varginha,Varginha,317070,317070
+Bocaina de Minas,310720,LIMA DUARTE,SUDESTE,5530.0,308,0,308,0,55.7,0.0,100.0,56.7,56.7,Maiores distâncias,55.0,55.7,Não,10,3,Aiuruoca,Varginha,310120,317070
+Bocaiúva,310730,BOCAIÚVA,NORTE,49797.0,4700,3380,1320,1436,26.5,28.8,28.1,16.4,58.4,Demais municípios,55.0,94.4,Sim,17,3,Montes Claros,Belo Horizonte,314330,310620
+Bom Despacho,310740,BOM DESPACHO,OESTE,54377.0,5589,4641,948,1414,17.4,26.0,17.0,14.6,85.9,Demais municípios,55.0,102.8,Sim,8,2,Divinópolis,Divinópolis,312230,312230
+Bom Jardim de Minas,310750,LIMA DUARTE,SUDESTE,6988.0,676,275,401,107,57.4,15.3,59.3,49.8,83.9,Demais municípios,55.0,96.7,Sim,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Bom Jesus da Penha,310760,PASSOS,SUDOESTE,4677.0,325,0,325,0,69.5,0.0,100.0,43.6,43.6,Demais municípios,55.0,69.5,Não,13,3,Passos,Belo Horizonte,314790,310620
+Bom Jesus do Amparo,310770,ITABIRA,CENTRO,5786.0,434,0,434,0,75.0,0.0,100.0,35.8,35.8,Demais municípios,55.0,75.0,Não,16,3,Itabira,Belo Horizonte,313170,310620
+Bom Jesus do Galho,310780,CARATINGA,VALE DO AÇO,14719.0,1200,247,953,1403,64.7,95.3,79.4,28.2,35.5,Demais municípios,55.0,81.5,Sim,5,3,Caratinga,Ipatinga,311340,313130
+Bom Repouso,310790,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,13312.0,681,0,681,0,51.2,0.0,100.0,34.5,34.5,Demais municípios,55.0,51.2,Não,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Bom Sucesso,310800,SÃO JOÃO DEL REI,CENTRO SUL,17515.0,1328,648,680,97,38.8,5.5,51.2,33.7,65.8,Demais municípios,55.0,75.8,Sim,12,4,São João del Rei,Belo Horizonte,316250,310620
+Bonfim,310810,BETIM,CENTRO,7710.0,549,0,549,0,71.2,0.0,100.0,39.3,39.3,Demais municípios,55.0,71.2,Não,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Bonfinópolis de Minas,310820,UNAÍ/PARACATU,NOROESTE,5600.0,266,0,266,0,47.5,0.0,100.0,231.0,231.0,Maiores distâncias,55.0,47.5,Não,15,4,Paracatu,Belo Horizonte,314700,310620
+Bonito de Minas,310825,JANUÁRIA,NORTE,10525.0,590,0,590,0,56.1,0.0,100.0,101.9,101.9,Maiores distâncias,55.0,56.1,Não,17,4,Januária,Belo Horizonte,313520,310620
+Borda da Mata,310830,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,17837.0,953,0,953,0,53.4,0.0,100.0,34.0,34.0,Demais municípios,55.0,53.4,Não,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Botelhos,310840,ALFENAS/MACHADO,SUDOESTE,15141.0,1132,454,678,3,44.8,0.2,59.9,24.7,41.3,Demais municípios,55.0,74.8,Sim,11,4,Alfenas,Belo Horizonte,310160,310620
+Botumirim,310850,FRANCISCO SÁ,NORTE,5806.0,441,0,441,0,76.0,0.0,100.0,77.6,77.6,Maiores distâncias,55.0,76.0,Não,17,3,Montes Claros,Belo Horizonte,314330,310620
+Brás Pires,310870,UBÁ,SUDESTE,4296.0,315,0,315,0,73.3,0.0,100.0,60.5,60.5,Maiores distâncias,55.0,73.3,Não,3,4,Ubá,Belo Horizonte,316990,310620
+Brasilândia de Minas,310855,JOÃO PINHEIRO,NOROESTE,15485.0,672,0,672,0,43.4,0.0,100.0,176.5,176.5,Maiores distâncias,55.0,43.4,Não,15,3,Patos de Minas,Belo Horizonte,314800,310620
+Brasília de Minas,310860,BRASÍLIA DE MINAS,NORTE,33262.0,3569,2829,740,4800,22.2,144.3,20.7,25.2,121.8,Demais municípios,55.0,107.3,Sim,17,3,Montes Claros,Belo Horizonte,314330,310620
+Braúnas,310880,IPATINGA,VALE DO AÇO,4445.0,270,0,270,0,60.7,0.0,100.0,51.8,51.8,Demais municípios,55.0,60.7,Não,5,2,Ipatinga,Ipatinga,313130,313130
+Brazópolis,310890,ITAJUBÁ, EXTREMO SUL,14491.0,1223,287,936,8,64.6,0.6,76.5,25.2,32.9,Demais municípios,55.0,84.4,Sim,11,4,Itajubá,Belo Horizonte,313240,310620
+Brumadinho,310900,BETIM,CENTRO,41090.0,4757,3429,1328,534,32.3,13.0,27.9,8.3,29.6,Demais municípios,55.0,115.8,Sim,16,3,Betim,Belo Horizonte,310670,310620
+Bueno Brandão,310910,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,11168.0,1019,437,582,27,52.1,2.4,57.1,36.1,63.2,Demais municípios,55.0,91.2,Sim,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Buenópolis,310920,CURVELO,CENTRO,9171.0,634,0,634,0,69.1,0.0,100.0,122.7,122.7,Maiores distâncias,55.0,69.1,Não,2,3,Curvelo,Belo Horizonte,312090,310620
+Bugre,310925,IPATINGA,VALE DO AÇO,4159.0,265,0,265,0,63.7,0.0,100.0,32.9,32.9,Demais municípios,55.0,63.7,Não,5,2,Ipatinga,Ipatinga,313130,313130
+Buritis,310930,UNAÍ/PARACATU,NOROESTE,24779.0,1369,917,452,23,18.2,0.9,33.0,99.7,301.9,Maiores distâncias,55.0,55.2,Sim,15,4,Paracatu,Belo Horizonte,314700,310620
+Buritizeiro,310940,PIRAPORA,NORTE,23908.0,2071,361,1710,1,71.5,0.0,82.6,27.7,33.5,Demais municípios,55.0,86.6,Sim,17,4,Pirapora,Belo Horizonte,315120,310620
+Cabeceira Grande,310945,UNAÍ/PARACATU,NOROESTE,6811.0,343,0,343,0,50.4,0.0,100.0,147.1,147.1,Maiores distâncias,55.0,50.4,Não,15,4,Unaí,Belo Horizonte,317040,310620
+Cabo Verde,310950,GUAXUPÉ,SUDOESTE,11269.0,1051,677,374,199,33.2,17.7,35.6,16.4,46.1,Demais municípios,55.0,93.3,Sim,11,5,Guaxupé,Belo Horizonte,312870,310620
+Cachoeira da Prata,310960,SETE LAGOAS,CENTRO,3785.0,211,0,211,0,55.7,0.0,100.0,41.4,41.4,Demais municípios,55.0,55.7,Não,2,3,Sete Lagoas,Belo Horizonte,316720,310620
+Cachoeira de Minas,310970,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,12302.0,645,0,645,0,52.4,0.0,100.0,25.4,25.4,Demais municípios,55.0,52.4,Não,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Cachoeira de Pajeú,310270,PEDRA AZUL,NORDESTE,9347.0,1097,496,601,2,64.3,0.2,54.8,58.8,107.4,Maiores distâncias,55.0,117.4,Sim,9,4,Pedra Azul,Belo Horizonte,314870,310620
+Cachoeira Dourada,310980,ITUIUTABA,TRIÂNGULO DO NORTE,2337.0,160,0,160,0,68.5,0.0,100.0,89.2,89.2,Maiores distâncias,55.0,68.5,Não,1,4,Ituiutaba,Belo Horizonte,313420,310620
+Caetanópolis,310990,SETE LAGOAS,CENTRO,11906.0,1232,534,698,311,58.6,26.1,56.7,25.2,44.5,Demais municípios,55.0,103.5,Sim,2,3,Sete Lagoas,Belo Horizonte,316720,310620
+Caeté,311000,BELO HORIZONTE/NOVA LIMA/SANTA LUZIA,CENTRO,39775.0,3226,1928,1298,242,32.6,6.1,40.2,11.6,28.7,Demais municípios,55.0,81.1,Sim,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Caiana,311010,CARANGOLA,SUDESTE,5484.0,473,0,473,0,86.3,0.0,100.0,39.4,39.4,Demais municípios,55.0,86.3,Não,3,4,Carangola,Belo Horizonte,311330,310620
+Cajuri,311020,VIÇOSA,LESTE DO SUL,4191.0,377,0,377,0,90.0,0.0,100.0,36.8,36.8,Demais municípios,55.0,90.0,Não,4,4,Viçosa,Belo Horizonte,317130,310620
+Caldas,311030,POÇOS DE CALDAS, EXTREMO SUL,14628.0,960,334,626,94,42.8,6.4,65.2,19.8,30.4,Demais municípios,55.0,65.6,Sim,11,3,Poços de Caldas,Belo Horizonte,315180,310620
+Camacho,311040,CAMPO BELO,OESTE,2851.0,318,0,318,0,111.5,0.0,100.0,44.9,44.9,Demais municípios,55.0,111.5,Não,8,3,Campo Belo,Divinópolis,311120,312230
+Camanducaia,311050,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,27860.0,1973,1214,759,107,27.2,3.8,38.5,23.8,61.9,Demais municípios,55.0,70.8,Sim,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Cambuí,311060,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,31066.0,2081,1460,621,927,20.0,29.8,29.8,15.6,52.2,Demais municípios,55.0,67.0,Sim,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Cambuquira,311070,TRÊS CORAÇÕES,SUL,12551.0,1238,650,588,10,46.8,0.8,47.5,17.9,37.8,Demais municípios,55.0,98.6,Sim,10,3,Três Corações,Varginha,316930,317070
+Campanário,311080,ITAMBACURI,NORDESTE,2884.0,358,0,358,0,124.1,0.0,100.0,32.7,32.7,Demais municípios,55.0,124.1,Não,9,4,Itambacuri,Belo Horizonte,313270,310620
+Campanha,311090,VARGINHA,SUL,16372.0,1051,246,805,4,49.2,0.2,76.6,31.8,41.5,Demais municípios,55.0,64.2,Sim,10,2,Varginha,Varginha,317070,317070
+Campestre,311100,ALFENAS/MACHADO,SUDOESTE,21155.0,1829,871,958,163,45.3,7.7,52.4,23.6,45.1,Demais municípios,55.0,86.5,Sim,11,4,Alfenas,Belo Horizonte,310160,310620
+Campina Verde,311110,ITUIUTABA,TRIÂNGULO DO NORTE,18188.0,1167,587,580,0,31.9,0.0,49.7,63.0,126.7,Maiores distâncias,55.0,64.2,Não,1,4,Ituiutaba,Belo Horizonte,313420,310620
+Campo Azul,311115,BRASÍLIA DE MINAS,NORTE,3806.0,269,0,269,0,70.7,0.0,100.0,66.7,66.7,Maiores distâncias,55.0,70.7,Não,17,4,Brasília de Minas,Belo Horizonte,310860,310620
+Campo Belo,311120,CAMPO BELO,OESTE,54027.0,5513,4255,1258,2964,23.3,54.9,22.8,21.1,92.7,Demais municípios,55.0,102.0,Sim,8,2,Divinópolis,Divinópolis,312230,312230
+Campo do Meio,311130,ALFENAS/MACHADO,SUDOESTE,11625.0,1293,332,961,0,82.7,0.0,74.3,32.8,44.2,Demais municípios,55.0,111.2,Não,11,4,Alfenas,Belo Horizonte,310160,310620
+Campo Florido,311140,UBERABA,TRIÂNGULO DO SUL,8931.0,403,0,403,0,45.1,0.0,100.0,67.4,67.4,Maiores distâncias,55.0,45.1,Não,7,3,Uberaba,Belo Horizonte,317010,310620
+Campos Altos,311150,ARAXÁ,TRIÂNGULO DO SUL,13076.0,1141,703,438,8,33.5,0.6,38.4,58.7,152.9,Maiores distâncias,55.0,87.3,Sim,7,3,Uberaba,Belo Horizonte,317010,310620
+Campos Gerais,311160,ALFENAS/MACHADO,SUDOESTE,26749.0,2211,1217,994,243,37.2,9.1,45.0,18.2,40.5,Demais municípios,55.0,82.7,Sim,11,4,Alfenas,Belo Horizonte,310160,310620
+Cana Verde,311190,CAMPO BELO,OESTE,5342.0,547,0,547,0,102.4,0.0,100.0,40.7,40.7,Demais municípios,55.0,102.4,Não,8,3,Campo Belo,Divinópolis,311120,312230
+Canaã,311170,VIÇOSA,LESTE DO SUL,4839.0,324,0,324,0,67.0,0.0,100.0,43.4,43.4,Demais municípios,55.0,67.0,Não,4,4,Viçosa,Belo Horizonte,317130,310620
+Canápolis,311180,ITUIUTABA,TRIÂNGULO DO NORTE,10716.0,901,573,328,29,30.6,2.7,36.4,26.9,74.0,Demais municípios,55.0,84.1,Sim,1,4,Ituiutaba,Belo Horizonte,313420,310620
+Candeias,311200,CAMPO BELO,OESTE,14211.0,1680,573,1107,30,77.9,2.1,65.9,26.5,40.2,Demais municípios,55.0,118.2,Sim,8,3,Campo Belo,Divinópolis,311120,312230
+Cantagalo,311205,PEÇANHA/SÃO JOÃO EVANGELISTA/SANTA MARIA DO SUAÇUÍ,LESTE,4029.0,409,0,409,0,101.5,0.0,100.0,28.1,28.1,Demais municípios,55.0,101.5,Não,6,3,Peçanha,Belo Horizonte,314860,310620
+Caparaó,311210,CARANGOLA,SUDESTE,5138.0,455,0,455,0,88.6,0.0,100.0,54.3,54.3,Demais municípios,55.0,88.6,Não,3,4,Carangola,Belo Horizonte,311330,310620
+Capela Nova,311220,BARBACENA,CENTRO SUL,4397.0,331,0,331,0,75.3,0.0,100.0,38.8,38.8,Demais municípios,55.0,75.3,Não,12,3,Barbacena,Belo Horizonte,310560,310620
+Capelinha,311230,TURMALINA/MINAS NOVAS/CAPELINHA,JEQUITINHONHA,41858.0,3952,3086,866,1142,20.7,27.3,21.9,45.6,208.1,Demais municípios,55.0,94.4,Sim,14,2,Belo Horizonte,Belo Horizonte,310620,310620
+Capetinga,311240,CÁSSIA,SUDOESTE,6627.0,701,0,701,0,105.8,0.0,100.0,33.5,33.5,Demais municípios,55.0,105.8,Não,13,4,Cássia,Belo Horizonte,311510,310620
+Capim Branco,311250,SETE LAGOAS,CENTRO,11210.0,619,0,619,0,55.2,0.0,100.0,21.0,21.0,Demais municípios,55.0,55.2,Não,2,3,Sete Lagoas,Belo Horizonte,316720,310620
+Capinópolis,311260,ITUIUTABA,TRIÂNGULO DO NORTE,14872.0,1128,607,521,28,35.0,1.9,46.2,47.0,101.8,Demais municípios,55.0,75.8,Sim,1,4,Ituiutaba,Belo Horizonte,313420,310620
+Capitão Andrade,311265,GOVERNADOR VALADARES,LESTE,4634.0,313,0,313,0,67.5,0.0,100.0,33.6,33.6,Demais municípios,55.0,67.5,Não,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Capitão Enéas,311270,FRANCISCO SÁ,NORTE,14403.0,960,0,960,0,66.7,0.0,100.0,48.1,48.1,Demais municípios,55.0,66.7,Não,17,3,Montes Claros,Belo Horizonte,314330,310620
+Capitólio,311280,PIUMHI,SUDOESTE,10991.0,1045,276,769,14,70.0,1.3,73.6,35.4,48.1,Demais municípios,55.0,95.1,Sim,13,4,Piumhi,Belo Horizonte,315150,310620
+Caputira,311290,MANHUAÇU,LESTE DO SUL,9128.0,668,0,668,0,73.2,0.0,100.0,44.1,44.1,Demais municípios,55.0,73.2,Não,3,4,Manhuaçu,Belo Horizonte,313940,310620
+Caraí,311300,PADRE PARAÍSO,NORDESTE,19511.0,2039,1081,958,116,49.1,5.9,47.0,44.5,94.7,Demais municípios,55.0,104.5,Sim,9,3,Teófilo Otoni,Belo Horizonte,316860,310620
+Caranaíba,311310,CONSELHEIRO LAFAIETE,CENTRO SUL,2942.0,213,0,213,0,72.4,0.0,100.0,38.3,38.3,Demais municípios,55.0,72.4,Não,12,4,Conselheiro Lafaiete,Belo Horizonte,311830,310620
+Carandaí,311320,BARBACENA,CENTRO SUL,24403.0,1747,946,801,277,32.8,11.4,45.9,18.5,40.3,Demais municípios,55.0,71.6,Sim,12,3,Barbacena,Belo Horizonte,310560,310620
+Carangola,311330,CARANGOLA,SUDESTE,32134.0,3067,2542,525,5550,16.3,172.7,17.1,17.2,100.5,Demais municípios,55.0,95.4,Sim,3,3,Muriaé,Belo Horizonte,314390,310620
+Caratinga,311340,CARATINGA,VALE DO AÇO,90890.0,6403,5310,1093,5862,12.0,64.5,17.1,15.1,88.6,Demais municípios,55.0,70.4,Sim,5,2,Ipatinga,Ipatinga,313130,313130
+Carbonita,311350,DIAMANTINA/ITAMARANDIBA,JEQUITINHONHA,8603.0,1147,580,567,46,65.9,5.3,49.4,48.6,98.3,Demais municípios,55.0,133.3,Sim,14,4,Itamarandiba,Belo Horizonte,313250,310620
+Careaçu,311360,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,7062.0,378,38,340,1,48.1,0.1,89.9,29.3,32.6,Demais municípios,55.0,53.5,Sim,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Carlos Chagas,311370,NANUQUE,NORDESTE,18783.0,1956,1269,687,140,36.6,7.5,35.1,43.7,124.5,Demais municípios,55.0,104.1,Sim,9,3,Teófilo Otoni,Belo Horizonte,316860,310620
+Carmésia,311380,GUANHÃES,CENTRO,2693.0,258,0,258,0,95.8,0.0,100.0,56.1,56.1,Maiores distâncias,55.0,95.8,Não,6,3,Guanhães,Belo Horizonte,312800,310620
+Carmo da Cachoeira,311390,TRÊS CORAÇÕES,SUL,11767.0,986,397,589,1,50.1,0.1,59.7,23.3,39.0,Demais municípios,55.0,83.8,Sim,10,3,Três Corações,Varginha,316930,317070
+Carmo da Mata,311400,OLIVEIRA/SANTO ANTÔNIO DO AMPARO,OESTE,11291.0,812,172,640,0,56.7,0.0,78.8,29.7,37.7,Demais municípios,55.0,71.9,Não,8,3,Oliveira,Divinópolis,314560,312230
+Carmo de Minas,311410,SÃO LOURENÇO,SUL,14125.0,1420,497,923,104,65.3,7.4,65.0,12.1,18.6,Demais municípios,55.0,100.5,Sim,10,3,São Lourenço,Varginha,316370,317070
+Carmo do Cajuru,311420,DIVINÓPOLIS,OESTE,24581.0,1162,0,1162,0,47.3,0.0,100.0,36.9,36.9,Demais municípios,55.0,47.3,Não,8,2,Divinópolis,Divinópolis,312230,312230
+Carmo do Paranaíba,311430,SÃO GOTARDO,NOROESTE,29885.0,2166,1165,1001,82,33.5,2.7,46.2,39.1,84.7,Demais municípios,55.0,72.5,Sim,15,3,Patos de Minas,Belo Horizonte,314800,310620
+Carmo do Rio Claro,311440,PASSOS,SUDOESTE,21506.0,2209,1304,905,8,42.1,0.4,41.0,24.5,59.7,Demais municípios,55.0,102.7,Sim,13,3,Passos,Belo Horizonte,314790,310620
+Carmópolis de Minas,311450,OLIVEIRA/SANTO ANTÔNIO DO AMPARO,OESTE,18561.0,1751,695,1056,9,56.9,0.5,60.3,33.7,55.9,Demais municípios,55.0,94.3,Sim,8,3,Oliveira,Divinópolis,314560,312230
+Carneirinho,311455,FRUTAL/ITURAMA,TRIÂNGULO DO SUL,9633.0,227,0,227,0,23.6,0.0,100.0,177.8,177.8,Maiores distâncias,55.0,23.6,Não,7,3,Uberaba,Belo Horizonte,317010,310620
+Carrancas,311460,LAVRAS,SUL,4161.0,339,101,238,40,57.2,9.6,70.2,44.6,63.6,Demais municípios,55.0,81.5,Sim,10,3,Lavras,Varginha,313820,317070
+Carvalhópolis,311470,ALFENAS/MACHADO,SUDOESTE,3419.0,345,0,345,0,100.9,0.0,100.0,29.4,29.4,Demais municípios,55.0,100.9,Não,11,5,Machado,Belo Horizonte,313900,310620
+Carvalhos,311480,SÃO LOURENÇO,SUL,4503.0,421,0,421,0,93.5,0.0,100.0,30.7,30.7,Demais municípios,55.0,93.5,Não,10,3,Aiuruoca,Varginha,310120,317070
+Casa Grande,311490,CONSELHEIRO LAFAIETE,CENTRO SUL,2260.0,156,0,156,0,69.0,0.0,100.0,47.9,47.9,Demais municípios,55.0,69.0,Não,12,4,Conselheiro Lafaiete,Belo Horizonte,311830,310620
+Cascalho Rico,311500,UBERLÂNDIA/ARAGUARI,TRIÂNGULO DO NORTE,2751.0,221,0,221,0,80.3,0.0,100.0,37.5,37.5,Demais municípios,55.0,80.3,Não,1,4,Araguari,Belo Horizonte,310350,310620
+Cássia,311510,CÁSSIA,SUDOESTE,17491.0,2761,2255,506,1852,28.9,105.9,18.3,7.9,43.1,Demais municípios,55.0,157.9,Sim,13,3,Passos,Belo Horizonte,314790,310620
+Cataguases,311530,LEOPOLDINA/CATAGUASES,SUDESTE,67732.0,4240,3178,1062,1197,15.7,17.7,25.0,16.0,63.8,Demais municípios,55.0,62.6,Sim,3,3,Muriaé,Belo Horizonte,314390,310620
+Catas Altas,311535,ITABIRA,CENTRO,5706.0,378,0,378,0,66.2,0.0,100.0,41.3,41.3,Demais municípios,55.0,66.2,Não,16,3,Santa Bárbara,Belo Horizonte,315720,310620
+Catas Altas da Noruega,311540,CONSELHEIRO LAFAIETE,CENTRO SUL,3124.0,237,0,237,0,75.9,0.0,100.0,50.3,50.3,Demais municípios,55.0,75.9,Não,12,4,Conselheiro Lafaiete,Belo Horizonte,311830,310620
+Catuji,311545,PADRE PARAÍSO,NORDESTE,7248.0,723,0,723,0,99.8,0.0,100.0,74.0,74.0,Maiores distâncias,55.0,99.8,Não,9,4,Padre Paraíso,Belo Horizonte,314630,310620
+Catuti,311547,JANAÚBA/MONTE AZUL,NORTE,4788.0,367,0,367,0,76.6,0.0,100.0,75.4,75.4,Maiores distâncias,55.0,76.6,Não,17,4,Monte Azul,Belo Horizonte,314290,310620
+Caxambu,311550,SÃO LOURENÇO,SUL,21412.0,2209,1359,850,142,39.7,6.6,38.5,12.2,31.7,Demais municípios,55.0,103.2,Sim,10,3,Baependi,Varginha,310490,317070
+Cedro do Abaeté,311560,SETE LAGOAS,CENTRO,1084.0,95,0,95,0,87.6,0.0,100.0,90.9,90.9,Maiores distâncias,55.0,87.6,Não,2,4,Abaeté,Belo Horizonte,310020,310620
+Central de Minas,311570,MANTENA/ITABIRINHA,LESTE,6213.0,426,113,313,7,50.4,1.1,73.5,68.9,93.7,Maiores distâncias,55.0,68.6,Sim,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Centralina,311580,ITUIUTABA,TRIÂNGULO DO NORTE,10447.0,1062,450,612,3,58.6,0.3,57.6,50.9,88.2,Demais municípios,55.0,101.7,Sim,1,4,Araguari,Belo Horizonte,310350,310620
+Chácara,311590,JUIZ DE FORA,SUDESTE,3194.0,358,0,358,0,112.1,0.0,100.0,21.5,21.5,Demais municípios,55.0,112.1,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Chalé,311600,MANHUAÇU,LESTE DO SUL,6289.0,486,0,486,0,77.3,0.0,100.0,68.5,68.5,Maiores distâncias,55.0,77.3,Não,3,4,Manhuaçu,Belo Horizonte,313940,310620
+Chapada do Norte,311610,TURMALINA/MINAS NOVAS/CAPELINHA,JEQUITINHONHA,9763.0,988,0,988,0,101.2,0.0,100.0,75.6,75.6,Maiores distâncias,55.0,101.2,Não,14,4,Minas Novas,Belo Horizonte,314180,310620
+Chapada Gaúcha,311615,UNAÍ/PARACATU,NOROESTE,12904.0,775,180,595,1,46.1,0.1,76.8,152.8,199.0,Maiores distâncias,55.0,60.1,Sim,15,4,Unaí,Belo Horizonte,317040,310620
+Chiador,311620,JUIZ DE FORA,SUDESTE,2868.0,168,0,168,0,58.6,0.0,100.0,41.1,41.1,Demais municípios,55.0,58.6,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Cipotânea,311630,BARBACENA,CENTRO SUL,5549.0,475,106,369,3,66.5,0.5,77.7,50.5,65.0,Demais municípios,55.0,85.6,Sim,12,3,Barbacena,Belo Horizonte,310560,310620
+Claraval,311640,CÁSSIA,SUDOESTE,4786.0,196,0,196,0,41.0,0.0,100.0,51.8,51.8,Demais municípios,55.0,41.0,Não,13,4,Cássia,Belo Horizonte,311510,310620
+Claro dos Poções,311650,MONTES CLAROS,NORTE,7230.0,630,0,630,0,87.1,0.0,100.0,58.1,58.1,Maiores distâncias,55.0,87.1,Não,17,3,Montes Claros,Belo Horizonte,314330,310620
+Cláudio,311660,DIVINÓPOLIS,OESTE,31936.0,3947,2965,982,722,30.7,22.6,24.9,14.3,57.5,Demais municípios,55.0,123.6,Sim,8,2,Divinópolis,Divinópolis,312230,312230
+Coimbra,311670,UBÁ,SUDESTE,7293.0,690,0,690,0,94.6,0.0,100.0,38.2,38.2,Demais municípios,55.0,94.6,Não,3,5,Visconde do Rio Branco,Belo Horizonte,317200,310620
+Coluna,311680,DIAMANTINA/ITAMARANDIBA,JEQUITINHONHA,8206.0,1042,567,475,59,57.9,7.2,45.6,43.7,95.9,Demais municípios,55.0,127.0,Sim,14,3,Diamantina,Belo Horizonte,312160,310620
+Comendador Gomes,311690,FRUTAL/ITURAMA,TRIÂNGULO DO SUL,2804.0,130,0,130,0,46.4,0.0,100.0,105.3,105.3,Maiores distâncias,55.0,46.4,Não,7,3,Uberaba,Belo Horizonte,317010,310620
+Comercinho,311700,ITAOBIM,NORDESTE,6540.0,572,0,572,0,87.5,0.0,100.0,84.8,84.8,Maiores distâncias,55.0,87.5,Não,9,4,Medina,Belo Horizonte,314140,310620
+Conceição da Aparecida,311710,ALFENAS/MACHADO,SUDOESTE,10705.0,1016,562,454,0,42.4,0.0,44.7,28.0,62.7,Demais municípios,55.0,94.9,Não,11,4,Alfenas,Belo Horizonte,310160,310620
+Conceição da Barra de Minas,311520,SÃO JOÃO DEL REI,CENTRO SUL,3576.0,296,0,296,0,82.8,0.0,100.0,40.5,40.5,Demais municípios,55.0,82.8,Não,12,4,São João del Rei,Belo Horizonte,316250,310620
+Conceição das Alagoas,311730,UBERABA,TRIÂNGULO DO SUL,30278.0,2997,2082,915,29,30.2,1.0,30.5,15.9,51.9,Demais municípios,55.0,99.0,Sim,7,3,Uberaba,Belo Horizonte,317010,310620
+Conceição das Pedras,311720,ITAJUBÁ, EXTREMO SUL,2840.0,198,0,198,0,69.7,0.0,100.0,34.6,34.6,Demais municípios,55.0,69.7,Não,11,4,Itajubá,Belo Horizonte,313240,310620
+Conceição de Ipanema,311740,MANHUAÇU,LESTE DO SUL,4503.0,367,0,367,0,81.5,0.0,100.0,49.3,49.3,Demais municípios,55.0,81.5,Não,3,5,Ipanema,Belo Horizonte,313120,310620
+Conceição do Mato Dentro,311750,SERRO,JEQUITINHONHA,24559.0,2371,1732,639,60,26.0,2.4,27.0,28.3,105.0,Demais municípios,55.0,96.5,Sim,14,2,Belo Horizonte,Belo Horizonte,310620,310620
+Conceição do Pará,311760,PARÁ DE MINAS/NOVA SERRANA,OESTE,5584.0,541,0,541,0,96.9,0.0,100.0,44.3,44.3,Demais municípios,55.0,96.9,Não,8,3,Pará de Minas,Belo Horizonte,314710,310620
+Conceição do Rio Verde,311770,SÃO LOURENÇO,SUL,12765.0,1256,603,653,189,51.2,14.8,52.0,24.1,46.3,Demais municípios,55.0,98.4,Sim,10,3,São Lourenço,Varginha,316370,317070
+Conceição dos Ouros,311780,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,11218.0,519,0,519,0,46.3,0.0,100.0,37.1,37.1,Demais municípios,55.0,46.3,Não,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Cônego Marinho,311783,JANUÁRIA,NORTE,7433.0,394,0,394,0,53.0,0.0,100.0,82.3,82.3,Maiores distâncias,55.0,53.0,Não,17,4,Januária,Belo Horizonte,313520,310620
+Confins,311787,VESPASIANO/LAGOA SANTA,CENTRO,7758.0,485,0,485,0,62.5,0.0,100.0,24.4,24.4,Demais municípios,55.0,62.5,Não,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Congonhal,311790,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,11444.0,736,0,736,0,64.3,0.0,100.0,18.9,18.9,Demais municípios,55.0,64.3,Não,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Congonhas,311800,CONGONHAS,CENTRO SUL,55272.0,4052,2783,1269,1231,23.0,22.3,31.3,20.4,65.1,Demais municípios,55.0,73.3,Sim,12,2,Belo Horizonte,Belo Horizonte,310620,310620
+Congonhas do Norte,311810,DIAMANTINA/ITAMARANDIBA,JEQUITINHONHA,4924.0,343,0,343,0,69.7,0.0,100.0,67.7,67.7,Maiores distâncias,55.0,69.7,Não,14,3,Diamantina,Belo Horizonte,312160,310620
+Conquista,311820,UBERABA,TRIÂNGULO DO SUL,6878.0,410,22,388,0,56.4,0.0,94.6,44.3,46.8,Demais municípios,55.0,59.6,Não,7,3,Uberaba,Belo Horizonte,317010,310620
+Conselheiro Lafaiete,311830,CONSELHEIRO LAFAIETE,CENTRO SUL,138946.0,6684,4946,1738,2335,12.5,16.8,26.0,18.7,71.9,Demais municípios,55.0,48.1,Sim,12,3,Barbacena,Belo Horizonte,310560,310620
+Conselheiro Pena,311840,RESPLENDOR,LESTE,21052.0,2904,1850,1054,245,50.1,11.6,36.3,22.3,61.5,Demais municípios,55.0,137.9,Sim,6,4,Resplendor,Belo Horizonte,315430,310620
+Consolação,311850,ITAJUBÁ, EXTREMO SUL,1569.0,206,0,206,0,131.3,0.0,100.0,39.6,39.6,Demais municípios,55.0,131.3,Não,11,5,Paraisópolis,Belo Horizonte,314730,310620
+Contagem,311860,CONTAGEM,CENTRO,651718.0,32601,17916,14685,5210,22.5,8.0,45.0,8.3,18.5,Demais municípios,55.0,50.0,Sim,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Coqueiral,311870,TRÊS PONTAS,SUL,9188.0,635,0,635,0,69.1,0.0,100.0,38.8,38.8,Demais municípios,55.0,69.1,Não,10,3,Três Pontas,Varginha,316940,317070
+Coração de Jesus,311880,CORAÇÃO DE JESUS,NORTE,26138.0,2782,1927,855,783,32.7,30.0,30.7,24.0,78.1,Demais municípios,55.0,106.4,Sim,17,3,Montes Claros,Belo Horizonte,314330,310620
+Cordisburgo,311890,SETE LAGOAS,CENTRO,7535.0,562,0,562,0,74.6,0.0,100.0,65.8,65.8,Maiores distâncias,55.0,74.6,Não,2,3,Sete Lagoas,Belo Horizonte,316720,310620
+Cordislândia,311900,VARGINHA,SUL,3236.0,281,0,281,0,86.8,0.0,100.0,36.8,36.8,Demais municípios,55.0,86.8,Não,10,3,Monsenhor Paulo,Varginha,314260,317070
+Corinto,311910,CURVELO,CENTRO,23988.0,1515,0,1515,0,63.2,0.0,100.0,65.2,65.2,Maiores distâncias,55.0,63.2,Não,2,3,Curvelo,Belo Horizonte,312090,310620
+Coroaci,311920,GOVERNADOR VALADARES,LESTE,11240.0,320,0,320,0,28.5,0.0,100.0,60.3,60.3,Maiores distâncias,55.0,28.5,Não,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Coromandel,311930,PATROCÍNIO/MONTE CARMELO,TRIÂNGULO DO NORTE,30114.0,2743,1761,982,1,32.6,0.0,35.8,35.6,99.5,Demais municípios,55.0,91.1,Sim,1,4,Patrocínio,Belo Horizonte,314810,310620
+Coronel Fabriciano,311940,CORONEL FABRICIANO/TIMÓTEO,VALE DO AÇO,108708.0,6750,4159,2591,495,23.8,4.6,38.4,10.5,27.5,Demais municípios,55.0,62.1,Sim,5,2,Ipatinga,Ipatinga,313130,313130
+Coronel Murta,311950,ARAÇUAÍ,JEQUITINHONHA,8237.0,601,0,601,0,73.0,0.0,100.0,87.6,87.6,Maiores distâncias,55.0,73.0,Não,14,3,Araçuaí,Belo Horizonte,310340,310620
+Coronel Pacheco,311960,JUIZ DE FORA,SUDESTE,2789.0,179,0,179,0,64.2,0.0,100.0,30.1,30.1,Demais municípios,55.0,64.2,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Coronel Xavier Chaves,311970,SÃO JOÃO DEL REI,CENTRO SUL,3599.0,324,0,324,0,90.0,0.0,100.0,27.7,27.7,Demais municípios,55.0,90.0,Não,12,4,São João del Rei,Belo Horizonte,316250,310620
+Córrego Danta,311980,BOM DESPACHO,OESTE,2956.0,384,0,384,0,129.9,0.0,100.0,48.1,48.1,Demais municípios,55.0,129.9,Não,8,4,Luz,Divinópolis,313880,312230
+Córrego do Bom Jesus,311990,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,4462.0,327,0,327,0,73.3,0.0,100.0,28.6,28.6,Demais municípios,55.0,73.3,Não,11,4,Cambuí,Belo Horizonte,311060,310620
+Córrego Fundo,311995,FORMIGA,OESTE,6333.0,410,0,410,0,64.7,0.0,100.0,61.6,61.6,Maiores distâncias,55.0,64.7,Não,8,3,Formiga,Divinópolis,312610,312230
+Córrego Novo,312000,CORONEL FABRICIANO/TIMÓTEO,VALE DO AÇO,2900.0,325,0,325,0,112.1,0.0,100.0,42.2,42.2,Demais municípios,55.0,112.1,Não,5,2,Ipatinga,Ipatinga,313130,313130
+Couto de Magalhães de Minas,312010,DIAMANTINA/ITAMARANDIBA,JEQUITINHONHA,4351.0,446,0,446,0,102.5,0.0,100.0,39.8,39.8,Demais municípios,55.0,102.5,Não,14,3,Diamantina,Belo Horizonte,312160,310620
+Crisólita,312015,ÁGUAS FORMOSAS,NORDESTE,5256.0,370,0,370,0,70.4,0.0,100.0,42.9,42.9,Demais municípios,55.0,70.4,Não,9,4,Águas Formosas,Belo Horizonte,310090,310620
+Cristais,312020,CAMPO BELO,OESTE,12634.0,1167,394,773,5,61.2,0.4,66.2,36.1,54.5,Demais municípios,55.0,92.4,Sim,8,3,Campo Belo,Divinópolis,311120,312230
+Cristália,312030,FRANCISCO SÁ,NORTE,5133.0,501,0,501,0,97.6,0.0,100.0,65.8,65.8,Maiores distâncias,55.0,97.6,Não,17,3,Montes Claros,Belo Horizonte,314330,310620
+Cristiano Otoni,312040,CONSELHEIRO LAFAIETE,CENTRO SUL,4719.0,308,0,308,0,65.3,0.0,100.0,36.5,36.5,Demais municípios,55.0,65.3,Não,12,4,Conselheiro Lafaiete,Belo Horizonte,311830,310620
+Cristina,312050,SÃO LOURENÇO,SUL,10643.0,1313,681,632,5,59.4,0.5,48.1,17.6,36.5,Demais municípios,55.0,123.4,Sim,10,3,São Lourenço,Varginha,316370,317070
+Crucilândia,312060,BETIM,CENTRO,5674.0,469,0,469,0,82.7,0.0,100.0,44.6,44.6,Demais municípios,55.0,82.7,Não,8,3,Betim,Belo Horizonte,310670,310620
+Cruzeiro da Fortaleza,312070,PATOS DE MINAS,NOROESTE,3616.0,206,0,206,0,57.0,0.0,100.0,52.5,52.5,Demais municípios,55.0,57.0,Não,15,3,Patos de Minas,Belo Horizonte,314800,310620
+Cruzília,312080,SÃO LOURENÇO,SUL,15831.0,1928,1632,296,516,18.7,32.6,15.4,10.3,67.0,Demais municípios,55.0,121.8,Sim,10,3,São Lourenço,Varginha,316370,317070
+Cuparaque,312083,RESPLENDOR,LESTE,3958.0,400,0,400,0,101.1,0.0,100.0,68.6,68.6,Maiores distâncias,55.0,101.1,Não,6,4,Resplendor,Belo Horizonte,315430,310620
+Curral de Dentro,312087,TAIOBEIRAS,NORTE,7662.0,734,0,734,0,95.8,0.0,100.0,69.5,69.5,Maiores distâncias,55.0,95.8,Não,17,4,Taiobeiras,Belo Horizonte,316800,310620
+Curvelo,312090,CURVELO,CENTRO,84297.0,6411,5245,1166,4340,13.8,51.5,18.2,24.3,133.8,Demais municípios,55.0,76.1,Sim,2,2,Belo Horizonte,Belo Horizonte,310620,310620
+Datas,312100,DIAMANTINA/ITAMARANDIBA,JEQUITINHONHA,5635.0,549,0,549,0,97.4,0.0,100.0,46.8,46.8,Demais municípios,55.0,97.4,Não,14,3,Diamantina,Belo Horizonte,312160,310620
+Delfim Moreira,312110,ITAJUBÁ, EXTREMO SUL,8133.0,673,0,673,0,82.7,0.0,100.0,28.1,28.1,Demais municípios,55.0,82.7,Não,11,4,Itajubá,Belo Horizonte,313240,310620
+Delfinópolis,312120,CÁSSIA,SUDOESTE,8851.0,829,174,655,0,74.0,0.0,79.0,33.5,42.4,Demais municípios,55.0,93.7,Não,13,4,Cássia,Belo Horizonte,311510,310620
+Delta,312125,UBERABA,TRIÂNGULO DO SUL,11143.0,539,0,539,0,48.4,0.0,100.0,32.7,32.7,Demais municípios,55.0,48.4,Não,7,3,Uberaba,Belo Horizonte,317010,310620
+Descoberto,312130,SÃO JOÃO NEPOMUCENO,SUDESTE,5070.0,527,0,527,0,103.9,0.0,100.0,57.3,57.3,Maiores distâncias,55.0,103.9,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Desterro de Entre Rios,312140,CONGONHAS,CENTRO SUL,7941.0,594,0,594,0,74.8,0.0,100.0,56.2,56.2,Maiores distâncias,55.0,74.8,Não,12,3,Congonhas,Belo Horizonte,311800,310620
+Desterro do Melo,312150,BARBACENA,CENTRO SUL,3060.0,262,0,262,0,85.6,0.0,100.0,30.6,30.6,Demais municípios,55.0,85.6,Não,12,3,Barbacena,Belo Horizonte,310560,310620
+Diamantina,312160,DIAMANTINA/ITAMARANDIBA,JEQUITINHONHA,49493.0,4519,4043,476,6996,9.6,141.4,10.5,18.9,179.1,Demais municípios,55.0,91.3,Sim,14,2,Belo Horizonte,Belo Horizonte,310620,310620
+Diogo de Vasconcelos,312170,PONTE NOVA,LESTE DO SUL,3581.0,342,0,342,0,95.5,0.0,100.0,45.2,45.2,Demais municípios,55.0,95.5,Não,4,3,Ponte Nova,Belo Horizonte,315210,310620
+Dionísio,312180,CORONEL FABRICIANO/TIMÓTEO,VALE DO AÇO,6689.0,392,0,392,0,58.6,0.0,100.0,50.9,50.9,Demais municípios,55.0,58.6,Não,5,3,Timóteo,Ipatinga,316870,313130
+Divinésia,312190,UBÁ,SUDESTE,4481.0,319,0,319,0,71.2,0.0,100.0,30.6,30.6,Demais municípios,55.0,71.2,Não,3,4,Ubá,Belo Horizonte,316990,310620
+Divino,312200,CARANGOLA,SUDESTE,21428.0,2673,1331,1342,87,62.6,4.1,50.2,22.6,45.1,Demais municípios,55.0,124.7,Sim,3,4,Carangola,Belo Horizonte,311330,310620
+Divino das Laranjeiras,312210,MANTENA/ITABIRINHA,LESTE,4147.0,309,112,197,3,47.5,0.7,63.8,36.4,57.1,Demais municípios,55.0,74.5,Sim,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Divinolândia de Minas,312220,GOVERNADOR VALADARES,LESTE,6583.0,603,0,603,0,91.6,0.0,100.0,55.6,55.6,Maiores distâncias,55.0,91.6,Não,6,3,Guanhães,Belo Horizonte,312800,310620
+Divinópolis,312230,DIVINÓPOLIS,OESTE,243583.0,11329,7222,4107,10159,16.9,41.7,36.3,23.6,65.2,Demais municípios,55.0,46.5,Sim,8,1,,Divinópolis,,312230
+Divisa Alegre,312235,PEDRA AZUL,NORDESTE,6541.0,466,0,466,0,71.2,0.0,100.0,79.2,79.2,Maiores distâncias,55.0,71.2,Não,9,4,Pedra Azul,Belo Horizonte,314870,310620
+Divisa Nova,312240,ALFENAS/MACHADO,SUDOESTE,6002.0,436,0,436,0,72.6,0.0,100.0,33.8,33.8,Demais municípios,55.0,72.6,Não,11,4,Alfenas,Belo Horizonte,310160,310620
+Divisópolis,312245,PEDRA AZUL,NORDESTE,10659.0,463,0,463,0,43.4,0.0,100.0,94.3,94.3,Maiores distâncias,55.0,43.4,Não,9,4,Pedra Azul,Belo Horizonte,314870,310620
+Dom Bosco,312247,UNAÍ/PARACATU,NOROESTE,3763.0,255,0,255,0,67.8,0.0,100.0,201.1,201.1,Maiores distâncias,55.0,67.8,Não,15,4,Paracatu,Belo Horizonte,314700,310620
+Dom Cavati,312250,IPATINGA,VALE DO AÇO,4967.0,444,0,444,0,89.4,0.0,100.0,48.2,48.2,Demais municípios,55.0,89.4,Não,5,2,Ipatinga,Ipatinga,313130,313130
+Dom Joaquim,312260,GUANHÃES,CENTRO,5074.0,486,212,274,0,54.0,0.0,56.4,37.2,65.9,Demais municípios,55.0,95.8,Não,6,3,Guanhães,Belo Horizonte,312800,310620
+Dom Silvério,312270,PONTE NOVA,LESTE DO SUL,5355.0,610,347,263,12,49.1,2.2,43.1,17.7,41.1,Demais municípios,55.0,113.9,Sim,4,3,Ponte Nova,Belo Horizonte,315210,310620
+Dom Viçoso,312280,SÃO LOURENÇO,SUL,3184.0,335,0,335,0,105.2,0.0,100.0,27.2,27.2,Demais municípios,55.0,105.2,Não,10,3,São Lourenço,Varginha,316370,317070
+Dona Euzébia,312290,LEOPOLDINA/CATAGUASES,SUDESTE,6250.0,450,0,450,0,72.0,0.0,100.0,28.5,28.5,Demais municípios,55.0,72.0,Não,3,4,Cataguases,Belo Horizonte,311530,310620
+Dores de Campos,312300,SÃO JOÃO DEL REI,CENTRO SUL,10359.0,689,0,689,0,66.5,0.0,100.0,27.5,27.5,Demais municípios,55.0,66.5,Não,12,5,Barroso,Belo Horizonte,310590,310620
+Dores de Guanhães,312310,GUANHÃES,CENTRO,5114.0,434,0,434,0,84.9,0.0,100.0,52.6,52.6,Demais municípios,55.0,84.9,Não,6,3,Guanhães,Belo Horizonte,312800,310620
+Dores do Indaiá,312320,BOM DESPACHO,OESTE,12730.0,1948,1179,769,119,60.4,9.3,39.5,38.8,98.3,Demais municípios,55.0,153.0,Sim,8,3,Lagoa da Prata,Divinópolis,313720,312230
+Dores do Turvo,312330,UBÁ,SUDESTE,5192.0,453,0,453,0,87.2,0.0,100.0,49.4,49.4,Demais municípios,55.0,87.2,Não,3,4,Ubá,Belo Horizonte,316990,310620
+Doresópolis,312340,PIUMHI,SUDOESTE,1498.0,172,0,172,0,114.8,0.0,100.0,46.7,46.7,Demais municípios,55.0,114.8,Não,13,4,Piumhi,Belo Horizonte,315150,310620
+Douradoquara,312350,PATROCÍNIO/MONTE CARMELO,TRIÂNGULO DO NORTE,1869.0,155,0,155,0,82.9,0.0,100.0,62.0,62.0,Maiores distâncias,55.0,82.9,Não,1,5,Monte Carmelo,Belo Horizonte,314310,310620
+Durandé,312352,MANHUAÇU,LESTE DO SUL,8065.0,659,0,659,0,81.7,0.0,100.0,47.7,47.7,Demais municípios,55.0,81.7,Não,3,4,Manhuaçu,Belo Horizonte,313940,310620
+Elói Mendes,312360,VARGINHA,SUL,27429.0,2174,1422,752,717,27.4,26.1,34.6,9.5,27.5,Demais municípios,55.0,79.3,Sim,10,2,Varginha,Varginha,317070,317070
+Engenheiro Caldas,312370,GOVERNADOR VALADARES,LESTE,14501.0,569,0,569,0,39.2,0.0,100.0,48.9,48.9,Demais municípios,55.0,39.2,Não,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Engenheiro Navarro,312380,BOCAIÚVA,NORTE,6373.0,656,0,656,0,102.9,0.0,100.0,45.6,45.6,Demais municípios,55.0,102.9,Não,17,4,Bocaiúva,Belo Horizonte,310730,310620
+Entre Folhas,312385,CARATINGA,VALE DO AÇO,5295.0,461,0,461,0,87.1,0.0,100.0,31.8,31.8,Demais municípios,55.0,87.1,Não,5,3,Caratinga,Ipatinga,311340,313130
+Entre Rios de Minas,312390,CONGONHAS,CENTRO SUL,15157.0,1739,991,748,308,49.4,20.3,43.0,21.9,50.8,Demais municípios,55.0,114.7,Sim,12,3,Congonhas,Belo Horizonte,311800,310620
+Ervália,312400,UBÁ,SUDESTE,21091.0,1823,726,1097,16,52.0,0.8,60.2,31.6,52.4,Demais municípios,55.0,86.4,Sim,3,4,Ubá,Belo Horizonte,316990,310620
+Esmeraldas,312410,BETIM,CENTRO,93103.0,7249,3190,4059,104,43.6,1.1,56.0,20.4,36.5,Demais municípios,55.0,77.9,Sim,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Espera Feliz,312420,CARANGOLA,SUDESTE,24844.0,2371,894,1477,795,59.5,32.0,62.3,24.1,38.8,Demais municípios,55.0,95.4,Sim,3,4,Carangola,Belo Horizonte,311330,310620
+Espinosa,312430,JANAÚBA/MONTE AZUL,NORTE,31375.0,2668,1600,1068,1,34.0,0.0,40.0,73.6,183.9,Maiores distâncias,55.0,85.0,Sim,17,4,Janaúba,Belo Horizonte,313510,310620
+Espírito Santo do Dourado,312440,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,7132.0,425,0,425,0,59.6,0.0,100.0,26.3,26.3,Demais municípios,55.0,59.6,Não,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Estiva,312450,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,11880.0,701,130,571,0,48.1,0.0,81.5,35.8,44.0,Demais municípios,55.0,59.0,Não,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Estrela Dalva,312460,ALÉM PARAÍBA,SUDESTE,2189.0,165,0,165,0,75.4,0.0,100.0,48.3,48.3,Demais municípios,55.0,75.4,Não,3,4,Além Paraíba,Belo Horizonte,310150,310620
+Estrela do Indaiá,312470,BOM DESPACHO,OESTE,2711.0,341,180,161,4,59.4,1.5,47.2,50.1,106.0,Demais municípios,55.0,125.8,Sim,8,4,Luz,Divinópolis,313880,312230
+Estrela do Sul,312480,PATROCÍNIO/MONTE CARMELO,TRIÂNGULO DO NORTE,6897.0,422,0,422,0,61.2,0.0,100.0,56.4,56.4,Maiores distâncias,55.0,61.2,Não,1,5,Monte Carmelo,Belo Horizonte,314310,310620
+Eugenópolis,312490,MURIAÉ,SUDESTE,11096.0,1126,475,651,69,58.7,6.2,57.8,21.4,37.0,Demais municípios,55.0,101.5,Sim,3,3,Muriaé,Belo Horizonte,314390,310620
+Ewbank da Câmara,312500,JUIZ DE FORA,SUDESTE,3986.0,427,0,427,0,107.1,0.0,100.0,22.9,22.9,Demais municípios,55.0,107.1,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Extrema,312510,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,59336.0,2453,1872,581,317,9.8,5.3,23.7,21.3,89.9,Demais municípios,55.0,41.3,Sim,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Fama,312520,ALFENAS/MACHADO,SUDOESTE,2676.0,188,0,188,0,70.3,0.0,100.0,26.9,26.9,Demais municípios,55.0,70.3,Não,11,4,Alfenas,Belo Horizonte,310160,310620
+Faria Lemos,312530,CARANGOLA,SUDESTE,3230.0,318,0,318,0,98.5,0.0,100.0,28.6,28.6,Demais municípios,55.0,98.5,Não,3,4,Carangola,Belo Horizonte,311330,310620
+Felício dos Santos,312540,DIAMANTINA/ITAMARANDIBA,JEQUITINHONHA,5251.0,502,0,502,0,95.6,0.0,100.0,56.4,56.4,Maiores distâncias,55.0,95.6,Não,14,3,Diamantina,Belo Horizonte,312160,310620
+Felisburgo,312560,ALMENARA/JACINTO,NORDESTE,6575.0,969,659,310,338,47.1,51.4,32.0,52.7,164.8,Demais municípios,55.0,147.4,Sim,9,3,Teófilo Otoni,Belo Horizonte,316860,310620
+Felixlândia,312570,CURVELO,CENTRO,14280.0,887,0,887,0,62.1,0.0,100.0,72.7,72.7,Maiores distâncias,55.0,62.1,Não,2,3,Curvelo,Belo Horizonte,312090,310620
+Fernandes Tourinho,312580,GOVERNADOR VALADARES,LESTE,2814.0,241,0,241,0,85.6,0.0,100.0,51.3,51.3,Demais municípios,55.0,85.6,Não,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Ferros,312590,ITABIRA,CENTRO,9603.0,884,424,460,7,47.9,0.7,52.0,38.1,73.1,Demais municípios,55.0,92.1,Sim,16,3,Itabira,Belo Horizonte,313170,310620
+Fervedouro,312595,CARANGOLA,SUDESTE,10705.0,906,170,736,16,68.8,1.5,81.2,38.0,46.7,Demais municípios,55.0,84.6,Sim,3,4,Carangola,Belo Horizonte,311330,310620
+Florestal,312600,BETIM,CENTRO,8469.0,306,0,306,0,36.1,0.0,100.0,42.3,42.3,Demais municípios,55.0,36.1,Não,16,3,Betim,Belo Horizonte,310670,310620
+Formiga,312610,FORMIGA,OESTE,70897.0,4291,2463,1828,2968,25.8,41.9,42.6,34.4,80.7,Demais municípios,55.0,60.5,Sim,8,2,Divinópolis,Divinópolis,312230,312230
+Formoso,312620,UNAÍ/PARACATU,NOROESTE,8095.0,286,0,286,0,35.3,0.0,100.0,250.1,250.1,Maiores distâncias,55.0,35.3,Não,15,4,Unaí,Belo Horizonte,317040,310620
+Fortaleza de Minas,312630,PASSOS,SUDOESTE,3453.0,299,0,299,0,86.6,0.0,100.0,26.2,26.2,Demais municípios,55.0,86.6,Não,13,3,Passos,Belo Horizonte,314790,310620
+Fortuna de Minas,312640,SETE LAGOAS,CENTRO,3230.0,256,0,256,0,79.3,0.0,100.0,39.1,39.1,Demais municípios,55.0,79.3,Não,2,3,Sete Lagoas,Belo Horizonte,316720,310620
+Francisco Badaró,312650,ARAÇUAÍ,JEQUITINHONHA,7053.0,594,0,594,0,84.2,0.0,100.0,116.0,116.0,Maiores distâncias,55.0,84.2,Não,14,3,Araçuaí,Belo Horizonte,310340,310620
+Francisco Dumont,312660,BOCAIÚVA,NORTE,4547.0,441,0,441,0,97.0,0.0,100.0,67.8,67.8,Maiores distâncias,55.0,97.0,Não,17,4,Bocaiúva,Belo Horizonte,310730,310620
+Francisco Sá,312670,FRANCISCO SÁ,NORTE,23753.0,2536,1602,934,675,39.3,28.4,36.8,23.5,63.7,Demais municípios,55.0,106.8,Sim,17,3,Montes Claros,Belo Horizonte,314330,310620
+Franciscópolis,312675,TEÓFILO OTONI/MALACACHETA,NORDESTE,5023.0,516,0,516,0,102.7,0.0,100.0,32.2,32.2,Demais municípios,55.0,102.7,Não,9,4,Malacacheta,Belo Horizonte,313920,310620
+Frei Gaspar,312680,TEÓFILO OTONI/MALACACHETA,NORDESTE,5731.0,601,0,601,0,104.9,0.0,100.0,39.2,39.2,Demais municípios,55.0,104.9,Não,9,4,Itambacuri,Belo Horizonte,313270,310620
+Frei Inocêncio,312690,GOVERNADOR VALADARES,LESTE,8301.0,570,0,570,0,68.7,0.0,100.0,80.0,80.0,Maiores distâncias,55.0,68.7,Não,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Frei Lagonegro,312695,DIAMANTINA/ITAMARANDIBA,JEQUITINHONHA,3481.0,355,0,355,0,102.0,0.0,100.0,55.1,55.1,Maiores distâncias,55.0,102.0,Não,6,3,Peçanha,Belo Horizonte,314860,310620
+Fronteira,312700,FRUTAL/ITURAMA,TRIÂNGULO DO SUL,14946.0,386,0,386,0,25.8,0.0,100.0,115.2,115.2,Maiores distâncias,55.0,25.8,Não,7,3,Uberaba,Belo Horizonte,317010,310620
+Fronteira dos Vales,312705,ÁGUAS FORMOSAS,NORDESTE,4389.0,371,0,371,0,84.5,0.0,100.0,49.0,49.0,Demais municípios,55.0,84.5,Não,9,4,Águas Formosas,Belo Horizonte,310090,310620
+Fruta de Leite,312707,SALINAS,NORTE,4538.0,542,0,542,0,119.4,0.0,100.0,49.0,49.0,Demais municípios,55.0,119.4,Não,17,4,Salinas,Belo Horizonte,315700,310620
+Frutal,312710,FRUTAL/ITURAMA,TRIÂNGULO DO SUL,61275.0,3278,2254,1024,495,16.7,8.1,31.2,34.7,111.1,Demais municípios,55.0,53.5,Sim,7,3,Uberaba,Belo Horizonte,317010,310620
+Funilândia,312720,SETE LAGOAS,CENTRO,4934.0,306,0,306,0,62.0,0.0,100.0,28.3,28.3,Demais municípios,55.0,62.0,Não,2,3,Sete Lagoas,Belo Horizonte,316720,310620
+Galiléia,312730,GOVERNADOR VALADARES,LESTE,6244.0,444,0,444,0,71.1,0.0,100.0,61.0,61.0,Maiores distâncias,55.0,71.1,Não,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Gameleiras,312733,JANAÚBA/MONTE AZUL,NORTE,4847.0,421,0,421,0,86.9,0.0,100.0,81.5,81.5,Maiores distâncias,55.0,86.9,Não,17,4,Monte Azul,Belo Horizonte,314290,310620
+Glaucilândia,312735,MONTES CLAROS,NORTE,2991.0,275,0,275,0,91.9,0.0,100.0,29.2,29.2,Demais municípios,55.0,91.9,Não,17,3,Montes Claros,Belo Horizonte,314330,310620
+Goiabeira,312737,RESPLENDOR,LESTE,2859.0,303,0,303,0,106.0,0.0,100.0,60.0,60.0,Maiores distâncias,55.0,106.0,Não,6,4,Resplendor,Belo Horizonte,315430,310620
+Goianá,312738,JUIZ DE FORA,SUDESTE,4214.0,412,0,412,0,97.8,0.0,100.0,37.1,37.1,Demais municípios,55.0,97.8,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Gonçalves,312740,ITAJUBÁ, EXTREMO SUL,4922.0,377,0,377,0,76.6,0.0,100.0,48.3,48.3,Demais municípios,55.0,76.6,Não,11,4,Itajubá,Belo Horizonte,313240,310620
+Gonzaga,312750,GOVERNADOR VALADARES,LESTE,5235.0,474,0,474,0,90.5,0.0,100.0,61.4,61.4,Maiores distâncias,55.0,90.5,Não,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Gouveia,312760,DIAMANTINA/ITAMARANDIBA,JEQUITINHONHA,11536.0,1759,1029,730,97,63.3,8.4,41.5,21.4,51.6,Demais municípios,55.0,152.5,Sim,14,3,Diamantina,Belo Horizonte,312160,310620
+Governador Valadares,312770,GOVERNADOR VALADARES,LESTE,266561.0,20537,19294,1243,7977,4.7,29.9,6.1,7.6,125.3,Demais municípios,55.0,77.0,Sim,6,2,Belo Horizonte,Belo Horizonte,310620,310620
+Grão Mogol,312780,FRANCISCO SÁ,NORTE,14037.0,1719,961,758,296,54.0,21.1,44.1,44.2,100.2,Demais municípios,55.0,122.5,Sim,17,3,Montes Claros,Belo Horizonte,314330,310620
+Grupiara,312790,PATROCÍNIO/MONTE CARMELO,TRIÂNGULO DO NORTE,1428.0,155,0,155,0,108.5,0.0,100.0,54.7,54.7,Demais municípios,55.0,108.5,Não,1,4,Araguari,Belo Horizonte,310350,310620
+Guanhães,312800,GUANHÃES,CENTRO,33517.0,3680,3029,651,2430,19.4,72.5,17.7,23.5,133.0,Demais municípios,55.0,109.8,Sim,6,2,Belo Horizonte,Belo Horizonte,310620,310620
+Guapé,312810,PIUMHI,SUDOESTE,14076.0,1095,355,740,0,52.6,0.0,67.6,42.1,62.3,Demais municípios,55.0,77.8,Não,13,3,Passos,Belo Horizonte,314790,310620
+Guaraciaba,312820,PONTE NOVA,LESTE DO SUL,9901.0,665,0,665,0,67.2,0.0,100.0,32.0,32.0,Demais municípios,55.0,67.2,Não,4,3,Ponte Nova,Belo Horizonte,315210,310620
+Guaraciama,312825,BOCAIÚVA,NORTE,5224.0,458,0,458,0,87.7,0.0,100.0,29.3,29.3,Demais municípios,55.0,87.7,Não,17,4,Bocaiúva,Belo Horizonte,310730,310620
+Guaranésia,312830,GUAXUPÉ,SUDOESTE,19646.0,1689,920,769,3,39.1,0.2,45.5,23.8,52.3,Demais municípios,55.0,86.0,Sim,11,5,Guaxupé,Belo Horizonte,312870,310620
+Guarani,312840,UBÁ,SUDESTE,7731.0,417,0,417,0,53.9,0.0,100.0,40.7,40.7,Demais municípios,55.0,53.9,Não,3,4,Ubá,Belo Horizonte,316990,310620
+Guarará,312850,SÃO JOÃO NEPOMUCENO,SUDESTE,3091.0,394,0,394,0,127.5,0.0,100.0,21.0,21.0,Demais municípios,55.0,127.5,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Guarda-Mor,312860,PATOS DE MINAS,NOROESTE,6687.0,589,270,319,48,47.7,7.2,54.2,74.4,137.3,Maiores distâncias,55.0,88.1,Sim,15,3,Patos de Minas,Belo Horizonte,314800,310620
+Guaxupé,312870,GUAXUPÉ,SUDOESTE,52744.0,4339,3056,1283,1190,24.3,22.6,29.6,24.2,81.9,Demais municípios,55.0,82.3,Sim,11,4,Alfenas,Belo Horizonte,310160,310620
+Guidoval,312880,UBÁ,SUDESTE,7285.0,625,0,625,0,85.8,0.0,100.0,30.0,30.0,Demais municípios,55.0,85.8,Não,3,4,Ubá,Belo Horizonte,316990,310620
+Guimarânia,312890,PATOS DE MINAS,NOROESTE,8880.0,527,0,527,0,59.3,0.0,100.0,79.6,79.6,Maiores distâncias,55.0,59.3,Não,15,3,Patos de Minas,Belo Horizonte,314800,310620
+Guiricema,312900,UBÁ,SUDESTE,7803.0,654,0,654,0,83.8,0.0,100.0,34.9,34.9,Demais municípios,55.0,83.8,Não,3,5,Visconde do Rio Branco,Belo Horizonte,317200,310620
+Gurinhatã,312910,ITUIUTABA,TRIÂNGULO DO NORTE,5154.0,326,178,148,0,28.7,0.0,45.4,35.2,77.5,Demais municípios,55.0,63.3,Não,1,4,Ituiutaba,Belo Horizonte,313420,310620
+Heliodora,312920,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,6278.0,384,0,384,0,61.2,0.0,100.0,49.4,49.4,Demais municípios,55.0,61.2,Não,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Iapu,312930,IPATINGA,VALE DO AÇO,12583.0,698,0,698,0,55.5,0.0,100.0,36.2,36.2,Demais municípios,55.0,55.5,Não,5,2,Ipatinga,Ipatinga,313130,313130
+Ibertioga,312940,BARBACENA,CENTRO SUL,5346.0,430,178,252,101,47.1,18.9,58.6,21.8,37.1,Demais municípios,55.0,80.4,Sim,12,3,Barbacena,Belo Horizonte,310560,310620
+Ibiá,312950,ARAXÁ,TRIÂNGULO DO SUL,22554.0,1800,1061,739,2,32.8,0.1,41.1,51.2,124.6,Demais municípios,55.0,79.8,Sim,7,3,Uberaba,Belo Horizonte,317010,310620
+Ibiaí,312960,PIRAPORA,NORTE,6172.0,587,0,587,0,95.1,0.0,100.0,78.2,78.2,Maiores distâncias,55.0,95.1,Não,17,4,Pirapora,Belo Horizonte,315120,310620
+Ibiracatu,312965,BRASÍLIA DE MINAS,NORTE,5113.0,383,0,383,0,74.9,0.0,100.0,98.8,98.8,Maiores distâncias,55.0,74.9,Não,17,3,Montes Claros,Belo Horizonte,314330,310620
+Ibiraci,312970,CÁSSIA,SUDOESTE,10996.0,1047,0,1047,0,95.2,0.0,100.0,38.0,38.0,Demais municípios,55.0,95.2,Não,13,4,Cássia,Belo Horizonte,311510,310620
+Ibirité,312980,CONTAGEM,CENTRO,179582.0,11208,3951,7257,394,40.4,2.2,64.7,11.0,17.0,Demais municípios,55.0,62.4,Sim,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Ibitiúra de Minas,312990,POÇOS DE CALDAS, EXTREMO SUL,3440.0,459,0,459,0,133.4,0.0,100.0,25.7,25.7,Demais municípios,55.0,133.4,Não,11,4,Andradas,Belo Horizonte,310260,310620
+Ibituruna,313000,SÃO JOÃO DEL REI,CENTRO SUL,2733.0,198,0,198,0,72.4,0.0,100.0,67.8,67.8,Maiores distâncias,55.0,72.4,Não,12,5,Bom Sucesso,Belo Horizonte,310800,310620
+Icaraí de Minas,313005,SÃO FRANCISCO,NORTE,10914.0,762,0,762,0,69.8,0.0,100.0,93.1,93.1,Maiores distâncias,55.0,69.8,Não,17,4,Brasília de Minas,Belo Horizonte,310860,310620
+Igarapé,313010,BETIM,CENTRO,49120.0,2632,553,2079,3672,42.3,74.8,79.0,18.4,23.3,Demais municípios,55.0,53.6,Sim,16,3,Betim,Belo Horizonte,310670,310620
+Igaratinga,313020,PARÁ DE MINAS/NOVA SERRANA,OESTE,11345.0,769,0,769,0,67.8,0.0,100.0,33.5,33.5,Demais municípios,55.0,67.8,Não,8,3,Pará de Minas,Belo Horizonte,314710,310620
+Iguatama,313030,FORMIGA,OESTE,6782.0,946,565,381,3,56.2,0.4,40.3,23.8,59.2,Demais municípios,55.0,139.5,Sim,8,3,Lagoa da Prata,Divinópolis,313720,312230
+Ijaci,313040,LAVRAS,SUL,7358.0,415,0,415,0,56.4,0.0,100.0,16.6,16.6,Demais municípios,55.0,56.4,Não,10,3,Lavras,Varginha,313820,317070
+Ilicínea,313050,TRÊS PONTAS,SUL,13248.0,1148,455,693,621,52.3,46.9,60.4,41.6,68.9,Demais municípios,55.0,86.7,Sim,10,3,Três Pontas,Varginha,316940,317070
+Imbé de Minas,313055,CARATINGA,VALE DO AÇO,7244.0,501,0,501,0,69.2,0.0,100.0,47.6,47.6,Demais municípios,55.0,69.2,Não,5,3,Caratinga,Ipatinga,311340,313130
+Inconfidentes,313060,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,7537.0,750,0,750,0,99.5,0.0,100.0,26.7,26.7,Demais municípios,55.0,99.5,Não,11,4,Ouro Fino,Belo Horizonte,314600,310620
+Indaiabira,313065,TAIOBEIRAS,NORTE,6328.0,802,0,802,0,126.7,0.0,100.0,64.5,64.5,Maiores distâncias,55.0,126.7,Não,17,4,Taiobeiras,Belo Horizonte,316800,310620
+Indianópolis,313070,UBERLÂNDIA/ARAGUARI,TRIÂNGULO DO NORTE,6311.0,482,0,482,0,76.4,0.0,100.0,64.7,64.7,Maiores distâncias,55.0,76.4,Não,1,4,Araguari,Belo Horizonte,310350,310620
+Ingaí,313080,LAVRAS,SUL,2632.0,233,0,233,0,88.5,0.0,100.0,48.1,48.1,Demais municípios,55.0,88.5,Não,10,3,Lavras,Varginha,313820,317070
+Inhapim,313090,CARATINGA,VALE DO AÇO,22925.0,1772,694,1078,280,47.0,12.2,60.8,29.8,49.1,Demais municípios,55.0,77.3,Sim,5,3,Caratinga,Ipatinga,311340,313130
+Inhaúma,313100,SETE LAGOAS,CENTRO,6465.0,471,0,471,0,72.9,0.0,100.0,26.3,26.3,Demais municípios,55.0,72.9,Não,2,3,Sete Lagoas,Belo Horizonte,316720,310620
+Inimutaba,313110,CURVELO,CENTRO,7615.0,429,0,429,0,56.3,0.0,100.0,37.7,37.7,Demais municípios,55.0,56.3,Não,2,3,Curvelo,Belo Horizonte,312090,310620
+Ipaba,313115,IPATINGA,VALE DO AÇO,17587.0,1160,0,1160,0,66.0,0.0,100.0,21.6,21.6,Demais municípios,55.0,66.0,Não,5,2,Ipatinga,Ipatinga,313130,313130
+Ipanema,313120,MANHUAÇU,LESTE DO SUL,20181.0,2180,1371,809,632,40.1,31.3,37.1,41.7,112.4,Demais municípios,55.0,108.0,Sim,3,4,Manhuaçu,Belo Horizonte,313940,310620
+Ipatinga,313130,IPATINGA,VALE DO AÇO,235311.0,13631,12327,1304,13722,5.5,58.3,9.6,8.8,92.1,Demais municípios,55.0,57.9,Sim,5,1,,Ipatinga,,313130
+Ipiaçu,313140,ITUIUTABA,TRIÂNGULO DO NORTE,3807.0,243,0,243,0,63.8,0.0,100.0,95.6,95.6,Maiores distâncias,55.0,63.8,Não,1,4,Ituiutaba,Belo Horizonte,313420,310620
+Ipuiúna,313150,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,9283.0,607,0,607,0,65.4,0.0,100.0,43.5,43.5,Demais municípios,55.0,65.4,Não,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Iraí de Minas,313160,PATROCÍNIO/MONTE CARMELO,TRIÂNGULO DO NORTE,7467.0,460,0,460,0,61.6,0.0,100.0,60.7,60.7,Maiores distâncias,55.0,61.6,Não,1,5,Monte Carmelo,Belo Horizonte,314310,310620
+Itabira,313170,ITABIRA,CENTRO,118053.0,7723,6499,1224,3560,10.4,30.2,15.8,13.4,84.3,Demais municípios,55.0,65.4,Sim,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Itabirinha,313180,MANTENA/ITABIRINHA,LESTE,10548.0,842,576,266,1166,25.2,110.5,31.6,40.6,128.4,Demais municípios,55.0,79.8,Sim,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Itabirito,313190,OURO PRETO,CENTRO,56369.0,3726,2226,1500,11,26.6,0.2,40.3,17.4,43.3,Demais municípios,55.0,66.1,Sim,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Itacambira,313200,MONTES CLAROS,NORTE,4227.0,267,0,267,0,63.2,0.0,100.0,79.6,79.6,Maiores distâncias,55.0,63.2,Não,17,3,Montes Claros,Belo Horizonte,314330,310620
+Itacarambi,313210,JANUÁRIA,NORTE,17502.0,1120,391,729,28,41.7,1.6,65.1,90.8,139.6,Maiores distâncias,55.0,64.0,Sim,17,3,Montes Claros,Belo Horizonte,314330,310620
+Itaguara,313220,ITAÚNA,OESTE,14415.0,1475,754,721,386,50.0,26.8,48.9,26.2,53.6,Demais municípios,55.0,102.3,Sim,8,3,Itaúna,Belo Horizonte,313380,310620
+Itaipé,313230,PADRE PARAÍSO,NORDESTE,10482.0,1123,376,747,0,71.3,0.0,66.5,52.3,78.6,Demais municípios,55.0,107.1,Não,9,3,Teófilo Otoni,Belo Horizonte,316860,310620
+Itajubá,313240,ITAJUBÁ, EXTREMO SUL,96855.0,7793,7332,461,6478,4.8,66.9,5.9,6.2,104.3,Demais municípios,55.0,80.5,Sim,11,3,Poços de Caldas,Belo Horizonte,315180,310620
+Itamarandiba,313250,DIAMANTINA/ITAMARANDIBA,JEQUITINHONHA,34210.0,4205,3472,733,437,21.4,12.8,17.4,24.5,140.3,Demais municípios,55.0,122.9,Sim,14,3,Diamantina,Belo Horizonte,312160,310620
+Itamarati de Minas,313260,LEOPOLDINA/CATAGUASES,SUDESTE,3710.0,276,0,276,0,74.4,0.0,100.0,29.4,29.4,Demais municípios,55.0,74.4,Não,3,4,Cataguases,Belo Horizonte,311530,310620
+Itambacuri,313270,ITAMBACURI,NORDESTE,21210.0,3025,2502,523,2382,24.7,112.3,17.3,13.8,79.6,Demais municípios,55.0,142.6,Sim,9,3,Teófilo Otoni,Belo Horizonte,316860,310620
+Itambé do Mato Dentro,313280,ITABIRA,CENTRO,2168.0,176,0,176,0,81.2,0.0,100.0,34.8,34.8,Demais municípios,55.0,81.2,Não,16,3,Itabira,Belo Horizonte,313170,310620
+Itamogi,313290,SÃO SEBASTIÃO DO PARAÍSO,SUDOESTE,11092.0,883,26,857,0,77.3,0.0,97.1,23.4,24.1,Demais municípios,55.0,79.6,Não,13,4,São Sebastião do Paraíso,Belo Horizonte,316470,310620
+Itamonte,313300,SÃO LOURENÇO,SUL,15245.0,1986,1436,550,10,36.1,0.7,27.7,12.5,45.3,Demais municípios,55.0,130.3,Sim,10,3,São Lourenço,Varginha,316370,317070
+Itanhandu,313310,SÃO LOURENÇO,SUL,15751.0,1904,1550,354,1815,22.5,115.2,18.6,10.7,57.5,Demais municípios,55.0,120.9,Sim,10,3,São Lourenço,Varginha,316370,317070
+Itanhomi,313320,GOVERNADOR VALADARES,LESTE,11264.0,1398,1010,388,762,34.4,67.6,27.8,19.1,68.8,Demais municípios,55.0,124.1,Sim,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Itaobim,313330,ITAOBIM,NORDESTE,19263.0,1823,1465,358,1984,18.6,103.0,19.6,47.2,240.5,Demais municípios,55.0,94.6,Sim,9,3,Teófilo Otoni,Belo Horizonte,316860,310620
+Itapagipe,313340,FRUTAL/ITURAMA,TRIÂNGULO DO SUL,14014.0,415,0,415,0,29.6,0.0,100.0,124.7,124.7,Maiores distâncias,55.0,29.6,Não,7,3,Uberaba,Belo Horizonte,317010,310620
+Itapecerica,313350,DIVINÓPOLIS,OESTE,21456.0,1870,1004,866,382,40.4,17.8,46.3,26.1,56.4,Demais municípios,55.0,87.2,Sim,8,2,Divinópolis,Divinópolis,312230,312230
+Itapeva,313360,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,13561.0,638,0,638,0,47.0,0.0,100.0,42.7,42.7,Demais municípios,55.0,47.0,Não,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Itatiaiuçu,313370,ITAÚNA,OESTE,13779.0,1419,0,1419,0,103.0,0.0,100.0,29.4,29.4,Demais municípios,55.0,103.0,Não,8,3,Itaúna,Belo Horizonte,313380,310620
+Itaú de Minas,313375,PASSOS,SUDOESTE,14634.0,1225,161,1064,2,72.7,0.1,86.9,29.2,33.6,Demais municípios,55.0,83.7,Sim,13,3,Passos,Belo Horizonte,314790,310620
+Itaúna,313380,ITAÚNA,OESTE,103272.0,6265,4814,1451,2373,14.1,23.0,23.2,14.0,60.7,Demais municípios,55.0,60.7,Sim,8,2,Belo Horizonte,Belo Horizonte,310620,310620
+Itaverava,313390,CONSELHEIRO LAFAIETE,CENTRO SUL,5747.0,282,0,282,0,49.1,0.0,100.0,40.6,40.6,Demais municípios,55.0,49.1,Não,12,4,Conselheiro Lafaiete,Belo Horizonte,311830,310620
+Itinga,313400,ITAOBIM,NORDESTE,13954.0,1054,0,1054,0,75.5,0.0,100.0,75.7,75.7,Maiores distâncias,55.0,75.5,Não,9,4,Itaobim,Belo Horizonte,313330,310620
+Itueta,313410,RESPLENDOR,LESTE,6234.0,634,0,634,0,101.7,0.0,100.0,31.0,31.0,Demais municípios,55.0,101.7,Não,6,4,Resplendor,Belo Horizonte,315430,310620
+Ituiutaba,313420,ITUIUTABA,TRIÂNGULO DO NORTE,106775.0,5952,4744,1208,1402,11.3,13.1,20.3,29.6,145.8,Demais municípios,55.0,55.7,Sim,1,3,Uberlândia,Belo Horizonte,317020,310620
+Itumirim,313430,LAVRAS,SUL,6876.0,418,0,418,0,60.8,0.0,100.0,30.2,30.2,Demais municípios,55.0,60.8,Não,10,3,Lavras,Varginha,313820,317070
+Iturama,313440,FRUTAL/ITURAMA,TRIÂNGULO DO SUL,40259.0,1865,1226,639,351,15.9,8.7,34.3,81.5,237.9,Maiores distâncias,55.0,46.3,Sim,7,3,Uberaba,Belo Horizonte,317010,310620
+Itutinga,313450,LAVRAS,SUL,4366.0,295,0,295,0,67.6,0.0,100.0,49.6,49.6,Demais municípios,55.0,67.6,Não,10,3,Lavras,Varginha,313820,317070
+Jaboticatubas,313460,BELO HORIZONTE/NOVA LIMA/SANTA LUZIA,CENTRO,21407.0,1504,398,1106,0,51.7,0.0,73.5,32.1,43.6,Demais municípios,55.0,70.3,Não,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Jacinto,313470,ALMENARA/JACINTO,NORDESTE,11115.0,1160,867,293,585,26.4,52.6,25.3,60.0,237.6,Maiores distâncias,55.0,104.4,Sim,9,4,Almenara,Belo Horizonte,310170,310620
+Jacuí,313480,SÃO SEBASTIÃO DO PARAÍSO,SUDOESTE,7668.0,614,0,614,0,80.1,0.0,100.0,32.4,32.4,Demais municípios,55.0,80.1,Não,13,4,São Sebastião do Paraíso,Belo Horizonte,316470,310620
+Jacutinga,313490,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,26888.0,1872,1274,598,59,22.2,2.2,31.9,27.8,87.1,Demais municípios,55.0,69.6,Sim,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Jaguaraçu,313500,CORONEL FABRICIANO/TIMÓTEO,VALE DO AÇO,3181.0,253,0,253,0,79.5,0.0,100.0,35.8,35.8,Demais municípios,55.0,79.5,Não,5,3,Timóteo,Ipatinga,316870,313130
+Jaíba,313505,JANAÚBA/MONTE AZUL,NORTE,39639.0,3030,906,2124,93,53.6,2.3,70.1,71.4,101.8,Maiores distâncias,55.0,76.4,Sim,17,4,Janaúba,Belo Horizonte,313510,310620
+Jampruca,313507,GOVERNADOR VALADARES,LESTE,4266.0,221,0,221,0,51.8,0.0,100.0,55.8,55.8,Maiores distâncias,55.0,51.8,Não,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Janaúba,313510,JANAÚBA/MONTE AZUL,NORTE,73555.0,6357,5568,789,5766,10.7,78.4,12.4,18.5,148.9,Demais municípios,55.0,86.4,Sim,17,3,Montes Claros,Belo Horizonte,314330,310620
+Januária,313520,JANUÁRIA,NORTE,67123.0,4560,3342,1218,1439,18.1,21.4,26.7,40.3,150.9,Demais municípios,55.0,67.9,Sim,17,3,Montes Claros,Belo Horizonte,314330,310620
+Japaraíba,313530,LAGOA DA PRATA/SANTO ANTÔNIO DO MONTE,OESTE,4706.0,287,0,287,0,61.0,0.0,100.0,43.6,43.6,Demais municípios,55.0,61.0,Não,8,3,Lagoa da Prata,Divinópolis,313720,312230
+Japonvar,313535,BRASÍLIA DE MINAS,NORTE,8385.0,772,0,772,0,92.1,0.0,100.0,66.1,66.1,Maiores distâncias,55.0,92.1,Não,17,4,Brasília de Minas,Belo Horizonte,310860,310620
+Jeceaba,313540,CONGONHAS,CENTRO SUL,6476.0,473,120,353,6,54.5,0.9,74.6,27.6,37.0,Demais municípios,55.0,73.0,Sim,12,3,Congonhas,Belo Horizonte,311800,310620
+Jenipapo de Minas,313545,ARAÇUAÍ,JEQUITINHONHA,6072.0,441,0,441,0,72.6,0.0,100.0,68.3,68.3,Maiores distâncias,55.0,72.6,Não,14,3,Araçuaí,Belo Horizonte,310340,310620
+Jequeri,313550,PONTE NOVA,LESTE DO SUL,12636.0,820,0,820,0,64.9,0.0,100.0,32.5,32.5,Demais municípios,55.0,64.9,Não,4,3,Ponte Nova,Belo Horizonte,315210,310620
+Jequitaí,313560,CORAÇÃO DE JESUS,NORTE,6379.0,612,0,612,0,95.9,0.0,100.0,68.8,68.8,Maiores distâncias,55.0,95.9,Não,17,4,Pirapora,Belo Horizonte,315120,310620
+Jequitibá,313570,SETE LAGOAS,CENTRO,6142.0,410,0,410,0,66.8,0.0,100.0,43.0,43.0,Demais municípios,55.0,66.8,Não,2,3,Sete Lagoas,Belo Horizonte,316720,310620
+Jequitinhonha,313580,ALMENARA/JACINTO,NORDESTE,24516.0,2041,1369,672,58,27.4,2.4,32.9,65.4,198.7,Maiores distâncias,55.0,83.3,Sim,9,3,Teófilo Otoni,Belo Horizonte,316860,310620
+Jesuânia,313590,SÃO LOURENÇO,SUL,5320.0,429,0,429,0,80.6,0.0,100.0,37.3,37.3,Demais municípios,55.0,80.6,Não,10,3,São Lourenço,Varginha,316370,317070
+Joaíma,313600,ALMENARA/JACINTO,NORDESTE,14035.0,1096,573,523,7,37.3,0.5,47.7,74.4,155.9,Maiores distâncias,55.0,78.1,Sim,9,4,Almenara,Belo Horizonte,310170,310620
+Joanésia,313610,IPATINGA,VALE DO AÇO,4246.0,319,0,319,0,75.1,0.0,100.0,56.4,56.4,Maiores distâncias,55.0,75.1,Não,5,2,Ipatinga,Ipatinga,313130,313130
+João Monlevade,313620,JOÃO MONLEVADE,CENTRO,83791.0,6179,4894,1285,2171,15.3,25.9,20.8,15.0,72.4,Demais municípios,55.0,73.7,Sim,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+João Pinheiro,313630,JOÃO PINHEIRO,NOROESTE,48725.0,3439,2504,935,302,19.2,6.2,27.2,42.7,156.9,Demais municípios,55.0,70.6,Sim,15,3,Patos de Minas,Belo Horizonte,314800,310620
+Joaquim Felício,313640,BOCAIÚVA,NORTE,3868.0,346,0,346,0,89.5,0.0,100.0,106.2,106.2,Maiores distâncias,55.0,89.5,Não,17,4,Bocaiúva,Belo Horizonte,310730,310620
+Jordânia,313650,ALMENARA/JACINTO,NORDESTE,10541.0,594,212,382,5,36.2,0.5,64.3,90.5,140.7,Maiores distâncias,55.0,56.4,Sim,9,4,Almenara,Belo Horizonte,310170,310620
+José Gonçalves de Minas,313652,TURMALINA/MINAS NOVAS/CAPELINHA,JEQUITINHONHA,3963.0,336,0,336,0,84.8,0.0,100.0,95.6,95.6,Maiores distâncias,55.0,84.8,Não,14,4,Turmalina,Belo Horizonte,316970,310620
+José Raydan,313655,PEÇANHA/SÃO JOÃO EVANGELISTA/SANTA MARIA DO SUAÇUÍ,LESTE,4349.0,527,0,527,0,121.2,0.0,100.0,38.0,38.0,Demais municípios,55.0,121.2,Não,6,3,Santa Maria do Suaçuí,Belo Horizonte,315820,310620
+Josenópolis,313657,FRANCISCO SÁ,NORTE,3557.0,348,0,348,0,97.8,0.0,100.0,95.2,95.2,Maiores distâncias,55.0,97.8,Não,17,4,Salinas,Belo Horizonte,315700,310620
+Juatuba,313665,BETIM,CENTRO,33249.0,1690,0,1690,0,50.8,0.0,100.0,25.8,25.8,Demais municípios,55.0,50.8,Não,16,3,Betim,Belo Horizonte,310670,310620
+Juiz de Fora,313670,JUIZ DE FORA,SUDESTE,567730.0,39624,39277,347,15523,0.6,27.3,0.9,1.6,186.2,Demais municípios,55.0,69.8,Sim,3,2,Belo Horizonte,Belo Horizonte,310620,310620
+Juramento,313680,MONTES CLAROS,NORTE,3798.0,347,0,347,0,91.4,0.0,100.0,41.0,41.0,Demais municípios,55.0,91.4,Não,17,3,Montes Claros,Belo Horizonte,314330,310620
+Juruaia,313690,GUAXUPÉ,SUDOESTE,11652.0,953,441,512,62,43.9,5.3,53.7,32.5,60.5,Demais municípios,55.0,81.8,Sim,11,5,Guaxupé,Belo Horizonte,312870,310620
+Juvenília,313695,MANGA,NORTE,5937.0,496,0,496,0,83.5,0.0,100.0,106.8,106.8,Maiores distâncias,55.0,83.5,Não,17,4,Montalvânia,Belo Horizonte,314270,310620
+Ladainha,313700,TEÓFILO OTONI/MALACACHETA,NORDESTE,14263.0,1381,553,828,2,58.1,0.1,60.0,35.0,58.3,Demais municípios,55.0,96.8,Sim,9,3,Teófilo Otoni,Belo Horizonte,316860,310620
+Lagamar,313710,PATOS DE MINAS,NOROESTE,6622.0,436,49,387,0,58.4,0.0,88.8,58.4,65.8,Maiores distâncias,55.0,65.8,Não,15,3,Patos de Minas,Belo Horizonte,314800,310620
+Lagoa da Prata,313720,LAGOA DA PRATA/SANTO ANTÔNIO DO MONTE,OESTE,53927.0,4052,2750,1302,2598,24.1,48.2,32.1,29.8,92.9,Demais municípios,55.0,75.1,Sim,8,2,Divinópolis,Divinópolis,312230,312230
+Lagoa dos Patos,313730,CORAÇÃO DE JESUS,NORTE,3237.0,240,0,240,0,74.1,0.0,100.0,75.1,75.1,Maiores distâncias,55.0,74.1,Não,17,4,Coração de Jesus,Belo Horizonte,311880,310620
+Lagoa Dourada,313740,SÃO JOÃO DEL REI,CENTRO SUL,13152.0,932,0,932,0,70.9,0.0,100.0,32.6,32.6,Demais municípios,55.0,70.9,Não,12,4,São João del Rei,Belo Horizonte,316250,310620
+Lagoa Formosa,313750,PATOS DE MINAS,NOROESTE,19614.0,1612,676,936,8,47.7,0.4,58.1,33.0,56.8,Demais municípios,55.0,82.2,Sim,15,3,Patos de Minas,Belo Horizonte,314800,310620
+Lagoa Grande,313753,JOÃO PINHEIRO,NOROESTE,9235.0,507,0,507,0,54.9,0.0,100.0,111.6,111.6,Maiores distâncias,55.0,54.9,Não,15,3,Patos de Minas,Belo Horizonte,314800,310620
+Lagoa Santa,313760,VESPASIANO/LAGOA SANTA,CENTRO,81299.0,5785,3398,2387,889,29.4,10.9,41.3,13.7,33.1,Demais municípios,55.0,71.2,Sim,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Lajinha,313770,MANHUAÇU,LESTE DO SUL,21502.0,1556,406,1150,4,53.5,0.2,73.9,57.7,78.1,Maiores distâncias,55.0,72.4,Sim,3,4,Manhuaçu,Belo Horizonte,313940,310620
+Lambari,313780,SÃO LOURENÇO,SUL,21010.0,1789,717,1072,112,51.0,5.3,59.9,27.7,46.2,Demais municípios,55.0,85.1,Sim,10,3,São Lourenço,Varginha,316370,317070
+Lamim,313790,CONSELHEIRO LAFAIETE,CENTRO SUL,3213.0,160,0,160,0,49.8,0.0,100.0,55.0,55.0,Maiores distâncias,55.0,49.8,Não,12,4,Conselheiro Lafaiete,Belo Horizonte,311830,310620
+Laranjal,313800,LEOPOLDINA/CATAGUASES,SUDESTE,6018.0,332,0,332,0,55.2,0.0,100.0,46.4,46.4,Demais municípios,55.0,55.2,Não,3,3,Muriaé,Belo Horizonte,314390,310620
+Lassance,313810,PIRAPORA,NORTE,7398.0,619,0,619,0,83.7,0.0,100.0,98.2,98.2,Maiores distâncias,55.0,83.7,Não,17,4,Pirapora,Belo Horizonte,315120,310620
+Lavras,313820,LAVRAS,SUL,110682.0,5634,4898,736,3372,6.6,30.5,13.1,13.6,104.0,Demais municípios,55.0,50.9,Sim,10,2,Varginha,Varginha,317070,317070
+Leandro Ferreira,313830,PARÁ DE MINAS/NOVA SERRANA,OESTE,3272.0,215,0,215,0,65.7,0.0,100.0,40.9,40.9,Demais municípios,55.0,65.7,Não,8,3,Nova Serrana,Belo Horizonte,314520,310620
+Leme do Prado,313835,TURMALINA/MINAS NOVAS/CAPELINHA,JEQUITINHONHA,4364.0,379,0,379,0,86.8,0.0,100.0,90.4,90.4,Maiores distâncias,55.0,86.8,Não,14,4,Turmalina,Belo Horizonte,316970,310620
+Leopoldina,313840,LEOPOLDINA/CATAGUASES,SUDESTE,52739.0,3597,2596,1001,731,19.0,13.9,27.8,16.4,58.8,Demais municípios,55.0,68.2,Sim,3,3,Muriaé,Belo Horizonte,314390,310620
+Liberdade,313850,LIMA DUARTE,SUDESTE,4744.0,480,0,480,0,101.2,0.0,100.0,55.1,55.1,Maiores distâncias,55.0,101.2,Não,10,3,Aiuruoca,Varginha,310120,317070
+Lima Duarte,313860,LIMA DUARTE,SUDESTE,17782.0,1664,797,867,134,48.8,7.5,52.1,27.1,52.1,Demais municípios,55.0,93.6,Sim,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Limeira do Oeste,313862,FRUTAL/ITURAMA,TRIÂNGULO DO SUL,9191.0,234,0,234,0,25.5,0.0,100.0,171.8,171.8,Maiores distâncias,55.0,25.5,Não,7,3,Uberaba,Belo Horizonte,317010,310620
+Lontra,313865,BRASÍLIA DE MINAS,NORTE,8963.0,663,0,663,0,74.0,0.0,100.0,70.4,70.4,Maiores distâncias,55.0,74.0,Não,17,4,Brasília de Minas,Belo Horizonte,310860,310620
+Luisburgo,313867,MANHUAÇU,LESTE DO SUL,7239.0,529,0,529,0,73.1,0.0,100.0,49.7,49.7,Demais municípios,55.0,73.1,Não,3,4,Manhuaçu,Belo Horizonte,313940,310620
+Luislândia,313868,BRASÍLIA DE MINAS,NORTE,6323.0,558,0,558,0,88.2,0.0,100.0,43.2,43.2,Demais municípios,55.0,88.2,Não,17,4,Brasília de Minas,Belo Horizonte,310860,310620
+Luminárias,313870,LAVRAS,SUL,5744.0,398,0,398,0,69.3,0.0,100.0,42.3,42.3,Demais municípios,55.0,69.3,Não,10,3,Lavras,Varginha,313820,317070
+Luz,313880,BOM DESPACHO,OESTE,18336.0,3295,2680,615,1165,33.5,63.5,18.7,17.4,93.3,Demais municípios,55.0,179.7,Sim,8,3,Lagoa da Prata,Divinópolis,313720,312230
+Machacalis,313890,ÁGUAS FORMOSAS,NORDESTE,6556.0,621,289,332,732,50.6,111.7,53.5,52.4,98.1,Demais municípios,55.0,94.7,Sim,9,3,Teófilo Otoni,Belo Horizonte,316860,310620
+Machado,313900,ALFENAS/MACHADO,SUDOESTE,38809.0,3107,1975,1132,2122,29.2,54.7,36.4,13.9,38.2,Demais municípios,55.0,80.1,Sim,11,4,Alfenas,Belo Horizonte,310160,310620
+Madre de Deus de Minas,313910,SÃO JOÃO DEL REI,CENTRO SUL,5360.0,402,0,402,0,75.0,0.0,100.0,52.6,52.6,Demais municípios,55.0,75.0,Não,12,4,São João del Rei,Belo Horizonte,316250,310620
+Malacacheta,313920,TEÓFILO OTONI/MALACACHETA,NORDESTE,17691.0,2482,2078,404,1408,22.8,79.6,16.3,18.4,113.2,Demais municípios,55.0,140.3,Sim,9,3,Teófilo Otoni,Belo Horizonte,316860,310620
+Mamonas,313925,JANAÚBA/MONTE AZUL,NORTE,6082.0,542,0,542,0,89.1,0.0,100.0,91.5,91.5,Maiores distâncias,55.0,89.1,Não,17,4,Monte Azul,Belo Horizonte,314290,310620
+Manga,313930,MANGA,NORTE,19148.0,2130,1449,681,1848,35.6,96.5,32.0,65.6,205.1,Maiores distâncias,55.0,111.2,Sim,17,3,Montes Claros,Belo Horizonte,314330,310620
+Manhuaçu,313940,MANHUAÇU,LESTE DO SUL,97328.0,6429,5036,1393,6746,14.3,69.3,21.7,26.1,120.5,Demais municípios,55.0,66.1,Sim,3,3,Muriaé,Belo Horizonte,314390,310620
+Manhumirim,313950,MANHUAÇU,LESTE DO SUL,20939.0,1851,1102,749,1865,35.8,89.1,40.5,29.1,71.8,Demais municípios,55.0,88.4,Sim,3,4,Manhuaçu,Belo Horizonte,313940,310620
+Mantena,313960,MANTENA/ITABIRINHA,LESTE,27350.0,2335,1981,354,777,12.9,28.4,15.2,19.5,128.5,Demais municípios,55.0,85.4,Sim,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Mar de Espanha,313980,SÃO JOÃO NEPOMUCENO,SUDESTE,13180.0,1017,426,591,96,44.8,7.3,58.1,26.4,45.4,Demais municípios,55.0,77.2,Sim,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Maravilhas,313970,SETE LAGOAS,CENTRO,7532.0,538,0,538,0,71.4,0.0,100.0,53.1,53.1,Demais municípios,55.0,71.4,Não,2,3,Sete Lagoas,Belo Horizonte,316720,310620
+Maria da Fé,313990,ITAJUBÁ, EXTREMO SUL,14567.0,1205,214,991,10,68.0,0.7,82.2,20.0,24.3,Demais municípios,55.0,82.7,Sim,11,4,Itajubá,Belo Horizonte,313240,310620
+Mariana,314000,OURO PRETO,CENTRO,64506.0,3659,2359,1300,201,20.2,3.1,35.5,18.2,51.4,Demais municípios,55.0,56.7,Sim,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Marilac,314010,GOVERNADOR VALADARES,LESTE,4323.0,299,0,299,0,69.2,0.0,100.0,59.2,59.2,Maiores distâncias,55.0,69.2,Não,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Mário Campos,314015,BETIM,CENTRO,16705.0,897,0,897,0,53.7,0.0,100.0,18.5,18.5,Demais municípios,55.0,53.7,Não,16,3,Betim,Belo Horizonte,310670,310620
+Maripá de Minas,314020,SÃO JOÃO NEPOMUCENO,SUDESTE,3567.0,278,0,278,0,77.9,0.0,100.0,33.8,33.8,Demais municípios,55.0,77.9,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Marliéria,314030,CORONEL FABRICIANO/TIMÓTEO,VALE DO AÇO,4796.0,349,0,349,0,72.8,0.0,100.0,42.6,42.6,Demais municípios,55.0,72.8,Não,5,3,Timóteo,Ipatinga,316870,313130
+Marmelópolis,314040,ITAJUBÁ, EXTREMO SUL,3314.0,252,0,252,0,76.0,0.0,100.0,36.1,36.1,Demais municípios,55.0,76.0,Não,11,4,Itajubá,Belo Horizonte,313240,310620
+Martinho Campos,314050,BOM DESPACHO,OESTE,14546.0,1016,212,804,4,55.3,0.3,79.1,67.9,85.8,Maiores distâncias,55.0,69.8,Sim,8,3,Bom Despacho,Divinópolis,310740,312230
+Martins Soares,314053,MANHUAÇU,LESTE DO SUL,8797.0,775,0,775,0,88.1,0.0,100.0,46.2,46.2,Demais municípios,55.0,88.1,Não,3,4,Manhuaçu,Belo Horizonte,313940,310620
+Mata Verde,314055,ALMENARA/JACINTO,NORDESTE,9532.0,465,0,465,0,48.8,0.0,100.0,144.4,144.4,Maiores distâncias,55.0,48.8,Não,9,4,Almenara,Belo Horizonte,310170,310620
+Materlândia,314060,GUANHÃES,CENTRO,3949.0,439,0,439,0,111.2,0.0,100.0,50.1,50.1,Demais municípios,55.0,111.2,Não,6,3,Guanhães,Belo Horizonte,312800,310620
+Mateus Leme,314070,BETIM,CENTRO,40814.0,2005,551,1454,320,35.6,7.8,72.5,25.1,34.7,Demais municípios,55.0,49.1,Sim,16,3,Betim,Belo Horizonte,310670,310620
+Mathias Lobato,317150,GOVERNADOR VALADARES,LESTE,3053.0,226,0,226,0,74.0,0.0,100.0,50.0,50.0,Demais municípios,55.0,74.0,Não,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Matias Barbosa,314080,JUIZ DE FORA,SUDESTE,14547.0,1147,0,1147,0,78.8,0.0,100.0,24.6,24.6,Demais municípios,55.0,78.8,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Matias Cardoso,314085,JANAÚBA/MONTE AZUL,NORTE,8922.0,502,0,502,0,56.3,0.0,100.0,124.6,124.6,Maiores distâncias,55.0,56.3,Não,17,4,Janaúba,Belo Horizonte,313510,310620
+Matipó,314090,MANHUAÇU,LESTE DO SUL,19115.0,1783,727,1056,515,55.2,26.9,59.2,30.3,51.1,Demais municípios,55.0,93.3,Sim,3,4,Manhuaçu,Belo Horizonte,313940,310620
+Mato Verde,314100,JANAÚBA/MONTE AZUL,NORTE,12210.0,961,0,961,0,78.7,0.0,100.0,94.2,94.2,Maiores distâncias,55.0,78.7,Não,17,3,Montes Claros,Belo Horizonte,314330,310620
+Matozinhos,314110,VESPASIANO/LAGOA SANTA,CENTRO,39529.0,2584,766,1818,265,46.0,6.7,70.4,27.4,39.0,Demais municípios,55.0,65.4,Sim,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Matutina,314120,SÃO GOTARDO,NOROESTE,3912.0,204,42,162,2,41.4,0.5,79.4,54.7,68.8,Demais municípios,55.0,52.1,Sim,15,3,Patos de Minas,Belo Horizonte,314800,310620
+Medeiros,314130,FORMIGA,OESTE,4068.0,343,0,343,0,84.3,0.0,100.0,75.5,75.5,Maiores distâncias,55.0,84.3,Não,8,3,Bambuí,Divinópolis,310510,312230
+Medina,314140,ITAOBIM,NORDESTE,20455.0,2280,1729,551,935,26.9,45.7,24.2,45.4,187.9,Demais municípios,55.0,111.5,Sim,9,3,Teófilo Otoni,Belo Horizonte,316860,310620
+Mendes Pimentel,314150,MANTENA/ITABIRINHA,LESTE,5614.0,430,181,249,85,44.4,15.1,57.9,41.3,71.3,Demais municípios,55.0,76.6,Sim,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Mercês,314160,UBÁ,SUDESTE,10615.0,945,466,479,12,45.1,1.1,50.7,29.5,58.1,Demais municípios,55.0,89.0,Sim,3,4,Ubá,Belo Horizonte,316990,310620
+Mesquita,314170,IPATINGA,VALE DO AÇO,4984.0,365,0,365,0,73.2,0.0,100.0,40.9,40.9,Demais municípios,55.0,73.2,Não,5,2,Ipatinga,Ipatinga,313130,313130
+Minas Novas,314180,TURMALINA/MINAS NOVAS/CAPELINHA,JEQUITINHONHA,23843.0,3797,2914,883,815,37.0,34.2,23.3,38.6,165.9,Demais municípios,55.0,159.3,Sim,14,3,Diamantina,Belo Horizonte,312160,310620
+Minduri,314190,SÃO LOURENÇO,SUL,3811.0,385,24,361,1,94.7,0.3,93.8,48.1,51.3,Demais municípios,55.0,101.0,Sim,10,4,Cruzília,Varginha,312080,317070
+Mirabela,314200,MONTES CLAROS,NORTE,14071.0,1705,1086,619,106,44.0,7.5,36.3,27.8,76.4,Demais municípios,55.0,121.2,Sim,17,3,Montes Claros,Belo Horizonte,314330,310620
+Miradouro,314210,MURIAÉ,SUDESTE,8961.0,712,0,712,0,79.5,0.0,100.0,33.3,33.3,Demais municípios,55.0,79.5,Não,3,3,Muriaé,Belo Horizonte,314390,310620
+Miraí,314220,MURIAÉ,SUDESTE,13921.0,1184,583,601,16,43.2,1.1,50.8,18.8,37.1,Demais municípios,55.0,85.1,Sim,3,3,Muriaé,Belo Horizonte,314390,310620
+Miravânia,314225,MANGA,NORTE,3982.0,346,0,346,0,86.9,0.0,100.0,121.2,121.2,Maiores distâncias,55.0,86.9,Não,17,4,Manga,Belo Horizonte,313930,310620
+Moeda,314230,BELO HORIZONTE/NOVA LIMA/SANTA LUZIA,CENTRO,5314.0,360,0,360,0,67.7,0.0,100.0,43.5,43.5,Demais municípios,55.0,67.7,Não,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Moema,314240,BOM DESPACHO,OESTE,7812.0,799,319,480,2,61.4,0.3,60.1,38.3,63.7,Demais municípios,55.0,102.3,Sim,8,3,Bom Despacho,Divinópolis,310740,312230
+Monjolos,314250,CURVELO,CENTRO,2187.0,141,0,141,0,64.5,0.0,100.0,88.4,88.4,Maiores distâncias,55.0,64.5,Não,2,3,Curvelo,Belo Horizonte,312090,310620
+Monsenhor Paulo,314260,VARGINHA,SUL,8565.0,744,359,385,138,45.0,16.1,51.7,18.5,35.8,Demais municípios,55.0,86.9,Sim,10,2,Varginha,Varginha,317070,317070
+Montalvânia,314270,MANGA,NORTE,14068.0,1579,1012,567,233,40.3,16.6,35.9,80.6,224.6,Maiores distâncias,55.0,112.2,Sim,17,3,Montes Claros,Belo Horizonte,314330,310620
+Monte Alegre de Minas,314280,UBERLÂNDIA/ARAGUARI,TRIÂNGULO DO NORTE,20708.0,1364,907,457,71,22.1,3.4,33.5,27.2,81.2,Demais municípios,55.0,65.9,Sim,1,3,Uberlândia,Belo Horizonte,317020,310620
+Monte Azul,314290,JANAÚBA/MONTE AZUL,NORTE,20497.0,2198,1496,702,845,34.2,41.2,31.9,54.0,169.0,Demais municípios,55.0,107.2,Sim,17,3,Montes Claros,Belo Horizonte,314330,310620
+Monte Belo,314300,GUAXUPÉ,SUDOESTE,13347.0,1150,359,791,3,59.3,0.2,68.8,32.7,47.5,Demais municípios,55.0,86.2,Sim,11,4,Alfenas,Belo Horizonte,310160,310620
+Monte Carmelo,314310,PATROCÍNIO/MONTE CARMELO,TRIÂNGULO DO NORTE,49500.0,5839,4781,1058,878,21.4,17.7,18.1,14.3,78.7,Demais municípios,55.0,118.0,Sim,1,4,Patrocínio,Belo Horizonte,314810,310620
+Monte Formoso,314315,ITAOBIM,NORDESTE,4437.0,345,0,345,0,77.8,0.0,100.0,72.7,72.7,Maiores distâncias,55.0,77.8,Não,9,4,Itaobim,Belo Horizonte,313330,310620
+Monte Santo de Minas,314320,SÃO SEBASTIÃO DO PARAÍSO,SUDOESTE,21294.0,2450,1282,1168,241,54.9,11.3,47.7,22.1,46.5,Demais municípios,55.0,115.1,Sim,13,4,São Sebastião do Paraíso,Belo Horizonte,316470,310620
+Monte Sião,314340,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,25107.0,1232,0,1232,0,49.1,0.0,100.0,60.8,60.8,Maiores distâncias,55.0,49.1,Não,11,4,Ouro Fino,Belo Horizonte,314600,310620
+Montes Claros,314330,MONTES CLAROS,NORTE,437601.0,36282,35593,689,24774,1.6,56.6,1.9,5.7,298.8,Demais municípios,55.0,82.9,Sim,17,2,Belo Horizonte,Belo Horizonte,310620,310620
+Montezuma,314345,TAIOBEIRAS,NORTE,6951.0,599,0,599,0,86.2,0.0,100.0,104.4,104.4,Maiores distâncias,55.0,86.2,Não,17,4,Taiobeiras,Belo Horizonte,316800,310620
+Morada Nova de Minas,314350,SETE LAGOAS,CENTRO,9414.0,953,469,484,4,51.4,0.4,50.8,74.3,146.3,Maiores distâncias,55.0,101.2,Sim,2,3,Sete Lagoas,Belo Horizonte,316720,310620
+Morro da Garça,314360,CURVELO,CENTRO,2426.0,163,0,163,0,67.2,0.0,100.0,61.8,61.8,Maiores distâncias,55.0,67.2,Não,2,3,Curvelo,Belo Horizonte,312090,310620
+Morro do Pilar,314370,ITABIRA,CENTRO,3161.0,187,0,187,0,59.2,0.0,100.0,64.1,64.1,Maiores distâncias,55.0,59.2,Não,16,3,Itabira,Belo Horizonte,313170,310620
+Munhoz,314380,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,7930.0,423,0,423,0,53.3,0.0,100.0,51.6,51.6,Demais municípios,55.0,53.3,Não,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Muriaé,314390,MURIAÉ,SUDESTE,108447.0,10500,10259,241,13758,2.2,126.9,2.3,3.6,155.0,Demais municípios,55.0,96.8,Sim,3,2,Belo Horizonte,Belo Horizonte,310620,310620
+Mutum,314400,MANHUAÇU,LESTE DO SUL,28749.0,2287,1186,1101,50,38.3,1.7,48.1,57.7,119.9,Maiores distâncias,55.0,79.6,Sim,3,4,Manhuaçu,Belo Horizonte,313940,310620
+Muzambinho,314410,GUAXUPÉ,SUDOESTE,22620.0,2122,1146,976,43,43.1,1.9,46.0,26.4,57.5,Demais municípios,55.0,93.8,Sim,11,4,Alfenas,Belo Horizonte,310160,310620
+Nacip Raydan,314420,GOVERNADOR VALADARES,LESTE,2400.0,130,0,130,0,54.2,0.0,100.0,69.0,69.0,Maiores distâncias,55.0,54.2,Não,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Nanuque,314430,NANUQUE,NORDESTE,35263.0,2817,2347,470,487,13.3,13.8,16.7,32.5,194.9,Demais municípios,55.0,79.9,Sim,9,3,Teófilo Otoni,Belo Horizonte,316860,310620
+Naque,314435,IPATINGA,VALE DO AÇO,6443.0,506,0,506,0,78.5,0.0,100.0,39.8,39.8,Demais municípios,55.0,78.5,Não,5,2,Ipatinga,Ipatinga,313130,313130
+Natalândia,314437,UNAÍ/PARACATU,NOROESTE,3642.0,184,0,184,0,50.5,0.0,100.0,107.0,107.0,Maiores distâncias,55.0,50.5,Não,15,4,Unaí,Belo Horizonte,317040,310620
+Natércia,314440,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,4805.0,290,0,290,0,60.4,0.0,100.0,48.0,48.0,Demais municípios,55.0,60.4,Não,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Nazareno,314450,SÃO JOÃO DEL REI,CENTRO SUL,8407.0,519,100,419,22,49.8,2.6,80.7,43.7,54.2,Demais municípios,55.0,61.7,Sim,12,4,São João del Rei,Belo Horizonte,316250,310620
+Nepomuceno,314460,LAVRAS,SUL,25757.0,2356,1155,1201,22,46.6,0.9,51.0,23.4,45.9,Demais municípios,55.0,91.5,Sim,10,3,Lavras,Varginha,313820,317070
+Ninheira,314465,TAIOBEIRAS,NORTE,10965.0,992,0,992,0,90.5,0.0,100.0,96.8,96.8,Maiores distâncias,55.0,90.5,Não,17,4,Taiobeiras,Belo Horizonte,316800,310620
+Nova Belém,314467,MANTENA/ITABIRINHA,LESTE,3126.0,171,0,171,0,54.7,0.0,100.0,54.1,54.1,Demais municípios,55.0,54.7,Não,6,4,Mantena,Belo Horizonte,313960,310620
+Nova Era,314470,JOÃO MONLEVADE,CENTRO,17813.0,1313,545,768,27,43.1,1.5,58.5,26.3,45.0,Demais municípios,55.0,73.7,Sim,16,3,João Monlevade,Belo Horizonte,313620,310620
+Nova Lima,314480,BELO HORIZONTE/NOVA LIMA/SANTA LUZIA,CENTRO,120959.0,7538,5934,1604,1908,13.3,15.8,21.3,2.7,12.7,Demais municípios,55.0,62.3,Sim,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Nova Módica,314490,ITAMBACURI,NORDESTE,3726.0,313,0,313,0,84.0,0.0,100.0,69.2,69.2,Maiores distâncias,55.0,84.0,Não,9,4,Itambacuri,Belo Horizonte,313270,310620
+Nova Ponte,314500,UBERLÂNDIA/ARAGUARI,TRIÂNGULO DO NORTE,15220.0,1078,429,649,1,42.6,0.1,60.2,48.4,80.3,Demais municípios,55.0,70.8,Sim,1,4,Araguari,Belo Horizonte,310350,310620
+Nova Porteirinha,314505,JANAÚBA/MONTE AZUL,NORTE,6746.0,615,0,615,0,91.2,0.0,100.0,26.4,26.4,Demais municípios,55.0,91.2,Não,17,4,Janaúba,Belo Horizonte,313510,310620
+Nova Resende,314510,PASSOS,SUDOESTE,16919.0,1606,438,1168,0,69.0,0.0,72.7,42.6,58.6,Demais municípios,55.0,94.9,Não,13,3,Passos,Belo Horizonte,314790,310620
+Nova Serrana,314520,PARÁ DE MINAS/NOVA SERRANA,OESTE,114791.0,7060,4371,2689,432,23.4,3.8,38.1,28.7,75.5,Demais municípios,55.0,61.5,Sim,8,2,Belo Horizonte,Belo Horizonte,310620,310620
+Nova União,313660,BELO HORIZONTE/NOVA LIMA/SANTA LUZIA,CENTRO,6107.0,533,0,533,0,87.3,0.0,100.0,40.1,40.1,Demais municípios,55.0,87.3,Não,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Novo Cruzeiro,314530,TEÓFILO OTONI/MALACACHETA,NORDESTE,27268.0,2903,1660,1243,72,45.6,2.6,42.8,42.4,98.9,Demais municípios,55.0,106.5,Sim,9,3,Teófilo Otoni,Belo Horizonte,316860,310620
+Novo Oriente de Minas,314535,TEÓFILO OTONI/MALACACHETA,NORDESTE,10503.0,488,0,488,0,46.5,0.0,100.0,72.4,72.4,Maiores distâncias,55.0,46.5,Não,9,3,Teófilo Otoni,Belo Horizonte,316860,310620
+Novorizonte,314537,SALINAS,NORTE,4612.0,569,0,569,0,123.4,0.0,100.0,39.7,39.7,Demais municípios,55.0,123.4,Não,17,4,Salinas,Belo Horizonte,315700,310620
+Olaria,314540,LIMA DUARTE,SUDESTE,1986.0,249,0,249,0,125.4,0.0,100.0,62.1,62.1,Maiores distâncias,55.0,125.4,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Olhos-d'Água,314545,BOCAIÚVA,NORTE,5530.0,469,0,469,0,84.8,0.0,100.0,56.2,56.2,Maiores distâncias,55.0,84.8,Não,17,4,Bocaiúva,Belo Horizonte,310730,310620
+Olímpio Noronha,314550,SÃO LOURENÇO,SUL,2618.0,316,0,316,0,120.7,0.0,100.0,28.6,28.6,Demais municípios,55.0,120.7,Não,10,3,São Lourenço,Varginha,316370,317070
+Oliveira,314560,OLIVEIRA/SANTO ANTÔNIO DO AMPARO,OESTE,40576.0,4167,3322,845,3236,20.8,79.8,20.3,16.1,79.6,Demais municípios,55.0,102.7,Sim,8,2,Divinópolis,Divinópolis,312230,312230
+Oliveira Fortes,314570,SANTOS DUMONT,SUDESTE,2058.0,178,0,178,0,86.5,0.0,100.0,31.4,31.4,Demais municípios,55.0,86.5,Não,3,4,Santos Dumont,Belo Horizonte,316070,310620
+Onça de Pitangui,314580,PARÁ DE MINAS/NOVA SERRANA,OESTE,3024.0,306,0,306,0,101.2,0.0,100.0,48.7,48.7,Demais municípios,55.0,101.2,Não,8,3,Pará de Minas,Belo Horizonte,314710,310620
+Oratórios,314585,PONTE NOVA,LESTE DO SUL,5102.0,350,0,350,0,68.6,0.0,100.0,27.7,27.7,Demais municípios,55.0,68.6,Não,4,3,Ponte Nova,Belo Horizonte,315210,310620
+Orizânia,314587,CARANGOLA,SUDESTE,8828.0,631,0,631,0,71.5,0.0,100.0,45.4,45.4,Demais municípios,55.0,71.5,Não,3,4,Carangola,Belo Horizonte,311330,310620
+Ouro Branco,314590,CONGONHAS,CENTRO SUL,40638.0,2499,1571,928,13,22.8,0.3,37.1,22.0,59.1,Demais municípios,55.0,61.5,Sim,12,2,Belo Horizonte,Belo Horizonte,310620,310620
+Ouro Fino,314600,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,33285.0,3257,2532,725,1321,21.8,39.7,22.3,13.7,61.5,Demais municípios,55.0,97.9,Sim,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Ouro Preto,314610,OURO PRETO,CENTRO,77914.0,5690,4623,1067,834,13.7,10.7,18.8,12.0,64.2,Demais municípios,55.0,73.0,Sim,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Ouro Verde de Minas,314620,TEÓFILO OTONI/MALACACHETA,NORDESTE,5847.0,528,0,528,0,90.3,0.0,100.0,43.7,43.7,Demais municípios,55.0,90.3,Não,9,3,Teófilo Otoni,Belo Horizonte,316860,310620
+Padre Carvalho,314625,SALINAS,NORTE,5045.0,498,0,498,0,98.7,0.0,100.0,58.3,58.3,Maiores distâncias,55.0,98.7,Não,17,4,Salinas,Belo Horizonte,315700,310620
+Padre Paraíso,314630,PADRE PARAÍSO,NORDESTE,17463.0,1669,1227,442,761,25.3,43.6,26.5,34.1,128.9,Demais municípios,55.0,95.6,Sim,9,3,Teófilo Otoni,Belo Horizonte,316860,310620
+Pai Pedro,314655,JANAÚBA/MONTE AZUL,NORTE,5616.0,464,0,464,0,82.6,0.0,100.0,70.6,70.6,Maiores distâncias,55.0,82.6,Não,17,4,Janaúba,Belo Horizonte,313510,310620
+Paineiras,314640,SETE LAGOAS,CENTRO,4253.0,279,0,279,0,65.6,0.0,100.0,137.2,137.2,Maiores distâncias,55.0,65.6,Não,2,3,Sete Lagoas,Belo Horizonte,316720,310620
+Pains,314650,FORMIGA,OESTE,8353.0,641,200,441,0,52.8,0.0,68.8,45.7,66.4,Demais municípios,55.0,76.7,Não,8,3,Formiga,Divinópolis,312610,312230
+Paiva,314660,BARBACENA,CENTRO SUL,1495.0,109,0,109,0,72.9,0.0,100.0,41.4,41.4,Demais municípios,55.0,72.9,Não,12,3,Barbacena,Belo Horizonte,310560,310620
+Palma,314670,LEOPOLDINA/CATAGUASES,SUDESTE,5699.0,478,166,312,1,54.7,0.2,65.3,27.6,42.3,Demais municípios,55.0,83.9,Sim,3,3,Muriaé,Belo Horizonte,314390,310620
+Palmópolis,314675,ALMENARA/JACINTO,NORDESTE,6342.0,558,0,558,0,88.0,0.0,100.0,96.2,96.2,Maiores distâncias,55.0,88.0,Não,9,4,Almenara,Belo Horizonte,310170,310620
+Papagaios,314690,SETE LAGOAS,CENTRO,14202.0,1057,0,1057,0,74.4,0.0,100.0,57.2,57.2,Maiores distâncias,55.0,74.4,Não,2,3,Sete Lagoas,Belo Horizonte,316720,310620
+Pará de Minas,314710,PARÁ DE MINAS/NOVA SERRANA,OESTE,102844.0,8017,5841,2176,2557,21.2,24.9,27.1,16.4,60.4,Demais municípios,55.0,78.0,Sim,8,2,Belo Horizonte,Belo Horizonte,310620,310620
+Paracatu,314700,UNAÍ/PARACATU,NOROESTE,99005.0,8245,7381,864,632,8.7,6.4,10.5,24.6,234.6,Demais municípios,55.0,83.3,Sim,15,3,Patos de Minas,Belo Horizonte,314800,310620
+Paraguaçu,314720,ALFENAS/MACHADO,SUDOESTE,22452.0,1873,883,990,194,44.1,8.6,52.9,18.8,35.7,Demais municípios,55.0,83.4,Sim,11,4,Alfenas,Belo Horizonte,310160,310620
+Paraisópolis,314730,ITAJUBÁ, EXTREMO SUL,21076.0,1513,632,881,277,41.8,13.1,58.2,32.0,55.0,Demais municípios,55.0,71.8,Sim,11,4,Itajubá,Belo Horizonte,313240,310620
+Paraopeba,314740,SETE LAGOAS,CENTRO,24899.0,1630,0,1630,0,65.5,0.0,100.0,35.6,35.6,Demais municípios,55.0,65.5,Não,2,3,Sete Lagoas,Belo Horizonte,316720,310620
+Passa Quatro,314760,SÃO LOURENÇO,SUL,15847.0,1638,1129,509,18,32.1,1.1,31.1,15.8,50.7,Demais municípios,55.0,103.4,Sim,10,3,São Lourenço,Varginha,316370,317070
+Passa Tempo,314770,OLIVEIRA/SANTO ANTÔNIO DO AMPARO,OESTE,8716.0,843,357,486,8,55.8,0.9,57.7,37.4,64.9,Demais municípios,55.0,96.7,Sim,8,3,Oliveira,Divinópolis,314560,312230
+Passa Vinte,314780,LIMA DUARTE,SUDESTE,2311.0,152,0,152,0,65.8,0.0,100.0,76.6,76.6,Maiores distâncias,55.0,65.8,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Passabém,314750,ITABIRA,CENTRO,1609.0,146,50,96,0,59.7,0.0,65.8,30.2,45.9,Demais municípios,55.0,90.7,Não,16,3,Itabira,Belo Horizonte,313170,310620
+Passos,314790,PASSOS,SUDOESTE,116951.0,9710,9367,343,9405,2.9,80.4,3.5,6.2,175.1,Demais municípios,55.0,83.0,Sim,13,2,Belo Horizonte,Belo Horizonte,310620,310620
+Patis,314795,BRASÍLIA DE MINAS,NORTE,4825.0,399,0,399,0,82.7,0.0,100.0,62.9,62.9,Maiores distâncias,55.0,82.7,Não,17,4,Brasília de Minas,Belo Horizonte,310860,310620
+Patos de Minas,314800,PATOS DE MINAS,NOROESTE,169173.0,12843,12273,570,8842,3.4,52.3,4.4,12.1,273.7,Demais municípios,55.0,75.9,Sim,15,2,Belo Horizonte,Belo Horizonte,310620,310620
+Patrocínio,314810,PATROCÍNIO/MONTE CARMELO,TRIÂNGULO DO NORTE,94357.0,6337,5800,537,1616,5.7,17.1,8.5,13.6,160.8,Demais municípios,55.0,67.2,Sim,1,3,Uberlândia,Belo Horizonte,317020,310620
+Patrocínio do Muriaé,314820,MURIAÉ,SUDESTE,5754.0,432,0,432,0,75.1,0.0,100.0,20.7,20.7,Demais municípios,55.0,75.1,Não,3,3,Muriaé,Belo Horizonte,314390,310620
+Paula Cândido,314830,VIÇOSA,LESTE DO SUL,8757.0,613,0,613,0,70.0,0.0,100.0,30.6,30.6,Demais municípios,55.0,70.0,Não,4,4,Viçosa,Belo Horizonte,317130,310620
+Paulistas,314840,PEÇANHA/SÃO JOÃO EVANGELISTA/SANTA MARIA DO SUAÇUÍ,LESTE,4402.0,409,0,409,0,92.9,0.0,100.0,42.9,42.9,Demais municípios,55.0,92.9,Não,6,4,São João Evangelista,Belo Horizonte,316280,310620
+Pavão,314850,ÁGUAS FORMOSAS,NORDESTE,8143.0,417,0,417,0,51.2,0.0,100.0,67.6,67.6,Maiores distâncias,55.0,51.2,Não,9,4,Águas Formosas,Belo Horizonte,310090,310620
+Peçanha,314860,PEÇANHA/SÃO JOÃO EVANGELISTA/SANTA MARIA DO SUAÇUÍ,LESTE,17863.0,1707,1489,218,1797,12.2,100.6,12.8,16.2,127.0,Demais municípios,55.0,95.6,Sim,6,2,Belo Horizonte,Belo Horizonte,310620,310620
+Pedra Azul,314870,PEDRA AZUL,NORDESTE,25045.0,2036,1672,364,1483,14.5,59.2,17.9,53.3,298.0,Demais municípios,55.0,81.3,Sim,9,3,Teófilo Otoni,Belo Horizonte,316860,310620
+Pedra Bonita,314875,CARANGOLA,SUDESTE,7599.0,568,0,568,0,74.7,0.0,100.0,51.0,51.0,Demais municípios,55.0,74.7,Não,3,4,Carangola,Belo Horizonte,311330,310620
+Pedra do Anta,314880,VIÇOSA,LESTE DO SUL,3366.0,293,0,293,0,87.0,0.0,100.0,38.0,38.0,Demais municípios,55.0,87.0,Não,4,4,Viçosa,Belo Horizonte,317130,310620
+Pedra do Indaiá,314890,LAGOA DA PRATA/SANTO ANTÔNIO DO MONTE,OESTE,4247.0,219,0,219,0,51.6,0.0,100.0,40.9,40.9,Demais municípios,55.0,51.6,Não,8,3,Santo Antônio do Monte,Divinópolis,316040,312230
+Pedra Dourada,314900,CARANGOLA,SUDESTE,2916.0,234,0,234,0,80.2,0.0,100.0,28.8,28.8,Demais municípios,55.0,80.2,Não,3,4,Carangola,Belo Horizonte,311330,310620
+Pedralva,314910,ITAJUBÁ, EXTREMO SUL,10891.0,1032,247,785,30,72.1,2.8,76.1,27.5,36.2,Demais municípios,55.0,94.8,Sim,11,4,Itajubá,Belo Horizonte,313240,310620
+Pedras de Maria da Cruz,314915,JANUÁRIA,NORTE,10601.0,566,0,566,0,53.4,0.0,100.0,79.0,79.0,Maiores distâncias,55.0,53.4,Não,17,4,Januária,Belo Horizonte,313520,310620
+Pedrinópolis,314920,ARAXÁ,TRIÂNGULO DO SUL,3398.0,178,0,178,0,52.4,0.0,100.0,74.2,74.2,Maiores distâncias,55.0,52.4,Não,7,3,Uberaba,Belo Horizonte,317010,310620
+Pedro Leopoldo,314930,VESPASIANO/LAGOA SANTA,CENTRO,65174.0,3450,1220,2230,641,34.2,9.8,64.6,22.3,34.5,Demais municípios,55.0,52.9,Sim,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Pedro Teixeira,314940,LIMA DUARTE,SUDESTE,1857.0,153,0,153,0,82.4,0.0,100.0,36.4,36.4,Demais municípios,55.0,82.4,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Pequeri,314950,SÃO JOÃO NEPOMUCENO,SUDESTE,3461.0,316,0,316,0,91.3,0.0,100.0,25.9,25.9,Demais municípios,55.0,91.3,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Pequi,314960,PARÁ DE MINAS/NOVA SERRANA,OESTE,4265.0,376,0,376,0,88.2,0.0,100.0,55.6,55.6,Maiores distâncias,55.0,88.2,Não,2,3,Sete Lagoas,Belo Horizonte,316720,310620
+Perdigão,314970,DIVINÓPOLIS,OESTE,13118.0,895,0,895,0,68.2,0.0,100.0,45.7,45.7,Demais municípios,55.0,68.2,Não,8,2,Divinópolis,Divinópolis,312230,312230
+Perdizes,314980,ARAXÁ,TRIÂNGULO DO SUL,17992.0,1549,960,589,6,32.7,0.3,38.0,28.8,75.7,Demais municípios,55.0,86.1,Sim,7,3,Uberaba,Belo Horizonte,317010,310620
+Perdões,314990,LAVRAS,SUL,22075.0,1747,879,868,54,39.3,2.4,49.7,21.1,42.5,Demais municípios,55.0,79.1,Sim,10,3,Lavras,Varginha,313820,317070
+Periquito,314995,IPATINGA,VALE DO AÇO,6624.0,498,0,498,0,75.2,0.0,100.0,54.7,54.7,Demais municípios,55.0,75.2,Não,5,2,Ipatinga,Ipatinga,313130,313130
+Pescador,315000,ITAMBACURI,NORDESTE,3559.0,251,0,251,0,70.5,0.0,100.0,51.1,51.1,Demais municípios,55.0,70.5,Não,9,4,Itambacuri,Belo Horizonte,313270,310620
+Piau,315010,JUIZ DE FORA,SUDESTE,2854.0,179,0,179,0,62.7,0.0,100.0,43.1,43.1,Demais municípios,55.0,62.7,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Piedade de Caratinga,315015,CARATINGA,VALE DO AÇO,8966.0,816,0,816,0,91.0,0.0,100.0,24.0,24.0,Demais municípios,55.0,91.0,Não,5,3,Caratinga,Ipatinga,311340,313130
+Piedade de Ponte Nova,315020,PONTE NOVA,LESTE DO SUL,4054.0,324,0,324,0,79.9,0.0,100.0,30.9,30.9,Demais municípios,55.0,79.9,Não,4,3,Ponte Nova,Belo Horizonte,315210,310620
+Piedade do Rio Grande,315030,SÃO JOÃO DEL REI,CENTRO SUL,4694.0,508,120,388,0,82.7,0.0,76.4,39.7,52.0,Demais municípios,55.0,108.2,Não,12,4,São João del Rei,Belo Horizonte,316250,310620
+Piedade dos Gerais,315040,BETIM,CENTRO,5199.0,368,0,368,0,70.8,0.0,100.0,56.0,56.0,Maiores distâncias,55.0,70.8,Não,16,3,Betim,Belo Horizonte,310670,310620
+Pimenta,315050,PIUMHI,SUDOESTE,8817.0,939,202,737,0,83.6,0.0,78.5,38.5,49.1,Demais municípios,55.0,106.5,Não,13,4,Piumhi,Belo Horizonte,315150,310620
+Pingo-d'Água,315053,CORONEL FABRICIANO/TIMÓTEO,VALE DO AÇO,4864.0,370,0,370,0,76.1,0.0,100.0,39.2,39.2,Demais municípios,55.0,76.1,Não,5,2,Ipatinga,Ipatinga,313130,313130
+Pintópolis,315057,SÃO FRANCISCO,NORTE,7228.0,573,0,573,0,79.3,0.0,100.0,96.8,96.8,Maiores distâncias,55.0,79.3,Não,17,4,São Francisco,Belo Horizonte,316110,310620
+Piracema,315060,ITAÚNA,OESTE,6905.0,688,0,688,0,99.6,0.0,100.0,46.6,46.6,Demais municípios,55.0,99.6,Não,8,4,Itaguara,Belo Horizonte,313220,310620
+Pirajuba,315070,FRUTAL/ITURAMA,TRIÂNGULO DO SUL,5814.0,265,0,265,0,45.6,0.0,100.0,69.4,69.4,Maiores distâncias,55.0,45.6,Não,7,3,Uberaba,Belo Horizonte,317010,310620
+Piranga,315080,CONSELHEIRO LAFAIETE,CENTRO SUL,17358.0,1244,438,806,36,46.4,2.1,64.8,48.8,75.3,Demais municípios,55.0,71.7,Sim,12,4,Conselheiro Lafaiete,Belo Horizonte,311830,310620
+Piranguçu,315090,ITAJUBÁ, EXTREMO SUL,6320.0,534,0,534,0,84.5,0.0,100.0,28.2,28.2,Demais municípios,55.0,84.5,Não,11,4,Itajubá,Belo Horizonte,313240,310620
+Piranguinho,315100,ITAJUBÁ, EXTREMO SUL,9518.0,848,0,848,0,89.1,0.0,100.0,20.7,20.7,Demais municípios,55.0,89.1,Não,11,4,Itajubá,Belo Horizonte,313240,310620
+Pirapetinga,315110,ALÉM PARAÍBA,SUDESTE,11454.0,998,605,393,1,34.3,0.1,39.4,23.6,60.0,Demais municípios,55.0,87.1,Sim,3,3,Muriaé,Belo Horizonte,314390,310620
+Pirapora,315120,PIRAPORA,NORTE,57713.0,4699,3872,827,3911,14.3,67.8,17.6,28.8,163.5,Demais municípios,55.0,81.4,Sim,17,3,Montes Claros,Belo Horizonte,314330,310620
+Piraúba,315130,UBÁ,SUDESTE,12006.0,708,0,708,0,59.0,0.0,100.0,32.0,32.0,Demais municípios,55.0,59.0,Não,3,4,Ubá,Belo Horizonte,316990,310620
+Pitangui,315140,PARÁ DE MINAS/NOVA SERRANA,OESTE,27834.0,2223,1000,1223,469,43.9,16.8,55.0,32.5,59.1,Demais municípios,55.0,79.9,Sim,8,3,Pará de Minas,Belo Horizonte,314710,310620
+Piumhi,315150,PIUMHI,SUDOESTE,38007.0,4360,3358,1002,1810,26.4,47.6,23.0,21.0,91.5,Demais municípios,55.0,114.7,Sim,13,3,Passos,Belo Horizonte,314790,310620
+Planura,315160,FRUTAL/ITURAMA,TRIÂNGULO DO SUL,11533.0,397,0,397,0,34.4,0.0,100.0,71.9,71.9,Maiores distâncias,55.0,34.4,Não,7,3,Uberaba,Belo Horizonte,317010,310620
+Poço Fundo,315170,ALFENAS/MACHADO,SUDOESTE,16824.0,1633,1015,618,3357,36.7,199.5,37.8,16.4,43.4,Demais municípios,55.0,97.1,Sim,11,4,Alfenas,Belo Horizonte,310160,310620
+Poços de Caldas,315180,POÇOS DE CALDAS, EXTREMO SUL,172339.0,10322,10163,159,4860,0.9,28.2,1.5,2.8,178.9,Demais municípios,55.0,59.9,Sim,11,2,Belo Horizonte,Belo Horizonte,310620,310620
+Pocrane,315190,MANHUAÇU,LESTE DO SUL,8438.0,691,175,516,1,61.2,0.1,74.7,65.0,87.1,Maiores distâncias,55.0,81.9,Sim,3,5,Ipanema,Belo Horizonte,313120,310620
+Pompéu,315200,SETE LAGOAS,CENTRO,32441.0,2388,988,1400,288,43.2,8.9,58.6,56.7,96.7,Maiores distâncias,55.0,73.6,Sim,2,3,Sete Lagoas,Belo Horizonte,316720,310620
+Ponte Nova,315210,PONTE NOVA,LESTE DO SUL,59638.0,4443,4076,367,8242,6.2,138.2,8.3,8.7,104.8,Demais municípios,55.0,74.5,Sim,4,2,Belo Horizonte,Belo Horizonte,310620,310620
+Ponto Chique,315213,PIRAPORA,NORTE,3797.0,247,0,247,0,65.1,0.0,100.0,110.4,110.4,Maiores distâncias,55.0,65.1,Não,17,4,Pirapora,Belo Horizonte,315120,310620
+Ponto dos Volantes,315217,ITAOBIM,NORDESTE,11059.0,966,0,966,0,87.3,0.0,100.0,71.1,71.1,Maiores distâncias,55.0,87.3,Não,9,4,Itaobim,Belo Horizonte,313330,310620
+Porteirinha,315220,JANAÚBA/MONTE AZUL,NORTE,38692.0,3543,2133,1410,734,36.4,19.0,39.8,33.4,84.0,Demais municípios,55.0,91.6,Sim,17,4,Janaúba,Belo Horizonte,313510,310620
+Porto Firme,315230,VIÇOSA,LESTE DO SUL,10840.0,740,0,740,0,68.3,0.0,100.0,37.9,37.9,Demais municípios,55.0,68.3,Não,4,4,Viçosa,Belo Horizonte,317130,310620
+Poté,315240,TEÓFILO OTONI/MALACACHETA,NORDESTE,13649.0,1237,490,747,3,54.7,0.2,60.4,30.5,50.5,Demais municípios,55.0,90.6,Sim,9,3,Teófilo Otoni,Belo Horizonte,316860,310620
+Pouso Alegre,315250,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,162133.0,8199,7859,340,11944,2.1,73.7,4.1,5.4,131.2,Demais municípios,55.0,50.6,Sim,11,2,Belo Horizonte,Belo Horizonte,310620,310620
+Pouso Alto,315260,SÃO LOURENÇO,SUL,6779.0,660,224,436,62,64.3,9.1,66.1,18.4,27.8,Demais municípios,55.0,97.4,Sim,10,3,São Lourenço,Varginha,316370,317070
+Prados,315270,SÃO JOÃO DEL REI,CENTRO SUL,9369.0,936,350,586,102,62.5,10.9,62.6,24.5,39.1,Demais municípios,55.0,99.9,Sim,12,4,São João del Rei,Belo Horizonte,316250,310620
+Prata,315280,UBERLÂNDIA/ARAGUARI,TRIÂNGULO DO NORTE,29745.0,2176,969,1207,2,40.6,0.1,55.5,53.5,96.5,Demais municípios,55.0,73.2,Sim,1,3,Uberlândia,Belo Horizonte,317020,310620
+Pratápolis,315290,SÃO SEBASTIÃO DO PARAÍSO,SUDOESTE,8534.0,723,29,694,0,81.3,0.0,96.0,31.4,32.7,Demais municípios,55.0,84.7,Não,13,4,São Sebastião do Paraíso,Belo Horizonte,316470,310620
+Pratinha,315300,ARAXÁ,TRIÂNGULO DO SUL,3691.0,203,0,203,0,55.0,0.0,100.0,115.5,115.5,Maiores distâncias,55.0,55.0,Não,7,4,Araxá,Belo Horizonte,310400,310620
+Presidente Bernardes,315310,UBÁ,SUDESTE,4847.0,304,90,214,0,44.2,0.0,70.4,47.5,67.5,Demais municípios,55.0,62.7,Não,3,4,Ubá,Belo Horizonte,316990,310620
+Presidente Juscelino,315320,CURVELO,CENTRO,3471.0,272,0,272,0,78.4,0.0,100.0,62.1,62.1,Maiores distâncias,55.0,78.4,Não,2,3,Curvelo,Belo Horizonte,312090,310620
+Presidente Kubitschek,315330,DIAMANTINA/ITAMARANDIBA,JEQUITINHONHA,3162.0,228,0,228,0,72.1,0.0,100.0,46.9,46.9,Demais municípios,55.0,72.1,Não,14,3,Diamantina,Belo Horizonte,312160,310620
+Presidente Olegário,315340,PATOS DE MINAS,NOROESTE,19192.0,1176,501,675,33,35.2,1.7,57.4,33.8,58.8,Demais municípios,55.0,61.3,Sim,15,3,Patos de Minas,Belo Horizonte,314800,310620
+Prudente de Morais,315360,SETE LAGOAS,CENTRO,12052.0,675,0,675,0,56.0,0.0,100.0,18.1,18.1,Demais municípios,55.0,56.0,Não,2,3,Sete Lagoas,Belo Horizonte,316720,310620
+Quartel Geral,315370,SETE LAGOAS,CENTRO,3232.0,301,0,301,0,93.1,0.0,100.0,68.9,68.9,Maiores distâncias,55.0,93.1,Não,2,4,Abaeté,Belo Horizonte,310020,310620
+Queluzito,315380,CONSELHEIRO LAFAIETE,CENTRO SUL,1796.0,178,0,178,0,99.1,0.0,100.0,40.0,40.0,Demais municípios,55.0,99.1,Não,12,4,Conselheiro Lafaiete,Belo Horizonte,311830,310620
+Raposos,315390,BELO HORIZONTE/NOVA LIMA/SANTA LUZIA,CENTRO,16796.0,1275,0,1275,0,75.9,0.0,100.0,9.1,9.1,Demais municípios,55.0,75.9,Não,16,3,Nova Lima,Belo Horizonte,314480,310620
+Raul Soares,315400,PONTE NOVA,LESTE DO SUL,23874.0,2498,1754,744,2115,31.2,88.6,29.8,21.9,73.6,Demais municípios,55.0,104.6,Sim,4,3,Ponte Nova,Belo Horizonte,315210,310620
+Recreio,315410,LEOPOLDINA/CATAGUASES,SUDESTE,11383.0,800,399,401,106,35.2,9.3,50.1,20.2,40.3,Demais municípios,55.0,70.3,Sim,3,3,Muriaé,Belo Horizonte,314390,310620
+Reduto,315415,MANHUAÇU,LESTE DO SUL,8246.0,558,0,558,0,67.7,0.0,100.0,39.4,39.4,Demais municípios,55.0,67.7,Não,3,4,Manhuaçu,Belo Horizonte,313940,310620
+Resende Costa,315420,SÃO JOÃO DEL REI,CENTRO SUL,11544.0,1140,646,494,535,42.8,46.3,43.3,20.8,48.0,Demais municípios,55.0,98.8,Sim,12,4,São João del Rei,Belo Horizonte,316250,310620
+Resplendor,315430,RESPLENDOR,LESTE,17629.0,2203,1952,251,2125,14.2,120.5,11.4,14.1,123.9,Demais municípios,55.0,125.0,Sim,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Ressaquinha,315440,BARBACENA,CENTRO SUL,4640.0,341,0,341,0,73.5,0.0,100.0,26.4,26.4,Demais municípios,55.0,73.5,Não,12,3,Barbacena,Belo Horizonte,310560,310620
+Riachinho,315445,UNAÍ/PARACATU,NOROESTE,6830.0,315,0,315,0,46.1,0.0,100.0,213.6,213.6,Maiores distâncias,55.0,46.1,Não,15,4,Paracatu,Belo Horizonte,314700,310620
+Riacho dos Machados,315450,JANAÚBA/MONTE AZUL,NORTE,8858.0,515,0,515,0,58.1,0.0,100.0,61.8,61.8,Maiores distâncias,55.0,58.1,Não,17,4,Janaúba,Belo Horizonte,313510,310620
+Ribeirão das Neves,315460,BELO HORIZONTE/NOVA LIMA/SANTA LUZIA,CENTRO,346971.0,19935,4640,15295,309,44.1,0.9,76.7,18.4,24.0,Demais municípios,55.0,57.5,Sim,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Ribeirão Vermelho,315470,LAVRAS,SUL,4217.0,434,163,271,5,64.3,1.2,62.4,17.7,28.3,Demais municípios,55.0,102.9,Sim,10,3,Lavras,Varginha,313820,317070
+Rio Acima,315480,BELO HORIZONTE/NOVA LIMA/SANTA LUZIA,CENTRO,10698.0,925,0,925,0,86.5,0.0,100.0,19.3,19.3,Demais municípios,55.0,86.5,Não,16,3,Nova Lima,Belo Horizonte,314480,310620
+Rio Casca,315490,PONTE NOVA,LESTE DO SUL,12851.0,1298,486,812,292,63.2,22.7,62.6,28.3,45.2,Demais municípios,55.0,101.0,Sim,4,3,Ponte Nova,Belo Horizonte,315210,310620
+Rio do Prado,315510,ALMENARA/JACINTO,NORDESTE,4649.0,423,0,423,0,91.0,0.0,100.0,91.4,91.4,Maiores distâncias,55.0,91.0,Não,9,4,Almenara,Belo Horizonte,310170,310620
+Rio Doce,315500,PONTE NOVA,LESTE DO SUL,2545.0,187,0,187,0,73.5,0.0,100.0,30.4,30.4,Demais municípios,55.0,73.5,Não,4,3,Ponte Nova,Belo Horizonte,315210,310620
+Rio Espera,315520,CONSELHEIRO LAFAIETE,CENTRO SUL,5447.0,314,64,250,1,45.9,0.2,79.6,43.6,54.8,Demais municípios,55.0,57.6,Sim,12,4,Conselheiro Lafaiete,Belo Horizonte,311830,310620
+Rio Manso,315530,BETIM,CENTRO,5746.0,301,0,301,0,52.4,0.0,100.0,39.2,39.2,Demais municípios,55.0,52.4,Não,16,3,Betim,Belo Horizonte,310670,310620
+Rio Novo,315540,JUIZ DE FORA,SUDESTE,8683.0,641,0,641,0,73.8,0.0,100.0,50.9,50.9,Demais municípios,55.0,73.8,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Rio Paranaíba,315550,SÃO GOTARDO,NOROESTE,15297.0,723,252,471,0,30.8,0.0,65.1,47.7,73.3,Demais municípios,55.0,47.3,Não,15,3,Patos de Minas,Belo Horizonte,314800,310620
+Rio Pardo de Minas,315560,TAIOBEIRAS,NORTE,29103.0,2610,1029,1581,156,54.3,5.4,60.6,52.7,87.0,Demais municípios,55.0,89.7,Sim,17,4,Taiobeiras,Belo Horizonte,316800,310620
+Rio Piracicaba,315570,JOÃO MONLEVADE,CENTRO,15036.0,1039,281,758,4,50.4,0.3,73.0,27.0,37.1,Demais municípios,55.0,69.1,Sim,16,3,João Monlevade,Belo Horizonte,313620,310620
+Rio Pomba,315580,UBÁ,SUDESTE,17885.0,1791,1243,548,746,30.6,41.7,30.6,15.4,50.2,Demais municípios,55.0,100.1,Sim,3,4,Ubá,Belo Horizonte,316990,310620
+Rio Preto,315590,LIMA DUARTE,SUDESTE,5235.0,398,193,205,46,39.2,8.8,51.5,39.0,75.7,Demais municípios,55.0,76.0,Sim,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Rio Vermelho,315600,GUANHÃES,CENTRO,12770.0,999,451,548,3,42.9,0.2,54.9,46.6,85.0,Demais municípios,55.0,78.2,Sim,6,3,Guanhães,Belo Horizonte,312800,310620
+Ritápolis,315610,SÃO JOÃO DEL REI,CENTRO SUL,5122.0,456,0,456,0,89.0,0.0,100.0,28.6,28.6,Demais municípios,55.0,89.0,Não,12,4,São João del Rei,Belo Horizonte,316250,310620
+Rochedo de Minas,315620,SÃO JOÃO NEPOMUCENO,SUDESTE,2374.0,218,0,218,0,91.8,0.0,100.0,27.3,27.3,Demais municípios,55.0,91.8,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Rodeiro,315630,UBÁ,SUDESTE,9168.0,716,0,716,0,78.1,0.0,100.0,31.6,31.6,Demais municípios,55.0,78.1,Não,3,4,Ubá,Belo Horizonte,316990,310620
+Romaria,315640,PATROCÍNIO/MONTE CARMELO,TRIÂNGULO DO NORTE,3430.0,318,30,288,0,84.0,0.0,90.6,42.7,47.2,Demais municípios,55.0,92.7,Não,1,5,Monte Carmelo,Belo Horizonte,314310,310620
+Rosário da Limeira,315645,MURIAÉ,SUDESTE,4926.0,380,0,380,0,77.1,0.0,100.0,44.6,44.6,Demais municípios,55.0,77.1,Não,3,3,Muriaé,Belo Horizonte,314390,310620
+Rubelita,315650,SALINAS,NORTE,5460.0,497,0,497,0,91.0,0.0,100.0,51.5,51.5,Demais municípios,55.0,91.0,Não,17,4,Salinas,Belo Horizonte,315700,310620
+Rubim,315660,ALMENARA/JACINTO,NORDESTE,10602.0,792,473,319,11,30.1,1.0,40.3,68.4,169.9,Maiores distâncias,55.0,74.7,Sim,9,4,Almenara,Belo Horizonte,310170,310620
+Sabará,315670,BELO HORIZONTE/NOVA LIMA/SANTA LUZIA,CENTRO,134576.0,7527,1257,6270,233,46.6,1.7,83.3,12.2,14.6,Demais municípios,55.0,55.9,Sim,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Sabinópolis,315680,GUANHÃES,CENTRO,14309.0,1726,940,786,328,54.9,22.9,45.5,28.6,62.8,Demais municípios,55.0,120.6,Sim,6,3,Guanhães,Belo Horizonte,312800,310620
+Sacramento,315690,UBERABA,TRIÂNGULO DO SUL,28076.0,2384,1554,830,38,29.6,1.4,34.8,19.7,56.7,Demais municípios,55.0,84.9,Sim,7,3,Uberaba,Belo Horizonte,317010,310620
+Salinas,315700,SALINAS,NORTE,41736.0,4897,3889,1008,2496,24.2,59.8,20.6,32.0,155.4,Demais municípios,55.0,117.3,Sim,17,3,Montes Claros,Belo Horizonte,314330,310620
+Salto da Divisa,315710,ALMENARA/JACINTO,NORDESTE,6126.0,474,251,223,0,36.4,0.0,47.0,96.3,204.6,Maiores distâncias,55.0,77.4,Não,9,4,Almenara,Belo Horizonte,310170,310620
+Santa Bárbara,315720,ITABIRA,CENTRO,31916.0,2067,1225,842,250,26.4,7.8,40.7,23.0,56.5,Demais municípios,55.0,64.8,Sim,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Santa Bárbara do Leste,315725,CARATINGA,VALE DO AÇO,8785.0,630,0,630,0,71.7,0.0,100.0,37.3,37.3,Demais municípios,55.0,71.7,Não,5,3,Caratinga,Ipatinga,311340,313130
+Santa Bárbara do Monte Verde,315727,LIMA DUARTE,SUDESTE,3218.0,261,0,261,0,81.1,0.0,100.0,42.3,42.3,Demais municípios,55.0,81.1,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Santa Bárbara do Tugúrio,315730,BARBACENA,CENTRO SUL,4245.0,248,0,248,0,58.4,0.0,100.0,31.0,31.0,Demais municípios,55.0,58.4,Não,12,3,Barbacena,Belo Horizonte,310560,310620
+Santa Cruz de Minas,315733,SÃO JOÃO DEL REI,CENTRO SUL,8339.0,689,0,689,0,82.6,0.0,100.0,21.9,21.9,Demais municípios,55.0,82.6,Não,12,4,São João del Rei,Belo Horizonte,316250,310620
+Santa Cruz de Salinas,315737,SALINAS,NORTE,3919.0,420,0,420,0,107.2,0.0,100.0,91.8,91.8,Maiores distâncias,55.0,107.2,Não,17,4,Salinas,Belo Horizonte,315700,310620
+Santa Cruz do Escalvado,315740,PONTE NOVA,LESTE DO SUL,4728.0,257,0,257,0,54.4,0.0,100.0,26.5,26.5,Demais municípios,55.0,54.4,Não,4,3,Ponte Nova,Belo Horizonte,315210,310620
+Santa Efigênia de Minas,315750,GOVERNADOR VALADARES,LESTE,4038.0,290,0,290,0,71.8,0.0,100.0,63.4,63.4,Maiores distâncias,55.0,71.8,Não,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Santa Fé de Minas,315760,PIRAPORA,NORTE,3528.0,246,0,246,0,69.7,0.0,100.0,124.4,124.4,Maiores distâncias,55.0,69.7,Não,17,4,Pirapora,Belo Horizonte,315120,310620
+Santa Helena de Minas,315765,ÁGUAS FORMOSAS,NORDESTE,6056.0,564,0,564,0,93.1,0.0,100.0,64.5,64.5,Maiores distâncias,55.0,93.1,Não,9,4,Machacalis,Belo Horizonte,313890,310620
+Santa Juliana,315770,ARAXÁ,TRIÂNGULO DO SUL,16820.0,881,229,652,0,38.8,0.0,74.0,50.6,68.4,Demais municípios,55.0,52.4,Não,7,3,Uberaba,Belo Horizonte,317010,310620
+Santa Luzia,315780,BELO HORIZONTE/NOVA LIMA/SANTA LUZIA,CENTRO,230382.0,15416,4124,11292,367,49.0,1.6,73.2,14.6,19.9,Demais municípios,55.0,66.9,Sim,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Santa Margarida,315790,MANHUAÇU,LESTE DO SUL,16989.0,1614,811,803,134,47.3,7.9,49.8,29.0,58.2,Demais municípios,55.0,95.0,Sim,3,4,Manhuaçu,Belo Horizonte,313940,310620
+Santa Maria de Itabira,315800,ITABIRA,CENTRO,10718.0,697,152,545,3,50.8,0.3,78.2,34.0,43.5,Demais municípios,55.0,65.0,Sim,16,3,Itabira,Belo Horizonte,313170,310620
+Santa Maria do Salto,315810,ALMENARA/JACINTO,NORDESTE,4777.0,440,0,440,0,92.1,0.0,100.0,97.4,97.4,Maiores distâncias,55.0,92.1,Não,9,4,Almenara,Belo Horizonte,310170,310620
+Santa Maria do Suaçuí,315820,PEÇANHA/SÃO JOÃO EVANGELISTA/SANTA MARIA DO SUAÇUÍ,LESTE,12817.0,1363,1091,272,1150,21.2,89.7,20.0,31.2,156.1,Demais municípios,55.0,106.3,Sim,6,2,Belo Horizonte,Belo Horizonte,310620,310620
+Santa Rita de Caldas,315920,POÇOS DE CALDAS, EXTREMO SUL,8561.0,619,0,619,0,72.3,0.0,100.0,39.1,39.1,Demais municípios,55.0,72.3,Não,11,3,Poços de Caldas,Belo Horizonte,315180,310620
+Santa Rita de Ibitipoca,315940,BARBACENA,CENTRO SUL,3331.0,186,0,186,0,55.8,0.0,100.0,40.1,40.1,Demais municípios,55.0,55.8,Não,12,3,Barbacena,Belo Horizonte,310560,310620
+Santa Rita de Jacutinga,315930,LIMA DUARTE,SUDESTE,4826.0,432,230,202,0,41.9,0.0,46.8,39.2,83.9,Demais municípios,55.0,89.5,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Santa Rita de Minas,315935,CARATINGA,VALE DO AÇO,6969.0,412,0,412,0,59.1,0.0,100.0,27.4,27.4,Demais municípios,55.0,59.1,Não,5,3,Caratinga,Ipatinga,311340,313130
+Santa Rita do Itueto,315950,RESPLENDOR,LESTE,5984.0,718,0,718,0,120.0,0.0,100.0,30.7,30.7,Demais municípios,55.0,120.0,Não,6,4,Resplendor,Belo Horizonte,315430,310620
+Santa Rita do Sapucaí,315960,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,42517.0,3419,2734,685,1450,16.1,34.1,20.0,7.1,35.3,Demais municípios,55.0,80.4,Sim,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Santa Rosa da Serra,315970,SÃO GOTARDO,NOROESTE,3487.0,215,0,215,0,61.7,0.0,100.0,101.3,101.3,Maiores distâncias,55.0,61.7,Não,15,3,Patos de Minas,Belo Horizonte,314800,310620
+Santa Vitória,315980,ITUIUTABA,TRIÂNGULO DO NORTE,21914.0,1293,840,453,6,20.7,0.3,35.0,56.2,160.4,Maiores distâncias,55.0,59.0,Sim,1,3,Uberlândia,Belo Horizonte,317020,310620
+Santana da Vargem,315830,TRÊS PONTAS,SUL,6756.0,497,0,497,0,73.6,0.0,100.0,33.5,33.5,Demais municípios,55.0,73.6,Não,10,3,Três Pontas,Varginha,316940,317070
+Santana de Cataguases,315840,LEOPOLDINA/CATAGUASES,SUDESTE,3548.0,298,0,298,0,84.0,0.0,100.0,39.5,39.5,Demais municípios,55.0,84.0,Não,3,4,Cataguases,Belo Horizonte,311530,310620
+Santana de Pirapama,315850,SETE LAGOAS,CENTRO,7030.0,446,0,446,0,63.4,0.0,100.0,63.3,63.3,Maiores distâncias,55.0,63.4,Não,2,3,Sete Lagoas,Belo Horizonte,316720,310620
+Santana do Deserto,315860,JUIZ DE FORA,SUDESTE,3815.0,333,0,333,0,87.3,0.0,100.0,36.9,36.9,Demais municípios,55.0,87.3,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Santana do Garambéu,315870,BARBACENA,CENTRO SUL,2171.0,165,0,165,0,76.0,0.0,100.0,52.4,52.4,Demais municípios,55.0,76.0,Não,12,3,Barbacena,Belo Horizonte,310560,310620
+Santana do Jacaré,315880,CAMPO BELO,OESTE,4246.0,478,0,478,0,112.6,0.0,100.0,31.5,31.5,Demais municípios,55.0,112.6,Não,8,3,Campo Belo,Divinópolis,311120,312230
+Santana do Manhuaçu,315890,MANHUAÇU,LESTE DO SUL,9264.0,624,0,624,0,67.4,0.0,100.0,48.5,48.5,Demais municípios,55.0,67.4,Não,3,4,Manhuaçu,Belo Horizonte,313940,310620
+Santana do Paraíso,315895,IPATINGA,VALE DO AÇO,49025.0,2596,0,2596,0,53.0,0.0,100.0,21.1,21.1,Demais municípios,55.0,53.0,Não,5,2,Ipatinga,Ipatinga,313130,313130
+Santana do Riacho,315900,VESPASIANO/LAGOA SANTA,CENTRO,5654.0,304,0,304,0,53.8,0.0,100.0,71.7,71.7,Maiores distâncias,55.0,53.8,Não,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Santana dos Montes,315910,CONSELHEIRO LAFAIETE,CENTRO SUL,3490.0,178,0,178,0,51.0,0.0,100.0,36.2,36.2,Demais municípios,55.0,51.0,Não,12,4,Conselheiro Lafaiete,Belo Horizonte,311830,310620
+Santo Antônio do Amparo,315990,OLIVEIRA/SANTO ANTÔNIO DO AMPARO,OESTE,17657.0,2104,1659,445,2080,25.2,117.8,21.2,15.9,75.4,Demais municípios,55.0,119.2,Sim,8,3,Oliveira,Divinópolis,314560,312230
+Santo Antônio do Aventureiro,316000,ALÉM PARAÍBA,SUDESTE,3896.0,252,0,252,0,64.7,0.0,100.0,44.8,44.8,Demais municípios,55.0,64.7,Não,3,4,Além Paraíba,Belo Horizonte,310150,310620
+Santo Antônio do Grama,316010,PONTE NOVA,LESTE DO SUL,4352.0,365,0,365,0,83.9,0.0,100.0,37.4,37.4,Demais municípios,55.0,83.9,Não,4,3,Ponte Nova,Belo Horizonte,315210,310620
+Santo Antônio do Itambé,316020,SERRO,JEQUITINHONHA,3969.0,435,0,435,0,109.6,0.0,100.0,37.9,37.9,Demais municípios,55.0,109.6,Não,14,4,Serro,Belo Horizonte,316710,310620
+Santo Antônio do Jacinto,316030,ALMENARA/JACINTO,NORDESTE,10324.0,742,0,742,0,71.9,0.0,100.0,112.8,112.8,Maiores distâncias,55.0,71.9,Não,9,4,Almenara,Belo Horizonte,310170,310620
+Santo Antônio do Monte,316040,LAGOA DA PRATA/SANTO ANTÔNIO DO MONTE,OESTE,28456.0,2675,1970,705,2632,24.8,92.5,26.4,18.6,70.7,Demais municípios,55.0,94.0,Sim,8,2,Divinópolis,Divinópolis,312230,312230
+Santo Antônio do Retiro,316045,TAIOBEIRAS,NORTE,6729.0,648,0,648,0,96.3,0.0,100.0,88.8,88.8,Maiores distâncias,55.0,96.3,Não,17,4,Taiobeiras,Belo Horizonte,316800,310620
+Santo Antônio do Rio Abaixo,316050,ITABIRA,CENTRO,1856.0,108,0,108,0,58.2,0.0,100.0,67.0,67.0,Maiores distâncias,55.0,58.2,Não,16,3,Itabira,Belo Horizonte,313170,310620
+Santo Hipólito,316060,CURVELO,CENTRO,2692.0,253,0,253,0,94.0,0.0,100.0,80.2,80.2,Maiores distâncias,55.0,94.0,Não,2,3,Curvelo,Belo Horizonte,312090,310620
+Santos Dumont,316070,SANTOS DUMONT,SUDESTE,43218.0,3421,2097,1324,459,30.6,10.6,38.7,17.3,44.7,Demais municípios,55.0,79.2,Sim,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+São Bento Abade,316080,TRÊS CORAÇÕES,SUL,4846.0,368,0,368,0,75.9,0.0,100.0,30.4,30.4,Demais municípios,55.0,75.9,Não,10,3,Três Corações,Varginha,316930,317070
+São Brás do Suaçuí,316090,CONGONHAS,CENTRO SUL,4161.0,317,0,317,0,76.2,0.0,100.0,30.7,30.7,Demais municípios,55.0,76.2,Não,12,3,Congonhas,Belo Horizonte,311800,310620
+São Domingos das Dores,316095,CARATINGA,VALE DO AÇO,5793.0,522,0,522,0,90.1,0.0,100.0,43.4,43.4,Demais municípios,55.0,90.1,Não,5,3,Caratinga,Ipatinga,311340,313130
+São Domingos do Prata,316100,JOÃO MONLEVADE,CENTRO,17783.0,1542,722,820,2,46.1,0.1,53.2,27.9,52.5,Demais municípios,55.0,86.7,Sim,16,3,João Monlevade,Belo Horizonte,313620,310620
+São Félix de Minas,316105,MANTENA/ITABIRINHA,LESTE,3244.0,207,0,207,0,63.8,0.0,100.0,58.5,58.5,Maiores distâncias,55.0,63.8,Não,6,3,Governador Valadares,Belo Horizonte,312770,310620
+São Francisco,316110,SÃO FRANCISCO,NORTE,54223.0,5761,4205,1556,534,28.7,9.8,27.0,40.8,150.9,Demais municípios,55.0,106.2,Sim,17,3,Montes Claros,Belo Horizonte,314330,310620
+São Francisco de Paula,316120,OLIVEIRA/SANTO ANTÔNIO DO AMPARO,OESTE,6281.0,700,0,700,0,111.4,0.0,100.0,29.8,29.8,Demais municípios,55.0,111.4,Não,8,3,Oliveira,Divinópolis,314560,312230
+São Francisco de Sales,316130,FRUTAL/ITURAMA,TRIÂNGULO DO SUL,5858.0,184,0,184,0,31.4,0.0,100.0,143.5,143.5,Maiores distâncias,55.0,31.4,Não,7,3,Uberaba,Belo Horizonte,317010,310620
+São Francisco do Glória,316140,MURIAÉ,SUDESTE,4848.0,352,0,352,0,72.6,0.0,100.0,46.8,46.8,Demais municípios,55.0,72.6,Não,3,3,Muriaé,Belo Horizonte,314390,310620
+São Geraldo,316150,UBÁ,SUDESTE,10524.0,780,0,780,0,74.1,0.0,100.0,28.6,28.6,Demais municípios,55.0,74.1,Não,3,5,Visconde do Rio Branco,Belo Horizonte,317200,310620
+São Geraldo da Piedade,316160,GOVERNADOR VALADARES,LESTE,3200.0,239,0,239,0,74.7,0.0,100.0,50.0,50.0,Demais municípios,55.0,74.7,Não,6,3,Governador Valadares,Belo Horizonte,312770,310620
+São Geraldo do Baixio,316165,GOVERNADOR VALADARES,LESTE,3158.0,220,0,220,0,69.7,0.0,100.0,73.9,73.9,Maiores distâncias,55.0,69.7,Não,6,3,Governador Valadares,Belo Horizonte,312770,310620
+São Gonçalo do Abaeté,316170,PATOS DE MINAS,NOROESTE,7515.0,310,0,310,0,41.3,0.0,100.0,126.3,126.3,Maiores distâncias,55.0,41.3,Não,15,3,Patos de Minas,Belo Horizonte,314800,310620
+São Gonçalo do Pará,316180,DIVINÓPOLIS,OESTE,12275.0,759,0,759,0,61.8,0.0,100.0,49.2,49.2,Demais municípios,55.0,61.8,Não,8,2,Divinópolis,Divinópolis,312230,312230
+São Gonçalo do Rio Abaixo,316190,ITABIRA,CENTRO,12475.0,649,0,649,0,52.0,0.0,100.0,43.9,43.9,Demais municípios,55.0,52.0,Não,16,3,Itabira,Belo Horizonte,313170,310620
+São Gonçalo do Rio Preto,312550,DIAMANTINA/ITAMARANDIBA,JEQUITINHONHA,3099.0,239,0,239,0,77.1,0.0,100.0,65.2,65.2,Maiores distâncias,55.0,77.1,Não,14,3,Diamantina,Belo Horizonte,312160,310620
+São Gonçalo do Sapucaí,316200,VARGINHA,SUL,24497.0,2437,1478,959,48,39.1,2.0,39.4,18.8,47.7,Demais municípios,55.0,99.5,Sim,10,2,Varginha,Varginha,317070,317070
+São Gotardo,316210,SÃO GOTARDO,NOROESTE,43851.0,2902,1976,926,252,21.1,5.7,31.9,38.9,122.0,Demais municípios,55.0,66.2,Sim,15,3,Patos de Minas,Belo Horizonte,314800,310620
+São João Batista do Glória,316220,PASSOS,SUDOESTE,7959.0,888,215,673,5,84.6,0.6,75.8,19.0,25.0,Demais municípios,55.0,111.6,Sim,13,3,Passos,Belo Horizonte,314790,310620
+São João da Lagoa,316225,CORAÇÃO DE JESUS,NORTE,4962.0,387,0,387,0,78.0,0.0,100.0,39.5,39.5,Demais municípios,55.0,78.0,Não,17,3,Montes Claros,Belo Horizonte,314330,310620
+São João da Mata,316230,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,3012.0,243,0,243,0,80.7,0.0,100.0,31.8,31.8,Demais municípios,55.0,80.7,Não,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+São João da Ponte,316240,BRASÍLIA DE MINAS,NORTE,24197.0,2971,1891,1080,106,44.6,4.4,36.4,34.6,95.3,Demais municípios,55.0,122.8,Sim,17,3,Montes Claros,Belo Horizonte,314330,310620
+São João das Missões,316245,MANGA,NORTE,13547.0,1154,0,1154,0,85.2,0.0,100.0,81.7,81.7,Maiores distâncias,55.0,85.2,Não,17,4,Manga,Belo Horizonte,313930,310620
+São João del Rei,316250,SÃO JOÃO DEL REI,CENTRO SUL,94468.0,5848,4644,1204,4612,12.7,48.8,20.6,15.8,76.9,Demais municípios,55.0,61.9,Sim,12,3,Barbacena,Belo Horizonte,310560,310620
+São João do Manhuaçu,316255,MANHUAÇU,LESTE DO SUL,11676.0,822,0,822,0,70.4,0.0,100.0,44.4,44.4,Demais municípios,55.0,70.4,Não,3,4,Manhuaçu,Belo Horizonte,313940,310620
+São João do Manteninha,316257,MANTENA/ITABIRINHA,LESTE,5479.0,520,264,256,17,46.7,3.1,49.2,32.3,65.6,Demais municípios,55.0,94.9,Sim,6,4,Mantena,Belo Horizonte,313960,310620
+São João do Oriente,316260,IPATINGA,VALE DO AÇO,7099.0,577,0,577,0,81.3,0.0,100.0,49.1,49.1,Demais municípios,55.0,81.3,Não,5,2,Ipatinga,Ipatinga,313130,313130
+São João do Pacuí,316265,CORAÇÃO DE JESUS,NORTE,4050.0,321,0,321,0,79.3,0.0,100.0,54.6,54.6,Demais municípios,55.0,79.3,Não,17,4,Coração de Jesus,Belo Horizonte,311880,310620
+São João do Paraíso,316270,TAIOBEIRAS,NORTE,24706.0,2451,1347,1104,287,44.7,11.6,45.0,65.0,144.4,Maiores distâncias,55.0,99.2,Sim,17,4,Taiobeiras,Belo Horizonte,316800,310620
+São João Evangelista,316280,PEÇANHA/SÃO JOÃO EVANGELISTA/SANTA MARIA DO SUAÇUÍ,LESTE,15613.0,1754,1380,374,843,24.0,54.0,21.3,19.3,90.7,Demais municípios,55.0,112.3,Sim,6,3,Governador Valadares,Belo Horizonte,312770,310620
+São João Nepomuceno,316290,SÃO JOÃO NEPOMUCENO,SUDESTE,26529.0,2225,1153,1072,319,40.4,12.0,48.2,21.0,43.6,Demais municípios,55.0,83.9,Sim,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+São Joaquim de Bicas,316292,BETIM,CENTRO,37017.0,2691,0,2691,0,72.7,0.0,100.0,18.9,18.9,Demais municípios,55.0,72.7,Não,16,3,Betim,Belo Horizonte,310670,310620
+São José da Barra,316294,PASSOS,SUDOESTE,8145.0,670,0,670,0,82.3,0.0,100.0,40.2,40.2,Demais municípios,55.0,82.3,Não,13,3,Passos,Belo Horizonte,314790,310620
+São José da Lapa,316295,VESPASIANO/LAGOA SANTA,CENTRO,28087.0,1599,0,1599,0,56.9,0.0,100.0,22.4,22.4,Demais municípios,55.0,56.9,Não,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+São José da Safira,316300,GOVERNADOR VALADARES,LESTE,3849.0,296,0,296,0,76.9,0.0,100.0,89.8,89.8,Maiores distâncias,55.0,76.9,Não,6,3,Governador Valadares,Belo Horizonte,312770,310620
+São José da Varginha,316310,PARÁ DE MINAS/NOVA SERRANA,OESTE,4698.0,421,0,421,0,89.6,0.0,100.0,36.2,36.2,Demais municípios,55.0,89.6,Não,8,3,Pará de Minas,Belo Horizonte,314710,310620
+São José do Alegre,316320,ITAJUBÁ, EXTREMO SUL,4252.0,374,0,374,0,88.0,0.0,100.0,22.1,22.1,Demais municípios,55.0,88.0,Não,11,4,Itajubá,Belo Horizonte,313240,310620
+São José do Divino,316330,ITAMBACURI,NORDESTE,3482.0,245,0,245,0,70.4,0.0,100.0,80.5,80.5,Maiores distâncias,55.0,70.4,Não,9,4,Itambacuri,Belo Horizonte,313270,310620
+São José do Goiabal,316340,PONTE NOVA,LESTE DO SUL,5482.0,326,0,326,0,59.5,0.0,100.0,60.7,60.7,Maiores distâncias,55.0,59.5,Não,4,3,Ponte Nova,Belo Horizonte,315210,310620
+São José do Jacuri,316350,PEÇANHA/SÃO JOÃO EVANGELISTA/SANTA MARIA DO SUAÇUÍ,LESTE,6282.0,556,0,556,0,88.5,0.0,100.0,62.5,62.5,Maiores distâncias,55.0,88.5,Não,6,3,Peçanha,Belo Horizonte,314860,310620
+São José do Mantimento,316360,MANHUAÇU,LESTE DO SUL,2844.0,207,0,207,0,72.8,0.0,100.0,66.7,66.7,Maiores distâncias,55.0,72.8,Não,3,4,Manhuaçu,Belo Horizonte,313940,310620
+São Lourenço,316370,SÃO LOURENÇO,SUL,46868.0,4238,3736,502,5347,10.7,114.1,11.8,8.0,67.2,Demais municípios,55.0,90.4,Sim,10,2,Varginha,Varginha,317070,317070
+São Miguel do Anta,316380,VIÇOSA,LESTE DO SUL,6410.0,445,0,445,0,69.4,0.0,100.0,32.1,32.1,Demais municípios,55.0,69.4,Não,4,4,Viçosa,Belo Horizonte,317130,310620
+São Pedro da União,316390,PASSOS,SUDOESTE,4973.0,409,107,302,0,60.7,0.0,73.8,37.4,50.6,Demais municípios,55.0,82.2,Não,11,5,Guaxupé,Belo Horizonte,312870,310620
+São Pedro do Suaçuí,316410,PEÇANHA/SÃO JOÃO EVANGELISTA/SANTA MARIA DO SUAÇUÍ,LESTE,5143.0,484,0,484,0,94.1,0.0,100.0,36.9,36.9,Demais municípios,55.0,94.1,Não,6,3,Peçanha,Belo Horizonte,314860,310620
+São Pedro dos Ferros,316400,PONTE NOVA,LESTE DO SUL,7132.0,669,0,669,0,93.8,0.0,100.0,37.7,37.7,Demais municípios,55.0,93.8,Não,4,3,Ponte Nova,Belo Horizonte,315210,310620
+São Romão,316420,SÃO FRANCISCO,NORTE,10562.0,891,353,538,2,50.9,0.2,60.4,86.8,143.8,Maiores distâncias,55.0,84.4,Sim,17,4,Brasília de Minas,Belo Horizonte,310860,310620
+São Roque de Minas,316430,PIUMHI,SUDOESTE,7370.0,637,55,582,4,79.0,0.5,91.4,59.7,65.3,Maiores distâncias,55.0,86.4,Sim,13,4,Piumhi,Belo Horizonte,315150,310620
+São Sebastião da Bela Vista,316440,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,6778.0,425,0,425,0,62.7,0.0,100.0,25.2,25.2,Demais municípios,55.0,62.7,Não,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+São Sebastião da Vargem Alegre,316443,MURIAÉ,SUDESTE,3239.0,202,0,202,0,62.4,0.0,100.0,33.7,33.7,Demais municípios,55.0,62.4,Não,3,3,Muriaé,Belo Horizonte,314390,310620
+São Sebastião do Anta,316447,CARATINGA,VALE DO AÇO,6415.0,518,0,518,0,80.7,0.0,100.0,46.7,46.7,Demais municípios,55.0,80.7,Não,5,3,Caratinga,Ipatinga,311340,313130
+São Sebastião do Maranhão,316450,PEÇANHA/SÃO JOÃO EVANGELISTA/SANTA MARIA DO SUAÇUÍ,LESTE,10218.0,799,0,799,0,78.2,0.0,100.0,53.8,53.8,Demais municípios,55.0,78.2,Não,6,3,Santa Maria do Suaçuí,Belo Horizonte,315820,310620
+São Sebastião do Oeste,316460,DIVINÓPOLIS,OESTE,9527.0,440,0,440,0,46.2,0.0,100.0,31.8,31.8,Demais municípios,55.0,46.2,Não,8,2,Divinópolis,Divinópolis,312230,312230
+São Sebastião do Paraíso,316470,SÃO SEBASTIÃO DO PARAÍSO,SUDOESTE,75179.0,6132,5674,458,4708,6.1,62.6,7.5,6.6,88.4,Demais municípios,55.0,81.6,Sim,13,3,Passos,Belo Horizonte,314790,310620
+São Sebastião do Rio Preto,316480,ITABIRA,CENTRO,1229.0,115,0,115,0,93.6,0.0,100.0,43.4,43.4,Demais municípios,55.0,93.6,Não,16,3,Itabira,Belo Horizonte,313170,310620
+São Sebastião do Rio Verde,316490,SÃO LOURENÇO,SUL,2385.0,183,0,183,0,76.7,0.0,100.0,20.8,20.8,Demais municípios,55.0,76.7,Não,10,3,São Lourenço,Varginha,316370,317070
+São Tiago,316500,SÃO JOÃO DEL REI,CENTRO SUL,11559.0,1142,492,650,9,56.2,0.8,56.9,36.0,63.3,Demais municípios,55.0,98.8,Sim,12,4,São João del Rei,Belo Horizonte,316250,310620
+São Tomás de Aquino,316510,SÃO SEBASTIÃO DO PARAÍSO,SUDOESTE,6837.0,533,0,533,0,78.0,0.0,100.0,42.0,42.0,Demais municípios,55.0,78.0,Não,13,4,São Sebastião do Paraíso,Belo Horizonte,316470,310620
+São Tomé das Letras,316520,TRÊS CORAÇÕES,SUL,7107.0,397,0,397,0,55.9,0.0,100.0,42.6,42.6,Demais municípios,55.0,55.9,Não,10,3,Três Corações,Varginha,316930,317070
+São Vicente de Minas,316530,SÃO JOÃO DEL REI,CENTRO SUL,6928.0,577,308,269,89,38.8,12.8,46.6,33.2,71.3,Demais municípios,55.0,83.3,Sim,12,4,São João del Rei,Belo Horizonte,316250,310620
+Sapucaí-Mirim,316540,ITAJUBÁ, EXTREMO SUL,6469.0,209,0,209,0,32.3,0.0,100.0,64.0,64.0,Maiores distâncias,55.0,32.3,Não,11,4,Santa Rita do Sapucaí,Belo Horizonte,315960,310620
+Sardoá,316550,GOVERNADOR VALADARES,LESTE,5140.0,364,0,364,0,70.8,0.0,100.0,52.3,52.3,Demais municípios,55.0,70.8,Não,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Sarzedo,316553,CONTAGEM,CENTRO,39974.0,1762,0,1762,0,44.1,0.0,100.0,19.5,19.5,Demais municípios,55.0,44.1,Não,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Sem-Peixe,316556,PONTE NOVA,LESTE DO SUL,2420.0,225,0,225,0,93.0,0.0,100.0,46.0,46.0,Demais municípios,55.0,93.0,Não,4,3,Ponte Nova,Belo Horizonte,315210,310620
+Senador Amaral,316557,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,6517.0,616,0,616,0,94.5,0.0,100.0,45.4,45.4,Demais municípios,55.0,94.5,Não,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Senador Cortes,316560,SÃO JOÃO NEPOMUCENO,SUDESTE,2335.0,203,0,203,0,86.9,0.0,100.0,30.5,30.5,Demais municípios,55.0,86.9,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Senador Firmino,316570,UBÁ,SUDESTE,7977.0,732,169,563,17,70.6,2.1,76.9,43.0,55.9,Demais municípios,55.0,91.8,Sim,3,4,Ubá,Belo Horizonte,316990,310620
+Senador José Bento,316580,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,2149.0,134,0,134,0,62.4,0.0,100.0,38.3,38.3,Demais municípios,55.0,62.4,Não,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Senador Modestino Gonçalves,316590,DIAMANTINA/ITAMARANDIBA,JEQUITINHONHA,4006.0,435,0,435,0,108.6,0.0,100.0,66.1,66.1,Maiores distâncias,55.0,108.6,Não,14,3,Diamantina,Belo Horizonte,312160,310620
+Senhora de Oliveira,316600,CONSELHEIRO LAFAIETE,CENTRO SUL,5577.0,351,0,351,0,62.9,0.0,100.0,63.1,63.1,Maiores distâncias,55.0,62.9,Não,12,4,Conselheiro Lafaiete,Belo Horizonte,311830,310620
+Senhora do Porto,316610,GUANHÃES,CENTRO,3066.0,343,0,343,0,111.9,0.0,100.0,40.7,40.7,Demais municípios,55.0,111.9,Não,6,3,Guanhães,Belo Horizonte,312800,310620
+Senhora dos Remédios,316620,BARBACENA,CENTRO SUL,10657.0,693,0,693,0,65.0,0.0,100.0,40.1,40.1,Demais municípios,55.0,65.0,Não,12,3,Barbacena,Belo Horizonte,310560,310620
+Sericita,316630,PONTE NOVA,LESTE DO SUL,7552.0,552,0,552,0,73.1,0.0,100.0,51.2,51.2,Demais municípios,55.0,73.1,Não,4,3,Ponte Nova,Belo Horizonte,315210,310620
+Seritinga,316640,SÃO LOURENÇO,SUL,1866.0,231,0,231,0,123.8,0.0,100.0,23.3,23.3,Demais municípios,55.0,123.8,Não,10,3,Aiuruoca,Varginha,310120,317070
+Serra Azul de Minas,316650,SERRO,JEQUITINHONHA,3808.0,308,0,308,0,80.9,0.0,100.0,50.5,50.5,Demais municípios,55.0,80.9,Não,14,4,Serro,Belo Horizonte,316710,310620
+Serra da Saudade,316660,BOM DESPACHO,OESTE,856.0,111,0,111,0,129.7,0.0,100.0,59.0,59.0,Maiores distâncias,55.0,129.7,Não,8,4,Dores do Indaiá,Divinópolis,312320,312230
+Serra do Salitre,316680,PATOS DE MINAS,NOROESTE,12286.0,1393,838,555,117,45.2,9.5,39.8,36.8,92.3,Demais municípios,55.0,113.4,Sim,15,3,Patos de Minas,Belo Horizonte,314800,310620
+Serra dos Aimorés,316670,NANUQUE,NORDESTE,6859.0,622,0,622,0,90.7,0.0,100.0,53.5,53.5,Demais municípios,55.0,90.7,Não,9,4,Nanuque,Belo Horizonte,314430,310620
+Serrania,316690,ALFENAS/MACHADO,SUDOESTE,7811.0,720,123,597,0,76.4,0.0,82.9,21.3,25.7,Demais municípios,55.0,92.2,Não,11,4,Alfenas,Belo Horizonte,310160,310620
+Serranópolis de Minas,316695,JANAÚBA/MONTE AZUL,NORTE,4497.0,336,0,336,0,74.7,0.0,100.0,55.2,55.2,Maiores distâncias,55.0,74.7,Não,17,5,Porteirinha,Belo Horizonte,315220,310620
+Serranos,316700,SÃO LOURENÇO,SUL,2036.0,245,0,245,0,120.3,0.0,100.0,28.2,28.2,Demais municípios,55.0,120.3,Não,10,3,Aiuruoca,Varginha,310120,317070
+Serro,316710,SERRO,JEQUITINHONHA,22624.0,2416,1912,504,1409,22.3,62.3,20.9,17.6,84.3,Demais municípios,55.0,106.8,Sim,14,3,Diamantina,Belo Horizonte,312160,310620
+Sete Lagoas,316720,SETE LAGOAS,CENTRO,238909.0,13775,12006,1769,8879,7.4,37.2,12.8,8.3,64.9,Demais municípios,55.0,57.7,Sim,2,2,Belo Horizonte,Belo Horizonte,310620,310620
+Setubinha,316555,TEÓFILO OTONI/MALACACHETA,NORDESTE,9985.0,857,0,857,0,85.8,0.0,100.0,51.8,51.8,Demais municípios,55.0,85.8,Não,9,4,Malacacheta,Belo Horizonte,313920,310620
+Silveirânia,316730,UBÁ,SUDESTE,2399.0,256,0,256,0,106.7,0.0,100.0,35.8,35.8,Demais municípios,55.0,106.7,Não,3,5,Rio Pomba,Belo Horizonte,315580,310620
+Silvianópolis,316740,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,6348.0,319,0,319,0,50.3,0.0,100.0,26.4,26.4,Demais municípios,55.0,50.3,Não,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Simão Pereira,316750,JUIZ DE FORA,SUDESTE,3084.0,280,0,280,0,90.8,0.0,100.0,38.1,38.1,Demais municípios,55.0,90.8,Não,3,3,Juiz de Fora,Belo Horizonte,313670,310620
+Simonésia,316760,MANHUAÇU,LESTE DO SUL,20431.0,1429,0,1429,0,69.9,0.0,100.0,50.1,50.1,Demais municípios,55.0,69.9,Não,3,4,Manhuaçu,Belo Horizonte,313940,310620
+Sobrália,316770,GOVERNADOR VALADARES,LESTE,5140.0,298,0,298,0,58.0,0.0,100.0,52.1,52.1,Demais municípios,55.0,58.0,Não,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Soledade de Minas,316780,SÃO LOURENÇO,SUL,5733.0,474,0,474,0,82.7,0.0,100.0,14.4,14.4,Demais municípios,55.0,82.7,Não,10,3,São Lourenço,Varginha,316370,317070
+Tabuleiro,316790,UBÁ,SUDESTE,4097.0,398,0,398,0,97.1,0.0,100.0,25.8,25.8,Demais municípios,55.0,97.1,Não,3,5,Rio Pomba,Belo Horizonte,315580,310620
+Taiobeiras,316800,TAIOBEIRAS,NORTE,34537.0,4683,4202,481,6054,13.9,175.3,10.3,23.2,226.3,Demais municípios,55.0,135.6,Sim,17,3,Montes Claros,Belo Horizonte,314330,310620
+Taparuba,316805,MANHUAÇU,LESTE DO SUL,3508.0,328,0,328,0,93.5,0.0,100.0,73.8,73.8,Maiores distâncias,55.0,93.5,Não,3,5,Ipanema,Belo Horizonte,313120,310620
+Tapira,316810,ARAXÁ,TRIÂNGULO DO SUL,4215.0,216,0,216,0,51.2,0.0,100.0,111.2,111.2,Maiores distâncias,55.0,51.2,Não,7,4,Araxá,Belo Horizonte,310400,310620
+Tapiraí,316820,FORMIGA,OESTE,1698.0,169,0,169,0,99.5,0.0,100.0,51.8,51.8,Demais municípios,55.0,99.5,Não,8,3,Bambuí,Divinópolis,310510,312230
+Taquaraçu de Minas,316830,BELO HORIZONTE/NOVA LIMA/SANTA LUZIA,CENTRO,4394.0,248,0,248,0,56.4,0.0,100.0,44.7,44.7,Demais municípios,55.0,56.4,Não,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Tarumirim,316840,GOVERNADOR VALADARES,LESTE,15104.0,1699,1354,345,2828,22.8,187.2,20.3,12.1,59.7,Demais municípios,55.0,112.5,Sim,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Teixeiras,316850,VIÇOSA,LESTE DO SUL,12691.0,864,0,864,0,68.1,0.0,100.0,24.8,24.8,Demais municípios,55.0,68.1,Não,4,4,Viçosa,Belo Horizonte,317130,310620
+Teófilo Otoni,316860,TEÓFILO OTONI/MALACACHETA,NORDESTE,142851.0,10391,9924,467,10458,3.3,73.2,4.5,13.4,297.7,Demais municípios,55.0,72.7,Sim,9,2,Belo Horizonte,Belo Horizonte,310620,310620
+Timóteo,316870,CORONEL FABRICIANO/TIMÓTEO,VALE DO AÇO,84172.0,4792,2963,1829,863,21.7,10.3,38.2,11.3,29.6,Demais municípios,55.0,56.9,Sim,5,2,Ipatinga,Ipatinga,313130,313130
+Tiradentes,316880,SÃO JOÃO DEL REI,CENTRO SUL,8056.0,542,0,542,0,67.3,0.0,100.0,31.3,31.3,Demais municípios,55.0,67.3,Não,12,4,São João del Rei,Belo Horizonte,316250,310620
+Tiros,316890,SÃO GOTARDO,NOROESTE,8231.0,538,241,297,0,36.1,0.0,55.2,54.3,98.3,Demais municípios,55.0,65.4,Não,15,3,Patos de Minas,Belo Horizonte,314800,310620
+Tocantins,316900,UBÁ,SUDESTE,16603.0,1189,0,1189,0,71.6,0.0,100.0,26.6,26.6,Demais municípios,55.0,71.6,Não,3,4,Ubá,Belo Horizonte,316990,310620
+Tocos do Moji,316905,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,3894.0,273,0,273,0,70.1,0.0,100.0,46.6,46.6,Demais municípios,55.0,70.1,Não,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Toledo,316910,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,7625.0,317,0,317,0,41.6,0.0,100.0,65.7,65.7,Maiores distâncias,55.0,41.6,Não,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Tombos,316920,CARANGOLA,SUDESTE,8653.0,961,435,526,0,60.8,0.0,54.7,22.1,40.3,Demais municípios,55.0,111.1,Não,3,4,Carangola,Belo Horizonte,311330,310620
+Três Corações,316930,TRÊS CORAÇÕES,SUL,78291.0,4843,3887,956,1577,12.2,20.1,19.7,11.1,56.2,Demais municípios,55.0,61.9,Sim,10,2,Varginha,Varginha,317070,317070
+Três Marias,316935,CURVELO,CENTRO,29985.0,2419,1587,832,72,27.7,2.4,34.4,60.0,174.5,Maiores distâncias,55.0,80.7,Sim,2,2,Belo Horizonte,Belo Horizonte,310620,310620
+Três Pontas,316940,TRÊS PONTAS,SUL,57209.0,4795,3882,913,1470,16.0,25.7,19.0,13.2,69.5,Demais municípios,55.0,83.8,Sim,10,2,Varginha,Varginha,317070,317070
+Tumiritinga,316950,GOVERNADOR VALADARES,LESTE,5955.0,307,0,307,0,51.6,0.0,100.0,45.6,45.6,Demais municípios,55.0,51.6,Não,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Tupaciguara,316960,UBERLÂNDIA/ARAGUARI,TRIÂNGULO DO NORTE,26583.0,3012,1539,1473,0,55.4,0.0,48.9,26.8,54.9,Demais municípios,55.0,113.3,Não,1,4,Araguari,Belo Horizonte,310350,310620
+Turmalina,316970,TURMALINA/MINAS NOVAS/CAPELINHA,JEQUITINHONHA,20769.0,3172,2458,714,1147,34.4,55.2,22.5,40.8,181.2,Demais municípios,55.0,152.7,Sim,14,3,Diamantina,Belo Horizonte,312160,310620
+Turvolândia,316980,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ, EXTREMO SUL,5097.0,464,0,464,0,91.0,0.0,100.0,38.1,38.1,Demais municípios,55.0,91.0,Não,11,3,Pouso Alegre,Belo Horizonte,315250,310620
+Ubá,316990,UBÁ,SUDESTE,107423.0,7591,6434,1157,6005,10.8,55.9,15.2,14.0,92.0,Demais municípios,55.0,70.7,Sim,3,3,Muriaé,Belo Horizonte,314390,310620
+Ubaí,317000,BRASÍLIA DE MINAS,NORTE,11985.0,865,0,865,0,72.2,0.0,100.0,69.6,69.6,Maiores distâncias,55.0,72.2,Não,17,4,Brasília de Minas,Belo Horizonte,310860,310620
+Ubaporanga,317005,CARATINGA,VALE DO AÇO,13485.0,1077,0,1077,0,79.9,0.0,100.0,27.8,27.8,Demais municípios,55.0,79.9,Não,5,3,Caratinga,Ipatinga,311340,313130
+Uberaba,317010,UBERABA,TRIÂNGULO DO SUL,356781.0,24327,24201,126,10689,0.4,30.0,0.5,1.2,229.6,Demais municípios,55.0,68.2,Sim,7,2,Belo Horizonte,Belo Horizonte,310620,310620
+Uberlândia,317020,UBERLÂNDIA/ARAGUARI,TRIÂNGULO DO NORTE,761835.0,61548,61079,469,5255,0.6,6.9,0.8,2.4,314.5,Demais municípios,55.0,80.8,Sim,1,2,Belo Horizonte,Belo Horizonte,310620,310620
+Umburatiba,317030,ÁGUAS FORMOSAS,NORDESTE,2742.0,221,0,221,0,80.6,0.0,100.0,57.9,57.9,Maiores distâncias,55.0,80.6,Não,9,4,Machacalis,Belo Horizonte,313890,310620
+Unaí,317040,UNAÍ/PARACATU,NOROESTE,91320.0,5748,5057,691,1331,7.6,14.6,12.0,38.3,318.3,Demais municípios,55.0,62.9,Sim,15,3,Patos de Minas,Belo Horizonte,314800,310620
+União de Minas,317043,FRUTAL/ITURAMA,TRIÂNGULO DO SUL,3818.0,177,39,138,1,36.1,0.3,78.0,104.4,133.9,Maiores distâncias,55.0,46.4,Sim,7,4,Iturama,Belo Horizonte,313440,310620
+Uruana de Minas,317047,UNAÍ/PARACATU,NOROESTE,3365.0,133,0,133,0,39.5,0.0,100.0,166.0,166.0,Maiores distâncias,55.0,39.5,Não,15,4,Unaí,Belo Horizonte,317040,310620
+Urucânia,317050,PONTE NOVA,LESTE DO SUL,10899.0,743,0,743,0,68.2,0.0,100.0,30.0,30.0,Demais municípios,55.0,68.2,Não,4,3,Ponte Nova,Belo Horizonte,315210,310620
+Urucuia,317052,SÃO FRANCISCO,NORTE,18515.0,1003,649,354,3,19.1,0.2,35.3,79.1,224.2,Maiores distâncias,55.0,54.2,Sim,17,3,Montes Claros,Belo Horizonte,314330,310620
+Vargem Alegre,317057,CARATINGA,VALE DO AÇO,5800.0,435,0,435,0,75.0,0.0,100.0,43.3,43.3,Demais municípios,55.0,75.0,Não,5,3,Caratinga,Ipatinga,311340,313130
+Vargem Bonita,317060,PIUMHI,SUDOESTE,2207.0,214,0,214,0,97.0,0.0,100.0,65.2,65.2,Maiores distâncias,55.0,97.0,Não,13,4,Piumhi,Belo Horizonte,315150,310620
+Vargem Grande do Rio Pardo,317065,TAIOBEIRAS,NORTE,4724.0,516,0,516,0,109.2,0.0,100.0,88.1,88.1,Maiores distâncias,55.0,109.2,Não,17,4,Taiobeiras,Belo Horizonte,316800,310620
+Varginha,317070,VARGINHA,SUL,143676.0,8365,7643,722,6397,5.0,44.5,8.6,7.0,81.7,Demais municípios,55.0,58.2,Sim,10,1,,Varginha,,317070
+Varjão de Minas,317075,PATOS DE MINAS,NOROESTE,7305.0,323,0,323,0,44.2,0.0,100.0,70.8,70.8,Maiores distâncias,55.0,44.2,Não,15,3,Patos de Minas,Belo Horizonte,314800,310620
+Várzea da Palma,317080,PIRAPORA,NORTE,34555.0,2942,1385,1557,72,45.1,2.1,52.9,42.2,79.7,Demais municípios,55.0,85.1,Sim,17,4,Pirapora,Belo Horizonte,315120,310620
+Varzelândia,317090,BRASÍLIA DE MINAS,NORTE,19210.0,1571,412,1159,99,60.3,5.2,73.8,75.5,102.3,Maiores distâncias,55.0,81.8,Sim,17,3,Montes Claros,Belo Horizonte,314330,310620
+Vazante,317100,PATOS DE MINAS,NOROESTE,20459.0,1567,1026,541,274,26.4,13.4,34.5,38.0,110.0,Demais municípios,55.0,76.6,Sim,15,3,Patos de Minas,Belo Horizonte,314800,310620
+Verdelândia,317103,JANAÚBA/MONTE AZUL,NORTE,7737.0,609,0,609,0,78.7,0.0,100.0,69.7,69.7,Maiores distâncias,55.0,78.7,Não,17,4,Janaúba,Belo Horizonte,313510,310620
+Veredinha,317107,TURMALINA/MINAS NOVAS/CAPELINHA,JEQUITINHONHA,5240.0,545,0,545,0,104.0,0.0,100.0,60.9,60.9,Maiores distâncias,55.0,104.0,Não,14,4,Turmalina,Belo Horizonte,316970,310620
+Veríssimo,317110,UBERABA,TRIÂNGULO DO SUL,3478.0,250,0,250,0,71.9,0.0,100.0,42.5,42.5,Demais municípios,55.0,71.9,Não,7,3,Uberaba,Belo Horizonte,317010,310620
+Vermelho Novo,317115,CARATINGA,VALE DO AÇO,5048.0,415,0,415,0,82.2,0.0,100.0,46.9,46.9,Demais municípios,55.0,82.2,Não,5,3,Caratinga,Ipatinga,311340,313130
+Vespasiano,317120,VESPASIANO/LAGOA SANTA,CENTRO,138583.0,10357,1870,8487,262,61.2,1.9,81.9,21.1,25.8,Demais municípios,55.0,74.7,Sim,16,2,Belo Horizonte,Belo Horizonte,310620,310620
+Viçosa,317130,VIÇOSA,LESTE DO SUL,79517.0,4709,3876,833,3594,10.5,45.2,17.7,13.1,73.8,Demais municípios,55.0,59.2,Sim,4,3,Ponte Nova,Belo Horizonte,315210,310620
+Vieiras,317140,MURIAÉ,SUDESTE,3781.0,318,0,318,0,84.1,0.0,100.0,34.6,34.6,Demais municípios,55.0,84.1,Não,3,3,Muriaé,Belo Horizonte,314390,310620
+Virgem da Lapa,317160,ARAÇUAÍ,JEQUITINHONHA,11774.0,841,323,518,3,44.0,0.3,61.6,83.1,134.9,Maiores distâncias,55.0,71.4,Sim,14,3,Araçuaí,Belo Horizonte,310340,310620
+Virgínia,317170,SÃO LOURENÇO,SUL,9164.0,960,330,630,0,68.7,0.0,65.6,27.7,42.2,Demais municípios,55.0,104.8,Não,10,3,São Lourenço,Varginha,316370,317070
+Virginópolis,317180,GUANHÃES,CENTRO,10511.0,1276,807,469,399,44.6,38.0,36.8,24.8,67.5,Demais municípios,55.0,121.4,Sim,6,3,Guanhães,Belo Horizonte,312800,310620
+Virgolândia,317190,GOVERNADOR VALADARES,LESTE,4471.0,318,0,318,0,71.1,0.0,100.0,80.2,80.2,Maiores distâncias,55.0,71.1,Não,6,3,Governador Valadares,Belo Horizonte,312770,310620
+Visconde do Rio Branco,317200,UBÁ,SUDESTE,40711.0,4075,2926,1149,1142,28.2,28.1,28.2,14.1,50.0,Demais municípios,55.0,100.1,Sim,3,4,Ubá,Belo Horizonte,316990,310620
+Volta Grande,317210,ALÉM PARAÍBA,SUDESTE,4441.0,314,0,314,0,70.7,0.0,100.0,56.4,56.4,Maiores distâncias,55.0,70.7,Não,3,4,Além Paraíba,Belo Horizonte,310150,310620
+Wenceslau Braz,317220,ITAJUBÁ, EXTREMO SUL,2377.0,328,0,328,0,138.0,0.0,100.0,38.2,38.2,Demais municípios,55.0,138.0,Não,11,4,Itajubá,Belo Horizonte,313240,310620

@@ -12,8 +12,6 @@ dados/*.csv.gz
 dados/*.dbc
 dados/tabnet_*.csv
 
-# Resultados gerados
-saida*/
 
 # arquivos zone.identifier
 *Zone.Identifier*

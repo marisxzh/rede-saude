@@ -1,0 +1,1682 @@
+﻿Source,Target,Weight,Distance_km,Source_label,Target_label
+310010,310350,2,85.1,Abadia dos Dourados,Araguari
+310010,314810,18,67.0,Abadia dos Dourados,Patrocínio
+310010,317020,9,101.0,Abadia dos Dourados,Uberlândia
+310020,310620,14,179.9,Abaeté,Belo Horizonte
+310020,316720,34,130.8,Abaeté,Sete Lagoas
+310030,314390,22,92.6,Abre Campo,Muriaé
+310040,314390,1,116.9,Acaiaca,Muriaé
+310040,315210,14,25.0,Acaiaca,Ponte Nova
+310050,313130,29,45.2,Açucena,Ipatinga
+310060,310620,2,269.2,Água Boa,Belo Horizonte
+310060,312770,12,107.1,Água Boa,Governador Valadares
+310070,317010,14,38.2,Água Comprida,Uberaba
+310080,312230,23,99.5,Aguanil,Divinópolis
+310080,317070,1,68.4,Aguanil,Varginha
+310090,310620,1,447.1,Águas Formosas,Belo Horizonte
+310090,312770,4,224.5,Águas Formosas,Governador Valadares
+310090,313130,3,315.1,Águas Formosas,Ipatinga
+310090,316860,28,106.1,Águas Formosas,Teófilo Otoni
+310100,310620,3,533.6,Águas Vermelhas,Belo Horizonte
+310100,314330,23,279.9,Águas Vermelhas,Montes Claros
+310110,310620,1,304.5,Aimorés,Belo Horizonte
+310110,312770,10,116.4,Aimorés,Governador Valadares
+310110,314390,1,227.3,Aimorés,Muriaé
+310120,316370,2,48.5,Aiuruoca,São Lourenço
+310120,317070,10,97.5,Aiuruoca,Varginha
+310130,316370,3,42.9,Alagoa,São Lourenço
+310130,317070,8,106.6,Alagoa,Varginha
+310140,315180,17,46.3,Albertina,Poços de Caldas
+310150,310620,5,253.2,Além Paraíba,Belo Horizonte
+310150,313670,2,70.1,Além Paraíba,Juiz de Fora
+310150,314390,105,88.8,Além Paraíba,Muriaé
+310150,316250,1,183.1,Além Paraíba,São João del Rei
+310160,310160,624,0.0,Alfenas,Alfenas
+310160,314790,6,104.2,Alfenas,Passos
+310160,317010,2,279.5,Alfenas,Uberaba
+310160,317020,1,368.9,Alfenas,Uberlândia
+310163,310560,32,8.9,Alfredo Vasconcelos,Barbacena
+310163,310620,1,136.9,Alfredo Vasconcelos,Belo Horizonte
+310170,310170,3,0.0,Almenara,Almenara
+310170,310620,8,537.5,Almenara,Belo Horizonte
+310170,312160,1,382.9,Almenara,Diamantina
+310170,312770,3,324.3,Almenara,Governador Valadares
+310170,313130,3,413.3,Almenara,Ipatinga
+310170,316860,33,204.7,Almenara,Teófilo Otoni
+310180,310620,1,230.0,Alpercata,Belo Horizonte
+310180,312770,17,14.1,Alpercata,Governador Valadares
+310190,310160,2,77.1,Alpinópolis,Alfenas
+310190,314790,68,28.2,Alpinópolis,Passos
+310190,317010,1,204.8,Alpinópolis,Uberaba
+310200,310160,99,28.0,Alterosa,Alfenas
+310205,314390,20,92.5,Alto Caparaó,Muriaé
+310210,310560,21,43.7,Alto Rio Doce,Barbacena
+310220,310620,1,238.0,Alvarenga,Belo Horizonte
+310220,312770,15,66.4,Alvarenga,Governador Valadares
+310230,310620,6,94.0,Alvinópolis,Belo Horizonte
+310230,314390,7,134.1,Alvinópolis,Muriaé
+310230,315210,52,37.6,Alvinópolis,Ponte Nova
+310240,310620,1,145.5,Alvorada de Minas,Belo Horizonte
+310240,312160,2,59.5,Alvorada de Minas,Diamantina
+310250,315210,11,15.0,Amparo do Serra,Ponte Nova
+310260,315180,198,31.5,Andradas,Poços de Caldas
+310270,310620,2,510.3,Cachoeira de Pajeú,Belo Horizonte
+310270,314330,10,267.3,Cachoeira de Pajeú,Montes Claros
+310280,313670,56,99.6,Andrelândia,Juiz de Fora
+310285,310620,1,300.6,Angelândia,Belo Horizonte
+310285,312770,1,130.4,Angelândia,Governador Valadares
+310285,313130,2,196.7,Angelândia,Ipatinga
+310285,316860,12,82.2,Angelândia,Teófilo Otoni
+310290,310560,49,10.7,Antônio Carlos,Barbacena
+310290,310620,1,156.4,Antônio Carlos,Belo Horizonte
+310290,313670,1,64.3,Antônio Carlos,Juiz de Fora
+310290,314390,1,144.6,Antônio Carlos,Muriaé
+310300,310620,1,115.3,Antônio Dias,Belo Horizonte
+310300,313130,15,41.0,Antônio Dias,Ipatinga
+310310,314390,31,29.5,Antônio Prado de Minas,Muriaé
+310320,310620,2,87.0,Araçaí,Belo Horizonte
+310320,316720,7,29.6,Araçaí,Sete Lagoas
+310330,313670,10,46.4,Aracitaba,Juiz de Fora
+310340,310620,31,394.4,Araçuaí,Belo Horizonte
+310340,312160,6,224.5,Araçuaí,Diamantina
+310350,310350,57,0.0,Araguari,Araguari
+310350,317010,8,125.5,Araguari,Uberaba
+310350,317020,120,30.4,Araguari,Uberlândia
+310360,313670,14,95.5,Arantina,Juiz de Fora
+310370,314390,1,53.6,Araponga,Muriaé
+310370,315210,11,49.1,Araponga,Ponte Nova
+310375,317020,29,111.1,Araporã,Uberlândia
+310380,314800,14,60.7,Arapuá,Patos de Minas
+310390,312230,37,36.4,Araújos,Divinópolis
+310400,314810,12,72.9,Araxá,Patrocínio
+310400,317010,349,106.2,Araxá,Uberaba
+310410,310160,49,102.9,Arceburgo,Alfenas
+310410,314790,1,79.6,Arceburgo,Passos
+310420,310620,1,172.3,Arcos,Belo Horizonte
+310420,312230,124,66.9,Arcos,Divinópolis
+310430,310160,75,21.8,Areado,Alfenas
+310440,314390,5,72.0,Argirita,Muriaé
+310445,310620,7,270.8,Aricanduva,Belo Horizonte
+310445,312160,1,117.8,Aricanduva,Diamantina
+310450,314330,4,255.1,Arinos,Montes Claros
+310450,314800,3,301.6,Arinos,Patos de Minas
+310460,314390,24,55.0,Astolfo Dutra,Muriaé
+310470,310620,1,363.3,Ataléia,Belo Horizonte
+310470,312770,2,126.3,Ataléia,Governador Valadares
+310470,316860,14,46.5,Ataléia,Teófilo Otoni
+310480,310620,2,204.6,Augusto de Lima,Belo Horizonte
+310480,312090,8,73.4,Augusto de Lima,Curvelo
+310490,310490,1,0.0,Baependi,Baependi
+310490,310620,4,247.1,Baependi,Belo Horizonte
+310490,316370,9,23.9,Baependi,São Lourenço
+310490,317070,45,71.8,Baependi,Varginha
+310500,310620,4,70.7,Baldim,Belo Horizonte
+310500,316720,21,36.1,Baldim,Sete Lagoas
+310510,310620,1,213.7,Bambuí,Belo Horizonte
+310510,312230,79,112.9,Bambuí,Divinópolis
+310520,312770,2,361.7,Bandeira,Governador Valadares
+310520,316860,13,242.0,Bandeira,Teófilo Otoni
+310530,310160,17,56.3,Bandeira do Sul,Alfenas
+310530,315180,9,19.9,Bandeira do Sul,Poços de Caldas
+310540,310620,13,47.0,Barão de Cocais,Belo Horizonte
+310540,313170,18,45.2,Barão de Cocais,Itabira
+310550,314390,16,19.0,Barão do Monte Alto,Muriaé
+310560,310560,375,0.0,Barbacena,Barbacena
+310560,310620,14,145.8,Barbacena,Belo Horizonte
+310560,313670,1,74.0,Barbacena,Juiz de Fora
+310560,316250,3,51.4,Barbacena,São João del Rei
+310570,315210,16,20.3,Barra Longa,Ponte Nova
+310590,310560,1,21.5,Barroso,Barbacena
+310590,310620,1,140.5,Barroso,Belo Horizonte
+310590,313670,1,91.2,Barroso,Juiz de Fora
+310590,316250,50,29.8,Barroso,São João del Rei
+310600,310620,3,88.4,Bela Vista de Minas,Belo Horizonte
+310600,313170,10,26.1,Bela Vista de Minas,Itabira
+310610,313670,16,22.8,Belmiro Braga,Juiz de Fora
+310620,310620,4780,0.0,Belo Horizonte,Belo Horizonte
+310620,315250,1,329.9,Belo Horizonte,Pouso Alegre
+310620,317020,1,466.8,Belo Horizonte,Uberlândia
+310630,310620,1,171.0,Belo Oriente,Belo Horizonte
+310630,313130,77,29.0,Belo Oriente,Ipatinga
+310640,310620,21,54.9,Belo Vale,Belo Horizonte
+310650,310620,22,365.4,Berilo,Belo Horizonte
+310650,312160,7,187.5,Berilo,Diamantina
+310660,316860,8,133.2,Bertópolis,Teófilo Otoni
+310665,314330,4,259.1,Berizal,Montes Claros
+310670,310620,268,28.8,Betim,Belo Horizonte
+310670,310670,509,0.0,Betim,Betim
+310680,310560,1,42.3,Bias Fortes,Barbacena
+310680,313670,6,45.8,Bias Fortes,Juiz de Fora
+310690,313670,66,29.4,Bicas,Juiz de Fora
+310700,310620,4,207.7,Biquinhas,Belo Horizonte
+310700,316720,14,152.4,Biquinhas,Sete Lagoas
+310710,310160,1,54.5,Boa Esperança,Alfenas
+310710,310620,2,213.5,Boa Esperança,Belo Horizonte
+310710,315170,1,87.7,Boa Esperança,Poço Fundo
+310710,317070,146,53.3,Boa Esperança,Varginha
+310720,310160,3,180.5,Bocaina de Minas,Alfenas
+310720,313670,3,117.6,Bocaina de Minas,Juiz de Fora
+310730,310620,1,313.4,Bocaiúva,Belo Horizonte
+310730,314330,58,42.4,Bocaiúva,Montes Claros
+310740,310620,6,139.2,Bom Despacho,Belo Horizonte
+310740,312230,169,59.9,Bom Despacho,Divinópolis
+310750,313670,22,89.6,Bom Jardim de Minas,Juiz de Fora
+310760,314790,28,34.3,Bom Jesus da Penha,Passos
+310760,317010,1,205.1,Bom Jesus da Penha,Uberaba
+310770,310620,11,54.0,Bom Jesus do Amparo,Belo Horizonte
+310770,313170,11,28.1,Bom Jesus do Amparo,Itabira
+310780,310620,1,169.7,Bom Jesus do Galho,Belo Horizonte
+310780,313130,54,44.7,Bom Jesus do Galho,Ipatinga
+310780,314390,5,144.6,Bom Jesus do Galho,Muriaé
+310790,315250,28,34.4,Bom Repouso,Pouso Alegre
+310800,312230,11,97.6,Bom Sucesso,Divinópolis
+310800,314560,1,38.4,Bom Sucesso,Oliveira
+310800,316250,11,53.2,Bom Sucesso,São João del Rei
+310800,317070,31,90.5,Bom Sucesso,Varginha
+310810,310620,9,54.9,Bonfim,Belo Horizonte
+310810,310670,15,39.9,Bonfim,Betim
+310820,314800,25,233.3,Bonfinópolis de Minas,Patos de Minas
+310820,317010,2,410.3,Bonfinópolis de Minas,Uberaba
+310825,314330,20,182.6,Bonito de Minas,Montes Claros
+310830,313240,2,75.3,Borda da Mata,Itajubá
+310830,315250,33,24.1,Borda da Mata,Pouso Alegre
+310830,315960,1,47.6,Borda da Mata,Santa Rita do Sapucaí
+310840,310160,50,52.5,Botelhos,Alfenas
+310840,315180,2,23.4,Botelhos,Poços de Caldas
+310850,314330,7,92.7,Botumirim,Montes Claros
+310855,310620,7,390.7,Brasilândia de Minas,Belo Horizonte
+310855,314800,20,185.2,Brasilândia de Minas,Patos de Minas
+310855,317010,1,367.2,Brasilândia de Minas,Uberaba
+310860,310620,4,416.3,Brasília de Minas,Belo Horizonte
+310860,314330,85,83.3,Brasília de Minas,Montes Claros
+310870,314390,5,95.9,Brás Pires,Muriaé
+310880,310620,1,159.9,Braúnas,Belo Horizonte
+310880,313130,19,51.0,Braúnas,Ipatinga
+310890,313240,1,17.8,Brazópolis,Itajubá
+310890,315180,59,124.1,Brazópolis,Poços de Caldas
+310890,315250,4,42.4,Brazópolis,Pouso Alegre
+310890,317010,2,387.7,Brazópolis,Uberaba
+310900,310620,22,38.5,Brumadinho,Belo Horizonte
+310900,310670,34,19.9,Brumadinho,Betim
+310910,315250,39,48.7,Bueno Brandão,Pouso Alegre
+310920,310620,3,229.4,Buenópolis,Belo Horizonte
+310920,312090,49,101.2,Buenópolis,Curvelo
+310925,313130,9,29.1,Bugre,Ipatinga
+310930,310620,2,545.8,Buritis,Belo Horizonte
+310940,314330,50,134.6,Buritizeiro,Montes Claros
+310945,310620,3,546.7,Cabeceira Grande,Belo Horizonte
+310945,314800,31,293.0,Cabeceira Grande,Patos de Minas
+310945,317010,1,423.6,Cabeceira Grande,Uberaba
+310950,310160,29,46.6,Cabo Verde,Alfenas
+310950,315180,1,39.0,Cabo Verde,Poços de Caldas
+310960,310620,7,69.8,Cachoeira da Prata,Belo Horizonte
+310960,316720,12,22.6,Cachoeira da Prata,Sete Lagoas
+310970,315180,1,103.0,Cachoeira de Minas,Poços de Caldas
+310970,315250,46,21.3,Cachoeira de Minas,Pouso Alegre
+310970,315960,3,13.8,Cachoeira de Minas,Santa Rita do Sapucaí
+310980,317020,2,138.1,Cachoeira Dourada,Uberlândia
+310990,310620,12,85.9,Caetanópolis,Belo Horizonte
+310990,316720,24,25.9,Caetanópolis,Sete Lagoas
+311000,310620,65,27.9,Caeté,Belo Horizonte
+311010,314390,15,66.9,Caiana,Muriaé
+311020,314390,1,58.1,Cajuri,Muriaé
+311020,315210,21,43.1,Cajuri,Ponte Nova
+311030,315180,73,24.1,Caldas,Poços de Caldas
+311040,312230,41,56.7,Camacho,Divinópolis
+311050,315250,53,60.4,Camanducaia,Pouso Alegre
+311060,315180,6,105.8,Cambuí,Poços de Caldas
+311060,315250,47,44.2,Cambuí,Pouso Alegre
+311070,310160,1,82.5,Cambuquira,Alfenas
+311070,310620,1,256.6,Cambuquira,Belo Horizonte
+311070,317070,33,35.7,Cambuquira,Varginha
+311080,316860,11,47.8,Campanário,Teófilo Otoni
+311090,317070,35,31.2,Campanha,Varginha
+311100,310160,70,44.2,Campestre,Alfenas
+311100,315180,3,34.2,Campestre,Poços de Caldas
+311110,317020,15,145.8,Campina Verde,Uberlândia
+311115,314330,4,103.4,Campo Azul,Montes Claros
+311120,310160,3,91.4,Campo Belo,Alfenas
+311120,310620,3,176.5,Campo Belo,Belo Horizonte
+311120,312230,253,89.0,Campo Belo,Divinópolis
+311120,314560,3,51.5,Campo Belo,Oliveira
+311130,310160,63,37.5,Campo do Meio,Alfenas
+311130,317020,2,352.0,Campo do Meio,Uberlândia
+311140,310620,2,485.2,Campo Florido,Belo Horizonte
+311140,317010,8,65.1,Campo Florido,Uberaba
+311150,317010,39,186.4,Campos Altos,Uberaba
+311160,310160,169,29.0,Campos Gerais,Alfenas
+311160,314790,1,105.5,Campos Gerais,Passos
+311170,315210,5,42.4,Canaã,Ponte Nova
+311180,310350,1,106.2,Canápolis,Araguari
+311180,317020,10,101.7,Canápolis,Uberlândia
+311190,312230,23,98.7,Cana Verde,Divinópolis
+311200,310160,1,101.0,Candeias,Alfenas
+311200,312230,79,76.7,Candeias,Divinópolis
+311200,314560,1,47.2,Candeias,Oliveira
+311200,317070,4,89.0,Candeias,Varginha
+311205,312770,7,80.9,Cantagalo,Governador Valadares
+311210,314390,12,82.7,Caparaó,Muriaé
+311220,310560,14,37.3,Capela Nova,Barbacena
+311230,310620,53,289.6,Capelinha,Belo Horizonte
+311230,312160,6,129.7,Capelinha,Diamantina
+311240,314790,46,47.8,Capetinga,Passos
+311250,310620,1,46.6,Capim Branco,Belo Horizonte
+311250,316720,19,14.9,Capim Branco,Sete Lagoas
+311260,317020,22,140.7,Capinópolis,Uberlândia
+311265,310620,1,237.3,Capitão Andrade,Belo Horizonte
+311265,312770,11,25.4,Capitão Andrade,Governador Valadares
+311270,314330,25,48.3,Capitão Enéas,Montes Claros
+311280,314790,37,59.4,Capitólio,Passos
+311290,313940,8,26.4,Caputira,Manhuaçu
+311290,314390,19,106.8,Caputira,Muriaé
+311300,310620,13,385.0,Caraí,Belo Horizonte
+311300,312770,2,187.6,Caraí,Governador Valadares
+311300,313130,6,269.4,Caraí,Ipatinga
+311300,316860,13,77.9,Caraí,Teófilo Otoni
+311310,310560,6,39.2,Caranaíba,Barbacena
+311310,310620,5,107.8,Caranaíba,Belo Horizonte
+311320,310560,44,30.6,Carandaí,Barbacena
+311320,310620,1,115.2,Carandaí,Belo Horizonte
+311320,316250,3,51.2,Carandaí,São João del Rei
+311330,310620,2,218.3,Carangola,Belo Horizonte
+311330,313670,2,177.6,Carangola,Juiz de Fora
+311330,314390,92,56.4,Carangola,Muriaé
+311340,310620,6,188.4,Caratinga,Belo Horizonte
+311340,313130,150,53.3,Caratinga,Ipatinga
+311340,314390,6,150.7,Caratinga,Muriaé
+311350,310620,7,283.6,Carbonita,Belo Horizonte
+311350,312160,3,100.8,Carbonita,Diamantina
+311360,315250,25,32.1,Careaçu,Pouso Alegre
+311370,310620,2,415.3,Carlos Chagas,Belo Horizonte
+311370,312770,6,179.0,Carlos Chagas,Governador Valadares
+311370,313130,3,271.2,Carlos Chagas,Ipatinga
+311370,316860,23,80.9,Carlos Chagas,Teófilo Otoni
+311380,310620,1,124.9,Carmésia,Belo Horizonte
+311380,313170,7,60.4,Carmésia,Itabira
+311390,310620,1,217.2,Carmo da Cachoeira,Belo Horizonte
+311390,316250,2,106.3,Carmo da Cachoeira,São João del Rei
+311390,317070,30,24.2,Carmo da Cachoeira,Varginha
+311400,312230,42,43.6,Carmo da Mata,Divinópolis
+311400,314560,3,15.8,Carmo da Mata,Oliveira
+311410,316370,17,8.2,Carmo de Minas,São Lourenço
+311410,317070,17,70.3,Carmo de Minas,Varginha
+311420,312230,82,14.8,Carmo do Cajuru,Divinópolis
+311420,314560,1,57.0,Carmo do Cajuru,Oliveira
+311430,310620,6,270.0,Carmo do Paranaíba,Belo Horizonte
+311430,314800,94,48.2,Carmo do Paranaíba,Patos de Minas
+311430,317010,28,190.7,Carmo do Paranaíba,Uberaba
+311440,310160,1,53.6,Carmo do Rio Claro,Alfenas
+311440,314790,84,58.0,Carmo do Rio Claro,Passos
+311450,310620,4,100.2,Carmópolis de Minas,Belo Horizonte
+311450,312230,56,50.3,Carmópolis de Minas,Divinópolis
+311450,314560,2,26.5,Carmópolis de Minas,Oliveira
+311455,317010,5,287.2,Carneirinho,Uberaba
+311460,310620,1,188.8,Carrancas,Belo Horizonte
+311460,317070,18,82.2,Carrancas,Varginha
+311470,310160,17,40.8,Carvalhópolis,Alfenas
+311480,313670,1,118.6,Carvalhos,Juiz de Fora
+311480,316370,3,62.0,Carvalhos,São Lourenço
+311480,317070,7,111.6,Carvalhos,Varginha
+311490,310560,2,50.7,Casa Grande,Barbacena
+311490,310620,1,96.7,Casa Grande,Belo Horizonte
+311490,313670,1,123.2,Casa Grande,Juiz de Fora
+311500,310350,1,34.7,Cascalho Rico,Araguari
+311500,317020,5,54.8,Cascalho Rico,Uberlândia
+311510,314790,62,35.7,Cássia,Passos
+311510,317010,1,142.0,Cássia,Uberaba
+311520,310620,1,145.2,Conceição da Barra de Minas,Belo Horizonte
+311520,316250,27,22.1,Conceição da Barra de Minas,São João del Rei
+311530,310620,1,207.8,Cataguases,Belo Horizonte
+311530,313670,2,78.5,Cataguases,Juiz de Fora
+311530,314390,168,44.6,Cataguases,Muriaé
+311535,310560,1,133.5,Catas Altas,Barbacena
+311535,310620,5,57.7,Catas Altas,Belo Horizonte
+311535,313170,5,53.7,Catas Altas,Itabira
+311540,310560,3,66.1,Catas Altas da Noruega,Barbacena
+311540,310620,1,96.8,Catas Altas da Noruega,Belo Horizonte
+311545,310620,4,387.4,Catuji,Belo Horizonte
+311545,316860,8,62.8,Catuji,Teófilo Otoni
+311547,314330,9,180.7,Catuti,Montes Claros
+311550,316370,14,19.3,Caxambu,São Lourenço
+311550,317070,44,69.8,Caxambu,Varginha
+311560,316720,3,158.4,Cedro do Abaeté,Sete Lagoas
+311570,310620,12,304.7,Central de Minas,Belo Horizonte
+311570,312770,13,68.1,Central de Minas,Governador Valadares
+311570,317020,1,731.6,Central de Minas,Uberlândia
+311580,317020,9,105.7,Centralina,Uberlândia
+311590,313670,14,16.0,Chácara,Juiz de Fora
+311590,317020,2,608.2,Chácara,Uberlândia
+311600,313940,2,43.1,Chalé,Manhuaçu
+311600,314390,11,139.9,Chalé,Muriaé
+311610,310620,12,348.0,Chapada do Norte,Belo Horizonte
+311610,312160,1,170.7,Chapada do Norte,Diamantina
+311615,310620,1,544.7,Chapada Gaúcha,Belo Horizonte
+311615,314800,3,379.6,Chapada Gaúcha,Patos de Minas
+311620,313670,30,40.3,Chiador,Juiz de Fora
+311630,310560,22,55.4,Cipotânea,Barbacena
+311630,310620,2,124.3,Cipotânea,Belo Horizonte
+311640,314790,8,78.6,Claraval,Passos
+311650,314330,24,53.0,Claro dos Poções,Montes Claros
+311660,310620,4,104.1,Cláudio,Belo Horizonte
+311660,312230,109,34.1,Cláudio,Divinópolis
+311660,313010,1,63.7,Cláudio,Igarapé
+311660,314560,1,28.8,Cláudio,Oliveira
+311670,314390,34,54.0,Coimbra,Muriaé
+311680,310620,12,220.4,Coluna,Belo Horizonte
+311680,312160,7,79.9,Coluna,Diamantina
+311690,317010,2,118.8,Comendador Gomes,Uberaba
+311700,310620,1,462.4,Comercinho,Belo Horizonte
+311700,312160,1,289.1,Comercinho,Diamantina
+311700,316860,8,176.9,Comercinho,Teófilo Otoni
+311710,310160,15,45.3,Conceição da Aparecida,Alfenas
+311710,314790,27,59.3,Conceição da Aparecida,Passos
+311720,315180,5,122.0,Conceição das Pedras,Poços de Caldas
+311720,317010,1,372.9,Conceição das Pedras,Uberaba
+311730,317010,92,49.3,Conceição das Alagoas,Uberaba
+311740,314390,3,150.8,Conceição de Ipanema,Muriaé
+311740,315210,1,138.1,Conceição de Ipanema,Ponte Nova
+311750,310620,22,112.2,Conceição do Mato Dentro,Belo Horizonte
+311750,312160,4,89.9,Conceição do Mato Dentro,Diamantina
+311760,312230,10,46.4,Conceição do Pará,Divinópolis
+311760,313380,12,48.9,Conceição do Pará,Itaúna
+311770,310620,1,248.3,Conceição do Rio Verde,Belo Horizonte
+311770,316370,7,26.2,Conceição do Rio Verde,São Lourenço
+311770,317070,55,50.7,Conceição do Rio Verde,Varginha
+311780,315180,5,105.6,Conceição dos Ouros,Poços de Caldas
+311780,315250,38,24.7,Conceição dos Ouros,Pouso Alegre
+311780,317010,2,371.0,Conceição dos Ouros,Uberaba
+311783,314330,17,169.7,Cônego Marinho,Montes Claros
+311787,310620,9,33.6,Confins,Belo Horizonte
+311790,315250,47,13.8,Congonhal,Pouso Alegre
+311800,310560,18,80.4,Congonhas,Barbacena
+311800,310620,104,65.4,Congonhas,Belo Horizonte
+311810,310620,2,126.9,Congonhas do Norte,Belo Horizonte
+311820,317010,12,47.4,Conquista,Uberaba
+311830,310560,154,62.9,Conselheiro Lafaiete,Barbacena
+311830,310620,53,83.4,Conselheiro Lafaiete,Belo Horizonte
+311830,311830,2,0.0,Conselheiro Lafaiete,Conselheiro Lafaiete
+311840,310620,1,271.3,Conselheiro Pena,Belo Horizonte
+311840,312770,30,60.7,Conselheiro Pena,Governador Valadares
+311840,314390,7,236.8,Conselheiro Pena,Muriaé
+311850,315180,10,108.0,Consolação,Poços de Caldas
+311850,315250,1,35.8,Consolação,Pouso Alegre
+311860,310620,1030,16.4,Contagem,Belo Horizonte
+311860,316720,1,52.9,Contagem,Sete Lagoas
+311870,310620,2,210.6,Coqueiral,Belo Horizonte
+311870,317070,45,40.8,Coqueiral,Varginha
+311880,310620,1,362.6,Coração de Jesus,Belo Horizonte
+311880,314330,24,52.6,Coração de Jesus,Montes Claros
+311890,310620,1,97.8,Cordisburgo,Belo Horizonte
+311890,316720,19,38.9,Cordisburgo,Sete Lagoas
+311900,317070,14,38.1,Cordislândia,Varginha
+311910,310620,9,181.9,Corinto,Belo Horizonte
+311910,312090,133,43.4,Corinto,Curvelo
+311920,312770,9,44.4,Coroaci,Governador Valadares
+311930,310620,1,379.0,Coromandel,Belo Horizonte
+311930,314810,69,57.1,Coromandel,Patrocínio
+311930,317020,6,121.3,Coromandel,Uberlândia
+311940,310620,3,144.2,Coronel Fabriciano,Belo Horizonte
+311940,313130,341,11.5,Coronel Fabriciano,Ipatinga
+311940,314390,1,180.0,Coronel Fabriciano,Muriaé
+311950,310620,1,411.7,Coronel Murta,Belo Horizonte
+311950,314330,15,180.2,Coronel Murta,Montes Claros
+311960,313670,10,20.5,Coronel Pacheco,Juiz de Fora
+311970,310560,1,52.0,Coronel Xavier Chaves,Barbacena
+311970,310620,1,125.9,Coronel Xavier Chaves,Belo Horizonte
+311970,316250,10,13.0,Coronel Xavier Chaves,São João del Rei
+311980,312230,13,110.7,Córrego Danta,Divinópolis
+311990,315250,13,45.2,Córrego do Bom Jesus,Pouso Alegre
+311995,312230,45,73.7,Córrego Fundo,Divinópolis
+312000,313130,10,41.5,Córrego Novo,Ipatinga
+312010,310620,6,211.6,Couto de Magalhães de Minas,Belo Horizonte
+312010,312160,11,23.3,Couto de Magalhães de Minas,Diamantina
+312015,316860,4,94.1,Crisólita,Teófilo Otoni
+312020,310620,3,195.9,Cristais,Belo Horizonte
+312020,312230,18,100.8,Cristais,Divinópolis
+312020,314560,1,74.3,Cristais,Oliveira
+312030,314330,8,107.3,Cristália,Montes Claros
+312040,310560,8,44.1,Cristiano Otoni,Barbacena
+312040,310620,3,101.7,Cristiano Otoni,Belo Horizonte
+312050,316370,5,24.2,Cristina,São Lourenço
+312050,317070,33,74.8,Cristina,Varginha
+312060,310620,9,66.9,Crucilândia,Belo Horizonte
+312060,310670,14,49.0,Crucilândia,Betim
+312070,310620,1,306.9,Cruzeiro da Fortaleza,Belo Horizonte
+312070,314800,10,41.8,Cruzeiro da Fortaleza,Patos de Minas
+312080,316370,2,39.2,Cruzília,São Lourenço
+312080,317070,42,71.8,Cruzília,Varginha
+312083,312770,9,89.8,Cuparaque,Governador Valadares
+312087,314330,15,232.5,Curral de Dentro,Montes Claros
+312090,310620,46,140.1,Curvelo,Belo Horizonte
+312090,312090,442,0.0,Curvelo,Curvelo
+312090,316720,3,81.6,Curvelo,Sete Lagoas
+312100,310620,10,166.8,Datas,Belo Horizonte
+312100,312160,4,23.4,Datas,Diamantina
+312100,314800,1,301.1,Datas,Patos de Minas
+312110,315180,8,154.8,Delfim Moreira,Poços de Caldas
+312110,315250,7,73.9,Delfim Moreira,Pouso Alegre
+312110,315960,1,51.8,Delfim Moreira,Santa Rita do Sapucaí
+312120,314790,20,48.8,Delfinópolis,Passos
+312125,317010,17,30.8,Delta,Uberaba
+312130,313670,23,51.1,Descoberto,Juiz de Fora
+312140,310620,15,91.8,Desterro de Entre Rios,Belo Horizonte
+312150,310560,11,27.9,Desterro do Melo,Barbacena
+312160,310620,66,190.1,Diamantina,Belo Horizonte
+312160,312160,52,0.0,Diamantina,Diamantina
+312160,316860,1,224.9,Diamantina,Teófilo Otoni
+312170,314390,2,111.7,Diogo de Vasconcelos,Muriaé
+312170,315210,27,31.3,Diogo de Vasconcelos,Ponte Nova
+312180,313130,13,48.0,Dionísio,Ipatinga
+312190,314390,11,67.5,Divinésia,Muriaé
+312200,314390,54,61.6,Divino,Muriaé
+312210,312770,9,49.7,Divino das Laranjeiras,Governador Valadares
+312220,310620,2,186.5,Divinolândia de Minas,Belo Horizonte
+312220,312770,9,70.4,Divinolândia de Minas,Governador Valadares
+312230,310620,10,105.4,Divinópolis,Belo Horizonte
+312230,312230,785,0.0,Divinópolis,Divinópolis
+312230,314560,2,59.2,Divinópolis,Oliveira
+312235,310160,1,798.0,Divisa Alegre,Alfenas
+312235,314330,7,291.8,Divisa Alegre,Montes Claros
+312240,310160,32,27.1,Divisa Nova,Alfenas
+312245,314330,6,326.1,Divisópolis,Montes Claros
+312247,310620,3,439.5,Dom Bosco,Belo Horizonte
+312247,314800,6,219.1,Dom Bosco,Patos de Minas
+312247,317010,2,388.1,Dom Bosco,Uberaba
+312250,313130,17,45.6,Dom Cavati,Ipatinga
+312260,313170,4,73.2,Dom Joaquim,Itabira
+312270,314390,1,124.2,Dom Silvério,Muriaé
+312270,315210,11,29.1,Dom Silvério,Ponte Nova
+312280,316370,7,19.2,Dom Viçoso,São Lourenço
+312280,317070,7,82.5,Dom Viçoso,Varginha
+312290,314390,21,50.3,Dona Euzébia,Muriaé
+312300,316250,43,24.9,Dores de Campos,São João del Rei
+312310,310620,5,142.9,Dores de Guanhães,Belo Horizonte
+312310,313170,2,70.1,Dores de Guanhães,Itabira
+312320,312230,60,106.9,Dores do Indaiá,Divinópolis
+312330,314390,22,86.6,Dores do Turvo,Muriaé
+312340,314790,9,87.9,Doresópolis,Passos
+312350,314810,4,86.7,Douradoquara,Patrocínio
+312350,317020,1,86.6,Douradoquara,Uberlândia
+312352,313940,3,25.1,Durandé,Manhuaçu
+312352,314390,14,118.8,Durandé,Muriaé
+312360,310160,1,44.7,Elói Mendes,Alfenas
+312360,314790,1,146.8,Elói Mendes,Passos
+312360,315250,1,78.9,Elói Mendes,Pouso Alegre
+312360,317070,78,14.9,Elói Mendes,Varginha
+312370,310620,1,213.7,Engenheiro Caldas,Belo Horizonte
+312370,312770,18,39.4,Engenheiro Caldas,Governador Valadares
+312380,314330,10,62.1,Engenheiro Navarro,Montes Claros
+312385,313130,6,35.0,Entre Folhas,Ipatinga
+312390,310560,12,68.7,Entre Rios de Minas,Barbacena
+312390,310620,26,84.3,Entre Rios de Minas,Belo Horizonte
+312390,316250,1,55.4,Entre Rios de Minas,São João del Rei
+312400,310620,1,167.9,Ervália,Belo Horizonte
+312400,314390,73,43.7,Ervália,Muriaé
+312410,310620,58,43.5,Esmeraldas,Belo Horizonte
+312410,310670,86,25.7,Esmeraldas,Betim
+312410,313010,1,34.4,Esmeraldas,Igarapé
+312420,314390,83,71.5,Espera Feliz,Muriaé
+312430,310620,1,568.2,Espinosa,Belo Horizonte
+312430,313510,1,110.2,Espinosa,Janaúba
+312430,314330,61,230.1,Espinosa,Montes Claros
+312430,316860,1,355.3,Espinosa,Teófilo Otoni
+312440,315250,14,20.5,Espírito Santo do Dourado,Pouso Alegre
+312450,310620,1,355.6,Estiva,Belo Horizonte
+312450,312090,2,444.8,Estiva,Curvelo
+312450,315250,39,27.4,Estiva,Pouso Alegre
+312460,310620,1,253.8,Estrela Dalva,Belo Horizonte
+312460,314390,10,69.0,Estrela Dalva,Muriaé
+312470,312230,20,116.7,Estrela do Indaiá,Divinópolis
+312480,310350,2,54.5,Estrela do Sul,Araguari
+312480,314810,6,77.3,Estrela do Sul,Patrocínio
+312480,317020,4,62.6,Estrela do Sul,Uberlândia
+312490,314390,37,19.7,Eugenópolis,Muriaé
+312500,313670,17,28.7,Ewbank da Câmara,Juiz de Fora
+312510,310620,1,408.0,Extrema,Belo Horizonte
+312510,315180,3,119.7,Extrema,Poços de Caldas
+312510,315250,93,78.8,Extrema,Pouso Alegre
+312510,317010,3,382.6,Extrema,Uberaba
+312520,310160,11,12.4,Fama,Alfenas
+312530,314390,8,51.7,Faria Lemos,Muriaé
+312540,310620,7,217.8,Felício dos Santos,Belo Horizonte
+312540,312160,1,41.5,Felício dos Santos,Diamantina
+312550,310620,9,221.2,São Gonçalo do Rio Preto,Belo Horizonte
+312550,312160,3,35.1,São Gonçalo do Rio Preto,Diamantina
+312560,310620,5,495.6,Felisburgo,Belo Horizonte
+312560,312770,1,276.7,Felisburgo,Governador Valadares
+312560,316860,10,157.6,Felisburgo,Teófilo Otoni
+312570,310620,16,164.3,Felixlândia,Belo Horizonte
+312570,312090,114,49.6,Felixlândia,Curvelo
+312580,312770,8,35.8,Fernandes Tourinho,Governador Valadares
+312590,310620,12,122.9,Ferros,Belo Horizonte
+312590,313170,12,48.4,Ferros,Itabira
+312595,314390,23,45.1,Fervedouro,Muriaé
+312600,310620,3,52.1,Florestal,Belo Horizonte
+312600,310670,8,25.3,Florestal,Betim
+312610,310620,7,167.1,Formiga,Belo Horizonte
+312610,312230,315,63.2,Formiga,Divinópolis
+312620,314800,12,407.7,Formoso,Patos de Minas
+312620,317010,1,564.1,Formoso,Uberaba
+312630,314790,14,18.0,Fortaleza de Minas,Passos
+312640,316720,6,23.8,Fortuna de Minas,Sete Lagoas
+312650,310620,11,366.5,Francisco Badaró,Belo Horizonte
+312650,312160,1,192.0,Francisco Badaró,Diamantina
+312660,310620,1,291.8,Francisco Dumont,Belo Horizonte
+312660,314330,7,75.4,Francisco Dumont,Montes Claros
+312670,314330,52,49.4,Francisco Sá,Montes Claros
+312675,310620,1,298.1,Franciscópolis,Belo Horizonte
+312675,312770,2,100.1,Franciscópolis,Governador Valadares
+312675,313130,1,177.6,Franciscópolis,Ipatinga
+312675,316860,5,53.8,Franciscópolis,Teófilo Otoni
+312680,310620,2,335.0,Frei Gaspar,Belo Horizonte
+312680,313130,2,195.3,Frei Gaspar,Ipatinga
+312680,316860,4,23.8,Frei Gaspar,Teófilo Otoni
+312690,310620,1,261.1,Frei Inocêncio,Belo Horizonte
+312690,312770,18,32.8,Frei Inocêncio,Governador Valadares
+312690,314390,1,289.1,Frei Inocêncio,Muriaé
+312695,312160,2,88.2,Frei Lagonegro,Diamantina
+312700,317010,5,143.9,Fronteira,Uberaba
+312705,310620,1,463.1,Fronteira dos Vales,Belo Horizonte
+312705,316860,6,124.5,Fronteira dos Vales,Teófilo Otoni
+312707,314330,2,158.5,Fruta de Leite,Montes Claros
+312710,317010,26,107.6,Frutal,Uberaba
+312720,310620,1,63.2,Funilândia,Belo Horizonte
+312720,316720,10,22.6,Funilândia,Sete Lagoas
+312730,310620,2,271.5,Galiléia,Belo Horizonte
+312730,312770,6,45.7,Galiléia,Governador Valadares
+312733,314330,4,200.1,Gameleiras,Montes Claros
+312735,314330,1,23.2,Glaucilândia,Montes Claros
+312737,310620,2,303.4,Goiabeira,Belo Horizonte
+312737,312770,4,77.3,Goiabeira,Governador Valadares
+312737,314390,2,267.3,Goiabeira,Muriaé
+312738,313670,23,28.5,Goianá,Juiz de Fora
+312740,315180,12,121.7,Gonçalves,Poços de Caldas
+312740,315250,2,48.4,Gonçalves,Pouso Alegre
+312750,310620,2,195.7,Gonzaga,Belo Horizonte
+312750,312770,13,56.3,Gonzaga,Governador Valadares
+312760,310620,18,164.6,Gouveia,Belo Horizonte
+312760,312160,1,27.9,Gouveia,Diamantina
+312770,310620,30,240.1,Governador Valadares,Belo Horizonte
+312770,312770,556,0.0,Governador Valadares,Governador Valadares
+312770,314390,6,256.3,Governador Valadares,Muriaé
+312780,310620,1,389.5,Grão Mogol,Belo Horizonte
+312780,314330,15,105.8,Grão Mogol,Montes Claros
+312790,314810,6,92.3,Grupiara,Patrocínio
+312790,317020,4,73.0,Grupiara,Uberlândia
+312800,310620,18,165.4,Guanhães,Belo Horizonte
+312800,312160,3,91.5,Guanhães,Diamantina
+312800,313170,26,99.2,Guanhães,Itabira
+312810,314790,48,72.3,Guapé,Passos
+312820,314390,3,90.6,Guaraciaba,Muriaé
+312820,315210,14,20.1,Guaraciaba,Ponte Nova
+312825,314330,15,38.0,Guaraciama,Montes Claros
+312830,310160,48,89.4,Guaranésia,Alfenas
+312830,314790,31,67.6,Guaranésia,Passos
+312840,313670,1,53.8,Guarani,Juiz de Fora
+312840,314390,7,74.9,Guarani,Muriaé
+312850,313670,14,31.7,Guarará,Juiz de Fora
+312860,310620,1,410.1,Guarda-Mor,Belo Horizonte
+312860,314800,18,111.8,Guarda-Mor,Patos de Minas
+312870,310160,203,80.1,Guaxupé,Alfenas
+312870,314790,22,66.0,Guaxupé,Passos
+312870,317020,2,311.2,Guaxupé,Uberlândia
+312880,314390,28,44.6,Guidoval,Muriaé
+312890,310620,1,322.9,Guimarânia,Belo Horizonte
+312890,314800,12,40.1,Guimarânia,Patos de Minas
+312890,317020,2,154.1,Guimarânia,Uberlândia
+312900,314390,33,38.5,Guiricema,Muriaé
+312910,317020,2,164.3,Gurinhatã,Uberlândia
+312920,315250,20,44.5,Heliodora,Pouso Alegre
+312930,313130,27,33.1,Iapu,Ipatinga
+312930,314390,1,188.7,Iapu,Muriaé
+312940,310560,5,30.1,Ibertioga,Barbacena
+312950,310620,1,277.2,Ibiá,Belo Horizonte
+312950,317010,99,150.2,Ibiá,Uberaba
+312960,314330,16,111.9,Ibiaí,Montes Claros
+312965,310620,1,474.2,Ibiracatu,Belo Horizonte
+312965,314330,9,122.7,Ibiracatu,Montes Claros
+312970,314790,21,60.5,Ibiraci,Passos
+312970,317010,1,117.4,Ibiraci,Uberaba
+312980,310620,214,17.4,Ibirité,Belo Horizonte
+312990,315180,16,33.2,Ibitiúra de Minas,Poços de Caldas
+313000,316250,3,50.7,Ibituruna,São João del Rei
+313000,317070,4,84.1,Ibituruna,Varginha
+313005,314330,12,124.3,Icaraí de Minas,Montes Claros
+313010,310620,19,41.6,Igarapé,Belo Horizonte
+313010,310670,50,15.0,Igarapé,Betim
+313020,310620,2,80.7,Igaratinga,Belo Horizonte
+313020,312230,24,32.2,Igaratinga,Divinópolis
+313020,313380,12,19.2,Igaratinga,Itaúna
+313030,310620,1,186.9,Iguatama,Belo Horizonte
+313030,312230,29,83.0,Iguatama,Divinópolis
+313040,317070,5,68.0,Ijaci,Varginha
+313050,310160,4,55.6,Ilicínea,Alfenas
+313050,314790,19,85.0,Ilicínea,Passos
+313050,317070,14,79.9,Ilicínea,Varginha
+313055,313130,19,59.9,Imbé de Minas,Ipatinga
+313060,315250,22,41.5,Inconfidentes,Pouso Alegre
+313065,314330,13,225.6,Indaiabira,Montes Claros
+313070,317010,1,78.9,Indianópolis,Uberaba
+313070,317020,17,38.4,Indianópolis,Uberlândia
+313080,310620,5,193.5,Ingaí,Belo Horizonte
+313080,317070,4,56.1,Ingaí,Varginha
+313090,310620,4,194.4,Inhapim,Belo Horizonte
+313090,313130,61,43.2,Inhapim,Ipatinga
+313100,310620,1,67.5,Inhaúma,Belo Horizonte
+313100,316720,18,15.3,Inhaúma,Sete Lagoas
+313110,310620,3,140.3,Inimutaba,Belo Horizonte
+313110,312090,28,7.5,Inimutaba,Curvelo
+313115,313130,70,13.6,Ipaba,Ipatinga
+313120,313940,3,60.7,Ipanema,Manhuaçu
+313120,314390,57,162.6,Ipanema,Muriaé
+313120,316250,1,303.9,Ipanema,São João del Rei
+313130,310620,9,155.5,Ipatinga,Belo Horizonte
+313130,313130,634,0.0,Ipatinga,Ipatinga
+313130,314390,4,184.1,Ipatinga,Muriaé
+313140,317020,8,179.2,Ipiaçu,Uberlândia
+313150,315180,3,52.2,Ipuiúna,Poços de Caldas
+313150,315250,26,30.0,Ipuiúna,Pouso Alegre
+313150,315960,1,52.9,Ipuiúna,Santa Rita do Sapucaí
+313160,314810,13,50.0,Iraí de Minas,Patrocínio
+313160,317020,2,84.0,Iraí de Minas,Uberlândia
+313170,310620,63,81.9,Itabira,Belo Horizonte
+313170,313170,144,0.0,Itabira,Itabira
+313180,310620,1,321.2,Itabirinha,Belo Horizonte
+313180,312770,22,81.5,Itabirinha,Governador Valadares
+313180,314390,13,308.4,Itabirinha,Muriaé
+313180,314560,1,444.6,Itabirinha,Oliveira
+313190,310620,85,39.5,Itabirito,Belo Horizonte
+313190,313010,1,56.3,Itabirito,Igarapé
+313200,314330,14,70.3,Itacambira,Montes Claros
+313210,310620,1,536.4,Itacarambi,Belo Horizonte
+313210,314330,28,182.7,Itacarambi,Montes Claros
+313220,310620,2,77.6,Itaguara,Belo Horizonte
+313220,312230,1,50.5,Itaguara,Divinópolis
+313220,313380,51,36.6,Itaguara,Itaúna
+313220,314560,1,49.1,Itaguara,Oliveira
+313230,310620,2,368.2,Itaipé,Belo Horizonte
+313230,312770,2,164.4,Itaipé,Governador Valadares
+313230,313130,5,247.9,Itaipé,Ipatinga
+313230,316860,12,54.1,Itaipé,Teófilo Otoni
+313240,313240,7,0.0,Itajubá,Itajubá
+313240,314790,1,224.4,Itajubá,Passos
+313240,315180,174,135.1,Itajubá,Poços de Caldas
+313240,315250,9,54.2,Itajubá,Pouso Alegre
+313240,317010,3,394.7,Itajubá,Uberaba
+313250,310620,32,256.3,Itamarandiba,Belo Horizonte
+313250,312160,10,89.3,Itamarandiba,Diamantina
+313260,314390,28,56.5,Itamarati de Minas,Muriaé
+313270,310620,6,316.6,Itambacuri,Belo Horizonte
+313270,312770,3,95.9,Itambacuri,Governador Valadares
+313270,313130,14,183.7,Itambacuri,Ipatinga
+313270,316860,17,26.4,Itambacuri,Teófilo Otoni
+313280,310620,1,85.7,Itambé do Mato Dentro,Belo Horizonte
+313280,313170,6,25.7,Itambé do Mato Dentro,Itabira
+313290,310620,4,348.0,Itamogi,Belo Horizonte
+313290,314790,20,60.0,Itamogi,Passos
+313300,310620,3,279.7,Itamonte,Belo Horizonte
+313300,316370,6,26.8,Itamonte,São Lourenço
+313300,317070,27,99.8,Itamonte,Varginha
+313310,315180,1,177.4,Itanhandu,Poços de Caldas
+313310,316370,9,23.5,Itanhandu,São Lourenço
+313310,317070,53,96.9,Itanhandu,Varginha
+313320,310620,4,232.6,Itanhomi,Belo Horizonte
+313320,312770,32,35.8,Itanhomi,Governador Valadares
+313320,314390,2,223.8,Itanhomi,Muriaé
+313330,310620,10,453.6,Itaobim,Belo Horizonte
+313330,312160,2,290.5,Itaobim,Diamantina
+313330,312770,1,259.6,Itaobim,Governador Valadares
+313330,316860,23,144.9,Itaobim,Teófilo Otoni
+313340,317010,21,149.5,Itapagipe,Uberaba
+313350,310620,2,138.1,Itapecerica,Belo Horizonte
+313350,312230,93,40.2,Itapecerica,Divinópolis
+313360,315180,5,114.6,Itapeva,Poços de Caldas
+313360,315250,23,66.4,Itapeva,Pouso Alegre
+313370,310620,12,59.2,Itatiaiuçu,Belo Horizonte
+313370,312230,8,51.1,Itatiaiuçu,Divinópolis
+313370,313380,65,21.2,Itatiaiuçu,Itaúna
+313375,314790,53,14.9,Itaú de Minas,Passos
+313380,310620,17,69.0,Itaúna,Belo Horizonte
+313380,312230,79,36.5,Itaúna,Divinópolis
+313380,313380,401,0.0,Itaúna,Itaúna
+313390,310560,10,63.5,Itaverava,Barbacena
+313390,310620,6,90.4,Itaverava,Belo Horizonte
+313400,310620,1,433.6,Itinga,Belo Horizonte
+313400,316860,10,142.2,Itinga,Teófilo Otoni
+313410,312770,13,96.3,Itueta,Governador Valadares
+313410,314390,14,226.5,Itueta,Muriaé
+313420,314810,2,260.5,Ituiutaba,Patrocínio
+313420,317010,4,180.9,Ituiutaba,Uberaba
+313420,317020,118,127.2,Ituiutaba,Uberlândia
+313430,313820,1,15.5,Itumirim,Lavras
+313430,317070,11,64.2,Itumirim,Varginha
+313440,317010,30,234.7,Iturama,Uberaba
+313440,317020,1,222.6,Iturama,Uberlândia
+313450,316250,3,45.0,Itutinga,São João del Rei
+313450,317070,13,85.3,Itutinga,Varginha
+313460,310620,38,49.3,Jaboticatubas,Belo Horizonte
+313470,312770,1,349.0,Jacinto,Governador Valadares
+313470,316860,6,230.9,Jacinto,Teófilo Otoni
+313480,314790,26,35.7,Jacuí,Passos
+313490,314390,2,457.0,Jacutinga,Muriaé
+313490,315180,6,56.0,Jacutinga,Poços de Caldas
+313490,315250,70,70.1,Jacutinga,Pouso Alegre
+313490,317010,1,314.6,Jacutinga,Uberaba
+313500,313130,11,29.9,Jaguaraçu,Ipatinga
+313505,313510,4,64.9,Jaíba,Janaúba
+313505,314330,34,156.7,Jaíba,Montes Claros
+313505,316250,28,648.1,Jaíba,São João del Rei
+313507,310620,1,276.2,Jampruca,Belo Horizonte
+313507,312770,6,46.4,Jampruca,Governador Valadares
+313510,310620,7,463.5,Janaúba,Belo Horizonte
+313510,313510,33,0.0,Janaúba,Janaúba
+313510,314330,69,119.9,Janaúba,Montes Claros
+313520,313510,2,118.1,Januária,Janaúba
+313520,314330,78,147.7,Januária,Montes Claros
+313530,310620,2,165.6,Japaraíba,Belo Horizonte
+313530,312230,11,62.1,Japaraíba,Divinópolis
+313535,310620,1,437.8,Japonvar,Belo Horizonte
+313535,314330,14,92.0,Japonvar,Montes Claros
+313540,310560,1,79.8,Jeceaba,Barbacena
+313540,310620,14,68.2,Jeceaba,Belo Horizonte
+313545,310620,2,362.0,Jenipapo de Minas,Belo Horizonte
+313545,312770,1,200.2,Jenipapo de Minas,Governador Valadares
+313550,310620,2,145.0,Jequeri,Belo Horizonte
+313550,314390,2,81.1,Jequeri,Muriaé
+313550,315210,28,25.6,Jequeri,Ponte Nova
+313560,314330,18,82.3,Jequitaí,Montes Claros
+313570,310620,4,76.9,Jequitibá,Belo Horizonte
+313570,316720,20,34.2,Jequitibá,Sete Lagoas
+313580,310620,7,496.5,Jequitinhonha,Belo Horizonte
+313580,312770,2,287.5,Jequitinhonha,Governador Valadares
+313580,316860,24,167.9,Jequitinhonha,Teófilo Otoni
+313590,310620,1,270.2,Jesuânia,Belo Horizonte
+313590,316370,5,27.6,Jesuânia,São Lourenço
+313590,317070,13,51.4,Jesuânia,Varginha
+313600,310620,2,475.9,Joaíma,Belo Horizonte
+313600,312770,3,263.6,Joaíma,Governador Valadares
+313600,313130,1,351.9,Joaíma,Ipatinga
+313600,316860,9,143.9,Joaíma,Teófilo Otoni
+313610,313130,16,37.6,Joanésia,Ipatinga
+313620,310620,45,80.5,João Monlevade,Belo Horizonte
+313620,313170,128,21.2,João Monlevade,Itabira
+313630,310620,16,338.3,João Pinheiro,Belo Horizonte
+313630,314800,155,102.4,João Pinheiro,Patos de Minas
+313630,317010,4,291.4,João Pinheiro,Uberaba
+313630,317020,5,255.6,João Pinheiro,Uberlândia
+313640,314330,8,118.7,Joaquim Felício,Montes Claros
+313650,310620,1,598.6,Jordânia,Belo Horizonte
+313650,316860,12,260.4,Jordânia,Teófilo Otoni
+313652,310620,1,363.5,José Gonçalves de Minas,Belo Horizonte
+313652,312160,3,182.1,José Gonçalves de Minas,Diamantina
+313655,310620,2,242.3,José Raydan,Belo Horizonte
+313655,312770,2,91.7,José Raydan,Governador Valadares
+313657,314330,5,145.9,Josenópolis,Montes Claros
+313660,310620,11,45.5,Nova União,Belo Horizonte
+313665,310620,14,42.5,Juatuba,Belo Horizonte
+313665,310670,24,14.1,Juatuba,Betim
+313670,310620,4,213.0,Juiz de Fora,Belo Horizonte
+313670,313670,1990,0.0,Juiz de Fora,Juiz de Fora
+313680,314330,19,33.0,Juramento,Montes Claros
+313690,310160,24,67.8,Juruaia,Alfenas
+313690,314790,41,59.4,Juruaia,Passos
+313695,314330,14,275.4,Juvenília,Montes Claros
+313700,310620,2,344.0,Ladainha,Belo Horizonte
+313700,312770,3,138.1,Ladainha,Governador Valadares
+313700,313130,1,221.5,Ladainha,Ipatinga
+313700,316860,16,35.8,Ladainha,Teófilo Otoni
+313710,314800,18,56.8,Lagamar,Patos de Minas
+313710,317010,3,212.1,Lagamar,Uberaba
+313720,310620,7,168.4,Lagoa da Prata,Belo Horizonte
+313720,312230,156,68.1,Lagoa da Prata,Divinópolis
+313720,314560,1,105.8,Lagoa da Prata,Oliveira
+313730,314330,2,80.5,Lagoa dos Patos,Montes Claros
+313740,316250,69,31.2,Lagoa Dourada,São João del Rei
+313750,310620,23,288.7,Lagoa Formosa,Belo Horizonte
+313750,314800,33,22.1,Lagoa Formosa,Patos de Minas
+313750,317010,2,194.9,Lagoa Formosa,Uberaba
+313753,310620,4,357.5,Lagoa Grande,Belo Horizonte
+313753,314800,35,85.4,Lagoa Grande,Patos de Minas
+313753,317010,1,260.5,Lagoa Grande,Uberaba
+313760,310620,157,33.3,Lagoa Santa,Belo Horizonte
+313770,313940,1,44.3,Lajinha,Manhuaçu
+313770,314390,54,133.5,Lajinha,Muriaé
+313770,316250,1,295.3,Lajinha,São João del Rei
+313780,315250,1,66.9,Lambari,Pouso Alegre
+313780,316370,9,34.3,Lambari,São Lourenço
+313780,317070,65,47.3,Lambari,Varginha
+313790,310560,8,57.5,Lamim,Barbacena
+313800,314390,19,28.5,Laranjal,Muriaé
+313810,310620,1,236.3,Lassance,Belo Horizonte
+313810,312090,4,97.5,Lassance,Curvelo
+313810,314330,18,148.8,Lassance,Montes Claros
+313820,310620,12,184.0,Lavras,Belo Horizonte
+313820,313820,9,0.0,Lavras,Lavras
+313820,315180,1,173.0,Lavras,Poços de Caldas
+313820,317010,2,349.5,Lavras,Uberaba
+313820,317070,81,56.7,Lavras,Varginha
+313830,312230,3,51.7,Leandro Ferreira,Divinópolis
+313830,313380,8,61.3,Leandro Ferreira,Itaúna
+313835,310620,9,342.0,Leme do Prado,Belo Horizonte
+313840,313670,4,76.7,Leopoldina,Juiz de Fora
+313840,314390,158,53.0,Leopoldina,Muriaé
+313850,313670,20,105.0,Liberdade,Juiz de Fora
+313860,313670,87,47.1,Lima Duarte,Juiz de Fora
+313862,317010,4,275.8,Limeira do Oeste,Uberaba
+313865,314330,19,102.9,Lontra,Montes Claros
+313867,313940,2,21.5,Luisburgo,Manhuaçu
+313867,314390,15,81.6,Luisburgo,Muriaé
+313868,314330,5,102.0,Luislândia,Montes Claros
+313870,315250,1,133.2,Luminárias,Pouso Alegre
+313870,317070,11,55.0,Luminárias,Varginha
+313880,310620,7,183.5,Luz,Belo Horizonte
+313880,312230,59,90.8,Luz,Divinópolis
+313890,312770,1,236.7,Machacalis,Governador Valadares
+313890,316860,11,121.1,Machacalis,Teófilo Otoni
+313900,310160,177,28.5,Machado,Alfenas
+313900,314790,19,128.6,Machado,Passos
+313910,316250,23,39.2,Madre de Deus de Minas,São João del Rei
+313920,310620,3,302.8,Malacacheta,Belo Horizonte
+313920,312770,2,113.7,Malacacheta,Governador Valadares
+313920,313130,5,187.9,Malacacheta,Ipatinga
+313920,316860,35,60.5,Malacacheta,Teófilo Otoni
+313925,314330,9,211.3,Mamonas,Montes Claros
+313930,310620,2,574.6,Manga,Belo Horizonte
+313930,314330,22,219.6,Manga,Montes Claros
+313940,310620,7,202.1,Manhuaçu,Belo Horizonte
+313940,313940,19,0.0,Manhuaçu,Manhuaçu
+313940,314390,167,103.0,Manhuaçu,Muriaé
+313950,310620,1,211.8,Manhumirim,Belo Horizonte
+313950,313940,8,13.0,Manhumirim,Manhuaçu
+313950,314390,68,96.4,Manhumirim,Muriaé
+313960,310620,2,334.9,Mantena,Belo Horizonte
+313960,312770,47,101.7,Mantena,Governador Valadares
+313970,310620,8,90.0,Maravilhas,Belo Horizonte
+313970,316720,11,45.6,Maravilhas,Sete Lagoas
+313980,310620,3,236.6,Mar de Espanha,Belo Horizonte
+313980,313670,49,36.6,Mar de Espanha,Juiz de Fora
+313990,313240,1,15.4,Maria da Fé,Itajubá
+313990,315180,17,136.1,Maria da Fé,Poços de Caldas
+313990,315250,4,58.5,Maria da Fé,Pouso Alegre
+313990,315960,1,34.5,Maria da Fé,Santa Rita do Sapucaí
+314000,310620,72,74.0,Mariana,Belo Horizonte
+314000,315210,2,53.2,Mariana,Ponte Nova
+314010,310620,3,250.5,Marilac,Belo Horizonte
+314010,312770,5,41.7,Marilac,Governador Valadares
+314015,310620,10,29.7,Mário Campos,Belo Horizonte
+314015,310670,20,9.0,Mário Campos,Betim
+314020,313670,8,40.2,Maripá de Minas,Juiz de Fora
+314030,313130,9,33.7,Marliéria,Ipatinga
+314030,314390,2,162.0,Marliéria,Muriaé
+314040,315180,2,162.3,Marmelópolis,Poços de Caldas
+314050,310620,2,151.3,Martinho Campos,Belo Horizonte
+314050,312230,33,99.3,Martinho Campos,Divinópolis
+314050,313010,2,127.8,Martinho Campos,Igarapé
+314050,314560,3,157.8,Martinho Campos,Oliveira
+314053,314390,16,109.6,Martins Soares,Muriaé
+314055,310620,1,580.1,Mata Verde,Belo Horizonte
+314055,316860,4,255.7,Mata Verde,Teófilo Otoni
+314060,310620,4,185.7,Materlândia,Belo Horizonte
+314060,312160,2,62.3,Materlândia,Diamantina
+314060,313170,2,129.1,Materlândia,Itabira
+314070,310620,28,52.0,Mateus Leme,Belo Horizonte
+314070,310670,34,23.2,Mateus Leme,Betim
+314070,313380,1,18.2,Mateus Leme,Itaúna
+314080,313670,53,12.7,Matias Barbosa,Juiz de Fora
+314085,314330,6,208.6,Matias Cardoso,Montes Claros
+314090,310620,1,171.3,Matipó,Belo Horizonte
+314090,313940,2,32.3,Matipó,Manhuaçu
+314090,314390,56,93.8,Matipó,Muriaé
+314090,315210,1,60.9,Matipó,Ponte Nova
+314100,313510,1,65.3,Mato Verde,Janaúba
+314100,314330,44,183.3,Mato Verde,Montes Claros
+314110,310620,79,43.4,Matozinhos,Belo Horizonte
+314120,314800,5,89.0,Matutina,Patos de Minas
+314130,312230,18,138.2,Medeiros,Divinópolis
+314130,314560,1,164.9,Medeiros,Oliveira
+314140,310620,2,486.4,Medina,Belo Horizonte
+314140,312160,1,317.9,Medina,Diamantina
+314140,316860,26,182.3,Medina,Teófilo Otoni
+314150,312770,16,61.3,Mendes Pimentel,Governador Valadares
+314160,313670,2,62.6,Mercês,Juiz de Fora
+314160,314390,10,101.0,Mercês,Muriaé
+314160,316250,23,95.4,Mercês,São João del Rei
+314170,313130,9,30.0,Mesquita,Ipatinga
+314180,310620,44,332.5,Minas Novas,Belo Horizonte
+314180,312160,7,156.0,Minas Novas,Diamantina
+314190,316370,2,67.0,Minduri,São Lourenço
+314190,317070,15,87.3,Minduri,Varginha
+314200,314330,27,61.0,Mirabela,Montes Claros
+314210,313670,1,141.7,Miradouro,Juiz de Fora
+314210,314390,33,26.6,Miradouro,Muriaé
+314220,314390,32,26.2,Miraí,Muriaé
+314225,314330,12,227.9,Miravânia,Montes Claros
+314230,310620,13,46.9,Moeda,Belo Horizonte
+314240,310620,1,154.8,Moema,Belo Horizonte
+314240,312230,27,64.0,Moema,Divinópolis
+314240,313380,2,91.2,Moema,Itaúna
+314240,314560,1,112.9,Moema,Oliveira
+314250,310620,2,178.9,Monjolos,Belo Horizonte
+314250,312090,21,57.7,Monjolos,Curvelo
+314250,316720,1,127.6,Monjolos,Sete Lagoas
+314260,315250,7,66.5,Monsenhor Paulo,Pouso Alegre
+314260,317070,23,25.0,Monsenhor Paulo,Varginha
+314270,310620,1,613.5,Montalvânia,Belo Horizonte
+314270,313510,1,190.7,Montalvânia,Janaúba
+314270,314330,23,262.2,Montalvânia,Montes Claros
+314280,317020,44,64.3,Monte Alegre de Minas,Uberlândia
+314290,314330,24,205.4,Monte Azul,Montes Claros
+314300,310160,87,44.7,Monte Belo,Alfenas
+314310,314810,74,58.7,Monte Carmelo,Patrocínio
+314310,317010,1,123.0,Monte Carmelo,Uberaba
+314310,317020,30,82.5,Monte Carmelo,Uberlândia
+314315,310620,1,442.2,Monte Formoso,Belo Horizonte
+314315,316860,4,114.2,Monte Formoso,Teófilo Otoni
+314320,314790,120,65.0,Monte Santo de Minas,Passos
+314320,317010,1,189.5,Monte Santo de Minas,Uberaba
+314330,310620,28,355.1,Montes Claros,Belo Horizonte
+314330,314330,1003,0.0,Montes Claros,Montes Claros
+314340,315180,1,71.7,Monte Sião,Poços de Caldas
+314340,315250,43,68.9,Monte Sião,Pouso Alegre
+314340,317010,2,330.9,Monte Sião,Uberaba
+314345,314330,13,227.1,Montezuma,Montes Claros
+314350,310620,2,209.0,Morada Nova de Minas,Belo Horizonte
+314350,316720,17,150.9,Morada Nova de Minas,Sete Lagoas
+314360,310620,2,168.3,Morro da Garça,Belo Horizonte
+314360,312090,3,29.3,Morro da Garça,Curvelo
+314370,310620,5,98.0,Morro do Pilar,Belo Horizonte
+314370,313170,6,48.2,Morro do Pilar,Itabira
+314380,315250,6,60.9,Munhoz,Pouso Alegre
+314390,310620,3,211.0,Muriaé,Belo Horizonte
+314390,314390,462,0.0,Muriaé,Muriaé
+314400,310620,1,261.5,Mutum,Belo Horizonte
+314400,313940,3,79.2,Mutum,Manhuaçu
+314400,314390,59,175.3,Mutum,Muriaé
+314410,310160,84,59.6,Muzambinho,Alfenas
+314410,314790,10,72.8,Muzambinho,Passos
+314410,315180,3,46.7,Muzambinho,Poços de Caldas
+314420,312770,7,54.9,Nacip Raydan,Governador Valadares
+314430,310620,2,442.7,Nanuque,Belo Horizonte
+314430,312160,1,346.2,Nanuque,Diamantina
+314430,312770,1,202.9,Nanuque,Governador Valadares
+314430,316860,30,122.5,Nanuque,Teófilo Otoni
+314435,313130,29,35.0,Naque,Ipatinga
+314437,310620,2,466.2,Natalândia,Belo Horizonte
+314437,314800,6,233.2,Natalândia,Patos de Minas
+314440,315250,24,45.3,Natércia,Pouso Alegre
+314450,313820,1,40.1,Nazareno,Lavras
+314450,316250,42,37.8,Nazareno,São João del Rei
+314450,317070,1,92.9,Nazareno,Varginha
+314460,310160,1,77.0,Nepomuceno,Alfenas
+314460,310620,1,198.7,Nepomuceno,Belo Horizonte
+314460,315250,1,132.5,Nepomuceno,Pouso Alegre
+314460,317070,61,41.4,Nepomuceno,Varginha
+314465,310620,1,561.8,Ninheira,Belo Horizonte
+314465,314330,16,275.2,Ninheira,Montes Claros
+314467,312770,4,97.5,Nova Belém,Governador Valadares
+314470,310620,10,95.8,Nova Era,Belo Horizonte
+314470,313010,1,136.7,Nova Era,Igarapé
+314470,313170,20,25.0,Nova Era,Itabira
+314480,310620,154,11.6,Nova Lima,Belo Horizonte
+314490,310620,1,304.2,Nova Módica,Belo Horizonte
+314490,312770,4,65.7,Nova Módica,Governador Valadares
+314490,316860,3,64.3,Nova Módica,Teófilo Otoni
+314500,317010,2,70.8,Nova Ponte,Uberaba
+314500,317020,14,67.8,Nova Ponte,Uberlândia
+314505,313510,3,1.1,Nova Porteirinha,Janaúba
+314505,314330,5,119.7,Nova Porteirinha,Montes Claros
+314510,314790,63,49.4,Nova Resende,Passos
+314510,317010,1,221.1,Nova Resende,Uberaba
+314520,310620,17,109.8,Nova Serrana,Belo Horizonte
+314520,310670,1,81.9,Nova Serrana,Betim
+314520,312230,55,33.6,Nova Serrana,Divinópolis
+314520,313380,188,48.0,Nova Serrana,Itaúna
+314530,310620,2,348.6,Novo Cruzeiro,Belo Horizonte
+314530,312770,6,154.9,Novo Cruzeiro,Governador Valadares
+314530,313130,6,234.0,Novo Cruzeiro,Ipatinga
+314530,316860,17,59.2,Novo Cruzeiro,Teófilo Otoni
+314535,310620,1,399.7,Novo Oriente de Minas,Belo Horizonte
+314535,312770,3,177.9,Novo Oriente de Minas,Governador Valadares
+314535,316860,5,58.7,Novo Oriente de Minas,Teófilo Otoni
+314537,314330,4,175.0,Novorizonte,Montes Claros
+314540,310620,1,215.3,Olaria,Belo Horizonte
+314540,313670,8,62.2,Olaria,Juiz de Fora
+314545,314330,11,80.8,Olhos-d'Água,Montes Claros
+314550,316370,5,22.3,Olímpio Noronha,São Lourenço
+314550,317070,9,59.7,Olímpio Noronha,Varginha
+314560,310620,10,126.7,Oliveira,Belo Horizonte
+314560,312230,131,59.2,Oliveira,Divinópolis
+314560,314560,17,0.0,Oliveira,Oliveira
+314570,313670,10,48.0,Oliveira Fortes,Juiz de Fora
+314580,312230,3,50.1,Onça de Pitangui,Divinópolis
+314580,313380,7,45.1,Onça de Pitangui,Itaúna
+314585,310620,1,130.8,Oratórios,Belo Horizonte
+314585,314390,3,89.7,Oratórios,Muriaé
+314585,315210,14,10.9,Oratórios,Ponte Nova
+314587,310620,2,191.9,Orizânia,Belo Horizonte
+314587,314390,14,71.3,Orizânia,Muriaé
+314590,310620,69,71.1,Ouro Branco,Belo Horizonte
+314600,310620,1,363.9,Ouro Fino,Belo Horizonte
+314600,315250,80,45.0,Ouro Fino,Pouso Alegre
+314600,317010,2,326.0,Ouro Fino,Uberaba
+314610,310620,113,68.4,Ouro Preto,Belo Horizonte
+314610,314610,1,0.0,Ouro Preto,Ouro Preto
+314620,312770,4,113.1,Ouro Verde de Minas,Governador Valadares
+314620,316860,3,33.9,Ouro Verde de Minas,Teófilo Otoni
+314625,310620,2,423.2,Padre Carvalho,Belo Horizonte
+314625,314330,11,150.1,Padre Carvalho,Montes Claros
+314630,310620,2,408.8,Padre Paraíso,Belo Horizonte
+314630,312770,3,204.1,Padre Paraíso,Governador Valadares
+314630,316860,14,87.7,Padre Paraíso,Teófilo Otoni
+314640,310620,1,202.6,Paineiras,Belo Horizonte
+314640,316720,15,149.3,Paineiras,Sete Lagoas
+314650,312230,3,81.5,Pains,Divinópolis
+314650,314790,20,106.0,Pains,Passos
+314655,314330,9,158.3,Pai Pedro,Montes Claros
+314660,310560,5,37.8,Paiva,Barbacena
+314660,310620,1,161.3,Paiva,Belo Horizonte
+314670,314390,30,28.3,Palma,Muriaé
+314675,310620,2,512.9,Palmópolis,Belo Horizonte
+314675,316860,13,170.3,Palmópolis,Teófilo Otoni
+314690,310620,6,100.0,Papagaios,Belo Horizonte
+314690,312090,6,84.4,Papagaios,Curvelo
+314690,316720,28,52.7,Papagaios,Sete Lagoas
+314700,310620,25,431.6,Paracatu,Belo Horizonte
+314700,314800,185,157.3,Paracatu,Patos de Minas
+314700,317010,2,300.6,Paracatu,Uberaba
+314710,310620,13,70.6,Pará de Minas,Belo Horizonte
+314710,312230,69,46.9,Pará de Minas,Divinópolis
+314710,313380,194,24.0,Pará de Minas,Itaúna
+314710,314560,2,95.9,Pará de Minas,Oliveira
+314710,314710,5,0.0,Pará de Minas,Pará de Minas
+314720,310160,111,25.9,Paraguaçu,Alfenas
+314720,314790,1,129.2,Paraguaçu,Passos
+314720,317070,1,31.4,Paraguaçu,Varginha
+314730,310160,1,126.2,Paraisópolis,Alfenas
+314730,313240,1,36.3,Paraisópolis,Itajubá
+314730,315180,65,117.4,Paraisópolis,Poços de Caldas
+314730,315250,3,38.9,Paraisópolis,Pouso Alegre
+314730,317010,1,384.3,Paraisópolis,Uberaba
+314740,310620,17,87.2,Paraopeba,Belo Horizonte
+314740,316720,47,26.9,Paraopeba,Sete Lagoas
+314750,310620,1,105.0,Passabém,Belo Horizonte
+314750,313170,4,31.5,Passabém,Itabira
+314760,316370,4,31.9,Passa Quatro,São Lourenço
+314760,317070,36,104.4,Passa Quatro,Varginha
+314770,310620,2,99.8,Passa Tempo,Belo Horizonte
+314770,312230,30,68.8,Passa Tempo,Divinópolis
+314770,314560,3,34.9,Passa Tempo,Oliveira
+314780,313670,15,104.7,Passa Vinte,Juiz de Fora
+314790,310160,1,104.2,Passos,Alfenas
+314790,310620,1,292.5,Passos,Belo Horizonte
+314790,314790,487,0.0,Passos,Passos
+314790,317010,1,176.6,Passos,Uberaba
+314795,310620,1,428.0,Patis,Belo Horizonte
+314795,314330,4,76.1,Patis,Montes Claros
+314800,310620,66,307.4,Patos de Minas,Belo Horizonte
+314800,314800,610,0.0,Patos de Minas,Patos de Minas
+314800,314810,3,62.9,Patos de Minas,Patrocínio
+314800,317010,7,197.7,Patos de Minas,Uberaba
+314810,314810,253,0.0,Patrocínio,Patrocínio
+314810,317010,1,135.0,Patrocínio,Uberaba
+314810,317020,15,133.6,Patrocínio,Uberlândia
+314820,314390,51,16.6,Patrocínio do Muriaé,Muriaé
+314830,314390,10,69.4,Paula Cândido,Muriaé
+314830,315210,10,51.4,Paula Cândido,Ponte Nova
+314840,312770,2,108.4,Paulistas,Governador Valadares
+314850,312770,1,187.6,Pavão,Governador Valadares
+314850,316860,5,72.4,Pavão,Teófilo Otoni
+314860,310620,9,210.4,Peçanha,Belo Horizonte
+314860,312770,10,73.4,Peçanha,Governador Valadares
+314870,310620,5,518.4,Pedra Azul,Belo Horizonte
+314870,312160,1,350.2,Pedra Azul,Diamantina
+314870,314330,18,288.0,Pedra Azul,Montes Claros
+314870,316860,3,208.1,Pedra Azul,Teófilo Otoni
+314875,314390,17,67.4,Pedra Bonita,Muriaé
+314880,314390,2,68.9,Pedra do Anta,Muriaé
+314880,315210,18,28.6,Pedra do Anta,Ponte Nova
+314890,312230,4,32.5,Pedra do Indaiá,Divinópolis
+314900,314390,14,39.7,Pedra Dourada,Muriaé
+314910,315180,19,124.4,Pedralva,Poços de Caldas
+314910,315250,2,48.4,Pedralva,Pouso Alegre
+314910,316370,1,45.0,Pedralva,São Lourenço
+314915,314330,30,136.8,Pedras de Maria da Cruz,Montes Claros
+314920,317010,9,77.3,Pedrinópolis,Uberaba
+314930,310620,113,35.5,Pedro Leopoldo,Belo Horizonte
+314940,313670,11,41.6,Pedro Teixeira,Juiz de Fora
+314950,313670,17,24.6,Pequeri,Juiz de Fora
+314960,310620,5,82.8,Pequi,Belo Horizonte
+314960,316720,4,47.5,Pequi,Sete Lagoas
+314970,310620,11,120.1,Perdigão,Belo Horizonte
+314970,312230,23,30.2,Perdigão,Divinópolis
+314980,317010,34,81.7,Perdizes,Uberaba
+314990,310620,8,176.9,Perdões,Belo Horizonte
+314990,317070,51,62.8,Perdões,Varginha
+314995,313130,16,46.9,Periquito,Ipatinga
+315000,316860,7,55.4,Pescador,Teófilo Otoni
+315010,313670,6,27.8,Piau,Juiz de Fora
+315015,313130,33,56.6,Piedade de Caratinga,Ipatinga
+315015,314390,3,155.1,Piedade de Caratinga,Muriaé
+315020,315210,7,26.3,Piedade de Ponte Nova,Ponte Nova
+315030,310560,1,51.1,Piedade do Rio Grande,Barbacena
+315030,310620,2,173.8,Piedade do Rio Grande,Belo Horizonte
+315030,313670,6,93.4,Piedade do Rio Grande,Juiz de Fora
+315030,316250,47,37.6,Piedade do Rio Grande,São João del Rei
+315040,310670,21,55.7,Piedade dos Gerais,Betim
+315050,314790,33,88.3,Pimenta,Passos
+315053,313130,14,30.3,Pingo-d'Água,Ipatinga
+315053,314390,1,155.8,Pingo-d'Água,Muriaé
+315057,314330,10,155.2,Pintópolis,Montes Claros
+315060,312230,2,58.6,Piracema,Divinópolis
+315060,313380,17,49.5,Piracema,Itaúna
+315070,317010,13,80.3,Pirajuba,Uberaba
+315080,310560,20,77.7,Piranga,Barbacena
+315080,310620,10,107.6,Piranga,Belo Horizonte
+315080,316250,1,111.5,Piranga,São João del Rei
+315090,315180,16,137.8,Piranguçu,Poços de Caldas
+315090,315250,1,56.0,Piranguçu,Pouso Alegre
+315100,313240,5,8.6,Piranguinho,Itajubá
+315100,315180,5,126.8,Piranguinho,Poços de Caldas
+315100,315250,5,45.7,Piranguinho,Pouso Alegre
+315110,314390,61,58.8,Pirapetinga,Muriaé
+315120,310620,2,305.3,Pirapora,Belo Horizonte
+315120,314330,91,133.7,Pirapora,Montes Claros
+315120,315120,1,0.0,Pirapora,Pirapora
+315130,313670,4,62.8,Piraúba,Juiz de Fora
+315130,314390,22,70.0,Piraúba,Muriaé
+315140,310620,7,103.3,Pitangui,Belo Horizonte
+315140,312230,28,54.3,Pitangui,Divinópolis
+315140,313380,69,54.4,Pitangui,Itaúna
+315150,310160,3,106.4,Piumhi,Alfenas
+315150,310620,4,219.8,Piumhi,Belo Horizonte
+315150,314790,157,73.1,Piumhi,Passos
+315160,317010,11,89.8,Planura,Uberaba
+315170,310160,102,40.2,Poço Fundo,Alfenas
+315170,315170,1,0.0,Poço Fundo,Poço Fundo
+315180,310160,1,75.5,Poços de Caldas,Alfenas
+315180,310620,4,343.0,Poços de Caldas,Belo Horizonte
+315180,315180,793,0.0,Poços de Caldas,Poços de Caldas
+315180,317010,7,268.3,Poços de Caldas,Uberaba
+315180,317020,2,364.9,Poços de Caldas,Uberlândia
+315190,313940,2,82.1,Pocrane,Manhuaçu
+315190,314390,10,184.3,Pocrane,Muriaé
+315200,310620,10,135.7,Pompéu,Belo Horizonte
+315200,316720,34,83.6,Pompéu,Sete Lagoas
+315210,310620,6,120.4,Ponte Nova,Belo Horizonte
+315210,314390,16,96.9,Ponte Nova,Muriaé
+315210,315210,206,0.0,Ponte Nova,Ponte Nova
+315213,314330,5,127.5,Ponto Chique,Montes Claros
+315217,310620,3,436.1,Ponto dos Volantes,Belo Horizonte
+315217,312160,1,277.2,Ponto dos Volantes,Diamantina
+315217,316860,10,123.6,Ponto dos Volantes,Teófilo Otoni
+315220,310620,1,474.3,Porteirinha,Belo Horizonte
+315220,313510,3,30.4,Porteirinha,Janaúba
+315220,314330,70,141.7,Porteirinha,Montes Claros
+315230,314390,2,89.8,Porto Firme,Muriaé
+315230,315210,35,33.9,Porto Firme,Ponte Nova
+315240,312160,1,197.5,Poté,Diamantina
+315240,312770,4,118.3,Poté,Governador Valadares
+315240,313130,1,201.9,Poté,Ipatinga
+315240,316860,18,30.4,Poté,Teófilo Otoni
+315250,310620,2,329.9,Pouso Alegre,Belo Horizonte
+315250,313240,2,54.2,Pouso Alegre,Itajubá
+315250,314790,2,182.0,Pouso Alegre,Passos
+315250,315250,415,0.0,Pouso Alegre,Pouso Alegre
+315250,317010,3,346.3,Pouso Alegre,Uberaba
+315260,316370,8,12.2,Pouso Alto,São Lourenço
+315260,317070,17,85.5,Pouso Alto,Varginha
+315270,310560,1,36.7,Prados,Barbacena
+315270,310620,3,127.0,Prados,Belo Horizonte
+315270,316250,44,20.7,Prados,São João del Rei
+315280,310350,1,106.5,Prata,Araguari
+315280,317020,32,83.1,Prata,Uberlândia
+315290,314790,42,26.2,Pratápolis,Passos
+315300,317010,18,164.2,Pratinha,Uberaba
+315310,314390,23,93.8,Presidente Bernardes,Muriaé
+315320,310620,1,143.5,Presidente Juscelino,Belo Horizonte
+315320,312090,22,40.8,Presidente Juscelino,Curvelo
+315330,312160,1,41.3,Presidente Kubitschek,Diamantina
+315340,310620,8,309.9,Presidente Olegário,Belo Horizonte
+315340,314800,40,22.7,Presidente Olegário,Patos de Minas
+315340,317010,3,218.5,Presidente Olegário,Uberaba
+315350,314390,22,89.0,Alto Jequitibá,Muriaé
+315360,310620,2,54.3,Prudente de Morais,Belo Horizonte
+315360,312090,6,86.0,Prudente de Morais,Curvelo
+315360,316720,31,9.6,Prudente de Morais,Sete Lagoas
+315370,310620,7,184.7,Quartel Geral,Belo Horizonte
+315370,316720,3,139.4,Quartel Geral,Sete Lagoas
+315380,310560,6,55.3,Queluzito,Barbacena
+315380,310620,5,90.9,Queluzito,Belo Horizonte
+315390,310620,16,14.6,Raposos,Belo Horizonte
+315400,310620,2,156.3,Raul Soares,Belo Horizonte
+315400,314390,10,114.5,Raul Soares,Muriaé
+315400,315210,87,59.1,Raul Soares,Ponte Nova
+315410,314390,29,45.5,Recreio,Muriaé
+315410,316250,2,190.4,Recreio,São João del Rei
+315415,310620,2,207.0,Reduto,Belo Horizonte
+315415,314390,32,106.6,Reduto,Muriaé
+315420,310560,2,58.8,Resende Costa,Barbacena
+315420,310620,16,115.1,Resende Costa,Belo Horizonte
+315420,316250,48,24.1,Resende Costa,São João del Rei
+315430,310620,1,288.6,Resplendor,Belo Horizonte
+315430,312770,22,89.0,Resplendor,Governador Valadares
+315430,314390,6,231.9,Resplendor,Muriaé
+315440,310560,12,18.2,Ressaquinha,Barbacena
+315440,310620,1,127.9,Ressaquinha,Belo Horizonte
+315445,310620,1,466.0,Riachinho,Belo Horizonte
+315445,314800,7,270.4,Riachinho,Patos de Minas
+315445,317010,2,443.1,Riachinho,Uberaba
+315450,310620,1,445.7,Riacho dos Machados,Belo Horizonte
+315450,314330,6,119.1,Riacho dos Machados,Montes Claros
+315460,310620,427,23.6,Ribeirão das Neves,Belo Horizonte
+315460,310670,1,25.9,Ribeirão das Neves,Betim
+315470,317070,12,56.0,Ribeirão Vermelho,Varginha
+315480,310620,21,23.7,Rio Acima,Belo Horizonte
+315490,310620,2,138.3,Rio Casca,Belo Horizonte
+315490,315210,54,34.2,Rio Casca,Ponte Nova
+315500,315210,5,19.0,Rio Doce,Ponte Nova
+315510,316860,9,171.4,Rio do Prado,Teófilo Otoni
+315520,310560,21,51.5,Rio Espera,Barbacena
+315520,310620,9,114.4,Rio Espera,Belo Horizonte
+315520,316250,1,87.3,Rio Espera,São João del Rei
+315530,310620,4,54.4,Rio Manso,Belo Horizonte
+315530,310670,4,34.6,Rio Manso,Betim
+315540,313670,18,38.6,Rio Novo,Juiz de Fora
+315550,310620,2,254.7,Rio Paranaíba,Belo Horizonte
+315550,314800,6,71.6,Rio Paranaíba,Patos de Minas
+315550,314810,1,83.3,Rio Paranaíba,Patrocínio
+315550,317020,1,214.2,Rio Paranaíba,Uberlândia
+315560,310620,1,501.1,Rio Pardo de Minas,Belo Horizonte
+315560,314330,33,188.1,Rio Pardo de Minas,Montes Claros
+315570,310620,21,79.7,Rio Piracicaba,Belo Horizonte
+315570,313170,30,34.2,Rio Piracicaba,Itabira
+315580,313670,2,56.3,Rio Pomba,Juiz de Fora
+315580,314390,17,85.5,Rio Pomba,Muriaé
+315590,313670,16,62.1,Rio Preto,Juiz de Fora
+315600,310620,7,205.9,Rio Vermelho,Belo Horizonte
+315600,313170,7,149.8,Rio Vermelho,Itabira
+315610,310620,1,128.9,Ritápolis,Belo Horizonte
+315610,313670,3,129.6,Ritápolis,Juiz de Fora
+315610,316250,36,13.7,Ritápolis,São João del Rei
+315620,313670,14,36.5,Rochedo de Minas,Juiz de Fora
+315630,313670,1,79.3,Rodeiro,Juiz de Fora
+315630,314390,20,51.9,Rodeiro,Muriaé
+315640,314810,4,63.3,Romaria,Patrocínio
+315640,317020,4,70.7,Romaria,Uberlândia
+315645,314390,18,22.0,Rosário da Limeira,Muriaé
+315645,316250,1,182.3,Rosário da Limeira,São João del Rei
+315650,310620,1,429.0,Rubelita,Belo Horizonte
+315650,314330,5,175.2,Rubelita,Montes Claros
+315660,310620,3,533.3,Rubim,Belo Horizonte
+315660,313170,1,459.2,Rubim,Itabira
+315660,316860,14,194.9,Rubim,Teófilo Otoni
+315670,310620,162,13.6,Sabará,Belo Horizonte
+315680,310620,3,166.0,Sabinópolis,Belo Horizonte
+315680,312160,1,71.6,Sabinópolis,Diamantina
+315680,313170,21,107.6,Sabinópolis,Itabira
+315690,317010,118,55.0,Sacramento,Uberaba
+315700,310620,1,452.2,Salinas,Belo Horizonte
+315700,314330,66,179.7,Salinas,Montes Claros
+315710,310620,1,606.8,Salto da Divisa,Belo Horizonte
+315710,312160,1,461.1,Salto da Divisa,Diamantina
+315710,312770,1,382.0,Salto da Divisa,Governador Valadares
+315710,316860,4,265.6,Salto da Divisa,Teófilo Otoni
+315720,310620,31,54.4,Santa Bárbara,Belo Horizonte
+315720,313010,1,93.3,Santa Bárbara,Igarapé
+315720,313170,20,42.5,Santa Bárbara,Itabira
+315725,313130,17,68.7,Santa Bárbara do Leste,Ipatinga
+315725,314390,2,130.1,Santa Bárbara do Leste,Muriaé
+315727,313670,32,43.5,Santa Bárbara do Monte Verde,Juiz de Fora
+315730,310560,10,22.3,Santa Bárbara do Tugúrio,Barbacena
+315730,316250,1,73.6,Santa Bárbara do Tugúrio,São João del Rei
+315733,310620,4,136.4,Santa Cruz de Minas,Belo Horizonte
+315733,316250,45,4.1,Santa Cruz de Minas,São João del Rei
+315737,314330,10,237.2,Santa Cruz de Salinas,Montes Claros
+315740,315210,5,22.3,Santa Cruz do Escalvado,Ponte Nova
+315750,310620,1,198.8,Santa Efigênia de Minas,Belo Horizonte
+315750,312770,5,52.1,Santa Efigênia de Minas,Governador Valadares
+315760,314330,3,164.4,Santa Fé de Minas,Montes Claros
+315765,312770,2,251.7,Santa Helena de Minas,Governador Valadares
+315765,313130,1,343.0,Santa Helena de Minas,Ipatinga
+315765,316860,15,135.0,Santa Helena de Minas,Teófilo Otoni
+315770,317010,37,66.0,Santa Juliana,Uberaba
+315780,310620,304,19.3,Santa Luzia,Belo Horizonte
+315790,313940,2,26.7,Santa Margarida,Manhuaçu
+315790,314390,30,83.6,Santa Margarida,Muriaé
+315800,310620,3,100.9,Santa Maria de Itabira,Belo Horizonte
+315800,313170,10,22.5,Santa Maria de Itabira,Itabira
+315810,310620,2,572.0,Santa Maria do Salto,Belo Horizonte
+315810,312770,1,347.1,Santa Maria do Salto,Governador Valadares
+315810,316860,3,230.6,Santa Maria do Salto,Teófilo Otoni
+315820,310620,2,250.3,Santa Maria do Suaçuí,Belo Horizonte
+315820,312770,13,89.6,Santa Maria do Suaçuí,Governador Valadares
+315830,317070,32,35.0,Santana da Vargem,Varginha
+315840,310620,1,208.8,Santana de Cataguases,Belo Horizonte
+315840,314390,46,26.2,Santana de Cataguases,Muriaé
+315850,310620,4,102.5,Santana de Pirapama,Belo Horizonte
+315850,312090,2,49.6,Santana de Pirapama,Curvelo
+315850,316720,19,55.3,Santana de Pirapama,Sete Lagoas
+315860,310620,1,239.2,Santana do Deserto,Belo Horizonte
+315860,313670,28,28.3,Santana do Deserto,Juiz de Fora
+315870,310560,8,54.1,Santana do Garambéu,Barbacena
+315880,312230,15,84.3,Santana do Jacaré,Divinópolis
+315880,314560,1,38.7,Santana do Jacaré,Oliveira
+315890,313940,6,20.0,Santana do Manhuaçu,Manhuaçu
+315890,314390,12,122.5,Santana do Manhuaçu,Muriaé
+315895,310620,3,157.8,Santana do Paraíso,Belo Horizonte
+315895,313130,96,12.5,Santana do Paraíso,Ipatinga
+315900,310620,9,86.9,Santana do Riacho,Belo Horizonte
+315910,310560,6,49.4,Santana dos Montes,Barbacena
+315920,315180,37,36.0,Santa Rita de Caldas,Poços de Caldas
+315930,313670,10,88.8,Santa Rita de Jacutinga,Juiz de Fora
+315935,313130,7,60.3,Santa Rita de Minas,Ipatinga
+315935,314390,1,141.6,Santa Rita de Minas,Muriaé
+315940,310560,8,40.2,Santa Rita de Ibitipoca,Barbacena
+315940,310620,2,182.3,Santa Rita de Ibitipoca,Belo Horizonte
+315950,312770,6,81.4,Santa Rita do Itueto,Governador Valadares
+315960,315250,97,24.0,Santa Rita do Sapucaí,Pouso Alegre
+315960,315960,3,0.0,Santa Rita do Sapucaí,Santa Rita do Sapucaí
+315970,314800,9,117.6,Santa Rosa da Serra,Patos de Minas
+315980,317020,12,196.5,Santa Vitória,Uberlândia
+315990,310620,4,153.0,Santo Antônio do Amparo,Belo Horizonte
+315990,312230,28,86.5,Santo Antônio do Amparo,Divinópolis
+315990,314560,1,29.4,Santo Antônio do Amparo,Oliveira
+316000,313670,1,54.4,Santo Antônio do Aventureiro,Juiz de Fora
+316000,314390,28,84.0,Santo Antônio do Aventureiro,Muriaé
+316010,314390,1,93.7,Santo Antônio do Grama,Muriaé
+316010,315210,6,33.2,Santo Antônio do Grama,Ponte Nova
+316020,310620,10,175.2,Santo Antônio do Itambé,Belo Horizonte
+316030,310620,1,547.3,Santo Antônio do Jacinto,Belo Horizonte
+316030,316860,17,204.6,Santo Antônio do Jacinto,Teófilo Otoni
+316040,310620,2,142.8,Santo Antônio do Monte,Belo Horizonte
+316040,312230,43,40.8,Santo Antônio do Monte,Divinópolis
+316045,314330,7,204.0,Santo Antônio do Retiro,Montes Claros
+316050,313170,2,44.2,Santo Antônio do Rio Abaixo,Itabira
+316060,312090,13,55.1,Santo Hipólito,Curvelo
+316060,316720,1,129.9,Santo Hipólito,Sete Lagoas
+316070,310620,2,175.0,Santos Dumont,Belo Horizonte
+316070,313670,128,39.9,Santos Dumont,Juiz de Fora
+316070,316070,1,0.0,Santos Dumont,Santos Dumont
+316080,317070,18,37.3,São Bento Abade,Varginha
+316090,310620,7,78.2,São Brás do Suaçuí,Belo Horizonte
+316095,310620,5,206.0,São Domingos das Dores,Belo Horizonte
+316095,313130,20,54.2,São Domingos das Dores,Ipatinga
+316100,310620,20,101.6,São Domingos do Prata,Belo Horizonte
+316100,313170,39,37.9,São Domingos do Prata,Itabira
+316105,312770,7,56.5,São Félix de Minas,Governador Valadares
+316110,310620,2,452.8,São Francisco,Belo Horizonte
+316110,314330,70,137.3,São Francisco,Montes Claros
+316120,310620,2,140.0,São Francisco de Paula,Belo Horizonte
+316120,312230,6,60.5,São Francisco de Paula,Divinópolis
+316120,314560,7,16.4,São Francisco de Paula,Oliveira
+316130,317010,1,190.2,São Francisco de Sales,Uberaba
+316140,314390,8,39.0,São Francisco do Glória,Muriaé
+316150,314390,37,53.2,São Geraldo,Muriaé
+316160,310620,1,210.4,São Geraldo da Piedade,Belo Horizonte
+316160,312770,9,36.2,São Geraldo da Piedade,Governador Valadares
+316165,312770,5,62.0,São Geraldo do Baixio,Governador Valadares
+316165,314390,2,267.6,São Geraldo do Baixio,Muriaé
+316170,314800,9,76.7,São Gonçalo do Abaeté,Patos de Minas
+316180,310620,2,96.6,São Gonçalo do Pará,Belo Horizonte
+316180,312230,45,21.6,São Gonçalo do Pará,Divinópolis
+316190,310620,8,61.3,São Gonçalo do Rio Abaixo,Belo Horizonte
+316190,313170,7,26.7,São Gonçalo do Rio Abaixo,Itabira
+316200,313240,2,61.1,São Gonçalo do Sapucaí,Itajubá
+316200,314790,1,167.6,São Gonçalo do Sapucaí,Passos
+316200,317070,56,40.9,São Gonçalo do Sapucaí,Varginha
+316210,310620,8,231.5,São Gotardo,Belo Horizonte
+316210,314800,67,92.3,São Gotardo,Patos de Minas
+316210,317010,2,205.2,São Gotardo,Uberaba
+316220,310620,2,279.7,São João Batista do Glória,Belo Horizonte
+316220,314790,37,13.8,São João Batista do Glória,Passos
+316225,314330,7,52.4,São João da Lagoa,Montes Claros
+316230,315250,8,33.2,São João da Mata,Pouso Alegre
+316240,314330,25,90.1,São João da Ponte,Montes Claros
+316245,313510,2,131.6,São João das Missões,Janaúba
+316245,314330,9,206.9,São João das Missões,Montes Claros
+316250,310560,2,51.4,São João del Rei,Barbacena
+316250,310620,27,138.9,São João del Rei,Belo Horizonte
+316250,313670,10,117.3,São João del Rei,Juiz de Fora
+316250,314390,1,196.0,São João del Rei,Muriaé
+316250,316250,513,0.0,São João del Rei,São João del Rei
+316255,313940,3,19.7,São João do Manhuaçu,Manhuaçu
+316255,314390,35,84.6,São João do Manhuaçu,Muriaé
+316257,312770,3,83.9,São João do Manteninha,Governador Valadares
+316257,314390,1,295.5,São João do Manteninha,Muriaé
+316260,310620,1,197.2,São João do Oriente,Belo Horizonte
+316260,313130,35,41.7,São João do Oriente,Ipatinga
+316265,310620,1,382.2,São João do Pacuí,Belo Horizonte
+316265,314330,6,73.5,São João do Pacuí,Montes Claros
+316270,310620,2,551.4,São João do Paraíso,Belo Horizonte
+316270,314330,46,253.2,São João do Paraíso,Montes Claros
+316280,310620,3,196.3,São João Evangelista,Belo Horizonte
+316280,312770,20,93.0,São João Evangelista,Governador Valadares
+316280,313130,1,106.5,São João Evangelista,Ipatinga
+316280,314390,1,289.9,São João Evangelista,Muriaé
+316290,313670,143,42.1,São João Nepomuceno,Juiz de Fora
+316292,310620,30,36.8,São Joaquim de Bicas,Belo Horizonte
+316292,310670,29,10.2,São Joaquim de Bicas,Betim
+316294,310620,5,263.0,São José da Barra,Belo Horizonte
+316294,314790,28,31.1,São José da Barra,Passos
+316295,310620,64,25.0,São José da Lapa,Belo Horizonte
+316300,310620,1,258.8,São José da Safira,Belo Horizonte
+316300,312770,5,63.1,São José da Safira,Governador Valadares
+316310,310620,1,69.2,São José da Varginha,Belo Horizonte
+316310,312230,6,63.1,São José da Varginha,Divinópolis
+316310,313380,13,40.5,São José da Varginha,Itaúna
+316320,313240,1,13.2,São José do Alegre,Itajubá
+316320,315180,6,123.2,São José do Alegre,Poços de Caldas
+316320,315250,2,43.5,São José do Alegre,Pouso Alegre
+316330,310620,1,311.7,São José do Divino,Belo Horizonte
+316330,312770,3,71.9,São José do Divino,Governador Valadares
+316330,316860,4,69.8,São José do Divino,Teófilo Otoni
+316340,310620,1,128.4,São José do Goiabal,Belo Horizonte
+316340,315210,11,58.5,São José do Goiabal,Ponte Nova
+316350,310620,2,226.3,São José do Jacuri,Belo Horizonte
+316350,312770,7,100.2,São José do Jacuri,Governador Valadares
+316360,314390,9,140.9,São José do Mantimento,Muriaé
+316370,316370,152,0.0,São Lourenço,São Lourenço
+316370,317070,66,73.4,São Lourenço,Varginha
+316380,314390,8,59.2,São Miguel do Anta,Muriaé
+316380,315210,23,37.8,São Miguel do Anta,Ponte Nova
+316390,314790,20,45.4,São Pedro da União,Passos
+316400,310620,1,150.2,São Pedro dos Ferros,Belo Horizonte
+316400,314390,4,107.7,São Pedro dos Ferros,Muriaé
+316400,315210,28,48.7,São Pedro dos Ferros,Ponte Nova
+316410,312770,7,88.3,São Pedro do Suaçuí,Governador Valadares
+316420,314330,8,134.0,São Romão,Montes Claros
+316430,314790,26,58.6,São Roque de Minas,Passos
+316440,315250,19,20.3,São Sebastião da Bela Vista,Pouso Alegre
+316440,315960,2,11.6,São Sebastião da Bela Vista,Santa Rita do Sapucaí
+316443,313670,2,105.7,São Sebastião da Vargem Alegre,Juiz de Fora
+316443,314390,10,28.3,São Sebastião da Vargem Alegre,Muriaé
+316447,310620,2,209.8,São Sebastião do Anta,Belo Horizonte
+316447,313130,23,57.1,São Sebastião do Anta,Ipatinga
+316450,310620,2,249.8,São Sebastião do Maranhão,Belo Horizonte
+316450,312770,5,108.5,São Sebastião do Maranhão,Governador Valadares
+316460,312230,13,15.1,São Sebastião do Oeste,Divinópolis
+316470,310160,1,121.9,São Sebastião do Paraíso,Alfenas
+316470,314790,202,45.3,São Sebastião do Paraíso,Passos
+316470,316370,1,240.8,São Sebastião do Paraíso,São Lourenço
+316470,316470,7,0.0,São Sebastião do Paraíso,São Sebastião do Paraíso
+316480,313170,6,37.3,São Sebastião do Rio Preto,Itabira
+316490,316370,4,13.9,São Sebastião do Rio Verde,São Lourenço
+316490,317070,8,87.3,São Sebastião do Rio Verde,Varginha
+316500,310620,8,125.0,São Tiago,Belo Horizonte
+316500,316250,48,35.9,São Tiago,São João del Rei
+316510,314790,13,51.3,São Tomás de Aquino,Passos
+316520,310620,1,227.8,São Tomé das Letras,Belo Horizonte
+316520,317070,11,49.9,São Tomé das Letras,Varginha
+316530,316250,21,65.7,São Vicente de Minas,São João del Rei
+316530,316370,1,77.8,São Vicente de Minas,São Lourenço
+316540,315180,17,136.4,Sapucaí-Mirim,Poços de Caldas
+316540,315250,1,60.7,Sapucaí-Mirim,Pouso Alegre
+316540,317010,2,404.3,Sapucaí-Mirim,Uberaba
+316550,310620,2,207.9,Sardoá,Belo Horizonte
+316550,312770,9,45.2,Sardoá,Governador Valadares
+316553,310620,59,24.9,Sarzedo,Belo Horizonte
+316555,310620,1,318.8,Setubinha,Belo Horizonte
+316555,312770,1,141.7,Setubinha,Governador Valadares
+316555,316860,9,75.2,Setubinha,Teófilo Otoni
+316556,315210,8,35.7,Sem-Peixe,Ponte Nova
+316557,315250,18,47.2,Senador Amaral,Pouso Alegre
+316557,317010,2,366.0,Senador Amaral,Uberaba
+316560,313670,5,41.5,Senador Cortes,Juiz de Fora
+316570,314390,51,79.3,Senador Firmino,Muriaé
+316580,315250,19,25.9,Senador José Bento,Pouso Alegre
+316590,310620,1,232.2,Senador Modestino Gonçalves,Belo Horizonte
+316590,312160,6,51.4,Senador Modestino Gonçalves,Diamantina
+316600,310560,4,65.5,Senhora de Oliveira,Barbacena
+316610,313170,2,82.7,Senhora do Porto,Itabira
+316620,310560,23,29.6,Senhora dos Remédios,Barbacena
+316630,314390,2,73.7,Sericita,Muriaé
+316630,315210,28,45.0,Sericita,Ponte Nova
+316640,316370,1,59.4,Seritinga,São Lourenço
+316640,317070,3,102.2,Seritinga,Varginha
+316650,310620,4,191.4,Serra Azul de Minas,Belo Horizonte
+316660,312230,6,122.9,Serra da Saudade,Divinópolis
+316670,312770,1,214.8,Serra dos Aimorés,Governador Valadares
+316670,316860,4,133.7,Serra dos Aimorés,Teófilo Otoni
+316680,310620,6,302.0,Serra do Salitre,Belo Horizonte
+316680,314800,46,59.5,Serra do Salitre,Patos de Minas
+316680,314810,1,36.8,Serra do Salitre,Patrocínio
+316690,310160,49,16.8,Serrania,Alfenas
+316695,314330,9,147.8,Serranópolis de Minas,Montes Claros
+316700,316370,1,61.3,Serranos,São Lourenço
+316700,317070,4,102.6,Serranos,Varginha
+316710,310620,20,157.7,Serro,Belo Horizonte
+316710,312160,4,46.0,Serro,Diamantina
+316720,310620,105,60.4,Sete Lagoas,Belo Horizonte
+316720,312090,32,81.6,Sete Lagoas,Curvelo
+316720,316720,457,0.0,Sete Lagoas,Sete Lagoas
+316730,314390,13,87.7,Silveirânia,Muriaé
+316740,315250,13,24.7,Silvianópolis,Pouso Alegre
+316750,313670,17,23.3,Simão Pereira,Juiz de Fora
+316760,310620,1,203.3,Simonésia,Belo Horizonte
+316760,313940,2,15.2,Simonésia,Manhuaçu
+316760,314390,43,118.1,Simonésia,Muriaé
+316770,312770,20,45.0,Sobrália,Governador Valadares
+316770,313130,2,52.6,Sobrália,Ipatinga
+316780,316370,11,6.1,Soledade de Minas,São Lourenço
+316780,317070,17,68.9,Soledade de Minas,Varginha
+316790,313670,1,45.4,Tabuleiro,Juiz de Fora
+316790,314390,6,94.5,Tabuleiro,Muriaé
+316800,314330,49,202.6,Taiobeiras,Montes Claros
+316805,314390,32,171.1,Taparuba,Muriaé
+316810,317010,5,119.6,Tapira,Uberaba
+316820,312230,12,120.1,Tapiraí,Divinópolis
+316830,310620,10,38.4,Taquaraçu de Minas,Belo Horizonte
+316840,312770,22,47.5,Tarumirim,Governador Valadares
+316850,314390,24,73.2,Teixeiras,Muriaé
+316850,315210,32,26.8,Teixeiras,Ponte Nova
+316860,310620,27,343.0,Teófilo Otoni,Belo Horizonte
+316860,312160,1,224.9,Teófilo Otoni,Diamantina
+316860,312770,13,119.7,Teófilo Otoni,Governador Valadares
+316860,313130,10,209.2,Teófilo Otoni,Ipatinga
+316860,316860,271,0.0,Teófilo Otoni,Teófilo Otoni
+316860,317020,3,721.5,Teófilo Otoni,Uberlândia
+316870,310620,1,140.7,Timóteo,Belo Horizonte
+316870,313130,198,16.3,Timóteo,Ipatinga
+316880,310620,5,133.8,Tiradentes,Belo Horizonte
+316880,313670,1,111.7,Tiradentes,Juiz de Fora
+316880,316250,37,10.1,Tiradentes,São João del Rei
+316890,310620,4,236.2,Tiros,Belo Horizonte
+316890,314800,10,72.3,Tiros,Patos de Minas
+316900,310620,2,168.7,Tocantins,Belo Horizonte
+316900,313670,1,73.0,Tocantins,Juiz de Fora
+316900,314390,73,67.6,Tocantins,Muriaé
+316905,310620,3,352.5,Tocos do Moji,Belo Horizonte
+316905,315250,14,22.7,Tocos do Moji,Pouso Alegre
+316905,315960,1,42.5,Tocos do Moji,Santa Rita do Sapucaí
+316910,315250,12,72.4,Toledo,Pouso Alegre
+316920,314390,46,43.2,Tombos,Muriaé
+316930,310160,1,77.9,Três Corações,Alfenas
+316930,310620,1,240.4,Três Corações,Belo Horizonte
+316930,315250,1,91.7,Três Corações,Pouso Alegre
+316930,317070,168,24.3,Três Corações,Varginha
+316935,310620,9,234.4,Três Marias,Belo Horizonte
+316935,312090,118,103.9,Três Marias,Curvelo
+316940,310620,8,229.4,Três Pontas,Belo Horizonte
+316940,314790,18,134.7,Três Pontas,Passos
+316940,317070,142,22.7,Três Pontas,Varginha
+316950,310620,1,262.0,Tumiritinga,Belo Horizonte
+316950,312770,14,34.0,Tumiritinga,Governador Valadares
+316960,310350,2,52.3,Tupaciguara,Araguari
+316960,317020,44,57.4,Tupaciguara,Uberlândia
+316970,310620,39,319.5,Turmalina,Belo Horizonte
+316970,312160,7,140.5,Turmalina,Diamantina
+316980,310160,1,52.9,Turvolândia,Alfenas
+316980,315250,21,42.3,Turvolândia,Pouso Alegre
+316980,315960,1,42.7,Turvolândia,Santa Rita do Sapucaí
+316990,310620,3,168.5,Ubá,Belo Horizonte
+316990,313670,5,82.2,Ubá,Juiz de Fora
+316990,314390,249,59.3,Ubá,Muriaé
+317000,310620,2,414.0,Ubaí,Belo Horizonte
+317000,314330,16,108.8,Ubaí,Montes Claros
+317005,313130,34,47.4,Ubaporanga,Ipatinga
+317005,314390,1,168.0,Ubaporanga,Muriaé
+317010,310620,1,420.4,Uberaba,Belo Horizonte
+317010,317010,1068,0.0,Uberaba,Uberaba
+317010,317020,2,98.4,Uberaba,Uberlândia
+317020,310620,3,466.8,Uberlândia,Belo Horizonte
+317020,314810,2,133.6,Uberlândia,Patrocínio
+317020,317010,8,98.4,Uberlândia,Uberaba
+317020,317020,2150,0.0,Uberlândia,Uberlândia
+317030,316860,2,120.4,Umburatiba,Teófilo Otoni
+317040,310620,13,505.6,Unaí,Belo Horizonte
+317040,314800,116,253.4,Unaí,Patos de Minas
+317040,317010,3,392.9,Unaí,Uberaba
+317040,317020,2,318.1,Unaí,Uberlândia
+317047,310620,1,494.8,Uruana de Minas,Belo Horizonte
+317047,314800,3,284.4,Uruana de Minas,Patos de Minas
+317050,314390,1,94.2,Urucânia,Muriaé
+317050,315210,24,18.5,Urucânia,Ponte Nova
+317052,314330,14,210.6,Urucuia,Montes Claros
+317052,314390,2,659.8,Urucuia,Muriaé
+317057,313130,29,27.8,Vargem Alegre,Ipatinga
+317060,310620,1,257.9,Vargem Bonita,Belo Horizonte
+317060,314790,6,50.2,Vargem Bonita,Passos
+317065,310620,1,531.3,Vargem Grande do Rio Pardo,Belo Horizonte
+317065,314330,6,222.7,Vargem Grande do Rio Pardo,Montes Claros
+317070,310160,3,55.3,Varginha,Alfenas
+317070,310620,5,239.2,Varginha,Belo Horizonte
+317070,315250,2,91.1,Varginha,Pouso Alegre
+317070,317070,469,0.0,Varginha,Varginha
+317075,314800,9,56.4,Varjão de Minas,Patos de Minas
+317080,310620,1,271.6,Várzea da Palma,Belo Horizonte
+317080,314330,71,133.3,Várzea da Palma,Montes Claros
+317090,310620,1,469.6,Varzelândia,Belo Horizonte
+317090,314330,30,115.6,Varzelândia,Montes Claros
+317100,310620,6,378.7,Vazante,Belo Horizonte
+317100,314800,60,79.8,Vazante,Patos de Minas
+317100,317010,4,224.7,Vazante,Uberaba
+317100,317020,2,176.0,Vazante,Uberlândia
+317103,314330,39,129.6,Verdelândia,Montes Claros
+317107,310620,7,308.2,Veredinha,Belo Horizonte
+317107,312160,1,131.2,Veredinha,Diamantina
+317110,317010,17,38.5,Veríssimo,Uberaba
+317115,310620,1,174.9,Vermelho Novo,Belo Horizonte
+317115,313130,16,67.7,Vermelho Novo,Ipatinga
+317115,314390,1,121.9,Vermelho Novo,Muriaé
+317120,310620,269,25.8,Vespasiano,Belo Horizonte
+317130,310620,5,143.6,Viçosa,Belo Horizonte
+317130,314390,38,67.5,Viçosa,Muriaé
+317130,315210,134,37.6,Viçosa,Ponte Nova
+317140,314390,18,32.3,Vieiras,Muriaé
+317150,312770,4,31.8,Mathias Lobato,Governador Valadares
+317160,310620,13,385.5,Virgem da Lapa,Belo Horizonte
+317160,312160,1,208.2,Virgem da Lapa,Diamantina
+317170,315250,5,87.5,Virgínia,Pouso Alegre
+317170,316370,11,24.8,Virgínia,São Lourenço
+317170,317070,28,93.3,Virgínia,Varginha
+317180,310620,3,177.9,Virginópolis,Belo Horizonte
+317180,312770,1,80.0,Virginópolis,Governador Valadares
+317180,313130,6,75.3,Virginópolis,Ipatinga
+317180,313170,6,104.3,Virginópolis,Itabira
+317190,312770,3,57.2,Virgolândia,Governador Valadares
+317200,310620,2,166.3,Visconde do Rio Branco,Belo Horizonte
+317200,313670,3,98.2,Visconde do Rio Branco,Juiz de Fora
+317200,314390,111,50.4,Visconde do Rio Branco,Muriaé
+317210,314390,8,73.5,Volta Grande,Muriaé
+317220,313240,2,15.4,Wenceslau Braz,Itajubá
+317220,315180,18,149.6,Wenceslau Braz,Poços de Caldas

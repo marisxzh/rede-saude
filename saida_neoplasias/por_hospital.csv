@@ -1,0 +1,495 @@
+﻿Código do hospital (CNES),Nome do hospital (nome fantasia no CNES),Município do hospital,Internações no hospital,% de pacientes vindos de outros municípios,Nº de municípios de onde vêm os pacientes,Distância média dos pacientes de outros municípios (km),% de internações de alta complexidade,Tipo de doença mais frequente (capítulo do CID-10),% das internações do hospital nesse tipo de doença
+0027014,SANTA CASA DE BELO HORIZONTE,Belo Horizonte,55101,47.9,633,88.0,21.3,II - Neoplasias (tumores),19.6
+2126494,HOSPITAL PUBLICO REGIONAL PREFEITO OSVALDO REZENDE FRANCO,Betim,23745,35.5,87,20.8,4.0,"XV - Gravidez, parto e puerpério",25.1
+2192896,HOSPITAL METROPOLITANO ODILON BEHRENS HOB,Belo Horizonte,22475,28.9,308,52.4,4.2,"XIX - Lesões, envenenamentos e outras causas externas",17.6
+2146355,HOSPITAL DE CLINICAS DE UBERLANDIA,Uberlândia,21100,24.2,111,108.2,22.6,"XIX - Lesões, envenenamentos e outras causas externas",14.9
+0027049,HOSP DAS CLINICAS DA UNIV FED DE MINAS GERAIS EBSERH,Belo Horizonte,20768,53.6,537,109.8,26.0,II - Neoplasias (tumores),14.4
+0027863,HOSPITAL RISOLETA TOLENTINO NEVES,Belo Horizonte,20672,45.8,264,38.7,2.8,"XIX - Lesões, envenenamentos e outras causas externas",20.4
+2222043,HOSPITAL MUNICIPAL,Governador Valadares,20045,22.1,104,53.3,1.6,"XV - Gravidez, parto e puerpério",19.3
+2127989,HOSPITAL DAS CLINICAS SAMUEL LIBANIO,Pouso Alegre,19803,60.3,164,44.5,20.3,IX - Doenças do aparelho circulatório,15.6
+2205440,HOSPITAL MARCIO CUNHA,Ipatinga,19132,60.1,123,32.3,20.0,II - Neoplasias (tumores),27.0
+2775999,IRMANDADE DA SANTA CASA DE MISERICORDIA DE PASSOS,Passos,18772,50.1,116,51.3,22.4,II - Neoplasias (tumores),16.3
+2149990,HOSPITAL SANTA CASA DE MONTES CLAROS,Montes Claros,18614,51.0,131,130.9,19.7,"XIX - Lesões, envenenamentos e outras causas externas",15.8
+7866801,HOSPITAL METROPOLITANO DOUTOR CELIO DE CASTRO HMDCC,Belo Horizonte,18235,33.3,312,55.1,6.7,XI - Doenças do aparelho digestivo,21.8
+7366108,HOSPITAL DAS CLINICAS DOUTOR MARIO RIBEIRO DA SILVEIRA,Montes Claros,17898,34.7,167,129.5,2.3,VII - Doenças do olho e anexos,15.0
+2206595,HOSPITAL DE CLINICAS DA UFTM,Uberaba,17610,39.7,112,113.9,16.8,IX - Doenças do aparelho circulatório,21.0
+2159252,HOSPITAL SAO JOAO DE DEUS,Divinópolis,17381,58.4,103,55.2,31.3,II - Neoplasias (tumores),35.5
+0026840,COMPLEXO HOSPITALAR SAO FRANCISCO,Belo Horizonte,16556,45.1,351,69.0,22.0,"XIX - Lesões, envenenamentos e outras causas externas",27.5
+0026921,HOSPITAL JOAO XXIII,Belo Horizonte,16419,34.7,311,62.4,6.7,"XIX - Lesões, envenenamentos e outras causas externas",69.5
+2695324,HOSPITAL DA BALEIA,Belo Horizonte,16347,48.6,447,90.9,16.9,II - Neoplasias (tumores),25.5
+4034236,HOSPITAL UNIVERSITARIO CIENCIAS MEDICAS,Belo Horizonte,16307,39.2,397,74.8,19.4,IX - Doenças do aparelho circulatório,16.6
+0026794,HOSPITAL SOFIA FELDMAN,Belo Horizonte,15591,56.9,241,52.1,0.0,"XV - Gravidez, parto e puerpério",64.3
+6601804,HOSPITAL E MATERNIDADE MUNICIPAL DR ODELMO LEAO CARNEIRO,Uberlândia,14282,0.4,26,113.7,10.1,"XV - Gravidez, parto e puerpério",21.9
+0027022,HOSPITAL JULIA KUBITSCHEK,Belo Horizonte,12918,28.7,244,47.7,1.8,X - Doenças do aparelho respiratório,12.4
+2153084,HOSPITAL E MATERNIDADE THEREZINHA DE JESUS,Juiz de Fora,12724,27.9,129,50.3,4.9,"XV - Gravidez, parto e puerpério",20.4
+9650105,SANTA CASA DE MISERICORDIA DE PATOS DE MINAS,Patos de Minas,12625,30.4,57,111.2,24.0,IX - Doenças do aparelho circulatório,22.9
+2208857,AISI HOSPITAL DE CLINICAS DE ITAJUBA,Itajubá,12118,48.2,101,28.0,9.1,IX - Doenças do aparelho circulatório,18.5
+2173166,HOSPITAL CESAR LEITE,Manhuaçu,11643,57.8,63,33.8,3.6,"XV - Gravidez, parto e puerpério",25.3
+2206528,HOSPITAL NOSSA SENHORA DAS GRACAS,Sete Lagoas,11533,40.9,52,51.7,13.0,"XV - Gravidez, parto e puerpério",32.6
+2200473,HOSPITAL MUNICIPAL DE CONTAGEM,Contagem,11501,23.9,42,17.1,0.6,"XIX - Lesões, envenenamentos e outras causas externas",36.9
+4042085,CASA DE CARIDADE DE MURIAE HOSPITAL SAO PAULO,Muriaé,11339,33.2,113,37.0,15.4,IX - Doenças do aparelho circulatório,14.2
+0026808,HOSPITAL EVANGELICO DE BELO HORIZONTE,Belo Horizonte,11203,43.8,415,91.7,26.9,XIV - Doenças do aparelho geniturinário,25.1
+2129469,SANTA CASA DE POCOS DE CALDAS,Poços de Caldas,11049,24.3,97,63.4,21.4,II - Neoplasias (tumores),20.5
+2200457,ASSOCIACAO MARIO PENNA,Belo Horizonte,10927,52.4,283,71.5,26.3,II - Neoplasias (tumores),70.8
+2191164,CENTRO MATERNO INFANTIL,Contagem,10832,22.6,36,17.6,0.0,"XV - Gravidez, parto e puerpério",43.4
+2098369,HOSPITAL SANTO ANTONIO,Taiobeiras,10256,59.0,42,53.4,0.0,"XV - Gravidez, parto e puerpério",15.4
+9681752,HOSPITAL UNIVERSITARIO SAGRADA FAMILIA,Araguari,10124,37.1,56,90.8,9.9,"XIX - Lesões, envenenamentos e outras causas externas",14.3
+2146525,SANTA CASA DE PARAISO,São Sebastião do Paraíso,9727,41.9,151,64.9,11.8,IX - Doenças do aparelho circulatório,18.6
+2195453,HOSPITAL DO CANCER DE MURIAE,Muriaé,9527,85.7,145,73.4,39.5,II - Neoplasias (tumores),95.4
+2109867,HOSPITAL MUNICIPAL MONSENHOR FLAVIO DAMATO,Sete Lagoas,9352,44.5,83,59.7,5.0,"XIX - Lesões, envenenamentos e outras causas externas",31.5
+2208172,HOSPITAL SANTA ROSALIA,Teófilo Otoni,9199,62.0,88,94.6,9.8,"XV - Gravidez, parto e puerpério",33.2
+2764814,CASA DE CARIDADE DE SAO LOURENCO,São Lourenço,9083,58.9,67,24.9,12.7,"XV - Gravidez, parto e puerpério",17.4
+2219654,HOSPITAL UNIVERSITARIO CLEMENTE DE FARIA,Montes Claros,8984,24.4,105,105.1,1.5,"XV - Gravidez, parto e puerpério",19.4
+2195437,HOSPITAL SANTA ISABEL,Ubá,8830,50.3,59,27.0,0.3,"XV - Gravidez, parto e puerpério",22.5
+2726726,HOSPITAL REGIONAL ANTONIO DIAS,Patos de Minas,8490,58.9,70,90.4,2.9,"XIX - Lesões, envenenamentos e outras causas externas",31.3
+2153882,SANTA CASA DE MISERICORDIA DE JUIZ DE FORA,Juiz de Fora,8440,30.2,137,68.8,38.6,IX - Doenças do aparelho circulatório,25.4
+2118513,HOSPITAL NOSSA SENHORA AUXILIADORA,Caratinga,8416,50.3,45,22.9,0.1,"XIX - Lesões, envenenamentos e outras causas externas",22.4
+2171945,SANTA CASA DE ALFENAS,Alfenas,8403,59.4,92,44.0,48.9,II - Neoplasias (tumores),30.8
+2206064,HOSPITAL NOSSA SENHORA DA CONCEICAO,Pará de Minas,8351,30.5,59,35.8,1.6,"XIX - Lesões, envenenamentos e outras causas externas",20.3
+2100754,HOSPITAL MUNICIPAL DE PARACATU,Paracatu,8013,7.9,36,153.7,0.1,"XV - Gravidez, parto e puerpério",16.6
+2171988,HOSPITAL UNIVERSITARIO ALZIRA VELANO,Alfenas,7931,55.8,157,45.3,8.5,XI - Doenças do aparelho digestivo,15.6
+2219646,HOSPITAL DILSON GODINHO,Montes Claros,7851,57.3,121,139.3,42.3,II - Neoplasias (tumores),38.5
+2117037,NOVA LIMA HOSPITAL NOSSA SENHORA DE LOURDES,Nova Lima,7842,24.3,33,13.2,0.1,"XIX - Lesões, envenenamentos e outras causas externas",13.8
+2119528,HOSPITAL DR MOISES MAGALHAES FREIRE,Pirapora,7783,50.3,44,40.8,1.0,"XV - Gravidez, parto e puerpério",21.0
+2119420,HOSPITAL MUNICIPAL SENHORA SANTANA,Brasília de Minas,7629,62.9,48,61.3,0.0,"XIX - Lesões, envenenamentos e outras causas externas",22.1
+2761041,HOSPITAL REGIONAL DO SUL DE MINAS,Varginha,7516,39.6,92,47.3,21.9,IX - Doenças do aparelho circulatório,34.1
+2192020,SANTA CASA DE CAMPO BELO,Campo Belo,7219,41.1,72,32.9,2.8,"XIX - Lesões, envenenamentos e outras causas externas",19.4
+2209195,HOSPITAL SANTA CASA DE PATROCINIO,Patrocínio,7202,22.4,57,83.7,13.0,"XV - Gravidez, parto e puerpério",18.3
+2105780,HOSPITAL MANOEL GONCALVES,Itaúna,7187,33.0,59,36.3,17.4,II - Neoplasias (tumores),18.3
+2118661,HOSPITAL BOM SAMARITANO,Governador Valadares,7171,49.4,187,82.4,38.5,II - Neoplasias (tumores),33.2
+2709848,HOSPITAL MARGARIDA,João Monlevade,7065,30.7,36,17.1,0.0,"XV - Gravidez, parto e puerpério",13.8
+2193310,HOSPITAL MUNICIPAL ELIANE MARTINS,Ipatinga,6917,32.1,59,29.9,0.0,I - Doenças infecciosas e parasitárias,17.8
+2111640,HOSPITAL NOSSA SENHORA DAS DORES,Ponte Nova,6761,63.7,55,31.6,14.0,II - Neoplasias (tumores),24.2
+2219638,HOSPITAL AROLDO TOURINHO,Montes Claros,6759,35.0,111,129.2,19.2,IX - Doenças do aparelho circulatório,32.5
+2764776,CASA DE CARIDADE DE CARANGOLA,Carangola,6618,71.2,59,29.6,0.5,"XIX - Lesões, envenenamentos e outras causas externas",23.0
+0026972,MATERNIDADE ODETE VALADARES,Belo Horizonte,6572,40.9,164,48.7,0.0,"XV - Gravidez, parto e puerpério",53.7
+2144298,HOSPITAL SAO JUDAS TADEU DE OLIVEIRA,Oliveira,6558,49.3,94,49.0,4.9,IX - Doenças do aparelho circulatório,16.6
+2218798,HOSPITAL UNIVERSITARIO DA UFJF,Juiz de Fora,6541,34.6,151,69.2,9.8,XIV - Doenças do aparelho geniturinário,17.2
+6920977,HOSPITAL REGIONAL DE JANAUBA,Janaúba,6527,45.2,42,66.1,2.5,"XIX - Lesões, envenenamentos e outras causas externas",26.7
+2761092,HOSPITAL BOM PASTOR,Varginha,6524,52.4,66,49.3,35.2,II - Neoplasias (tumores),50.4
+2148293,HOSPITAL IMACULADA CONCEICAO,Curvelo,6509,45.9,49,60.3,19.1,II - Neoplasias (tumores),22.1
+2218690,FSFX O S S HOSPITAL MUNICIPAL CARLOS CHAGAS,Itabira,6401,28.7,50,36.6,0.2,"XV - Gravidez, parto e puerpério",21.1
+2204649,HOSPITAL MUNICIPAL DR OSWALDO PREDILIANO SANTANA,Salinas,6385,39.1,55,43.6,0.0,X - Doenças do aparelho respiratório,19.2
+2760924,HOSPITAL MUNICIPAL DR JOAQUIM BROCHADO,Unaí,6381,20.9,30,110.1,0.1,"XV - Gravidez, parto e puerpério",20.0
+9141839,HOSPITAL REGIONAL JOSE ALENCAR,Uberaba,6246,15.1,34,92.7,0.0,X - Doenças do aparelho respiratório,18.9
+2168707,HOSP SANTA CASA DE BOM DESPACHO,Bom Despacho,6055,23.4,78,57.2,1.0,XIV - Doenças do aparelho geniturinário,14.7
+2161354,SANTA CASA DA MISERICORDIA DE SAO JOAO DEL REI,São João del Rei,5967,49.9,69,36.7,23.5,II - Neoplasias (tumores),29.9
+2221772,HSVP JUIZ DE FORA,Juiz de Fora,5956,26.9,84,46.0,0.6,"XIX - Lesões, envenenamentos e outras causas externas",27.8
+2761203,HOSPITAL DE NOSSA SENHORA DA SAUDE,Diamantina,5855,65.8,85,86.1,3.9,"XV - Gravidez, parto e puerpério",30.7
+2145960,SANTA CASA DE MISERICORDIA DE ARAGUARI,Araguari,5837,24.6,52,87.0,0.3,"XV - Gravidez, parto e puerpério",18.2
+2200902,HOSPITAL SAO JOSE,Ituiutaba,5792,22.2,17,53.0,0.4,"XV - Gravidez, parto e puerpério",24.3
+0026948,HOSPITAL INFANTIL JOAO PAULO II,Belo Horizonte,5758,52.5,274,77.9,0.1,X - Doenças do aparelho respiratório,41.9
+2108992,HOSPITAL DERALDO GUIMARAES,Almenara,5652,43.2,31,57.1,0.4,"XIX - Lesões, envenenamentos e outras causas externas",22.4
+2206382,HOSPITAL ARNALDO GAVAZZA FILHO,Ponte Nova,5557,70.8,70,40.9,17.4,IX - Doenças do aparelho circulatório,28.9
+3004791,SARAH BELO HORIZONTE,Belo Horizonte,5536,80.1,508,152.5,0.0,VI - Doenças do sistema nervoso,38.9
+2138875,SANTA CASA MISERICORDIA BARBACENA,Barbacena,5509,50.8,72,43.7,2.2,"XV - Gravidez, parto e puerpério",40.6
+2195585,CLINICAS INTEGRADAS HOSPITAL UNIVERSITARIO MARIO PALMERIO,Uberaba,5505,14.8,45,87.1,3.7,"XV - Gravidez, parto e puerpério",30.5
+2144530,HOSPITAL REGIONAL IMACULADA CONCEICAO,Guanhães,5459,44.5,37,33.7,2.0,"XIX - Lesões, envenenamentos e outras causas externas",16.3
+2163829,OURO PRETO SANTA CASA DE OURO PRETO,Ouro Preto,5457,15.3,36,24.6,2.0,"XIX - Lesões, envenenamentos e outras causas externas",18.0
+2760657,HOSPITAL SAO SEBASTIAO,Três Corações,5451,28.9,53,38.0,0.0,"XV - Gravidez, parto e puerpério",18.8
+2142376,HOSPITAL SAO LUIZ DE FORMIGA,Formiga,5431,54.6,77,63.1,16.8,IX - Doenças do aparelho circulatório,40.5
+2139200,SANTA CASA DE MISERICORDIA DO HOSP SAO FRANCISCO DE ASSIS,Três Pontas,5352,27.5,33,41.1,1.2,"XV - Gravidez, parto e puerpério",14.1
+2132877,HOSPITAL SAO CARLOS,Lagoa da Prata,5348,48.6,58,52.0,0.0,XI - Doenças do aparelho digestivo,25.6
+2098938,HOSPITAL IBIAPABA CEBAMS,Barbacena,5317,58.7,75,50.8,49.6,IX - Doenças do aparelho circulatório,46.6
+2111624,HOSPITAL REGIONAL JOAO PENIDO,Juiz de Fora,5271,29.7,121,58.8,3.9,"XV - Gravidez, parto e puerpério",33.1
+2135132,SANTA CASA DE CARIDADE,Diamantina,5184,60.7,103,101.5,16.7,IX - Doenças do aparelho circulatório,31.6
+2776006,SANTA CASA DE MISERICORDIA DE PIUMHI,Piumhi,5168,35.0,41,34.3,0.2,"XIX - Lesões, envenenamentos e outras causas externas",18.1
+2111659,SANTA CASA DE MISERICORDIA DE LAVRAS,Lavras,5037,41.4,41,24.9,2.9,"XV - Gravidez, parto e puerpério",35.0
+2756749,HOSPITAL MUNICIPAL SAO JUDAS TADEU,Ribeirão das Neves,4949,6.2,14,24.7,0.0,"XV - Gravidez, parto e puerpério",20.4
+2208156,HPS DR MOZART GERALDO TEIXEIRA,Juiz de Fora,4927,14.6,93,57.6,0.1,"XIX - Lesões, envenenamentos e outras causas externas",38.9
+2205939,FUNDAJAN,Janaúba,4807,58.6,33,66.4,0.0,"XV - Gravidez, parto e puerpério",58.0
+2143801,HOSPITAL SAO JOSE DE NOVA SERRANA,Nova Serrana,4803,9.0,31,29.4,0.0,"XV - Gravidez, parto e puerpério",34.7
+2119471,HOSPITAL MUNICIPAL DE BOCAIUVA,Bocaiúva,4795,29.9,42,46.5,0.0,"XIX - Lesões, envenenamentos e outras causas externas",16.4
+2204622,HOSPITAL MUNICIPAL DE JANUARIA,Januária,4781,30.1,26,43.2,0.0,"XV - Gravidez, parto e puerpério",24.6
+2140098,HOSPITAL GERAL DR BRICIO DE CASTRO DOURADO,São Francisco,4739,11.3,19,48.5,0.0,"XV - Gravidez, parto e puerpério",18.0
+2099454,HOSPITAL SAO SEBASTIAO,Viçosa,4712,47.7,71,26.9,0.0,"XV - Gravidez, parto e puerpério",23.9
+7082886,HOSPITAL DR JOSE MARIA MORAIS,Coronel Fabriciano,4654,10.6,32,31.8,0.1,"XIX - Lesões, envenenamentos e outras causas externas",17.1
+2211254,HOSPITAL MUNICIPAL DR RAIMUNDO GOBIRA,Teófilo Otoni,4639,32.9,71,91.7,11.1,"XIX - Lesões, envenenamentos e outras causas externas",33.6
+2144026,SANTA CASA DE MISERICORDIA DE SANTO ANTONIO DO MONTE,Santo Antônio do Monte,4602,57.2,65,45.5,7.8,XI - Doenças do aparelho digestivo,15.8
+2134276,HOSPITAL SAO VICENTE DE PAULO ARACUAI,Araçuaí,4472,39.7,24,35.3,0.0,X - Doenças do aparelho respiratório,18.1
+2098911,IRMANDADE DA SANTA CASA DE MISERICORDIA DE CATAGUASES,Cataguases,4375,27.4,32,19.8,0.1,X - Doenças do aparelho respiratório,18.5
+2167727,HOSPITAL DE GIMIRIM,Poço Fundo,4372,76.8,178,86.2,3.5,XIV - Doenças do aparelho geniturinário,24.3
+6892256,HOSPITAL E MATERNIDADE REGIONAL DE IBIRITE,Ibirité,4345,9.1,15,16.3,0.0,"XV - Gravidez, parto e puerpério",20.6
+2120542,LAGOA SANTA HOSPITAL LINDOURO AVELAR,Lagoa Santa,4287,20.7,39,28.1,0.6,"XIX - Lesões, envenenamentos e outras causas externas",18.4
+2796449,SANTA CASA DE MISERICORDIA DE GUAXUPE,Guaxupé,4246,28.0,22,22.4,0.5,"XIX - Lesões, envenenamentos e outras causas externas",16.5
+2135124,FUNDACAO HOSPITALAR SAO VICENTE DE PAULO,Capelinha,4228,27.0,84,73.5,0.1,"XV - Gravidez, parto e puerpério",16.2
+0979538,HOSPITAL 272 JOIAS ICISMEP,Igarapé,4225,86.9,87,61.2,42.3,VII - Doenças do olho e anexos,59.6
+2208822,HOSPITAL ANTONIO MOREIRA DA COSTA STA RITA SAPUCAI,Santa Rita do Sapucaí,4184,34.7,69,41.2,2.7,XI - Doenças do aparelho digestivo,12.4
+2102595,HOSPITAL SAO SEBASTIAO DE TARUMIRIM,Tarumirim,4182,67.6,192,176.1,1.4,XI - Doenças do aparelho digestivo,28.7
+2760436,INSTITUTO SAO VICENTE DE PAULO,Cássia,4107,45.1,22,26.7,10.6,X - Doenças do aparelho respiratório,15.1
+2796392,IRMANDADE DA SANTA CASA DE CARIDADE DE MACHADO,Machado,4097,51.8,90,62.8,11.2,XIV - Doenças do aparelho geniturinário,22.6
+2168731,HOSPITAL NOSSA SENHORA DO CARMO,Resplendor,4077,52.1,20,23.6,0.0,"XIX - Lesões, envenenamentos e outras causas externas",18.2
+2760843,HOSPITAL SAO JOAO BATISTA,Visconde do Rio Branco,4068,28.1,35,17.3,0.0,X - Doenças do aparelho respiratório,19.1
+2172259,HOSPITAL BOM JESUS,Congonhas,4014,30.7,50,31.5,0.0,XI - Doenças do aparelho digestivo,19.4
+2153009,UAI PLANALTO DR TUBAL VILELA DA SILVA,Uberlândia,3992,0.3,9,131.6,0.0,I - Doenças infecciosas e parasitárias,30.7
+2129566,HOSPITAL SANTA LUCIA HOSPITAL DO CORACAO,Poços de Caldas,3974,54.8,64,59.8,28.5,IX - Doenças do aparelho circulatório,79.7
+2124289,COMPLEXO HOSPITALAR DE BRUMADINHO,Brumadinho,3963,13.5,35,24.1,11.2,VI - Doenças do sistema nervoso,16.7
+2164620,SANTA CASA DE MISERICORDIA DE ARAXA,Araxá,3952,16.1,23,59.2,0.1,"XV - Gravidez, parto e puerpério",23.6
+2761106,HOSPITAL CONEGO MONTE RASO,Baependi,3884,42.6,79,69.0,3.4,XI - Doenças do aparelho digestivo,24.5
+2168553,HOSPITAL SAO SEBASTIAO DE RAUL SOARES,Raul Soares,3869,54.7,140,84.2,12.0,XI - Doenças do aparelho digestivo,20.8
+2127911,CASA DE CARIDADE DE OURO FINO,Ouro Fino,3853,34.3,16,20.8,0.0,"XIX - Lesões, envenenamentos e outras causas externas",19.1
+2144166,HOSPITAL SENHORA APARECIDA DE LUZ,Luz,3845,30.3,65,61.1,0.1,"XIX - Lesões, envenenamentos e outras causas externas",18.1
+2140217,HOSPITAL E MATERNIDADE VITAL BRAZIL,Timóteo,3826,22.6,46,26.4,0.0,"XIX - Lesões, envenenamentos e outras causas externas",17.1
+2135930,FHAP FUNDACAO HOSPITALAR DR AFONSO PAVIE,Itamarandiba,3768,11.2,27,53.2,0.2,"XIX - Lesões, envenenamentos e outras causas externas",19.4
+5350697,HOSPITAL JAQUES GONCALVES PEREIRA,Belo Oriente,3740,60.1,104,54.3,3.7,XI - Doenças do aparelho digestivo,31.3
+2192128,SANTA CASA DE SANTO ANTONIO DO AMPARO,Santo Antônio do Amparo,3739,55.6,69,60.8,4.4,XI - Doenças do aparelho digestivo,26.5
+0026964,HOSPITAL ALBERTO CAVALCANTI,Belo Horizonte,3738,52.5,152,77.0,22.9,II - Neoplasias (tumores),68.7
+2134268,FUNDACAO MINAS NOVAS HOSPITAL DOUTOR BADARO JUNIOR,Minas Novas,3729,21.9,23,23.4,0.0,XI - Doenças do aparelho digestivo,13.5
+2144204,SANTA CASA DE MISERICORDIA CLAUDIO,Cláudio,3687,19.6,38,41.7,5.7,"XIX - Lesões, envenenamentos e outras causas externas",16.0
+2215586,HOSPITAL NOSSA SENHORA DAS DORES,Itabira,3658,47.1,48,46.4,17.1,"XIX - Lesões, envenenamentos e outras causas externas",25.5
+2135108,HOSPITAL SAO VICENTE TURMALINA,Turmalina,3605,31.8,23,30.5,0.0,X - Doenças do aparelho respiratório,16.3
+2208075,HOSPITAL MUNICIPAL DR CARLOS MARX,Malacacheta,3486,40.4,16,24.9,0.2,"XIX - Lesões, envenenamentos e outras causas externas",33.3
+2139073,HOSPITAL VALE DO JEQUITINHONHA,Itaobim,3449,57.5,51,42.5,5.4,"XV - Gravidez, parto e puerpério",18.5
+2184834,HOSPITAL BOM SAMARITANO,Teófilo Otoni,3432,58.1,66,107.1,28.4,II - Neoplasias (tumores),60.0
+2153114,IBG SAUDE,Juiz de Fora,3427,38.8,102,54.7,45.8,IX - Doenças do aparelho circulatório,67.1
+2775956,SANTA CASA DE ANDRADAS,Andradas,3407,14.1,15,30.9,0.0,"XIX - Lesões, envenenamentos e outras causas externas",15.0
+2764792,CASA DE CARIDADE DE ITANHANDU,Itanhandu,3365,53.9,108,84.0,13.8,VII - Doenças do olho e anexos,50.7
+2152959,UAI ROOSEVELT DR JOSIAS DE FREITAS,Uberlândia,3340,0.2,6,65.5,0.0,I - Doenças infecciosas e parasitárias,21.5
+2122650,CASA DE CARIDADE LEOPOLDINENSE,Leopoldina,3327,22.0,26,28.6,0.1,XI - Doenças do aparelho digestivo,13.3
+2202891,CASA CARIDADE SANTA TEREZA,Serro,3321,42.4,64,46.5,1.2,X - Doenças do aparelho respiratório,15.1
+2760703,HOSPITAL SAO VICENTE DE PAULO DE UBA,Ubá,3303,43.6,69,30.8,0.0,XIV - Doenças do aparelho geniturinário,25.0
+2205998,FHAHC,Manga,3297,56.1,28,70.7,0.0,XI - Doenças do aparelho digestivo,21.2
+3048675,ESMERALDAS HOSPITAL MUNICIPAL 25 DE MAIO,Esmeraldas,3294,3.2,9,26.7,0.0,X - Doenças do aparelho respiratório,17.3
+2173565,HOSPITAL NOSSA SENHORA DAS MERCES,São João del Rei,3289,49.7,58,31.4,8.5,"XIX - Lesões, envenenamentos e outras causas externas",32.5
+2103257,HOSPITAL SANTO ANTONIO DE PECANHA,Peçanha,3286,54.7,62,36.4,0.1,XI - Doenças do aparelho digestivo,18.7
+2112175,HOSPITAL VAZ MONTEIRO,Lavras,3233,39.9,51,26.8,2.8,X - Doenças do aparelho respiratório,21.8
+9847227,HOSPITAL MUNICIPAL ALBERTO NOGUEIRA,Monte Carmelo,3175,13.0,28,47.1,1.8,X - Doenças do aparelho respiratório,16.1
+2139049,HEFA,Pedra Azul,3155,47.0,34,53.2,1.1,"XV - Gravidez, parto e puerpério",17.2
+2151839,HOSPITAL DO TRIANGULO,Uberlândia,3154,0.1,3,135.1,0.0,XI - Doenças do aparelho digestivo,66.6
+4042107,HOSPITAL PRONTOCOR DE MURIAE,Muriaé,3151,57.9,118,61.7,40.7,IX - Doenças do aparelho circulatório,88.4
+2165058,HOSPITAL DOUTOR HELIO ANGOTTI,Uberaba,3120,46.8,74,122.1,53.2,II - Neoplasias (tumores),91.5
+2178559,HOSPITAL SANTO ANTONIO,Curvelo,3076,43.9,36,65.2,0.2,IX - Doenças do aparelho circulatório,26.6
+3698548,HOSPITAL REGIONAL DE BARBACENA DR JOSE AMERICO,Barbacena,3072,40.3,76,38.5,0.5,"XIX - Lesões, envenenamentos e outras causas externas",43.9
+2210924,HOSPITAL PHILADELFIA,Teófilo Otoni,3064,40.1,73,77.2,2.5,XIV - Doenças do aparelho geniturinário,22.8
+2185563,HOSPITAL NOSSA SENHORA DOS ANJOS,Itambacuri,3045,51.3,39,51.3,0.5,XI - Doenças do aparelho digestivo,16.7
+2183803,HOSPITAL SAO VICENTE DE PAULO DE AGUAS FORMOSAS,Águas Formosas,3030,47.6,23,32.0,0.2,X - Doenças do aparelho respiratório,16.8
+2153106,INSTITUTO ONCOLOGICO DO BRASIL,Juiz de Fora,2975,33.5,57,48.4,57.9,II - Neoplasias (tumores),93.7
+2114763,HOSPITAL PADRE JULIO MARIA,Manhumirim,2967,62.9,39,28.6,0.0,X - Doenças do aparelho respiratório,17.9
+0026719,CENTRO OFTALMOLOGICO DE MINAS GERAIS,Belo Horizonte,2924,62.5,348,141.5,37.5,VII - Doenças do olho e anexos,98.2
+2123061,INSTITUTO NOSSA SENHORA DO CARMO,Barroso,2920,56.3,63,41.3,1.1,XI - Doenças do aparelho digestivo,17.9
+2205971,SANTA CASA E HOSPITAL SAO VICENTE,Porteirinha,2867,25.6,18,34.0,0.0,X - Doenças do aparelho respiratório,24.7
+2211262,HOSPITAL E PRONTO SOCORRO MUNICIPAL RENATO AZEREDO,Nanuque,2834,17.2,9,21.7,0.0,"XIX - Lesões, envenenamentos e outras causas externas",16.3
+2101777,HOSPITAL MUNICIPAL ANTONIO CARNEIRO VALADARES,João Pinheiro,2806,10.8,24,84.8,0.0,"XV - Gravidez, parto e puerpério",20.3
+2098326,HOSPITAL E MATERNIDADE SAO JOSE,Conselheiro Lafaiete,2803,26.8,48,35.7,0.7,"XIX - Lesões, envenenamentos e outras causas externas",29.5
+2099438,HOSPITAL SAO JOAO BATISTA,Viçosa,2758,48.8,42,23.4,0.0,XIV - Doenças do aparelho geniturinário,20.3
+6697054,HOSPITAL UNIVERSITARIO IRMA DENISE,Caratinga,2756,59.0,72,35.2,3.0,IX - Doenças do aparelho circulatório,22.8
+2098539,HOSPITAL MUNICIPAL FREI GABRIEL,Frutal,2749,18.0,17,45.5,0.0,"XV - Gravidez, parto e puerpério",22.1
+2205904,HOSPITAL MUNICIPAL SAO VICENTE DE PAULO,Coração de Jesus,2710,28.9,39,52.7,0.0,XII - Doenças da pele,12.4
+2139030,HOSPITAL SANTA RITA,Medina,2664,35.1,19,57.9,0.0,XI - Doenças do aparelho digestivo,17.7
+0473502,CENTRO DE INTERNACAO PEDIATRICA,Uberlândia,2597,0.0,2,30.4,0.0,X - Doenças do aparelho respiratório,60.0
+2200945,MARIANA HOSPITAL MONSENHOR HORTA,Mariana,2560,7.9,10,23.9,0.0,"XV - Gravidez, parto e puerpério",14.9
+2796562,HOSPITAL DE SANTOS DUMONT,Santos Dumont,2556,18.0,19,20.8,1.2,"XV - Gravidez, parto e puerpério",15.8
+2180766,UNIDADE CASA DO CAMINHO,Araxá,2530,12.0,18,61.8,0.8,X - Doenças do aparelho respiratório,20.2
+2098474,HOSPITAL POLICLINICA E MATERNIDADE DE BARBACENA,Barbacena,2505,29.4,45,40.8,7.6,XI - Doenças do aparelho digestivo,15.8
+0270865,UCCI UNIDADE DE CUIDADOS CONTINUADOS INTEGRADOS,Uberlândia,2395,0.1,3,95.7,0.0,I - Doenças infecciosas e parasitárias,60.5
+2128012,HOSPITAL ANA MOREIRA SALLES CAMBUI,Cambuí,2387,38.8,18,19.3,0.0,"XV - Gravidez, parto e puerpério",18.0
+2119404,HOSPITAL E MATERNIDADE NOSSA SENHORA DAS GRACAS,Monte Azul,2341,36.1,14,25.4,0.1,"XV - Gravidez, parto e puerpério",16.4
+0026859,HOSPITAL FELICIO ROCHO,Belo Horizonte,2337,63.2,238,138.2,65.1,XXI - Fatores que influenciam o estado de saúde,62.6
+2122677,HOSPITAL SAO SALVADOR,Além Paraíba,2329,20.0,15,27.8,0.0,X - Doenças do aparelho respiratório,16.2
+3170527,UAI MARTINS DR JOAO FERNANDES DE OLIVEIRA,Uberlândia,2326,0.9,11,71.7,0.0,I - Doenças infecciosas e parasitárias,20.3
+2164280,HOSPITAL MUNICIPAL MADALENA P CALIXTO,Santa Luzia,2318,1.2,8,19.4,0.0,X - Doenças do aparelho respiratório,17.8
+2152967,UAI TIBERY ANICE DIB JATENE,Uberlândia,2281,0.8,11,96.7,0.0,IX - Doenças do aparelho circulatório,14.2
+5617286,UAI SAO JORGE,Uberlândia,2279,0.3,5,87.4,0.0,I - Doenças infecciosas e parasitárias,17.9
+2760940,HOSPITAL MUNICIPAL DE FRANCISCO SA,Francisco Sá,2277,29.6,13,53.1,0.0,X - Doenças do aparelho respiratório,13.8
+2103990,HOSPITAL SANTA MARIA ETERNA,Santa Maria do Suaçuí,2241,51.3,15,18.5,0.0,I - Doenças infecciosas e parasitárias,16.6
+2213982,ITABIRITO HOSPITAL SAO VICENTE DE PAULO,Itabirito,2237,0.5,5,87.9,0.0,"XV - Gravidez, parto e puerpério",22.3
+2100681,HOSPITAL MUNICIPAL DE SAO GOTARDO,São Gotardo,2228,11.3,15,31.6,0.0,"XV - Gravidez, parto e puerpério",24.4
+2102765,HOSPITAL SAO JOAO EVANGELISTA,São João Evangelista,2223,37.9,24,35.8,0.0,X - Doenças do aparelho respiratório,17.6
+2136945,HOSPITAL QUELUZ,Conselheiro Lafaiete,2215,36.7,30,36.5,0.0,"XV - Gravidez, parto e puerpério",66.9
+2760681,HOSPITAL SAO VICENTE DE PAULO,Aiuruoca,2188,71.8,35,27.6,0.0,X - Doenças do aparelho respiratório,15.7
+2152940,UAI PAMPULHA UNIDADE DE ATENDIMENTO INTEGRADO IRMA DULCE,Uberlândia,2176,0.6,9,87.0,0.0,I - Doenças infecciosas e parasitárias,20.9
+2164299,HOSPITAL DE SAO JOAO DE DEUS,Santa Luzia,2173,15.6,39,34.3,0.0,XI - Doenças do aparelho digestivo,31.4
+2117312,CAETE SANTA CASA DE CAETE,Caeté,2170,11.2,14,27.4,0.0,X - Doenças do aparelho respiratório,14.2
+2761254,HOSPITAL DR CANDIDO JUNQUEIRA,Cruzília,2148,24.0,22,41.6,0.2,"XV - Gravidez, parto e puerpério",15.0
+2761009,HOSPITAL NOSSA SENHORA DA PIEDADE,Elói Mendes,2139,33.5,37,33.8,0.1,IX - Doenças do aparelho circulatório,19.2
+6856209,HOSPITAL DE DEUS,Vespasiano,2132,12.3,15,16.1,0.0,XI - Doenças do aparelho digestivo,21.4
+2760991,HOSPITAL NOSSA SENHORA DA CONCEICAO,Abre Campo,2121,44.8,86,54.3,0.0,X - Doenças do aparelho respiratório,19.0
+5844843,FUNDACAO HOSPITALAR MUNICIPAL JOAO HENRIQUE,Conceição das Alagoas,2111,1.4,8,43.5,0.0,I - Doenças infecciosas e parasitárias,17.1
+2221756,HOSPITAL ANA NERY DE JUIZ DE FORA,Juiz de Fora,2107,15.7,33,34.6,0.0,X - Doenças do aparelho respiratório,31.9
+2775972,SANTA CASA DE MISERICORDIA DE BOA ESPERANCA,Boa Esperança,2106,11.1,19,32.7,0.0,"XV - Gravidez, parto e puerpério",21.9
+2200481,HOSPITAL PADRE GERALDO HOGERVORST,Conselheiro Pena,2095,11.7,39,67.5,0.0,XI - Doenças do aparelho digestivo,17.4
+2181770,HOSPITAL EDUARDO DE MENEZES,Belo Horizonte,2085,36.8,113,60.6,39.8,I - Doenças infecciosas e parasitárias,74.2
+2168693,SANTA CASA DE ARCOS,Arcos,2060,6.0,23,60.5,0.0,X - Doenças do aparelho respiratório,16.7
+2102587,HOSPITAL SAO JOSE SAO CAMILO,Aimorés,2031,5.8,14,46.6,0.0,X - Doenças do aparelho respiratório,19.2
+2153025,ASCOMCER INSTITUTO DE PREVENCAO E TRATAMENTO DO CANCER,Juiz de Fora,2023,26.0,53,45.5,29.7,II - Neoplasias (tumores),94.5
+6408354,HOSPITAL MATERNIDADE MUNICIPAL ANNA PAES DIAS DE ASSIS,Ipanema,2003,31.6,31,24.9,0.0,"XV - Gravidez, parto e puerpério",17.4
+2119447,HOSPITAL SAO GERALDO,São João da Ponte,1997,5.3,10,30.0,0.1,I - Doenças infecciosas e parasitárias,29.7
+2149419,HOSPITAL SAO VICENTE DE PAULO,Rio Pomba,1989,37.5,33,25.2,0.1,XI - Doenças do aparelho digestivo,17.0
+2208083,HOSPITAL NOSSA SENHORA MAE DA IGREJA DE PADRE PARAISO,Padre Paraíso,1988,38.3,21,37.3,0.0,X - Doenças do aparelho respiratório,24.1
+2151855,HOSPITAL SANTA CATARINA ANEXO HMMDOLC,Uberlândia,1976,0.9,13,127.6,0.0,X - Doenças do aparelho respiratório,32.2
+2200422,HOSPITAL MADRE TERESA,Belo Horizonte,1903,65.1,230,97.3,64.8,IX - Doenças do aparelho circulatório,71.8
+2153017,UAI LUIZOTE DR DOMINGOS PIMENTEL DE ULHOA,Uberlândia,1877,0.2,5,80.4,0.0,I - Doenças infecciosas e parasitárias,22.5
+2697548,HOSPITAL TRISTAO DA CUNHA,Itambacuri,1839,44.5,45,65.5,0.0,XI - Doenças do aparelho digestivo,23.2
+2134071,HOSPITAL IMACULADA CONCEICAO,Conceição do Mato Dentro,1792,3.3,20,53.9,4.6,XI - Doenças do aparelho digestivo,16.5
+0256439,HOSPITAL MUNICIPAL DR ROBERTO DE CUNTO,Extrema,1786,13.4,12,21.2,0.0,I - Doenças infecciosas e parasitárias,27.7
+2102773,HOSPITAL SAO VICENTE DE PAULO DE ITANHOMI,Itanhomi,1772,43.0,91,103.1,0.0,X - Doenças do aparelho respiratório,16.3
+2197693,SANTA CASA DE MISERICORDIA DE COROMANDELDR SEBASTIAO MACHADO,Coromandel,1762,0.1,2,43.1,0.1,X - Doenças do aparelho respiratório,25.8
+2102579,HOSPITAL SAO LUCAS DE ITABIRINHA,Itabirinha,1742,66.9,100,82.6,0.0,IX - Doenças do aparelho circulatório,25.5
+2183811,HOSPITAL SAO BENTO DE NOVO CRUZEIRO,Novo Cruzeiro,1732,4.2,10,49.7,0.0,I - Doenças infecciosas e parasitárias,23.3
+2127687,SANTA CASA DE MISERICORDIA DE ITAJUBA,Itajubá,1692,37.9,25,21.0,0.1,"XV - Gravidez, parto e puerpério",24.2
+2761467,HOSPITAL ANTONIO ALVES DA COSTA,Espera Feliz,1689,47.1,115,109.7,0.0,X - Doenças do aparelho respiratório,30.4
+2796112,HOSPITAL SAO FRANCISCO,Três Marias,1659,4.3,19,108.8,0.1,"XV - Gravidez, parto e puerpério",18.6
+2760738,INSTITUTO SAUDE BRASIL,Bom Jesus do Galho,1650,85.0,57,59.2,0.0,XI - Doenças do aparelho digestivo,35.6
+2795299,HOSPITAL SAO JOAO DO PARAISO,São João do Paraíso,1634,17.6,6,28.7,0.0,X - Doenças do aparelho respiratório,21.9
+2105365,FUNDACAO HOSPITALAR DO MUNICIPIO DE ESPINOSA,Espinosa,1601,0.1,2,25.8,0.0,"XV - Gravidez, parto e puerpério",19.2
+2109034,SANTA CASA DE MISERICORDIA DE SACRAMENTO,Sacramento,1592,2.4,4,19.1,0.4,X - Doenças do aparelho respiratório,21.0
+2207664,HOSPITAL RAIMUNDO CAMPOS,Ouro Branco,1584,0.8,6,46.0,0.0,"XV - Gravidez, parto e puerpério",19.6
+2201542,HOSPITAL MUNICIPAL DELFINA ALVES BARBOSA,Iturama,1577,22.3,7,44.0,0.1,"XV - Gravidez, parto e puerpério",26.2
+2756676,HOSPITAL SAO CAMILO,Conselheiro Lafaiete,1563,38.1,29,32.9,0.0,X - Doenças do aparelho respiratório,41.7
+3032191,UAI MORUMBI,Uberlândia,1553,0.1,3,117.6,0.0,XVIII - Sintomas e achados anormais,23.4
+2143852,HOSPITAL NOSSA SENHORA DO BRASIL DE BAMBUI,Bambuí,1542,19.3,32,40.3,0.0,I - Doenças infecciosas e parasitárias,26.4
+0246417,HOSPITAL MUNICIPAL MARIA DAS GRACAS DE OLIVEIRA SILVA,Tupaciguara,1539,0.0,1,,0.1,X - Doenças do aparelho respiratório,18.6
+2775913,SANTA CASA DE MIS SAO GONCALO DO SAPUCAI,São Gonçalo do Sapucaí,1526,3.1,6,19.1,0.0,X - Doenças do aparelho respiratório,32.6
+2146495,SANTA CASA DE MISERICORDIA DE MONTE SANTO,Monte Santo de Minas,1523,15.8,19,52.0,0.0,XI - Doenças do aparelho digestivo,19.4
+2764830,HOSPITAL CASA DE CARIDADE SAO VICENTE DE PAULA,Caxambu,1501,9.5,22,38.0,0.0,X - Doenças do aparelho respiratório,17.6
+2126796,HOSPITAL SAO VICENTE DE PAULO DE ABAETE,Abaeté,1494,23.3,18,52.3,4.3,X - Doenças do aparelho respiratório,23.8
+2144638,SANTA CASA NOSSA SENHORA DAS MERCES,Santa Bárbara,1475,16.9,9,12.6,0.0,X - Doenças do aparelho respiratório,17.4
+2114267,HOSPITAL EVANGELICO DE CARANGOLA,Carangola,1474,57.0,27,21.8,10.9,X - Doenças do aparelho respiratório,23.6
+2796619,HOSPITAL SAO JOAO,São João Nepomuceno,1472,21.7,10,12.7,0.0,X - Doenças do aparelho respiratório,22.2
+2142406,SANTA CASA DE MISERICORDIA DE PITANGUI,Pitangui,1469,31.9,35,47.2,0.0,XII - Doenças da pele,22.5
+2796384,HOSPITAL SAO VICENTE DE PAULA,Campos Gerais,1460,16.6,9,22.9,0.0,XI - Doenças do aparelho digestivo,25.9
+2149710,HOSPITAL MUNICIPAL E PRONTO SOCORRO DE VARZEA DA PALMA,Várzea da Palma,1457,4.9,7,43.7,0.3,X - Doenças do aparelho respiratório,19.6
+2120402,HOSPITAL BOM PASTOR,Jacinto,1452,40.3,15,38.9,0.0,X - Doenças do aparelho respiratório,14.7
+2764784,CASA DE CARIDADE DE ITAMONTE,Itamonte,1446,0.7,4,26.0,0.0,X - Doenças do aparelho respiratório,16.9
+2120410,HOSPITAL SAO MIGUEL,Jequitinhonha,1427,4.1,22,73.4,0.0,X - Doenças do aparelho respiratório,17.3
+2761238,HOSPITAL DIVINENSE SERVICE,Divino,1418,6.1,12,51.2,0.0,I - Doenças infecciosas e parasitárias,39.3
+2178982,HOSPITAL LOURENCO WESTIN,Carlos Chagas,1409,9.9,12,61.4,0.0,X - Doenças do aparelho respiratório,22.2
+2206498,HOSPITAL E MATERNIDADE VIRGILIO ROSA LTDA,Monte Carmelo,1400,22.6,8,24.7,0.0,X - Doenças do aparelho respiratório,27.1
+2143895,SANTA CASA DE ITAPECERICA,Itapecerica,1386,27.6,26,38.9,8.0,IX - Doenças do aparelho circulatório,22.1
+2099209,HOSPITAL SAO VICENTE DE PAULO MANTENA,Mantena,1380,27.6,38,68.6,0.0,"XIX - Lesões, envenenamentos e outras causas externas",26.4
+2099217,HOSPITAL EVANGELICO DE MANTENA,Mantena,1378,28.7,42,84.8,7.6,XIV - Doenças do aparelho geniturinário,19.7
+2117282,SABARA SANTA CASA DE MISERICORDIA DE SABARA,Sabará,1356,11.4,12,16.2,0.0,X - Doenças do aparelho respiratório,23.8
+2775980,SANTA CASA DE MISERICORDIA DE JACUTINGA,Jacutinga,1333,4.4,4,11.4,0.0,"XV - Gravidez, parto e puerpério",18.8
+2761114,SANTA CASA DE ALPINOPOLIS,Alpinópolis,1329,19.2,19,34.4,0.2,X - Doenças do aparelho respiratório,21.1
+2127725,IRMANDADE DA SANTA CASA DE MISERICORDIA DE CAMANDUCAIA,Camanducaia,1321,8.1,10,18.7,0.0,I - Doenças infecciosas e parasitárias,21.8
+2796376,HOSPITAL SAO VICENTE DE PAULO,Carmo do Rio Claro,1312,0.6,6,43.3,0.0,X - Doenças do aparelho respiratório,21.9
+2118092,HOSPITAL MUNICIPAL NOSSA SENHORA DA LAPA,Vazante,1300,21.1,24,131.4,0.0,XI - Doenças do aparelho digestivo,27.3
+2117568,HOSPITAL CASSIANO CAMPOLINA,Entre Rios de Minas,1299,23.7,17,26.5,0.0,XII - Doenças da pele,30.3
+2144042,SANTA CASA DR ZACARIAS,Dores do Indaiá,1298,9.2,10,29.6,0.0,I - Doenças infecciosas e parasitárias,19.7
+2178591,SANTA CASA DE MISERICORDIA DE POMPEU,Pompéu,1276,22.6,18,66.5,0.0,XI - Doenças do aparelho digestivo,18.5
+2135914,HOSPITAL SAO SEBASTIAO DE SABINOPOLIS,Sabinópolis,1268,25.9,22,43.8,0.0,XIV - Doenças do aparelho geniturinário,16.6
+2154560,HOSPITAL E MATERNIDADE DR EUGENIO GOMES DE CARVALHO,Pedro Leopoldo,1266,45.6,18,13.7,0.0,"XV - Gravidez, parto e puerpério",61.2
+2205866,HOSPITAL AFRANIO AUGUSTO FIGUEIREDO,Grão Mogol,1257,23.5,10,23.6,0.0,X - Doenças do aparelho respiratório,21.1
+0249483,HOSPITAL MUNICIPAL PADRE JULIO CESAR SIQUEIRA,Araguari,1255,0.0,1,,0.0,X - Doenças do aparelho respiratório,21.9
+2118246,STA CASA MIS CARMO DO PARANAIBA DR ADILON CARDOSO TEIXEIRA,Carmo do Paranaíba,1247,6.6,7,33.9,0.0,"XV - Gravidez, parto e puerpério",20.9
+2119439,HOSPITAL CRISTO REI,Montalvânia,1245,18.7,7,31.4,0.0,X - Doenças do aparelho respiratório,16.4
+2115077,FUNDACAO DE SAUDE CRISTO REI,Matipó,1242,41.5,31,38.6,0.0,X - Doenças do aparelho respiratório,15.1
+2760711,HOSPITAL SAO VICENTE DE PAULO MUTUM,Mutum,1236,4.0,12,57.7,0.0,X - Doenças do aparelho respiratório,34.7
+2098407,HOSPITAL MUNICIPAL SANTANA DE CARANDAI,Carandaí,1223,22.6,18,23.1,0.2,X - Doenças do aparelho respiratório,23.1
+2144557,HOSPITAL SAO JOSE VIRGINOPOLIS,Virginópolis,1206,33.1,22,22.1,0.0,X - Doenças do aparelho respiratório,23.1
+2179172,HOSPITAL MUNICIPAL SAO JOAO BATISTA,Caraí,1197,9.7,6,24.9,0.0,XI - Doenças do aparelho digestivo,16.8
+2140063,HOSPITAL MUNICIPAL SAO SEBASTIAO,Mirabela,1192,8.9,21,58.1,0.0,I - Doenças infecciosas e parasitárias,29.0
+2099233,IRMANDADE DA SANTA CASA DE MUZAMBINHO,Muzambinho,1189,3.6,7,20.8,0.0,X - Doenças do aparelho respiratório,25.5
+2119463,HOSPITAL TACITO DE FREITAS COSTA,Rio Pardo de Minas,1185,13.2,12,44.2,0.0,"XV - Gravidez, parto e puerpério",21.2
+2139626,HOSPITAL NOSSA SENHORA DO ROSARIO,Resende Costa,1181,45.3,14,17.6,0.0,X - Doenças do aparelho respiratório,21.8
+2776030,SANTA CASA DE NEPOMUCENO,Nepomuceno,1177,1.9,10,91.6,0.0,X - Doenças do aparelho respiratório,30.2
+2764806,CASA DE CARIDADE DE PASSA QUATRO,Passa Quatro,1147,1.6,12,45.9,0.0,II - Neoplasias (tumores),32.9
+2142627,SANTA CASA DE ITAGUARA,Itaguara,1140,33.9,19,19.7,0.0,X - Doenças do aparelho respiratório,24.7
+2202883,HOSPITAL E MATERNIDADE DR AURELIANO BRANDAO,Gouveia,1126,8.6,24,73.1,0.0,X - Doenças do aparelho respiratório,25.0
+2206501,HOSPITAL SANTA TEREZINHA,Monte Carmelo,1084,13.8,10,28.8,0.0,"XV - Gravidez, parto e puerpério",69.7
+2796341,HOSPITAL E MATERNIDADE SAO FRANCISCO DE ASSIS,Paraguaçu,1077,18.0,44,75.2,7.3,"XV - Gravidez, parto e puerpério",20.5
+2761173,HOSPITAL DE ILICINEA,Ilicínea,1076,57.7,40,77.6,0.0,XXI - Fatores que influenciam o estado de saúde,27.6
+2181029,SANTA CASA DE IBIA,Ibiá,1063,0.2,3,375.4,0.0,X - Doenças do aparelho respiratório,19.3
+2205009,SANTA CASA MIS CARIDADE DE CAMPESTRE,Campestre,1034,15.8,23,35.6,0.0,X - Doenças do aparelho respiratório,27.1
+2157063,HOSPITAL WANDA ANDRADE DRUMMOND,Matozinhos,1031,25.7,11,16.7,0.0,XI - Doenças do aparelho digestivo,26.4
+2208067,HOSPITAL CURA D ARS,Machacalis,1021,71.7,6,17.2,0.0,X - Doenças do aparelho respiratório,32.7
+2117479,HOSPITAL MUNICIPAL DE JAIBA,Jaíba,999,9.3,11,60.0,0.0,I - Doenças infecciosas e parasitárias,31.2
+2139146,HOSPITAL DE FELISBURGO,Felisburgo,997,33.9,19,39.6,0.0,X - Doenças do aparelho respiratório,24.8
+2195593,INSTITUTO MARIA MODESTO,Uberaba,985,37.1,49,166.0,0.0,V - Transtornos mentais e comportamentais,100.0
+2776022,SANTA CASA DE MONTE ALEGRE DE MINAS,Monte Alegre de Minas,978,7.3,4,44.4,0.7,X - Doenças do aparelho respiratório,26.7
+2103532,HOSPITAL SAO SEBASTIAO DE INHAPIM,Inhapim,974,28.7,15,15.3,0.0,X - Doenças do aparelho respiratório,20.2
+2145685,HOSPITAL E MATERNIDADE RENASCER,Prata,971,0.2,3,77.0,0.1,"XV - Gravidez, parto e puerpério",29.6
+2166305,SANTA CASA DE PERDIZES,Perdizes,966,0.6,6,177.6,0.0,X - Doenças do aparelho respiratório,23.0
+2797364,HOSPITAL MUNICIPAL DR GILBERTO PEREIRA MIRANDA,Serra do Salitre,955,12.3,10,49.9,0.1,X - Doenças do aparelho respiratório,17.7
+2168243,HOSPITAL MUNICIPAL WALDEMAR DAS DORES,Barão de Cocais,947,1.4,7,50.5,0.0,X - Doenças do aparelho respiratório,23.9
+2114143,HOSPITAL MUNICIPAL JATYR GUIMARAES DE PAULA,Santa Margarida,945,14.2,14,31.7,0.0,XII - Doenças da pele,17.9
+2221543,HOSPITAL SAO LUCAS,Buritis,940,2.4,5,92.3,0.0,X - Doenças do aparelho respiratório,25.7
+2221985,SANTA CASA DE MISERICORDIA DE PERDOES,Perdões,933,5.8,8,21.4,0.0,X - Doenças do aparelho respiratório,18.5
+4041690,SANTA CASA DE MISER DE LIMA DUARTE,Lima Duarte,931,14.4,12,23.4,0.0,X - Doenças do aparelho respiratório,21.9
+2796430,SANTA CASA DE CARIDADE DE GUARANESIA,Guaranésia,923,0.3,3,13.6,2.4,I - Doenças infecciosas e parasitárias,34.1
+2178850,APROMIA,Ataléia,918,18.2,19,78.3,0.0,X - Doenças do aparelho respiratório,17.5
+2127695,HOSPITAL FREI CAETANO E MATSANTA TEREZA PARAISOPOLIS,Paraisópolis,909,30.5,16,20.1,0.0,X - Doenças do aparelho respiratório,29.7
+2697254,ISO OLHOS,Uberlândia,907,0.0,1,,93.1,VII - Doenças do olho e anexos,55.8
+2167379,ASSOCIACAO DO HOSPITAL SAO FRANCISCO,Cabo Verde,876,22.7,15,33.1,0.0,X - Doenças do aparelho respiratório,18.4
+2117096,MATEUS LEME HOSPITAL SANTA TEREZINHA,Mateus Leme,871,36.7,39,45.7,0.0,XI - Doenças do aparelho digestivo,26.9
+2164795,HOSPITAL DA CRIANCA,Uberaba,855,10.1,18,62.2,0.0,X - Doenças do aparelho respiratório,49.0
+2172852,SANTA CASA MISERICORDIA DE ALTEROSA,Alterosa,850,12.1,7,41.8,0.0,X - Doenças do aparelho respiratório,27.4
+2121808,HOSPITAL GENESIO FRANCO DE MORAIS,Santa Vitória,846,0.7,3,440.4,0.0,XIV - Doenças do aparelho geniturinário,19.4
+2127091,HOSPITAL DR PACIFICO MASCARENHAS,Caetanópolis,845,36.8,13,14.1,0.0,X - Doenças do aparelho respiratório,28.4
+5279003,HOSPITAL SAO VICENTE DE PAULO,Lambari,829,13.5,6,13.5,0.0,X - Doenças do aparelho respiratório,29.3
+0026999,INSTITUTO RAUL SOARES,Belo Horizonte,807,91.6,161,90.2,0.0,V - Transtornos mentais e comportamentais,100.0
+2182610,HOSPITAL MUNICIPAL HENRIQUE PENIDO,Belo Vale,806,9.2,17,29.9,0.0,"XIX - Lesões, envenenamentos e outras causas externas",20.5
+2760827,HOSPITAL SAO FRANCISCO DE ASSIS,Conceição do Rio Verde,792,23.9,23,41.1,0.1,X - Doenças do aparelho respiratório,23.0
+2115654,CASA DE SAUDE SANTA IZABEL CSSI,Betim,788,11.5,24,44.2,0.0,IX - Doenças do aparelho circulatório,16.2
+2100363,HOSPITAL NOSSA SENHORA DA CONCEICAO RIO CASCA,Rio Casca,778,37.5,24,25.1,0.0,II - Neoplasias (tumores),35.3
+2760886,HOSPITAL SAO JOSE DE BICAS,Bicas,760,39.6,9,9.1,0.0,XI - Doenças do aparelho digestivo,19.5
+2760916,HOSPITAL JOAO PAULO II,Araporã,754,0.1,2,111.1,0.0,X - Doenças do aparelho respiratório,24.3
+2179628,SANTA CASA DE BOM SUCESSO,Bom Sucesso,745,13.0,8,45.7,12.9,X - Doenças do aparelho respiratório,23.0
+2161729,HOSPITAL JORGE CAETANO DE MATTOS,Ervália,742,2.2,6,17.2,0.0,X - Doenças do aparelho respiratório,26.0
+2144573,HOSPITAL NOSSA SENHORA DAS DORES,São Domingos do Prata,724,0.3,3,18.1,0.0,X - Doenças do aparelho respiratório,17.7
+2098156,SANTA CASA DE CAMPOS ALTOS,Campos Altos,711,1.1,4,41.0,0.0,X - Doenças do aparelho respiratório,19.8
+2143127,SANTA CASA MISERICORDIA NOSSA SENHORA CARMO DE C MINAS,Carmópolis de Minas,704,1.3,4,18.2,0.0,X - Doenças do aparelho respiratório,30.1
+2136937,HOSPITAL SAO VICENTE DE PAULO,Conselheiro Lafaiete,700,24.9,25,28.8,0.0,X - Doenças do aparelho respiratório,62.7
+2154749,HOSPITAL SAO JOSE,Contagem,700,2.1,4,17.0,0.0,XI - Doenças do aparelho digestivo,38.6
+2761165,HOSPITAL DE CRISTINA,Cristina,686,0.7,3,28.1,0.0,X - Doenças do aparelho respiratório,22.0
+2101874,HOSPITAL MUNICIPAL DR BININHO,Lagoa Formosa,684,1.2,7,45.7,0.0,X - Doenças do aparelho respiratório,19.6
+2794136,HOSPITAL GERAL DE CAMBUQUIRA,Cambuquira,660,1.5,6,16.8,0.0,XII - Doenças da pele,29.5
+2146401,HOSPITAL E NUCLEO DE SAUDE MENTAL GEDOR SILVEIRA,São Sebastião do Paraíso,655,96.8,89,130.7,0.0,V - Transtornos mentais e comportamentais,99.8
+2119501,HOSPITAL MUNICIPAL GRICIA LISBOA DE REZENDE,Urucuia,652,0.5,3,66.2,0.0,"XIX - Lesões, envenenamentos e outras causas externas",18.1
+5060761,HOSPITAL MUNICIPAL DR JOSE GUSTAVO ALVES,Andrelândia,640,8.0,10,24.6,0.0,X - Doenças do aparelho respiratório,23.3
+7201109,FAEPU UNIDADE CAPINOPOLIS,Capinópolis,635,4.4,5,28.9,0.0,XIV - Doenças do aparelho geniturinário,23.1
+2135116,HOSPITAL SAO VICENTE DE PAULO CARBONITA,Carbonita,626,7.3,10,96.0,0.0,I - Doenças infecciosas e parasitárias,47.0
+2135884,HOSPITAL MUNICIPAL AGOSTINHA ALCANTARA AGUIAR COLUNA,Coluna,626,9.4,6,15.8,0.0,X - Doenças do aparelho respiratório,28.8
+2695375,CLINICA DE TRANSICAO PAULO DE TARSO,Belo Horizonte,617,34.4,47,52.7,0.0,IX - Doenças do aparelho circulatório,59.6
+2195224,HOSPITAL MUNICIPAL DE PIRAPETINGA,Pirapetinga,606,0.2,2,15.4,0.0,X - Doenças do aparelho respiratório,20.3
+2100371,HOSPITAL NOSSA SENHORA DE LOURDES DE ALVINOPOLIS,Alvinópolis,605,2.1,5,26.2,0.0,X - Doenças do aparelho respiratório,37.2
+2142295,HOSPITAL CARLOS CHAGAS,Candeias,603,5.0,13,66.8,0.0,X - Doenças do aparelho respiratório,35.3
+2121514,HOSPITAL SEBASTIAO PAES DE ALMEIDA,Canápolis,602,4.8,6,37.5,0.0,X - Doenças do aparelho respiratório,26.4
+2761149,HOSPITAL DE CARMO DE MINAS,Carmo de Minas,601,17.3,6,10.6,0.0,X - Doenças do aparelho respiratório,20.8
+2161702,CASA DE CARIDADE SAO VICENTE DE PAULO,Miraí,599,2.7,4,16.0,0.0,X - Doenças do aparelho respiratório,29.4
+6049265,HOSPITAL MUNICIPAL FRANCISCO GONCALVES,Pedro Leopoldo,595,10.8,9,8.5,0.0,X - Doenças do aparelho respiratório,21.2
+2139103,HOSPITAL SANTA LUCIA,Águas Vermelhas,594,13.3,4,19.3,0.0,X - Doenças do aparelho respiratório,25.6
+2121409,HOSPITAL SAO VICENTE DE PAULO,Campina Verde,587,0.0,1,,0.0,"IV - Doenças endócrinas, nutricionais e metabólicas",25.9
+2139057,HOSPITAL MUNICIPAL DE JOAIMA,Joaíma,580,1.2,4,166.6,0.0,I - Doenças infecciosas e parasitárias,41.2
+2144549,HOSPITAL SAO JOSE,Nova Era,572,4.7,18,77.3,0.0,X - Doenças do aparelho respiratório,20.8
+2164825,HOSPITAL BENEFICENCIA PORTUGUESA,Uberaba,569,5.1,10,57.8,0.0,XII - Doenças da pele,22.3
+2160498,HOSPITAL MUNICIPAL SAO FRANCISCO,Iguatama,568,0.5,4,88.5,0.0,I - Doenças infecciosas e parasitárias,26.2
+2167565,HOSPITAL MUNICIPAL JOAO AMELIO FREIRE,Conceição da Aparecida,562,0.0,1,,0.0,XI - Doenças do aparelho digestivo,19.9
+2797496,HOSPITAL MUNICIPAL DR ARTHUR RAUSCH,Ladainha,555,0.4,3,54.5,0.0,X - Doenças do aparelho respiratório,27.9
+2163071,HOSPITAL SAO JOSE,Eugenópolis,544,12.7,5,10.7,0.0,I - Doenças infecciosas e parasitárias,28.5
+2101432,HOSPITAL MUNICIPAL DARCI JOSE FERNANDES,Presidente Olegário,534,6.2,6,78.4,0.0,IX - Doenças do aparelho circulatório,24.0
+2168421,SANTA CASA DE MISERICORDIA DE AREADO,Areado,528,0.4,3,173.1,0.0,X - Doenças do aparelho respiratório,37.7
+2796775,SOCIEDADE DE CARIDADE SANTA CASA DE MISERICORDIA MADRE MICHE,Mar de Espanha,522,18.4,7,13.5,0.0,"IV - Doenças endócrinas, nutricionais e metabólicas",21.3
+2098946,CENTRO HOSPITALAR PSIQUIATRICO DE BARBACENA,Barbacena,519,57.8,48,55.0,0.0,V - Transtornos mentais e comportamentais,58.8
+2104741,HOSPITAL NOSSA SENHORA APARECIDA,Varzelândia,511,19.4,4,17.7,0.0,I - Doenças infecciosas e parasitárias,32.7
+2122618,HOSPITAL SAO SEBASTIAO DE RECREIO,Recreio,505,21.0,20,31.1,0.0,X - Doenças do aparelho respiratório,19.2
+2172860,HOSPITAL MONSENHOR GENESIO,Juruaia,503,12.3,10,22.2,0.0,XI - Doenças do aparelho digestivo,27.0
+2123711,HOSPITAL SAO VICENTE DE PAULO,São Tiago,501,1.8,5,39.1,0.0,X - Doenças do aparelho respiratório,21.8
+2761262,HOSPITAL DR OTAVIO GONCALVES,Cachoeira de Pajeú,498,0.4,2,24.7,0.0,"IV - Doenças endócrinas, nutricionais e metabólicas",17.9
+2761181,HOSPITAL DE MONSENHOR PAULO,Monsenhor Paulo,497,27.8,19,25.0,0.0,X - Doenças do aparelho respiratório,25.6
+2178990,HOSPITAL SAO VICENTE DE PAULO DE POTE,Poté,493,0.6,2,19.9,0.0,"IV - Doenças endócrinas, nutricionais e metabólicas",25.8
+2118319,HOSPITAL NOSSA SENHORA APARECIDA,Arinos,489,14.9,8,78.2,0.0,"XV - Gravidez, parto e puerpério",39.7
+2139138,HOSPITAL SAO VICENTE DE PAULO,Rubim,484,2.3,5,83.3,0.0,XII - Doenças da pele,16.1
+2161575,HOSPITAL SAO VICENTE DE PAULO DE MERCES MATRIZ,Mercês,478,2.5,5,18.1,0.0,X - Doenças do aparelho respiratório,37.0
+2109700,HOSPITAL SAO VICENTE DE PAULO,Piranga,474,7.6,6,32.0,0.0,X - Doenças do aparelho respiratório,28.9
+2178648,HOSPITAL CASA DE CARIDADE SAO SEBASTIAO,Morada Nova de Minas,473,0.8,4,106.7,0.0,V - Transtornos mentais e comportamentais,21.6
+2128020,HOSPITAL E MAT SENHOR BOM JESUS BUENO BRANDAO,Bueno Brandão,464,5.8,6,19.5,0.0,X - Doenças do aparelho respiratório,30.2
+2796368,HOSPITAL SAO JOSE,Botelhos,457,0.7,3,14.5,0.0,X - Doenças do aparelho respiratório,26.3
+2135140,HOSPITAL JOAO CESAR DE OLIVEIRA,Rio Vermelho,454,0.7,3,20.1,0.0,X - Doenças do aparelho respiratório,24.9
+2194937,HOSPITAL MUNICIPAL DR DARCY JUAREZ ZABISKY,Centralina,453,0.7,3,84.0,0.0,X - Doenças do aparelho respiratório,25.4
+2123436,SANTA CASA DE PRADOS,Prados,452,22.6,14,19.0,0.0,X - Doenças do aparelho respiratório,31.6
+2172836,HOSPITAL MUNICIPAL SANTA RITA,Nova Resende,438,0.0,1,,0.0,X - Doenças do aparelho respiratório,31.1
+2194651,HOSPITAL SAO SEBASTIAO,Tombos,435,0.0,1,,0.0,X - Doenças do aparelho respiratório,27.6
+2144522,HOSPITAL SAO JUDAS TADEU,Ferros,431,1.6,4,111.6,0.0,X - Doenças do aparelho respiratório,20.9
+2775964,HOSPITAL MUNICIPAL DE NOVA PONTE,Nova Ponte,430,0.2,2,540.2,0.2,X - Doenças do aparelho respiratório,19.1
+2127733,SANTA CASA DE MISERICORDIA DE CALDAS,Caldas,428,22.0,7,19.4,0.0,XI - Doenças do aparelho digestivo,26.4
+2119455,HOSPITAL MUNICIPAL GERSON DIAS,Itacarambi,419,6.7,3,34.2,0.0,X - Doenças do aparelho respiratório,27.7
+2765098,ASSOCIACAO HOSPITAL BELIZARIO MIRANDA,Lajinha,410,1.0,4,22.6,0.0,"XV - Gravidez, parto e puerpério",21.5
+2127881,HOSPITAL E MATERN SAO LUCAS DE EXTREMA,Extrema,403,19.4,13,36.3,0.0,I - Doenças infecciosas e parasitárias,31.5
+2144255,HOSPITAL MUNICIPAL SANTO ANTONIO DE CRISTAIS,Cristais,399,1.3,3,32.8,0.0,X - Doenças do aparelho respiratório,35.6
+2761017,HOSPITAL NOSSA SENHORA DO CARMO,Carmo da Cachoeira,398,0.3,2,25.3,0.0,I - Doenças infecciosas e parasitárias,30.4
+2117398,FUNDACAO HOSPITALAR SANTO ANTONIO JABOTICATUBAS,Jaboticatubas,398,0.0,1,,0.0,X - Doenças do aparelho respiratório,20.9
+2123231,HOSPITAL SAO VICENTE DE PAULO,São Vicente de Minas,397,22.4,6,29.6,0.0,X - Doenças do aparelho respiratório,20.7
+2796589,HOSPITAL MUNICIPAL BOM JARDIM MINAS,Bom Jardim de Minas,382,28.0,10,24.9,0.0,X - Doenças do aparelho respiratório,33.2
+2760975,HOSPITAL MUNICIPAL NOSSA SENHORA DO PATROCINIO,Itaipé,376,0.0,1,,0.0,I - Doenças infecciosas e parasitárias,19.1
+2144174,HOSPITAL SAO GABRIEL,Passa Tempo,365,2.2,5,44.3,0.0,X - Doenças do aparelho respiratório,37.0
+2205882,HOSPITAL MUNICIPAL PREFEITO FRANCISCO GAMELEIRA,Buritizeiro,362,0.3,2,0.9,0.0,"XIX - Lesões, envenenamentos e outras causas externas",22.1
+2167573,HOSPITAL E MATERNIDADE FREI FRANCISCO STIENEN,Monte Belo,362,0.8,4,49.9,0.0,X - Doenças do aparelho respiratório,35.9
+2100398,HOSPITAL NOSSA SENHORA DA SAUDE DE DOM SILVERIO,Dom Silvério,359,3.3,5,14.1,0.0,X - Doenças do aparelho respiratório,29.5
+2134292,HOSPITAL MUNICIPAL NOSSA SENHORA DOS POBRES,Berilo,357,0.3,2,12.7,0.0,X - Doenças do aparelho respiratório,27.7
+2146479,SANTA CASA DE MISERICORDIA DE GUAPE,Guapé,355,0.0,1,,0.0,X - Doenças do aparelho respiratório,36.9
+2140179,HOSPITAL ASSISTENCIAL MANOEL SIMOES CAXITO,São Romão,355,0.6,3,75.9,0.0,"XIX - Lesões, envenenamentos e outras causas externas",17.5
+2695634,BIOCOR INSTITUTO,Belo Horizonte,354,87.9,160,194.1,64.7,XVII - Malformações congênitas,82.8
+2113791,HOSPITAL PSIQUIATRICO JOSE DIAS MACHADO,Ituiutaba,354,32.2,17,66.2,0.0,V - Transtornos mentais e comportamentais,100.0
+2760932,HOSPITAL MUNICIPAL ANTONIO REIS,Campo do Meio,332,0.0,1,,0.0,X - Doenças do aparelho respiratório,44.0
+2764822,CASA DE CARIDADE SANTO ANTONIO,Virgínia,330,0.0,1,,0.0,X - Doenças do aparelho respiratório,37.9
+2134306,HOSPITAL SAO DOMINGOS,Virgem da Lapa,326,0.9,4,96.7,0.0,XIV - Doenças do aparelho geniturinário,18.7
+2143674,HOSPITAL PROFESSOR BASILIO MOEMA,Moema,321,0.6,3,54.5,0.0,I - Doenças infecciosas e parasitárias,28.7
+2118076,HOSPITAL MUNICIPAL DONA ROSALINA FLAUSINA DE SOUZA,Guarda-Mor,318,15.1,8,132.4,0.0,XIV - Doenças do aparelho geniturinário,27.4
+2202638,HOSPITAL NOSSA SENHORA DA CONCEICAO,Alto Rio Doce,311,16.4,3,16.6,0.0,X - Doenças do aparelho respiratório,55.0
+2195429,HUBA CASA DE SAUDE PADRE DAMIAO,Ubá,306,41.5,26,29.6,0.0,XII - Doenças da pele,48.0
+2127946,HOSPITAL SAO CAETANO BRASOPOLIS,Brazópolis,295,2.7,4,124.8,0.0,X - Doenças do aparelho respiratório,39.0
+2153742,ASSOCIACAO DOS CEGOS EM JUIZ DE FORA,Juiz de Fora,291,5.8,14,77.6,100.0,VII - Doenças do olho e anexos,100.0
+2146398,SANTA CASA DE CARIDADE DE CAPITOLIO,Capitólio,290,4.8,5,25.0,0.0,X - Doenças do aparelho respiratório,34.5
+2776014,SANTA CASA DE MISERICORDIA SAO VICENTE DE PAULO,Pouso Alto,286,21.7,7,5.6,0.0,IX - Doenças do aparelho circulatório,17.1
+2144611,HOSPITAL JULIA KUBITSCHEK,Rio Piracicaba,285,1.4,3,31.2,0.0,X - Doenças do aparelho respiratório,26.0
+2194465,HOSPITAL SAO JOSE DE SAO JOAO DO MANTENINHA,São João do Manteninha,281,6.0,8,46.6,0.0,X - Doenças do aparelho respiratório,19.6
+2136139,HOSPITAL MONUMENTO AS MAES,Ibertioga,279,36.2,8,22.2,0.0,X - Doenças do aparelho respiratório,34.8
+2127938,SANTA CASA DE MISERICORDIA DE PEDRALVA,Pedralva,277,10.8,6,18.8,0.0,I - Doenças infecciosas e parasitárias,39.4
+2103230,FUNDACAO HOSPITALAR MENDES PIMENTEL,Mendes Pimentel,266,32.0,12,33.8,0.0,XI - Doenças do aparelho digestivo,22.2
+3494179,HOSPITAL DR ALPHEU GONCALVES DE QUADROS,Montes Claros,261,3.1,8,74.8,0.0,X - Doenças do aparelho respiratório,40.2
+2184680,HOSPITAL MUN DONA MARIA CONCEICAO FANTINI VALERIO,Rio Paranaíba,252,0.0,1,,0.0,X - Doenças do aparelho respiratório,27.4
+2139111,HOSPITAL SENHOR DO BONFIM,Salto da Divisa,251,0.0,1,,0.0,X - Doenças do aparelho respiratório,36.3
+2775921,SANTA CASA DA CAMPANHA,Campanha,250,1.6,3,13.4,0.0,X - Doenças do aparelho respiratório,34.4
+2102021,HOSPITAL MUNICIPAL CONCEICAO PALHARES,Tiros,241,0.0,1,,0.0,I - Doenças infecciosas e parasitárias,49.0
+2796791,SANTA CASA MISERIOCORDIA DE RIO PRETO,Rio Preto,239,19.2,2,19.4,0.0,X - Doenças do aparelho respiratório,45.6
+2796570,HOSPITAL MONSENHOR MARCIANO,Santa Rita de Jacutinga,230,0.0,1,,0.0,X - Doenças do aparelho respiratório,53.5
+2180731,HOSPITAL MUNICIPAL DE SANTA JULIANA,Santa Juliana,229,0.0,1,,0.0,"XV - Gravidez, parto e puerpério",44.5
+2208849,HOSPITAL MUN FERRAZ E TORRES MARIA DA FE,Maria da Fé,224,4.5,3,13.1,0.0,X - Doenças do aparelho respiratório,54.0
+2146517,HOSPITAL MUNICIPAL DONA CHIQUITA,São João Batista do Glória,220,2.3,3,35.0,0.0,X - Doenças do aparelho respiratório,49.1
+2139065,HOSPITAL PAULO VI,Jordânia,217,2.3,4,264.4,0.0,I - Doenças infecciosas e parasitárias,52.1
+2144182,HOSPITAL DR ODILON DE ANDRADE DE MARTINHO CAMPOS,Martinho Campos,216,1.9,5,215.2,0.0,X - Doenças do aparelho respiratório,44.9
+2144654,HOSPITAL NOSSA SENHORA DAS GRACAS DOM JOAQUIM,Dom Joaquim,212,0.0,1,,0.0,X - Doenças do aparelho respiratório,30.2
+2105799,CASA DE SAUDE SAO FRANCISCO DE ASSIS DE BAMBUI,Bambuí,210,45.2,30,85.7,0.0,XII - Doenças da pele,38.6
+2186276,SANTA CASA MUNICIPAL DE SAUDE DE PIMENTA,Pimenta,202,0.0,1,,0.0,X - Doenças do aparelho respiratório,41.1
+2168626,HOSPITAL MUNICIPAL R VILELA OLIVEIRA DE PAINS,Pains,200,0.0,1,,0.0,X - Doenças do aparelho respiratório,35.5
+2126559,HOSPITAL SANTA BARBARA,Fervedouro,186,8.6,6,32.1,0.0,X - Doenças do aparelho respiratório,36.0
+2760851,HOSPITAL SAO JOAO DE DEUS,Senador Firmino,186,9.1,8,25.7,0.0,X - Doenças do aparelho respiratório,30.1
+2108933,HOSPITAL MUNICIPAL DE ESTRELA DO INDAIA,Estrela do Indaiá,184,2.2,3,11.9,0.0,X - Doenças do aparelho respiratório,37.0
+6690726,HOSPITAL DE PEQUENO PORTE JOSE CARDOSO DE OLIVEIRA,Chapada Gaúcha,181,0.6,2,75.8,0.0,X - Doenças do aparelho respiratório,36.5
+2179237,HOSPITAL MUNICIPAL DONA AMELIA MARIA DE SOUZA,Gurinhatã,178,0.0,1,,0.0,X - Doenças do aparelho respiratório,26.4
+2760959,HOSPITAL MUNICIPAL DE POCRANE,Pocrane,176,0.6,2,21.7,0.0,X - Doenças do aparelho respiratório,56.2
+2102404,HOSPITAL SANTANA DE AGUA BOA,Água Boa,174,0.0,1,,0.0,X - Doenças do aparelho respiratório,28.2
+6569803,HOSPITAL MUNICIPAL ELPIDIO RODRIGUES PINTO,Delfinópolis,174,0.0,1,,0.0,X - Doenças do aparelho respiratório,31.6
+2142937,HOSPITAL OLINTO FERREIRA DINIZ CARMO DA MATA,Carmo da Mata,172,0.0,1,,0.0,X - Doenças do aparelho respiratório,32.0
+2139960,HOSPITAL MUNICIPAL DE RIBEIRAO VERMELHO,Ribeirão Vermelho,168,3.0,3,20.1,0.0,X - Doenças do aparelho respiratório,29.2
+2122936,HOSPITAL E MATERNIDADE MARIA ELOY,Palma,167,0.6,2,16.8,0.0,X - Doenças do aparelho respiratório,25.1
+2760908,HOSPITAL ITAU,Itaú de Minas,163,1.2,3,12.1,0.0,X - Doenças do aparelho respiratório,56.4
+2144565,HOSPITAL PADRE ESTEVAN,Santa Maria de Itabira,155,1.9,4,63.7,0.0,X - Doenças do aparelho respiratório,41.3
+3009718,HOSPITAL MUNICIPAL DONA ADMA MAFFUD PERUCELLO,Arceburgo,154,0.0,1,,0.0,X - Doenças do aparelho respiratório,38.3
+2135949,HOSPITAL DE ITAMARANDIBA,Itamarandiba,141,10.6,5,41.3,0.0,V - Transtornos mentais e comportamentais,41.8
+2760673,HOSPITAL SAO VICENTE DE PAULO,Carrancas,141,28.4,6,26.1,0.0,X - Doenças do aparelho respiratório,29.1
+2830124,HOSPITAL VISION,Manhuaçu,139,12.2,10,30.9,15.8,IX - Doenças do aparelho circulatório,30.2
+2115662,SABARA HOSPITAL CRISTIANO MACHADO,Sabará,134,59.0,19,29.0,0.0,XI - Doenças do aparelho digestivo,23.9
+2127997,SANTA CASA E MAT N S DE FATIMA ESTIVA,Estiva,130,0.0,1,,0.0,X - Doenças do aparelho respiratório,25.4
+5406978,HOSPITAL MED CENTER LTDA,Patrocínio,129,0.8,2,57.1,0.0,IX - Doenças do aparelho circulatório,38.0
+2213516,ASSOCIACAO HOSPITALAR DE JECEABA,Jeceaba,126,4.8,3,22.3,0.0,X - Doenças do aparelho respiratório,38.9
+2168448,HOSPITAL NOSSA SENHORA APARECIDA,Serrania,123,0.0,1,,0.0,X - Doenças do aparelho respiratório,34.1
+2179571,HOSPITAL MUNICIPAL SANTO ANTONIO,Nazareno,122,18.0,8,21.6,0.0,X - Doenças do aparelho respiratório,43.4
+2102854,HOSPITAL JESUS MENINO,Central de Minas,120,5.8,2,48.9,0.0,X - Doenças do aparelho respiratório,26.7
+2112647,PEQUENO HOSPITAL NOSSA SENHORA DA PIEDADE,Piedade do Rio Grande,120,0.0,1,,0.0,X - Doenças do aparelho respiratório,27.5
+2103222,HOSPITAL MUNICIPAL DIVINO ESPIRITO SANTO,Divino das Laranjeiras,115,2.6,4,31.2,0.0,X - Doenças do aparelho respiratório,54.8
+2761130,HOSPITAL DE ALAGOA,Alagoa,113,0.0,1,,0.9,X - Doenças do aparelho respiratório,30.1
+2147572,PEQUENO HOSPITAL SANTA MARIA DE ANTONIO CARLOS,Antônio Carlos,112,9.8,4,12.8,0.0,X - Doenças do aparelho respiratório,50.0
+2136104,HOSPITAL SAO CAETANO,Cipotânea,109,2.8,2,49.2,0.0,X - Doenças do aparelho respiratório,50.5
+2167670,HOSPITAL E MATERNIDADE SAO PEDRO,São Pedro da União,107,0.0,1,,0.0,X - Doenças do aparelho respiratório,48.6
+3005410,HOSPITAL EVANDRO RIBEIRO,Juiz de Fora,101,66.3,51,255.7,100.0,VIII - Doenças do ouvido,100.0
+2154757,HOSPITAL SANTA RITA,Contagem,93,1.1,2,16.4,1.1,XI - Doenças do aparelho digestivo,44.1
+0491632,HOSPITAL MUNICIPAL NOSSA SENHORA DA ABADIA,Abadia dos Dourados,92,0.0,1,,0.0,X - Doenças do aparelho respiratório,38.0
+2148471,HOSPITAL MUNICIPAL SANTO ANTONIO,Presidente Bernardes,90,0.0,1,,0.0,X - Doenças do aparelho respiratório,35.6
+2152991,HOSPITAL DAS CLINICAS DE PATROCINIO LTDA,Patrocínio,85,0.0,1,,45.9,VII - Doenças do olho e anexos,100.0
+7803850,NEO OFTALMOLOGIA UBERLANDIA,Uberlândia,79,0.0,1,,100.0,VII - Doenças do olho e anexos,100.0
+2112531,HOSPITAL MUNICIPAL MATERNIDADE SAO FRANCISCO,Rio Espera,65,1.5,2,23.8,0.0,X - Doenças do aparelho respiratório,41.5
+2147823,HOSPITAL MUNICIPAL SANTA MARTA,São Roque de Minas,59,6.8,2,9.4,0.0,X - Doenças do aparelho respiratório,39.0
+2168200,HOSPITAL SAO JOSE PASSABEM,Passabém,50,0.0,1,,0.0,XIV - Doenças do aparelho geniturinário,36.0
+2118041,UNIDADE MISTA DE SAUDE DE LAGAMAR,Lagamar,49,0.0,1,,0.0,X - Doenças do aparelho respiratório,57.1
+9644040,OCULAR CENTRO DE OFTALMOLOGIA,Teófilo Otoni,48,6.2,4,57.1,64.6,VII - Doenças do olho e anexos,100.0
+5680972,CEO,Pará de Minas,47,14.9,6,29.2,8.5,VII - Doenças do olho e anexos,100.0
+2101025,UNIDADE MISTA DE SAUDE NIVEA ANGELA RODRIGUES,Matutina,44,4.5,3,114.2,0.0,X - Doenças do aparelho respiratório,63.6
+2118858,HOSPITAL SAO LUCAS,Governador Valadares,43,20.9,8,102.8,69.8,IX - Doenças do aparelho circulatório,97.7
+2206552,SANTA CASA DE MISERICORDIA DE UNIAO,União de Minas,40,2.5,2,26.6,0.0,X - Doenças do aparelho respiratório,32.5
+2127768,HOSPITAL E MATERNIDADE DE CAREACU,Careaçu,39,2.6,2,16.4,0.0,X - Doenças do aparelho respiratório,46.2
+0767158,HOSPITAL MUNICIPAL NOSSA SENHORA DA ABADIA,Romaria,30,0.0,1,,0.0,XII - Doenças da pele,20.0
+2760967,HOSPITAL MUNICIPAL DE PRATAPOLIS,Pratápolis,29,0.0,1,,0.0,X - Doenças do aparelho respiratório,55.2
+2146444,HOSPITAL SAO JOAO BATISTA DE ITAMOGI,Itamogi,26,0.0,1,,0.0,X - Doenças do aparelho respiratório,57.7
+2760819,HOSPITAL SANTA RITA DE CASSIA,Minduri,25,4.0,2,67.0,0.0,XIV - Doenças do aparelho geniturinário,32.0
+2164493,HOSPITAL MUNICIPAL DE CONQUISTA,Conquista,22,0.0,1,,0.0,I - Doenças infecciosas e parasitárias,22.7
+9621369,IOFM INSTITUTO DE OLHOS FREDERICO MURTA,Bocaiúva,21,0.0,1,,100.0,VII - Doenças do olho e anexos,100.0
+0722146,CEO OLHOS,Uberlândia,18,5.6,2,67.8,100.0,VII - Doenças do olho e anexos,100.0
+3013588,HOSPITAL MONTE SINAI,Juiz de Fora,17,76.5,13,271.4,100.0,XXI - Fatores que influenciam o estado de saúde,70.6
+2775905,CIDADE DA SAUDE,Três Corações,13,15.4,2,17.3,0.0,XIII - Doenças do sistema osteomuscular,38.5
+0027820,HOSPITAL INFANTIL PADRE ANCHIETA,Belo Horizonte,11,36.4,5,25.5,0.0,X - Doenças do aparelho respiratório,63.6
+0069167,INSTITUTO DA VISAO SANTA LUZIA,Governador Valadares,10,40.0,5,66.6,90.0,VII - Doenças do olho e anexos,100.0
+2764849,CASA DE SAUDE E MATERNIDADE SANTA MONICA,Unaí,7,0.0,1,,100.0,IX - Doenças do aparelho circulatório,100.0
+5112133,NUCLEO OFTALMOLOGICO DR RIMACK FILHO,Governador Valadares,2,50.0,2,45.2,50.0,VII - Doenças do olho e anexos,100.0
+7433867,UBERLANDIA MEDICAL CENTER,Uberlândia,2,0.0,1,,100.0,XIV - Doenças do aparelho geniturinário,100.0

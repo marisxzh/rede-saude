@@ -1,0 +1,3289 @@
+﻿Município de residência (onde o paciente mora),Município de internação (onde foi internado),Nº de internações,Distância em linha reta (km),Código do município de residência,Código do município de internação
+Abadia dos Dourados,Abadia dos Dourados,1,0.0,310010,310010
+Abadia dos Dourados,Araguari,3,85.1,310010,310350
+Abadia dos Dourados,Barbacena,2,486.6,310010,310560
+Abadia dos Dourados,Monte Carmelo,1,28.1,310010,314310
+Abadia dos Dourados,Patrocínio,4,67.0,310010,314810
+Abadia dos Dourados,Uberlândia,5,101.0,310010,317020
+Abaeté,Abaeté,22,0.0,310020,310020
+Abaeté,Belo Horizonte,30,179.9,310020,310620
+Abaeté,Bom Despacho,6,67.7,310020,310740
+Abaeté,Divinópolis,2,125.9,310020,312230
+Abaeté,Itabirinha,1,448.2,310020,313180
+Abaeté,Itapecerica,1,150.0,310020,313350
+Abaeté,Pompéu,1,47.5,310020,315200
+Abaeté,Sete Lagoas,16,130.8,310020,316720
+Abaeté,Uberaba,2,270.5,310020,317010
+Abre Campo,Abre Campo,10,0.0,310030,310030
+Abre Campo,Belo Horizonte,1,158.0,310030,310620
+Abre Campo,Carangola,1,67.0,310030,311330
+Abre Campo,Matipó,1,14.3,310030,314090
+Abre Campo,Muriaé,37,92.6,310030,314390
+Abre Campo,Ponte Nova,2,46.7,310030,315210
+Abre Campo,Raul Soares,1,22.4,310030,315400
+Acaiaca,Abre Campo,1,69.6,310040,310030
+Acaiaca,Muriaé,3,116.9,310040,314390
+Acaiaca,Ponte Nova,12,25.0,310040,315210
+Açucena,Coronel Fabriciano,1,51.2,310050,311940
+Açucena,Ipatinga,31,45.2,310050,313130
+Açucena,Itabirinha,1,149.1,310050,313180
+Açucena,Itanhomi,1,72.4,310050,313320
+Açucena,Tarumirim,4,61.2,310050,316840
+Água Boa,Belo Horizonte,1,269.2,310060,310620
+Água Boa,Governador Valadares,5,107.1,310060,312770
+Água Boa,Santa Maria do Suaçuí,4,22.0,310060,315820
+Água Boa,São João Evangelista,1,73.2,310060,316280
+Água Comprida,Uberaba,1,38.2,310070,317010
+Aguanil,Campo Belo,10,13.3,310080,311120
+Aguanil,Divinópolis,16,99.5,310080,312230
+Aguanil,Santo Antônio do Amparo,2,49.5,310080,315990
+Águas Formosas,Águas Formosas,11,0.0,310090,310090
+Águas Formosas,Belo Horizonte,5,447.1,310090,310620
+Águas Formosas,Governador Valadares,7,224.5,310090,312770
+Águas Formosas,Ipatinga,4,315.1,310090,313130
+Águas Formosas,Tarumirim,8,269.4,310090,316840
+Águas Formosas,Teófilo Otoni,28,106.1,310090,316860
+Águas Vermelhas,Águas Vermelhas,6,0.0,310100,310100
+Águas Vermelhas,Jequitinhonha,1,90.7,310100,313580
+Águas Vermelhas,Medina,12,53.4,310100,314140
+Águas Vermelhas,Montes Claros,11,279.9,310100,314330
+Águas Vermelhas,Pedra Azul,2,34.8,310100,314870
+Águas Vermelhas,Taiobeiras,10,83.2,310100,316800
+Águas Vermelhas,Teófilo Otoni,2,235.8,310100,316860
+Aimorés,Aimorés,28,0.0,310110,310110
+Aimorés,Governador Valadares,1,116.4,310110,312770
+Aimorés,Resplendor,1,27.5,310110,315430
+Aiuruoca,Aiuruoca,19,0.0,310120,310120
+Aiuruoca,Cruzília,1,26.0,310120,312080
+Aiuruoca,Varginha,3,97.5,310120,317070
+Alagoa,Aiuruoca,2,21.7,310130,310120
+Alagoa,Alagoa,2,0.0,310130,310130
+Alagoa,Baependi,1,34.8,310130,310490
+Alagoa,Caxambu,2,37.1,310130,311550
+Alagoa,Varginha,8,106.6,310130,317070
+Albertina,Jacutinga,1,9.8,310140,313490
+Albertina,Poço Fundo,2,81.3,310140,315170
+Albertina,Poços de Caldas,1,46.3,310140,315180
+Além Paraíba,Além Paraíba,38,0.0,310150,310150
+Além Paraíba,Belo Horizonte,5,253.2,310150,310620
+Além Paraíba,Juiz de Fora,12,70.1,310150,313670
+Além Paraíba,Muriaé,168,88.8,310150,314390
+Alfenas,Alfenas,211,0.0,310160,310160
+Alfenas,Machado,1,28.5,310160,313900
+Alfenas,Passos,4,104.2,310160,314790
+Alfenas,Poço Fundo,1,40.2,310160,315170
+Alfredo Vasconcelos,Barbacena,16,8.9,310163,310560
+Alfredo Vasconcelos,Conselheiro Lafaiete,6,54.0,310163,311830
+Alfredo Vasconcelos,Juiz de Fora,1,81.4,310163,313670
+Almenara,Almenara,93,0.0,310170,310170
+Almenara,Belo Horizonte,21,537.5,310170,310620
+Almenara,Felisburgo,1,50.0,310170,312560
+Almenara,Governador Valadares,9,324.3,310170,312770
+Almenara,Ipatinga,6,413.3,310170,313130
+Almenara,Jacinto,8,44.1,310170,313470
+Almenara,Jequitinhonha,5,41.9,310170,313580
+Almenara,Pedra Azul,2,65.2,310170,314870
+Almenara,Teófilo Otoni,35,204.7,310170,316860
+Alpercata,Belo Horizonte,2,230.0,310180,310620
+Alpercata,Belo Oriente,6,59.0,310180,310630
+Alpercata,Conselheiro Pena,1,57.9,310180,311840
+Alpercata,Governador Valadares,18,14.1,310180,312770
+Alpercata,Itabirinha,2,91.2,310180,313180
+Alpercata,Tarumirim,7,33.6,310180,316840
+Alpinópolis,Alpinópolis,26,0.0,310190,310190
+Alpinópolis,Passos,47,28.2,310190,314790
+Alterosa,Alfenas,13,28.0,310200,310160
+Alterosa,Alterosa,6,0.0,310200,310200
+Alterosa,Passos,4,76.3,310200,314790
+Alterosa,Poço Fundo,2,62.5,310200,315170
+Alto Caparaó,Carangola,2,36.6,310205,311330
+Alto Caparaó,Muriaé,9,92.5,310205,314390
+Alto Caparaó,Tarumirim,1,129.8,310205,316840
+Alto Rio Doce,Barbacena,60,43.7,310210,310560
+Alto Rio Doce,Barroso,2,61.3,310210,310590
+Alto Rio Doce,Belo Horizonte,1,134.1,310210,310620
+Alto Rio Doce,Carandaí,2,41.8,310210,311320
+Alto Rio Doce,Juiz de Fora,4,81.7,310210,313670
+Alvarenga,Governador Valadares,8,66.4,310220,312770
+Alvarenga,Itabirinha,1,107.9,310220,313180
+Alvarenga,Itanhomi,1,31.1,310220,313320
+Alvarenga,Tarumirim,1,33.1,310220,316840
+Alvinópolis,Alvinópolis,11,0.0,310230,310230
+Alvinópolis,Belo Horizonte,11,94.0,310230,310620
+Alvinópolis,Muriaé,2,134.1,310230,314390
+Alvinópolis,Ponte Nova,39,37.6,310230,315210
+Alvinópolis,Raul Soares,1,63.2,310230,315400
+Alvinópolis,Rio Casca,4,44.4,310230,315490
+Alvorada de Minas,Belo Horizonte,5,145.5,310240,310620
+Alvorada de Minas,Diamantina,3,59.5,310240,312160
+Alvorada de Minas,Serro,11,14.2,310240,316710
+Amparo do Serra,Ponte Nova,15,15.0,310250,315210
+Amparo do Serra,Rio Casca,2,35.0,310250,315490
+Andradas,Andradas,59,0.0,310260,310260
+Andradas,Belo Horizonte,1,362.9,310260,310620
+Andradas,Poço Fundo,2,69.9,310260,315170
+Andradas,Poços de Caldas,57,31.5,310260,315180
+Andradas,Santa Rita do Sapucaí,1,91.6,310260,315960
+Cachoeira de Pajeú,Cachoeira de Pajeú,2,0.0,310270,310270
+Cachoeira de Pajeú,Itaobim,2,66.5,310270,313330
+Cachoeira de Pajeú,Medina,2,29.1,310270,314140
+Cachoeira de Pajeú,Montes Claros,9,267.3,310270,314330
+Cachoeira de Pajeú,Pedra Azul,25,23.6,310270,314870
+Cachoeira de Pajeú,Teófilo Otoni,1,211.3,310270,316860
+Andrelândia,Aiuruoca,1,40.5,310280,310120
+Andrelândia,Andrelândia,8,0.0,310280,310280
+Andrelândia,Juiz de Fora,28,99.6,310280,313670
+Angelândia,Capelinha,1,26.4,310285,311230
+Angelândia,Itambacuri,7,70.7,310285,313270
+Angelândia,Malacacheta,5,24.1,310285,313920
+Angelândia,Teófilo Otoni,14,82.2,310285,316860
+Angelândia,Turmalina,3,69.2,310285,316970
+Antônio Carlos,Barbacena,60,10.7,310290,310560
+Antônio Carlos,Barroso,5,27.8,310290,310590
+Antônio Carlos,Conselheiro Lafaiete,2,73.4,310290,311830
+Antônio Carlos,Muriaé,1,144.6,310290,314390
+Antônio Dias,Belo Horizonte,2,115.3,310300,310620
+Antônio Dias,Bom Jesus do Galho,1,61.3,310300,310780
+Antônio Dias,Ipatinga,31,41.0,310300,313130
+Antônio Dias,Tarumirim,14,99.7,310300,316840
+Antônio Dias,Timóteo,1,25.5,310300,316870
+Antônio Prado de Minas,Muriaé,24,29.5,310310,314390
+Antônio Prado de Minas,Tarumirim,1,193.4,310310,316840
+Araçaí,Belo Horizonte,2,87.0,310320,310620
+Araçaí,Sete Lagoas,11,29.6,310320,316720
+Aracitaba,Juiz de Fora,10,46.4,310330,313670
+Aracitaba,Santos Dumont,3,22.1,310330,316070
+Araçuaí,Araçuaí,48,0.0,310340,310340
+Araçuaí,Belo Horizonte,57,394.4,310340,310620
+Araçuaí,Diamantina,4,224.5,310340,312160
+Araçuaí,Teófilo Otoni,1,126.7,310340,316860
+Araguari,Araguari,288,0.0,310350,310350
+Araguari,Uberlândia,70,30.4,310350,317020
+Arantina,Andrelândia,1,20.1,310360,310280
+Arantina,Bom Jardim de Minas,1,8.0,310360,310750
+Arantina,Juiz de Fora,12,95.5,310360,313670
+Araponga,Bom Jesus do Galho,2,95.6,310370,310780
+Araponga,Juiz de Fora,1,148.3,310370,313670
+Araponga,Muriaé,3,53.6,310370,314390
+Araponga,Ponte Nova,8,49.1,310370,315210
+Araponga,Viçosa,8,38.7,310370,317130
+Araporã,Araguari,6,106.6,310375,310350
+Araporã,Araporã,22,0.0,310375,310375
+Araporã,Uberlândia,7,111.1,310375,317020
+Arapuá,Belo Horizonte,1,252.7,310380,310620
+Arapuá,Patos de Minas,1,60.7,310380,314800
+Araújos,Divinópolis,32,36.4,310390,312230
+Araújos,Itaúna,1,63.3,310390,313380
+Araújos,Lagoa da Prata,2,40.1,310390,313720
+Araújos,Oliveira,1,90.3,310390,314560
+Araújos,Pará de Minas,1,59.5,310390,314710
+Araxá,Araxá,121,0.0,310400,310400
+Araxá,Belo Horizonte,1,317.3,310400,310620
+Araxá,Uberaba,200,106.2,310400,317010
+Arceburgo,Alfenas,5,102.9,310410,310160
+Arceburgo,Machado,5,111.4,310410,313900
+Arceburgo,Monte Santo de Minas,2,19.8,310410,314320
+Arceburgo,Paraguaçu,1,126.3,310410,314720
+Arceburgo,Poço Fundo,2,111.2,310410,315170
+Arceburgo,Pouso Alegre,1,141.6,310410,315250
+Arcos,Arcos,50,0.0,310420,310420
+Arcos,Belo Horizonte,5,172.3,310420,310620
+Arcos,Divinópolis,75,66.9,310420,312230
+Arcos,Formiga,1,23.1,310420,312610
+Arcos,Lagoa da Prata,3,29.2,310420,313720
+Arcos,Oliveira,11,87.2,310420,314560
+Arcos,Poço Fundo,1,172.6,310420,315170
+Areado,Alfenas,22,21.8,310430,310160
+Areado,Areado,1,0.0,310430,310430
+Areado,Itanhandu,1,162.8,310430,313310
+Areado,Poço Fundo,5,51.3,310430,315170
+Argirita,Juiz de Fora,4,55.1,310440,313670
+Argirita,Muriaé,4,72.0,310440,314390
+Aricanduva,Belo Horizonte,23,270.8,310445,310620
+Aricanduva,Capelinha,6,19.9,310445,311230
+Aricanduva,Diamantina,2,117.8,310445,312160
+Aricanduva,Itamarandiba,2,32.0,310445,313250
+Arinos,Arinos,1,0.0,310450,310450
+Arinos,Belo Horizonte,2,501.0,310450,310620
+Arinos,Manga,20,266.5,310450,313930
+Arinos,Montes Claros,1,255.1,310450,314330
+Arinos,Patos de Minas,2,301.6,310450,314800
+Arinos,Tarumirim,2,573.2,310450,316840
+Arinos,Unaí,8,98.3,310450,317040
+Astolfo Dutra,Cataguases,1,19.0,310460,311530
+Astolfo Dutra,Espera Feliz,1,123.4,310460,312420
+Astolfo Dutra,Juiz de Fora,2,70.2,310460,313670
+Astolfo Dutra,Muriaé,59,55.0,310460,314390
+Astolfo Dutra,Raul Soares,5,141.3,310460,315400
+Ataléia,Ataléia,28,0.0,310470,310470
+Ataléia,Governador Valadares,2,126.3,310470,312770
+Ataléia,Itabirinha,2,59.8,310470,313180
+Ataléia,Teófilo Otoni,24,46.5,310470,316860
+Augusto de Lima,Belo Horizonte,6,204.6,310480,310620
+Augusto de Lima,Curvelo,7,73.4,310480,312090
+Baependi,Baependi,113,0.0,310490,310490
+Baependi,Belo Horizonte,12,247.1,310490,310620
+Baependi,Caxambu,1,5.0,310490,311550
+Baependi,São Lourenço,2,23.9,310490,316370
+Baependi,Varginha,13,71.8,310490,317070
+Baldim,Belo Horizonte,9,70.7,310500,310620
+Baldim,Lagoa Santa,1,38.2,310500,313760
+Baldim,Sete Lagoas,24,36.1,310500,316720
+Bambuí,Bambuí,19,0.0,310510,310510
+Bambuí,Belo Horizonte,5,213.7,310510,310620
+Bambuí,Divinópolis,56,112.9,310510,312230
+Bambuí,Formiga,1,76.3,310510,312610
+Bambuí,Lagoa da Prata,1,45.4,310510,313720
+Bambuí,Oliveira,2,142.2,310510,314560
+Bambuí,Uberaba,1,208.3,310510,317010
+Bandeira,Almenara,3,37.3,310520,310170
+Bandeira,Governador Valadares,1,361.7,310520,312770
+Bandeira,Jacinto,4,40.6,310520,313470
+Bandeira,Jequitinhonha,1,77.1,310520,313580
+Bandeira,Pedra Azul,1,78.1,310520,314870
+Bandeira,Teófilo Otoni,6,242.0,310520,316860
+Bandeira do Sul,Alfenas,9,56.3,310530,310160
+Bandeira do Sul,Machado,1,48.5,310530,313900
+Bandeira do Sul,Poços de Caldas,2,19.9,310530,315180
+Barão de Cocais,Barão de Cocais,22,0.0,310540,310540
+Barão de Cocais,Belo Horizonte,33,47.0,310540,310620
+Barão de Cocais,Itabira,10,45.2,310540,313170
+Barão de Cocais,Raul Soares,1,109.5,310540,315400
+Barão do Monte Alto,Muriaé,54,19.0,310550,314390
+Barbacena,Barbacena,690,0.0,310560,310560
+Barbacena,Belo Horizonte,11,145.8,310560,310620
+Barbacena,Juiz de Fora,4,74.0,310560,313670
+Barra Longa,Belo Horizonte,1,101.6,310570,310620
+Barra Longa,Muriaé,1,117.1,310570,314390
+Barra Longa,Ponte Nova,16,20.3,310570,315210
+Barra Longa,Raul Soares,2,64.7,310570,315400
+Barra Longa,Rio Casca,7,41.2,310570,315490
+Barroso,Barbacena,10,21.5,310590,310560
+Barroso,Barroso,28,0.0,310590,310590
+Barroso,Belo Horizonte,1,140.5,310590,310620
+Barroso,Juiz de Fora,7,91.2,310590,313670
+Barroso,São João del Rei,27,29.8,310590,316250
+Bela Vista de Minas,Belo Horizonte,16,88.4,310600,310620
+Bela Vista de Minas,Itabira,5,26.1,310600,313170
+Bela Vista de Minas,João Monlevade,22,8.5,310600,313620
+Belmiro Braga,Juiz de Fora,12,22.8,310610,313670
+Belo Horizonte,Barbacena,1,145.8,310620,310560
+Belo Horizonte,Belo Horizonte,11158,0.0,310620,310620
+Belo Horizonte,Brumadinho,1,38.5,310620,310900
+Belo Horizonte,Capelinha,1,289.6,310620,311230
+Belo Horizonte,Contagem,4,16.4,310620,311860
+Belo Horizonte,Ipatinga,2,155.5,310620,313130
+Belo Horizonte,Muriaé,1,211.0,310620,314390
+Belo Horizonte,Oliveira,1,126.7,310620,314560
+Belo Horizonte,Santa Luzia,1,19.3,310620,315780
+Belo Horizonte,Tarumirim,1,214.4,310620,316840
+Belo Horizonte,Viçosa,1,143.6,310620,317130
+Belo Oriente,Belo Horizonte,4,171.0,310630,310620
+Belo Oriente,Belo Oriente,273,0.0,310630,310630
+Belo Oriente,Ipatinga,112,29.0,310630,313130
+Belo Oriente,Itabirinha,1,150.2,310630,313180
+Belo Vale,Belo Horizonte,41,54.9,310640,310620
+Belo Vale,Belo Vale,19,0.0,310640,310640
+Belo Vale,Nova Lima,2,50.7,310640,314480
+Berilo,Araçuaí,2,44.0,310650,310340
+Berilo,Belo Horizonte,21,365.4,310650,310620
+Berilo,Berilo,4,0.0,310650,310650
+Berilo,Diamantina,2,187.5,310650,312160
+Berilo,Montes Claros,1,151.7,310650,314330
+Bertópolis,Águas Formosas,1,38.5,310660,310090
+Bertópolis,Belo Horizonte,1,476.3,310660,310620
+Bertópolis,Machacalis,2,15.5,310660,313890
+Bertópolis,Teófilo Otoni,10,133.2,310660,316860
+Berizal,Montes Claros,2,259.1,310665,314330
+Berizal,Taiobeiras,2,57.0,310665,316800
+Betim,Belo Horizonte,700,28.8,310670,310620
+Betim,Betim,388,0.0,310670,310670
+Betim,Capelinha,1,309.5,310670,311230
+Betim,Contagem,1,13.2,310670,311860
+Betim,Divinópolis,1,76.8,310670,312230
+Bias Fortes,Juiz de Fora,5,45.8,310680,313670
+Bicas,Bicas,5,0.0,310690,310690
+Bicas,Juiz de Fora,55,29.4,310690,313670
+Biquinhas,Belo Horizonte,7,207.7,310700,310620
+Biquinhas,Bom Despacho,2,109.3,310700,310740
+Biquinhas,Sete Lagoas,4,152.4,310700,316720
+Boa Esperança,Belo Horizonte,2,213.5,310710,310620
+Boa Esperança,Boa Esperança,13,0.0,310710,310710
+Boa Esperança,Campos Gerais,2,25.7,310710,311160
+Boa Esperança,Itanhandu,1,148.6,310710,313310
+Boa Esperança,Passos,2,116.5,310710,314790
+Boa Esperança,Poços de Caldas,1,129.5,310710,315180
+Boa Esperança,Varginha,47,53.3,310710,317070
+Bocaina de Minas,Aiuruoca,7,30.3,310720,310120
+Bocaina de Minas,Bom Jardim de Minas,1,32.3,310720,310750
+Bocaina de Minas,Juiz de Fora,5,117.6,310720,313670
+Bocaiúva,Belo Horizonte,1,313.4,310730,310620
+Bocaiúva,Bocaiúva,77,0.0,310730,310730
+Bocaiúva,Montes Claros,66,42.4,310730,314330
+Bom Despacho,Belo Horizonte,10,139.2,310740,310620
+Bom Despacho,Bom Despacho,71,0.0,310740,310740
+Bom Despacho,Divinópolis,97,59.9,310740,312230
+Bom Despacho,Itaúna,1,79.9,310740,313380
+Bom Despacho,Oliveira,1,115.5,310740,314560
+Bom Despacho,Pará de Minas,2,68.8,310740,314710
+Bom Jardim de Minas,Aiuruoca,5,43.2,310750,310120
+Bom Jardim de Minas,Bom Jardim de Minas,3,0.0,310750,310750
+Bom Jardim de Minas,Juiz de Fora,27,89.6,310750,313670
+Bom Jesus da Penha,Alpinópolis,1,22.0,310760,310190
+Bom Jesus da Penha,Passos,9,34.3,310760,314790
+Bom Jesus da Penha,São Sebastião do Paraíso,2,50.0,310760,316470
+Bom Jesus do Amparo,Belo Horizonte,15,54.0,310770,310620
+Bom Jesus do Amparo,Itabira,14,28.1,310770,313170
+Bom Jesus do Galho,Bom Jesus do Galho,33,0.0,310780,310780
+Bom Jesus do Galho,Caratinga,10,19.0,310780,311340
+Bom Jesus do Galho,Ipatinga,53,44.7,310780,313130
+Bom Repouso,Pouso Alegre,20,34.4,310790,315250
+Bom Sucesso,Bom Sucesso,31,0.0,310800,310800
+Bom Sucesso,Divinópolis,3,97.6,310800,312230
+Bom Sucesso,Lavras,1,33.9,310800,313820
+Bom Sucesso,Oliveira,1,38.4,310800,314560
+Bom Sucesso,Santo Antônio do Amparo,7,18.9,310800,315990
+Bom Sucesso,São João del Rei,6,53.2,310800,316250
+Bom Sucesso,Varginha,17,90.5,310800,317070
+Bonfim,Belo Horizonte,27,54.9,310810,310620
+Bonfim,Betim,2,39.9,310810,310670
+Bonfim,Brumadinho,4,19.9,310810,310900
+Bonfim,Itaguara,3,26.9,310810,313220
+Bonfinópolis de Minas,Manga,5,298.0,310820,313930
+Bonfinópolis de Minas,Patos de Minas,6,233.3,310820,314800
+Bonfinópolis de Minas,Uberaba,1,410.3,310820,317010
+Bonito de Minas,Januária,2,45.8,310825,313520
+Bonito de Minas,Montes Claros,21,182.6,310825,314330
+Borda da Mata,Itajubá,1,75.3,310830,313240
+Borda da Mata,Ouro Fino,3,21.0,310830,314600
+Borda da Mata,Poço Fundo,1,58.0,310830,315170
+Borda da Mata,Pouso Alegre,27,24.1,310830,315250
+Borda da Mata,Santa Rita do Sapucaí,7,47.6,310830,315960
+Botelhos,Alfenas,15,52.5,310840,310160
+Botelhos,Botelhos,20,0.0,310840,310840
+Botelhos,Cabo Verde,1,19.6,310840,310950
+Botelhos,Machado,1,49.4,310840,313900
+Botelhos,Poço Fundo,1,46.9,310840,315170
+Botelhos,Poços de Caldas,7,23.4,310840,315180
+Botumirim,Francisco Sá,6,66.6,310850,312670
+Botumirim,Montes Claros,12,92.7,310850,314330
+Brasilândia de Minas,Belo Horizonte,10,390.7,310855,310620
+Brasilândia de Minas,Guarda-Mor,1,143.7,310855,312860
+Brasilândia de Minas,Patos de Minas,20,185.2,310855,314800
+Brasilândia de Minas,Pirapora,1,118.7,310855,315120
+Brasilândia de Minas,Vazante,2,144.4,310855,317100
+Brasília de Minas,Belo Horizonte,3,416.3,310860,310620
+Brasília de Minas,Brasília de Minas,89,0.0,310860,310860
+Brasília de Minas,Janaúba,1,128.7,310860,313510
+Brasília de Minas,Montes Claros,46,83.3,310860,314330
+Brás Pires,Muriaé,11,95.9,310870,314390
+Brás Pires,Ubá,1,43.5,310870,316990
+Braúnas,Belo Horizonte,2,159.9,310880,310620
+Braúnas,Ipatinga,26,51.0,310880,313130
+Braúnas,Mantena,1,185.3,310880,313960
+Brazópolis,Brazópolis,9,0.0,310890,310890
+Brazópolis,Itajubá,9,17.8,310890,313240
+Brazópolis,Paraisópolis,1,18.6,310890,314730
+Brazópolis,Poços de Caldas,15,124.1,310890,315180
+Brazópolis,Pouso Alegre,1,42.4,310890,315250
+Brazópolis,Santa Rita do Sapucaí,1,26.1,310890,315960
+Brumadinho,Belo Horizonte,63,38.5,310900,310620
+Brumadinho,Betim,17,19.9,310900,310670
+Brumadinho,Brumadinho,65,0.0,310900,310900
+Bueno Brandão,Machado,2,95.7,310910,313900
+Bueno Brandão,Ouro Fino,6,17.9,310910,314600
+Bueno Brandão,Poço Fundo,5,83.0,310910,315170
+Bueno Brandão,Pouso Alegre,9,48.7,310910,315250
+Bueno Brandão,Santa Rita do Sapucaí,1,69.8,310910,315960
+Buenópolis,Belo Horizonte,12,229.4,310920,310620
+Buenópolis,Curvelo,43,101.2,310920,312090
+Bugre,Belo Oriente,1,32.9,310925,310630
+Bugre,Caratinga,2,42.3,310925,311340
+Bugre,Ipatinga,16,29.1,310925,313130
+Buritis,Belo Horizonte,4,545.8,310930,310620
+Buritis,Buritis,7,0.0,310930,310930
+Buritis,Montes Claros,1,299.0,310930,314330
+Buritis,Patos de Minas,4,331.6,310930,314800
+Buritis,Unaí,3,96.6,310930,317040
+Buritizeiro,Belo Horizonte,1,305.5,310940,310620
+Buritizeiro,Buritizeiro,1,0.0,310940,310940
+Buritizeiro,Montes Claros,29,134.6,310940,314330
+Buritizeiro,Pirapora,43,0.9,310940,315120
+Cabeceira Grande,Belo Horizonte,1,546.7,310945,310620
+Cabeceira Grande,Patos de Minas,4,293.0,310945,314800
+Cabeceira Grande,Unaí,10,41.6,310945,317040
+Cabo Verde,Alfenas,4,46.6,310950,310160
+Cabo Verde,Cabo Verde,11,0.0,310950,310950
+Cabo Verde,Machado,1,54.5,310950,313900
+Cabo Verde,Monte Santo de Minas,1,68.1,310950,314320
+Cabo Verde,Paraguaçu,1,68.8,310950,314720
+Cabo Verde,Passos,1,86.7,310950,314790
+Cachoeira da Prata,Belo Horizonte,4,69.8,310960,310620
+Cachoeira da Prata,Pompéu,1,66.4,310960,315200
+Cachoeira da Prata,Sete Lagoas,13,22.6,310960,316720
+Cachoeira de Minas,Machado,2,76.5,310970,313900
+Cachoeira de Minas,Pouso Alegre,29,21.3,310970,315250
+Cachoeira de Minas,Santa Rita do Sapucaí,13,13.8,310970,315960
+Cachoeira Dourada,Araguari,6,138.0,310980,310350
+Cachoeira Dourada,Uberlândia,1,138.1,310980,317020
+Caetanópolis,Belo Horizonte,39,85.9,310990,310620
+Caetanópolis,Curvelo,1,60.4,310990,312090
+Caetanópolis,Sete Lagoas,27,25.9,310990,316720
+Caeté,Belo Horizonte,128,27.9,311000,310620
+Caeté,Caeté,69,0.0,311000,311000
+Caeté,Lagoa Santa,4,38.3,311000,313760
+Caiana,Belo Horizonte,2,226.8,311010,310620
+Caiana,Carangola,3,11.8,311010,311330
+Caiana,Espera Feliz,5,5.2,311010,312420
+Caiana,Muriaé,30,66.9,311010,314390
+Caiana,Tarumirim,1,157.5,311010,316840
+Cajuri,Bom Jesus do Galho,2,118.0,311020,310780
+Cajuri,Muriaé,11,58.1,311020,314390
+Cajuri,Ponte Nova,10,43.1,311020,315210
+Cajuri,Tarumirim,1,186.9,311020,316840
+Cajuri,Viçosa,8,9.7,311020,317130
+Caldas,Andradas,7,24.9,311030,310260
+Caldas,Caldas,15,0.0,311030,311030
+Caldas,Poços de Caldas,25,24.1,311030,315180
+Camacho,Campo Belo,3,32.3,311040,311120
+Camacho,Divinópolis,34,56.7,311040,312230
+Camacho,Itapecerica,7,17.5,311040,313350
+Camanducaia,Camanducaia,162,0.0,311050,311050
+Camanducaia,Juiz de Fora,1,307.2,311050,313670
+Camanducaia,Poço Fundo,6,107.8,311050,315170
+Camanducaia,Poços de Caldas,1,115.4,311050,315180
+Camanducaia,Pouso Alegre,24,60.4,311050,315250
+Cambuí,Camanducaia,1,16.5,311060,311050
+Cambuí,Cambuí,37,0.0,311060,311060
+Cambuí,Itanhandu,3,120.4,311060,313310
+Cambuí,Poço Fundo,1,92.3,311060,315170
+Cambuí,Pouso Alegre,26,44.2,311060,315250
+Cambuquira,Belo Horizonte,1,256.6,311070,310620
+Cambuquira,Cambuquira,7,0.0,311070,311070
+Cambuquira,Conceição do Rio Verde,1,21.7,311070,311770
+Cambuquira,Elói Mendes,1,38.7,311070,312360
+Cambuquira,Itanhandu,2,61.8,311070,313310
+Cambuquira,São Lourenço,4,38.5,311070,316370
+Cambuquira,Três Corações,3,17.3,311070,316930
+Cambuquira,Varginha,20,35.7,311070,317070
+Campanário,Itambacuri,15,23.4,311080,313270
+Campanário,Teófilo Otoni,5,47.8,311080,316860
+Campanha,Belo Horizonte,2,261.3,311090,310620
+Campanha,Campanha,1,0.0,311090,311090
+Campanha,Conceição do Rio Verde,2,32.5,311090,311770
+Campanha,Elói Mendes,4,30.4,311090,312360
+Campanha,Machado,1,56.4,311090,313900
+Campanha,Monsenhor Paulo,1,17.0,311090,314260
+Campanha,São Gonçalo do Sapucaí,1,21.2,311090,316200
+Campanha,São Lourenço,3,47.4,311090,316370
+Campanha,Três Corações,2,21.1,311090,316930
+Campanha,Varginha,18,31.2,311090,317070
+Campestre,Alfenas,22,44.2,311100,310160
+Campestre,Campestre,6,0.0,311100,311100
+Campestre,Ilicínea,11,96.4,311100,313050
+Campestre,Machado,1,34.0,311100,313900
+Campestre,Poço Fundo,9,30.2,311100,315170
+Campestre,Poços de Caldas,3,34.2,311100,315180
+Campina Verde,Ituiutaba,2,62.7,311110,313420
+Campina Verde,Uberlândia,9,145.8,311110,317020
+Campo Azul,Brasília de Minas,5,52.5,311115,310860
+Campo Azul,Coração de Jesus,1,52.0,311115,311880
+Campo Azul,Montes Claros,1,103.4,311115,314330
+Campo Belo,Belo Horizonte,2,176.5,311120,310620
+Campo Belo,Campo Belo,96,0.0,311120,311120
+Campo Belo,Divinópolis,114,89.0,311120,312230
+Campo Belo,Itaúna,1,116.7,311120,313380
+Campo Belo,Oliveira,8,51.5,311120,314560
+Campo Belo,Santo Antônio do Amparo,4,37.9,311120,315990
+Campo do Meio,Alfenas,24,37.5,311130,310160
+Campo do Meio,Campo do Meio,1,0.0,311130,311130
+Campo do Meio,Poço Fundo,1,76.8,311130,315170
+Campo Florido,Conceição das Alagoas,1,26.2,311140,311730
+Campo Florido,Uberaba,11,65.1,311140,317010
+Campos Altos,Campos Altos,21,0.0,311150,311150
+Campos Altos,São Gotardo,1,44.8,311150,316210
+Campos Altos,Uberaba,29,186.4,311150,317010
+Campos Gerais,Alfenas,27,29.0,311160,310160
+Campos Gerais,Campos Gerais,13,0.0,311160,311160
+Campos Gerais,Passos,1,105.5,311160,314790
+Canaã,Juiz de Fora,1,140.8,311170,313670
+Canaã,Muriaé,9,55.6,311170,314390
+Canaã,Ponte Nova,2,42.4,311170,315210
+Canaã,Viçosa,5,28.2,311170,317130
+Canápolis,Araguari,1,106.2,311180,310350
+Canápolis,Canápolis,1,0.0,311180,311180
+Canápolis,Monte Alegre de Minas,1,38.7,311180,314280
+Canápolis,Uberlândia,3,101.7,311180,317020
+Cana Verde,Campo Belo,3,17.1,311190,311120
+Cana Verde,Divinópolis,10,98.7,311190,312230
+Cana Verde,Lavras,2,31.5,311190,313820
+Cana Verde,Santo Antônio do Amparo,4,28.9,311190,315990
+Cana Verde,Varginha,1,65.0,311190,317070
+Candeias,Belo Horizonte,1,168.3,311200,310620
+Candeias,Campo Belo,10,13.7,311200,311120
+Candeias,Candeias,9,0.0,311200,311200
+Candeias,Divinópolis,19,76.7,311200,312230
+Candeias,Santo Antônio do Amparo,5,42.1,311200,315990
+Candeias,Varginha,2,89.0,311200,317070
+Cantagalo,Belo Horizonte,5,207.6,311205,310620
+Cantagalo,Governador Valadares,4,80.9,311205,312770
+Cantagalo,Peçanha,45,7.6,311205,314860
+Caparaó,Carangola,3,26.6,311210,311330
+Caparaó,Juiz de Fora,1,202.7,311210,313670
+Caparaó,Muriaé,15,82.7,311210,314390
+Caparaó,Tarumirim,4,138.7,311210,316840
+Capela Nova,Barbacena,21,37.3,311220,310560
+Capela Nova,Barroso,2,47.4,311220,310590
+Capela Nova,Belo Horizonte,2,116.0,311220,310620
+Capela Nova,Carandaí,1,19.9,311220,311320
+Capelinha,Belo Horizonte,88,289.6,311230,310620
+Capelinha,Capelinha,61,0.0,311230,311230
+Capelinha,Diamantina,2,129.7,311230,312160
+Capelinha,Itabirinha,1,166.9,311230,313180
+Capelinha,Itanhomi,1,178.3,311230,313320
+Capelinha,Santa Maria do Suaçuí,5,56.2,311230,315820
+Capelinha,Tarumirim,4,184.6,311230,316840
+Capetinga,Belo Horizonte,1,334.5,311240,310620
+Capetinga,Cássia,11,14.6,311240,311510
+Capetinga,Passos,17,47.8,311240,314790
+Capim Branco,Belo Horizonte,4,46.6,311250,310620
+Capim Branco,Matozinhos,4,5.6,311250,314110
+Capim Branco,Sete Lagoas,18,14.9,311250,316720
+Capinópolis,Araguari,3,144.8,311260,310350
+Capinópolis,Capinópolis,14,0.0,311260,311260
+Capinópolis,Ituiutaba,1,33.9,311260,313420
+Capinópolis,Uberlândia,14,140.7,311260,317020
+Capitão Andrade,Governador Valadares,11,25.4,311265,312770
+Capitão Andrade,Itanhomi,5,11.1,311265,313320
+Capitão Andrade,Tarumirim,7,27.9,311265,316840
+Capitão Enéas,Francisco Sá,6,28.8,311270,312670
+Capitão Enéas,Mirabela,1,48.6,311270,314200
+Capitão Enéas,Montes Claros,17,48.3,311270,314330
+Capitólio,Capitólio,5,0.0,311280,311280
+Capitólio,Paraguaçu,3,108.7,311280,314720
+Capitólio,Passos,13,59.4,311280,314790
+Capitólio,Piumhi,1,18.8,311280,315150
+Capitólio,São Sebastião do Paraíso,2,103.5,311280,316470
+Caputira,Bom Jesus do Galho,1,38.5,311290,310780
+Caputira,Manhuaçu,4,26.4,311290,313940
+Caputira,Matipó,4,14.6,311290,314090
+Caputira,Muriaé,22,106.8,311290,314390
+Caputira,Rio Casca,1,40.2,311290,315490
+Caputira,Santa Margarida,3,23.7,311290,315790
+Caraí,Belo Horizonte,5,385.0,311300,310620
+Caraí,Caraí,40,0.0,311300,311300
+Caraí,Governador Valadares,2,187.6,311300,312770
+Caraí,Ipatinga,5,269.4,311300,313130
+Caraí,Itabirinha,2,161.2,311300,313180
+Caraí,Itambacuri,1,93.9,311300,313270
+Caraí,Teófilo Otoni,20,77.9,311300,316860
+Caranaíba,Barbacena,16,39.2,311310,310560
+Caranaíba,Barroso,1,42.7,311310,310590
+Caranaíba,Belo Horizonte,3,107.8,311310,310620
+Carandaí,Barbacena,69,30.6,311320,310560
+Carandaí,Belo Horizonte,8,115.2,311320,310620
+Carandaí,Carandaí,129,0.0,311320,311320
+Carandaí,Conselheiro Lafaiete,1,32.6,311320,311830
+Carandaí,Juiz de Fora,4,101.5,311320,313670
+Carandaí,São João del Rei,1,51.2,311320,316250
+Carangola,Alfenas,1,413.9,311330,310160
+Carangola,Belo Horizonte,1,218.3,311330,310620
+Carangola,Carangola,126,0.0,311330,311330
+Carangola,Juiz de Fora,6,177.6,311330,313670
+Carangola,Muriaé,120,56.4,311330,314390
+Carangola,Tarumirim,1,161.5,311330,316840
+Caratinga,Belo Horizonte,5,188.4,311340,310620
+Caratinga,Caratinga,70,0.0,311340,311340
+Caratinga,Ipatinga,189,53.3,311340,313130
+Caratinga,Muriaé,5,150.7,311340,314390
+Caratinga,Tarumirim,1,58.3,311340,316840
+Caratinga,Teófilo Otoni,1,224.2,311340,316860
+Carbonita,Belo Horizonte,24,283.6,311350,310620
+Carbonita,Carbonita,1,0.0,311350,311350
+Carbonita,Diamantina,1,100.8,311350,312160
+Carbonita,Gouveia,1,128.6,311350,312760
+Carbonita,Itamarandiba,10,40.3,311350,313250
+Careaçu,Careaçu,1,0.0,311360,311360
+Careaçu,Pouso Alegre,9,32.1,311360,315250
+Carlos Chagas,Belo Horizonte,4,415.3,311370,310620
+Carlos Chagas,Carlos Chagas,19,0.0,311370,311370
+Carlos Chagas,Governador Valadares,6,179.0,311370,312770
+Carlos Chagas,Ipatinga,1,271.2,311370,313130
+Carlos Chagas,Itabirinha,1,108.2,311370,313180
+Carlos Chagas,Teófilo Otoni,34,80.9,311370,316860
+Carmésia,Belo Horizonte,4,124.9,311380,310620
+Carmésia,Guanhães,4,41.0,311380,312800
+Carmésia,Itabira,3,60.4,311380,313170
+Carmo da Cachoeira,Belo Horizonte,2,217.2,311390,310620
+Carmo da Cachoeira,Carmo da Cachoeira,5,0.0,311390,311390
+Carmo da Cachoeira,Elói Mendes,1,39.1,311390,312360
+Carmo da Cachoeira,Machado,2,75.9,311390,313900
+Carmo da Cachoeira,Nepomuceno,1,25.3,311390,314460
+Carmo da Cachoeira,Três Corações,7,26.8,311390,316930
+Carmo da Cachoeira,Três Pontas,1,31.6,311390,316940
+Carmo da Cachoeira,Varginha,14,24.2,311390,317070
+Carmo da Mata,Belo Horizonte,3,120.4,311400,310620
+Carmo da Mata,Divinópolis,33,43.6,311400,312230
+Carmo da Mata,Itapecerica,3,28.4,311400,313350
+Carmo da Mata,Oliveira,6,15.8,311400,314560
+Carmo da Mata,Santo Antônio do Amparo,3,43.4,311400,315990
+Carmo de Minas,Alfenas,1,114.7,311410,310160
+Carmo de Minas,Baependi,1,30.8,311410,310490
+Carmo de Minas,Carmo de Minas,18,0.0,311410,311410
+Carmo de Minas,São Lourenço,22,8.2,311410,316370
+Carmo de Minas,Varginha,6,70.3,311410,317070
+Carmo do Cajuru,Belo Horizonte,3,91.9,311420,310620
+Carmo do Cajuru,Divinópolis,78,14.8,311420,312230
+Carmo do Cajuru,Lagoa da Prata,2,82.9,311420,313720
+Carmo do Cajuru,Oliveira,4,57.0,311420,314560
+Carmo do Paranaíba,Belo Horizonte,17,270.0,311430,310620
+Carmo do Paranaíba,Carmo do Paranaíba,32,0.0,311430,311430
+Carmo do Paranaíba,Patos de Minas,37,48.2,311430,314800
+Carmo do Paranaíba,Uberaba,2,190.7,311430,317010
+Carmo do Paranaíba,Uberlândia,1,204.2,311430,317020
+Carmo do Rio Claro,Carmo do Rio Claro,25,0.0,311440,311440
+Carmo do Rio Claro,Ilicínea,3,30.9,311440,313050
+Carmo do Rio Claro,Passos,36,58.0,311440,314790
+Carmo do Rio Claro,Poço Fundo,2,92.1,311440,315170
+Carmópolis de Minas,Belo Horizonte,12,100.2,311450,310620
+Carmópolis de Minas,Carmópolis de Minas,1,0.0,311450,311450
+Carmópolis de Minas,Divinópolis,41,50.3,311450,312230
+Carmópolis de Minas,Formiga,1,83.2,311450,312610
+Carmópolis de Minas,Itaguara,1,22.7,311450,313220
+Carmópolis de Minas,Oliveira,8,26.5,311450,314560
+Carmópolis de Minas,Santo Antônio do Amparo,4,53.8,311450,315990
+Carneirinho,Frutal,1,187.5,311455,312710
+Carneirinho,Uberaba,5,287.2,311455,317010
+Carrancas,Belo Horizonte,1,188.8,311460,310620
+Carrancas,Lavras,3,45.9,311460,313820
+Carrancas,Santo Antônio do Amparo,3,66.5,311460,315990
+Carrancas,Varginha,10,82.2,311460,317070
+Carvalhópolis,Alfenas,8,40.8,311470,310160
+Carvalhópolis,Poço Fundo,1,12.7,311470,315170
+Carvalhos,Aiuruoca,8,14.8,311480,310120
+Carvalhos,Itanhandu,2,58.9,311480,313310
+Carvalhos,Juiz de Fora,1,118.6,311480,313670
+Carvalhos,Varginha,1,111.6,311480,317070
+Casa Grande,Barbacena,5,50.7,311490,310560
+Casa Grande,Belo Horizonte,5,96.7,311490,310620
+Cascalho Rico,Araguari,8,34.7,311500,310350
+Cascalho Rico,Uberlândia,3,54.8,311500,317020
+Cássia,Cássia,23,0.0,311510,311510
+Cássia,Passos,28,35.7,311510,314790
+Conceição da Barra de Minas,Belo Horizonte,6,145.2,311520,310620
+Conceição da Barra de Minas,São João del Rei,14,22.1,311520,316250
+Cataguases,Belo Horizonte,1,207.8,311530,310620
+Cataguases,Cataguases,9,0.0,311530,311530
+Cataguases,Juiz de Fora,2,78.5,311530,313670
+Cataguases,Muriaé,275,44.6,311530,314390
+Catas Altas,Barbacena,1,133.5,311535,310560
+Catas Altas,Belo Horizonte,7,57.7,311535,310620
+Catas Altas,Itabira,6,53.7,311535,313170
+Catas Altas da Noruega,Barbacena,6,66.1,311540,310560
+Catas Altas da Noruega,Barroso,2,74.3,311540,310590
+Catas Altas da Noruega,Belo Horizonte,2,96.8,311540,310620
+Catas Altas da Noruega,Piranga,1,20.6,311540,315080
+Catuji,Belo Horizonte,4,387.4,311545,310620
+Catuji,Caraí,27,23.0,311545,311300
+Catuji,Itambacuri,17,83.4,311545,313270
+Catuji,Padre Paraíso,4,25.2,311545,314630
+Catuji,Teófilo Otoni,24,62.8,311545,316860
+Catuti,Janaúba,1,61.2,311547,313510
+Catuti,Monte Azul,2,25.0,311547,314290
+Catuti,Montes Claros,9,180.7,311547,314330
+Caxambu,Aiuruoca,2,33.9,311550,310120
+Caxambu,Baependi,27,5.0,311550,310490
+Caxambu,Belo Horizonte,4,251.0,311550,310620
+Caxambu,Caxambu,48,0.0,311550,311550
+Caxambu,Cruzília,2,20.0,311550,312080
+Caxambu,Itanhandu,2,35.2,311550,313310
+Caxambu,São Lourenço,6,19.3,311550,316370
+Caxambu,Varginha,22,69.8,311550,317070
+Cedro do Abaeté,Abaeté,1,28.2,311560,310020
+Cedro do Abaeté,Belo Horizonte,7,205.6,311560,310620
+Cedro do Abaeté,Pompéu,1,75.5,311560,315200
+Central de Minas,Belo Horizonte,11,304.7,311570,310620
+Central de Minas,Governador Valadares,10,68.1,311570,312770
+Central de Minas,Itabirinha,4,22.8,311570,313180
+Central de Minas,Mantena,3,34.3,311570,313960
+Central de Minas,Mendes Pimentel,1,15.3,311570,314150
+Central de Minas,Tarumirim,3,93.6,311570,316840
+Centralina,Araguari,5,105.7,311580,310350
+Centralina,Centralina,6,0.0,311580,311580
+Centralina,Ituiutaba,1,51.1,311580,313420
+Centralina,Monte Alegre de Minas,2,46.8,311580,314280
+Centralina,Uberlândia,5,105.7,311580,317020
+Chácara,Juiz de Fora,25,16.0,311590,313670
+Chalé,Belo Horizonte,2,235.2,311600,310620
+Chalé,Belo Oriente,1,123.6,311600,310630
+Chalé,Espera Feliz,2,71.3,311600,312420
+Chalé,Manhumirim,2,44.3,311600,313950
+Chalé,Muriaé,16,139.9,311600,314390
+Chalé,Santa Margarida,1,69.8,311600,315790
+Chapada do Norte,Belo Horizonte,28,348.0,311610,310620
+Chapada do Norte,Minas Novas,18,15.6,311610,314180
+Chapada do Norte,Turmalina,1,30.2,311610,316970
+Chapada Gaúcha,Januária,1,137.1,311615,313520
+Chapada Gaúcha,Manga,14,191.4,311615,313930
+Chapada Gaúcha,Patos de Minas,2,379.6,311615,314800
+Chapada Gaúcha,Unaí,6,180.7,311615,317040
+Chiador,Belo Horizonte,1,248.6,311620,310620
+Chiador,Juiz de Fora,17,40.3,311620,313670
+Cipotânea,Barbacena,21,55.4,311630,310560
+Cipotânea,Barroso,3,70.8,311630,310590
+Cipotânea,Belo Horizonte,2,124.3,311630,310620
+Cipotânea,Cipotânea,1,0.0,311630,311630
+Cipotânea,Poços de Caldas,1,345.8,311630,315180
+Claraval,Cássia,2,42.9,311640,311510
+Claraval,Passos,4,78.6,311640,314790
+Claro dos Poções,Coração de Jesus,5,46.8,311650,311880
+Claro dos Poções,Montes Claros,22,53.0,311650,314330
+Cláudio,Alfenas,1,164.4,311660,310160
+Cláudio,Belo Horizonte,6,104.1,311660,310620
+Cláudio,Cláudio,36,0.0,311660,311660
+Cláudio,Divinópolis,65,34.1,311660,312230
+Cláudio,Igarapé,1,63.7,311660,313010
+Cláudio,Oliveira,2,28.8,311660,314560
+Cláudio,Santo Antônio do Monte,1,67.9,311660,316040
+Cláudio,São João del Rei,1,93.1,311660,316250
+Coimbra,Juiz de Fora,1,114.9,311670,313670
+Coimbra,Muriaé,55,54.0,311670,314390
+Coimbra,Raul Soares,26,91.5,311670,315400
+Coimbra,Ubá,4,32.7,311670,316990
+Coimbra,Viçosa,2,14.1,311670,317130
+Coluna,Belo Horizonte,33,220.4,311680,310620
+Coluna,Coluna,2,0.0,311680,311680
+Coluna,Diamantina,2,79.9,311680,312160
+Coluna,Itamarandiba,1,41.9,311680,313250
+Coluna,Peçanha,4,45.9,311680,314860
+Comendador Gomes,Uberaba,3,118.8,311690,317010
+Comercinho,Belo Horizonte,2,462.4,311700,310620
+Comercinho,Itaobim,1,42.8,311700,313330
+Comercinho,Jequitinhonha,1,85.7,311700,313580
+Comercinho,Medina,2,34.7,311700,314140
+Comercinho,Pedra Azul,13,63.8,311700,314870
+Comercinho,Teófilo Otoni,10,176.9,311700,316860
+Conceição da Aparecida,Alfenas,11,45.3,311710,310160
+Conceição da Aparecida,Conceição da Aparecida,14,0.0,311710,311710
+Conceição da Aparecida,Passos,16,59.3,311710,314790
+Conceição das Pedras,Itajubá,2,29.6,311720,313240
+Conceição das Pedras,Pouso Alegre,1,50.1,311720,315250
+Conceição das Alagoas,Conceição das Alagoas,30,0.0,311730,311730
+Conceição das Alagoas,Uberaba,72,49.3,311730,317010
+Conceição de Ipanema,Belo Horizonte,1,234.6,311740,310620
+Conceição de Ipanema,Bom Jesus do Galho,1,66.3,311740,310780
+Conceição de Ipanema,Ipanema,5,14.5,311740,313120
+Conceição de Ipanema,Muriaé,10,150.8,311740,314390
+Conceição do Mato Dentro,Belo Horizonte,61,112.2,311750,310620
+Conceição do Mato Dentro,Conceição do Mato Dentro,63,0.0,311750,311750
+Conceição do Mato Dentro,Diamantina,9,89.9,311750,312160
+Conceição do Mato Dentro,Gouveia,1,72.7,311750,312760
+Conceição do Mato Dentro,Igarapé,1,147.2,311750,313010
+Conceição do Mato Dentro,Serro,1,48.2,311750,316710
+Conceição do Pará,Belo Horizonte,2,102.3,311760,310620
+Conceição do Pará,Divinópolis,16,46.4,311760,312230
+Conceição do Pará,Itaúna,1,48.9,311760,313380
+Conceição do Pará,Lagoa da Prata,2,74.0,311760,313720
+Conceição do Pará,Oliveira,1,105.2,311760,314560
+Conceição do Pará,Pará de Minas,5,32.5,311760,314710
+Conceição do Rio Verde,Baependi,1,22.2,311770,310490
+Conceição do Rio Verde,Belo Horizonte,2,248.3,311770,310620
+Conceição do Rio Verde,Conceição do Rio Verde,18,0.0,311770,311770
+Conceição do Rio Verde,Cruzília,2,29.0,311770,312080
+Conceição do Rio Verde,Machado,1,88.7,311770,313900
+Conceição do Rio Verde,Poço Fundo,2,91.2,311770,315170
+Conceição do Rio Verde,São Lourenço,2,26.2,311770,316370
+Conceição do Rio Verde,Varginha,22,50.7,311770,317070
+Conceição dos Ouros,Machado,2,82.4,311780,313900
+Conceição dos Ouros,Paraguaçu,1,96.3,311780,314720
+Conceição dos Ouros,Poço Fundo,1,71.8,311780,315170
+Conceição dos Ouros,Pouso Alegre,19,24.7,311780,315250
+Cônego Marinho,Januária,7,22.1,311783,313520
+Cônego Marinho,Montes Claros,10,169.7,311783,314330
+Confins,Belo Horizonte,15,33.6,311787,310620
+Confins,Matozinhos,1,12.0,311787,314110
+Confins,Pedro Leopoldo,2,5.1,311787,314930
+Congonhal,Poço Fundo,1,41.5,311790,315170
+Congonhal,Pouso Alegre,25,13.8,311790,315250
+Congonhas,Barbacena,14,80.4,311800,310560
+Congonhas,Belo Horizonte,112,65.4,311800,310620
+Congonhas,Congonhas,45,0.0,311800,311800
+Congonhas,Conselheiro Lafaiete,1,18.7,311800,311830
+Congonhas do Norte,Belo Horizonte,10,126.9,311810,310620
+Congonhas do Norte,Diamantina,6,63.2,311810,312160
+Congonhas do Norte,Gouveia,2,39.7,311810,312760
+Conquista,Sacramento,1,13.7,311820,315690
+Conquista,Uberaba,12,47.4,311820,317010
+Conselheiro Lafaiete,Barbacena,140,62.9,311830,310560
+Conselheiro Lafaiete,Barroso,1,61.9,311830,310590
+Conselheiro Lafaiete,Belo Horizonte,129,83.4,311830,310620
+Conselheiro Lafaiete,Conselheiro Lafaiete,77,0.0,311830,311830
+Conselheiro Lafaiete,Entre Rios de Minas,1,29.2,311830,312390
+Conselheiro Lafaiete,Muriaé,1,156.0,311830,314390
+Conselheiro Lafaiete,Oliveira,1,108.5,311830,314560
+Conselheiro Pena,Belo Horizonte,4,271.3,311840,310620
+Conselheiro Pena,Conselheiro Pena,99,0.0,311840,311840
+Conselheiro Pena,Governador Valadares,31,60.7,311840,312770
+Conselheiro Pena,Itabirinha,6,71.7,311840,313180
+Conselheiro Pena,Muriaé,1,236.8,311840,314390
+Conselheiro Pena,Peçanha,1,133.8,311840,314860
+Conselheiro Pena,Resplendor,1,28.3,311840,315430
+Consolação,Alfenas,1,125.4,311850,310160
+Consolação,Itajubá,2,50.3,311850,313240
+Consolação,Paraisópolis,1,14.7,311850,314730
+Consolação,Poços de Caldas,1,108.0,311850,315180
+Consolação,Pouso Alegre,2,35.8,311850,315250
+Contagem,Belo Horizonte,1972,16.4,311860,310620
+Contagem,Betim,1,13.2,311860,310670
+Contagem,Contagem,285,0.0,311860,311860
+Contagem,Governador Valadares,1,254.3,311860,312770
+Contagem,Juiz de Fora,1,218.7,311860,313670
+Coqueiral,Ilicínea,2,48.9,311870,313050
+Coqueiral,Três Pontas,3,21.0,311870,316940
+Coqueiral,Varginha,17,40.8,311870,317070
+Coração de Jesus,Brasília de Minas,2,53.7,311880,310860
+Coração de Jesus,Coração de Jesus,32,0.0,311880,311880
+Coração de Jesus,Montes Claros,39,52.6,311880,314330
+Cordisburgo,Belo Horizonte,14,97.8,311890,310620
+Cordisburgo,Sete Lagoas,28,38.9,311890,316720
+Cordislândia,Alfenas,1,48.2,311900,310160
+Cordislândia,Itanhandu,3,96.7,311900,313310
+Cordislândia,Monsenhor Paulo,1,17.0,311900,314260
+Cordislândia,Varginha,10,38.1,311900,317070
+Corinto,Belo Horizonte,36,181.9,311910,310620
+Corinto,Curvelo,84,43.4,311910,312090
+Corinto,Montes Claros,1,191.8,311910,314330
+Corinto,Sete Lagoas,2,124.6,311910,316720
+Coroaci,Espera Feliz,1,229.1,311920,312420
+Coroaci,Governador Valadares,16,44.4,311920,312770
+Coroaci,Itabirinha,3,110.8,311920,313180
+Coroaci,Tarumirim,7,79.0,311920,316840
+Coromandel,Araguari,2,106.6,311930,310350
+Coromandel,Coromandel,35,0.0,311930,311930
+Coromandel,Patrocínio,4,57.1,311930,314810
+Coromandel,Uberlândia,10,121.3,311930,317020
+Coronel Fabriciano,Belo Horizonte,12,144.2,311940,310620
+Coronel Fabriciano,Coronel Fabriciano,81,0.0,311940,311940
+Coronel Fabriciano,Ipatinga,379,11.5,311940,313130
+Coronel Fabriciano,Itabirinha,1,180.9,311940,313180
+Coronel Fabriciano,Itanhomi,1,89.0,311940,313320
+Coronel Fabriciano,Muriaé,1,180.0,311940,314390
+Coronel Fabriciano,Timóteo,1,5.9,311940,316870
+Coronel Murta,Araçuaí,8,29.5,311950,310340
+Coronel Murta,Belo Horizonte,8,411.7,311950,310620
+Coronel Murta,Diamantina,1,235.2,311950,312160
+Coronel Murta,Montes Claros,4,180.2,311950,314330
+Coronel Murta,Salinas,4,50.9,311950,315700
+Coronel Pacheco,Juiz de Fora,15,20.5,311960,313670
+Coronel Xavier Chaves,Barroso,1,31.6,311970,310590
+Coronel Xavier Chaves,Belo Horizonte,1,125.9,311970,310620
+Coronel Xavier Chaves,Juiz de Fora,8,122.5,311970,313670
+Coronel Xavier Chaves,Resende Costa,2,11.5,311970,315420
+Coronel Xavier Chaves,São João del Rei,18,13.0,311970,316250
+Córrego Danta,Divinópolis,5,110.7,311980,312230
+Córrego Danta,Lagoa da Prata,1,43.7,311980,313720
+Córrego Danta,Luz,1,23.0,311980,313880
+Córrego do Bom Jesus,Cambuí,10,4.4,311990,311060
+Córrego do Bom Jesus,Pouso Alegre,6,45.2,311990,315250
+Córrego Fundo,Divinópolis,8,73.7,311995,312230
+Córrego Fundo,Formiga,1,12.7,311995,312610
+Córrego Fundo,Santo Antônio do Amparo,2,86.0,311995,315990
+Córrego Novo,Caratinga,4,27.8,312000,311340
+Córrego Novo,Ipatinga,21,41.5,312000,313130
+Couto de Magalhães de Minas,Belo Horizonte,13,211.6,312010,310620
+Couto de Magalhães de Minas,Diamantina,7,23.3,312010,312160
+Couto de Magalhães de Minas,Gouveia,2,51.2,312010,312760
+Couto de Magalhães de Minas,Itamarandiba,4,69.2,312010,313250
+Crisólita,Teófilo Otoni,1,94.1,312015,316860
+Cristais,Boa Esperança,1,24.5,312020,310710
+Cristais,Campo Belo,4,24.9,312020,311120
+Cristais,Cláudio,6,91.8,312020,311660
+Cristais,Cristais,8,0.0,312020,312020
+Cristais,Divinópolis,9,100.8,312020,312230
+Cristais,Formiga,1,46.7,312020,312610
+Cristais,Itapecerica,3,60.8,312020,313350
+Cristais,Oliveira,3,74.3,312020,314560
+Cristais,Santo Antônio do Amparo,3,62.8,312020,315990
+Cristália,Francisco Sá,3,71.7,312030,312670
+Cristália,Grão Mogol,1,16.7,312030,312780
+Cristália,Montes Claros,10,107.3,312030,314330
+Cristiano Otoni,Barbacena,15,44.1,312040,310560
+Cristiano Otoni,Belo Horizonte,2,101.7,312040,310620
+Cristiano Otoni,Conselheiro Lafaiete,8,19.0,312040,311830
+Cristina,Belo Horizonte,1,289.1,312050,310620
+Cristina,Cristina,1,0.0,312050,312050
+Cristina,São Lourenço,13,24.2,312050,316370
+Cristina,Varginha,12,74.8,312050,317070
+Crucilândia,Belo Horizonte,9,66.9,312060,310620
+Crucilândia,Betim,3,49.0,312060,310670
+Crucilândia,Cláudio,1,44.8,312060,311660
+Crucilândia,Itaguara,9,15.6,312060,313220
+Crucilândia,Itaúna,1,43.4,312060,313380
+Cruzeiro da Fortaleza,Patos de Minas,10,41.8,312070,314800
+Cruzeiro da Fortaleza,Serra do Salitre,2,18.5,312070,316680
+Cruzília,Aiuruoca,1,26.0,312080,310120
+Cruzília,Baependi,1,15.5,312080,310490
+Cruzília,Cruzília,59,0.0,312080,312080
+Cruzília,São Lourenço,3,39.2,312080,316370
+Cruzília,Varginha,7,71.8,312080,317070
+Cuparaque,Governador Valadares,12,89.8,312083,312770
+Cuparaque,Itabirinha,5,46.9,312083,313180
+Cuparaque,Mendes Pimentel,1,47.1,312083,314150
+Curral de Dentro,Montes Claros,7,232.5,312087,314330
+Curral de Dentro,Taiobeiras,25,42.7,312087,316800
+Curvelo,Belo Horizonte,85,140.1,312090,310620
+Curvelo,Curvelo,288,0.0,312090,312090
+Curvelo,Sete Lagoas,3,81.6,312090,316720
+Datas,Belo Horizonte,16,166.8,312100,310620
+Datas,Diamantina,22,23.4,312100,312160
+Delfim Moreira,Itajubá,7,19.7,312110,313240
+Delfim Moreira,Paraguaçu,1,116.7,312110,314720
+Delfim Moreira,Poços de Caldas,9,154.8,312110,315180
+Delfim Moreira,Pouso Alegre,4,73.9,312110,315250
+Delfim Moreira,Santa Rita do Sapucaí,1,51.8,312110,315960
+Delfinópolis,Belo Horizonte,1,308.3,312120,310620
+Delfinópolis,Cássia,3,27.5,312120,311510
+Delfinópolis,Delfinópolis,2,0.0,312120,312120
+Delfinópolis,Passos,10,48.8,312120,314790
+Delta,Uberaba,26,30.8,312125,317010
+Descoberto,Baependi,1,206.3,312130,310490
+Descoberto,Juiz de Fora,36,51.1,312130,313670
+Descoberto,São João Nepomuceno,5,10.1,312130,316290
+Desterro de Entre Rios,Barbacena,1,85.8,312140,310560
+Desterro de Entre Rios,Belo Horizonte,20,91.8,312140,310620
+Desterro de Entre Rios,Congonhas,4,52.2,312140,311800
+Desterro de Entre Rios,Conselheiro Lafaiete,5,57.1,312140,311830
+Desterro do Melo,Barbacena,20,27.9,312150,310560
+Diamantina,Belo Horizonte,98,190.1,312160,310620
+Diamantina,Diamantina,97,0.0,312160,312160
+Diamantina,Itamarandiba,1,89.3,312160,313250
+Diogo de Vasconcelos,Ponte Nova,22,31.3,312170,315210
+Diogo de Vasconcelos,Rio Casca,11,64.1,312170,315490
+Dionísio,Abre Campo,6,59.9,312180,310030
+Dionísio,Belo Oriente,1,75.5,312180,310630
+Dionísio,Bom Jesus do Galho,3,48.1,312180,310780
+Dionísio,Ipatinga,19,48.0,312180,313130
+Dionísio,Itabirinha,1,215.2,312180,313180
+Divinésia,Juiz de Fora,1,92.3,312190,313670
+Divinésia,Muriaé,22,67.5,312190,314390
+Divino,Belo Horizonte,1,201.7,312200,310620
+Divino,Carangola,13,18.1,312200,311330
+Divino,Divino,5,0.0,312200,312200
+Divino,Muriaé,73,61.6,312200,314390
+Divino,Tarumirim,1,149.0,312200,316840
+Divino,Viçosa,1,77.9,312200,317130
+Divino das Laranjeiras,Governador Valadares,5,49.7,312210,312770
+Divino das Laranjeiras,Itabirinha,2,34.9,312210,313180
+Divinolândia de Minas,Belo Horizonte,13,186.5,312220,310620
+Divinolândia de Minas,Belo Oriente,1,48.3,312220,310630
+Divinolândia de Minas,Governador Valadares,10,70.4,312220,312770
+Divinolândia de Minas,Guanhães,3,34.1,312220,312800
+Divinolândia de Minas,Peçanha,5,29.1,312220,314860
+Divinópolis,Belo Horizonte,23,105.4,312230,310620
+Divinópolis,Bom Despacho,1,59.9,312230,310740
+Divinópolis,Campo Belo,1,89.0,312230,311120
+Divinópolis,Cláudio,4,34.1,312230,311660
+Divinópolis,Divinópolis,929,0.0,312230,312230
+Divinópolis,Itapecerica,30,40.2,312230,313350
+Divinópolis,Itaúna,1,36.5,312230,313380
+Divinópolis,Lagoa da Prata,4,68.1,312230,313720
+Divinópolis,Oliveira,1,59.2,312230,314560
+Divinópolis,Pará de Minas,2,46.9,312230,314710
+Divinópolis,Santo Antônio do Monte,8,40.8,312230,316040
+Divisa Alegre,Jequitinhonha,1,86.8,312235,313580
+Divisa Alegre,Medina,7,57.3,312235,314140
+Divisa Alegre,Montes Claros,5,291.8,312235,314330
+Divisa Alegre,Pedra Azul,6,32.0,312235,314870
+Divisa Nova,Alfenas,11,27.1,312240,310160
+Divisa Nova,Alterosa,2,29.8,312240,310200
+Divisa Nova,Poço Fundo,1,38.5,312240,315170
+Divisópolis,Almenara,1,61.2,312245,310170
+Divisópolis,Medina,20,75.4,312245,314140
+Divisópolis,Montes Claros,4,326.1,312245,314330
+Divisópolis,Pedra Azul,9,43.1,312245,314870
+Divisópolis,Teófilo Otoni,2,243.9,312245,316860
+Dom Bosco,Belo Horizonte,4,439.5,312247,310620
+Dom Bosco,Paracatu,1,93.6,312247,314700
+Dom Bosco,Patos de Minas,2,219.1,312247,314800
+Dom Bosco,Vazante,5,163.7,312247,317100
+Dom Cavati,Abre Campo,1,110.1,312250,310030
+Dom Cavati,Belo Oriente,1,43.0,312250,310630
+Dom Cavati,Ipatinga,28,45.6,312250,313130
+Dom Cavati,Tarumirim,1,14.8,312250,316840
+Dom Joaquim,Belo Horizonte,4,128.1,312260,310620
+Dom Joaquim,Dom Joaquim,1,0.0,312260,312260
+Dom Joaquim,Guanhães,4,40.0,312260,312800
+Dom Joaquim,Itabira,1,73.2,312260,313170
+Dom Joaquim,Sabinópolis,1,38.1,312260,315680
+Dom Silvério,Muriaé,1,124.2,312270,314390
+Dom Silvério,Ponte Nova,17,29.1,312270,315210
+Dom Silvério,Raul Soares,2,54.2,312270,315400
+Dom Viçoso,São Lourenço,5,19.2,312280,316370
+Dom Viçoso,Varginha,3,82.5,312280,317070
+Dona Euzébia,Muriaé,51,50.3,312290,314390
+Dores de Campos,Barbacena,3,28.6,312300,310560
+Dores de Campos,Barroso,6,9.6,312300,310590
+Dores de Campos,Juiz de Fora,1,100.4,312300,313670
+Dores de Campos,São João del Rei,20,24.9,312300,316250
+Dores de Guanhães,Belo Horizonte,3,142.9,312310,310620
+Dores de Guanhães,Guanhães,3,31.5,312310,312800
+Dores de Guanhães,Itabira,3,70.1,312310,313170
+Dores de Guanhães,Sabinópolis,1,46.6,312310,315680
+Dores do Indaiá,Belo Horizonte,2,181.8,312320,310620
+Dores do Indaiá,Bom Despacho,4,47.7,312320,310740
+Dores do Indaiá,Divinópolis,35,106.9,312320,312230
+Dores do Indaiá,Dores do Indaiá,7,0.0,312320,312320
+Dores do Indaiá,Lagoa da Prata,3,62.6,312320,313720
+Dores do Indaiá,Oliveira,1,159.3,312320,314560
+Dores do Indaiá,Santo Antônio do Monte,1,76.5,312320,316040
+Dores do Turvo,Muriaé,7,86.6,312330,314390
+Dores do Turvo,Ubá,3,30.2,312330,316990
+Doresópolis,Ilicínea,4,72.7,312340,313050
+Doresópolis,Passos,1,87.9,312340,314790
+Douradoquara,Monte Carmelo,1,35.0,312350,314310
+Douradoquara,Uberlândia,2,86.6,312350,317020
+Durandé,Espera Feliz,4,51.1,312352,312420
+Durandé,Manhuaçu,1,25.1,312352,313940
+Durandé,Manhumirim,5,23.4,312352,313950
+Durandé,Muriaé,23,118.8,312352,314390
+Durandé,Tarumirim,2,104.7,312352,316840
+Elói Mendes,Elói Mendes,35,0.0,312360,312360
+Elói Mendes,Passos,1,146.8,312360,314790
+Elói Mendes,Pouso Alegre,1,78.9,312360,315250
+Elói Mendes,Varginha,26,14.9,312360,317070
+Engenheiro Caldas,Governador Valadares,17,39.4,312370,312770
+Engenheiro Caldas,Itabirinha,2,110.6,312370,313180
+Engenheiro Caldas,Itanhomi,5,19.4,312370,313320
+Engenheiro Navarro,Bocaiúva,1,24.2,312380,310730
+Engenheiro Navarro,Montes Claros,20,62.1,312380,314330
+Entre Folhas,Caratinga,4,20.6,312385,311340
+Entre Folhas,Ipatinga,13,35.0,312385,313130
+Entre Rios de Minas,Barbacena,2,68.7,312390,310560
+Entre Rios de Minas,Belo Horizonte,42,84.3,312390,310620
+Entre Rios de Minas,Congonhas,3,28.1,312390,311800
+Entre Rios de Minas,Conselheiro Lafaiete,4,29.2,312390,311830
+Entre Rios de Minas,Entre Rios de Minas,17,0.0,312390,312390
+Ervália,Juiz de Fora,3,124.5,312400,313670
+Ervália,Muriaé,101,43.7,312400,314390
+Ervália,Viçosa,4,25.3,312400,317130
+Esmeraldas,Belo Horizonte,127,43.5,312410,310620
+Esmeraldas,Betim,21,25.7,312410,310670
+Esmeraldas,Brumadinho,1,44.3,312410,310900
+Esmeraldas,Esmeraldas,66,0.0,312410,312410
+Esmeraldas,Ribeirão das Neves,1,23.8,312410,315460
+Espera Feliz,Abre Campo,1,70.9,312420,310030
+Espera Feliz,Carangola,15,15.6,312420,311330
+Espera Feliz,Espera Feliz,34,0.0,312420,312420
+Espera Feliz,Juiz de Fora,1,193.1,312420,313670
+Espera Feliz,Muriaé,98,71.5,312420,314390
+Espinosa,Belo Horizonte,2,568.2,312430,310620
+Espinosa,Espinosa,36,0.0,312430,312430
+Espinosa,Janaúba,5,110.2,312430,313510
+Espinosa,Montes Claros,42,230.1,312430,314330
+Espírito Santo do Dourado,Poço Fundo,1,29.1,312440,315170
+Espírito Santo do Dourado,Pouso Alegre,3,20.5,312440,315250
+Espírito Santo do Dourado,Varginha,1,76.4,312440,317070
+Estiva,Curvelo,1,444.8,312450,312090
+Estiva,Estiva,2,0.0,312450,312450
+Estiva,Pouso Alegre,24,27.4,312450,315250
+Estiva,Santa Rita do Sapucaí,4,40.0,312450,315960
+Estrela Dalva,Belo Horizonte,1,253.8,312460,310620
+Estrela Dalva,Muriaé,16,69.0,312460,314390
+Estrela Dalva,Recreio,2,24.1,312460,315410
+Estrela do Indaiá,Belo Horizonte,2,198.9,312470,310620
+Estrela do Indaiá,Divinópolis,5,116.7,312470,312230
+Estrela do Indaiá,Estrela do Indaiá,1,0.0,312470,312470
+Estrela do Indaiá,Luz,1,32.9,312470,313880
+Estrela do Sul,Araguari,9,54.5,312480,310350
+Estrela do Sul,Patos de Minas,1,125.3,312480,314800
+Eugenópolis,Abre Campo,3,93.6,312490,310030
+Eugenópolis,Alfenas,1,392.0,312490,310160
+Eugenópolis,Eugenópolis,2,0.0,312490,312490
+Eugenópolis,Muriaé,70,19.7,312490,314390
+Ewbank da Câmara,Juiz de Fora,15,28.7,312500,313670
+Extrema,Alfenas,1,162.1,312510,310160
+Extrema,Belo Horizonte,1,408.0,312510,310620
+Extrema,Extrema,21,0.0,312510,312510
+Extrema,Pouso Alegre,48,78.8,312510,315250
+Fama,Alfenas,11,12.4,312520,310160
+Faria Lemos,Carangola,16,8.3,312530,311330
+Faria Lemos,Muriaé,23,51.7,312530,314390
+Felício dos Santos,Belo Horizonte,5,217.8,312540,310620
+Felício dos Santos,Diamantina,14,41.5,312540,312160
+São Gonçalo do Rio Preto,Belo Horizonte,11,221.2,312550,310620
+São Gonçalo do Rio Preto,Diamantina,4,35.1,312550,312160
+São Gonçalo do Rio Preto,Gouveia,1,62.8,312550,312760
+Felisburgo,Águas Formosas,1,52.6,312560,310090
+Felisburgo,Almenara,1,50.0,312560,310170
+Felisburgo,Belo Horizonte,3,495.6,312560,310620
+Felisburgo,Felisburgo,8,0.0,312560,312560
+Felisburgo,Teófilo Otoni,19,157.6,312560,316860
+Felixlândia,Belo Horizonte,20,164.3,312570,310620
+Felixlândia,Curvelo,38,49.6,312570,312090
+Felixlândia,Pompéu,1,53.8,312570,315200
+Felixlândia,Sete Lagoas,1,104.4,312570,316720
+Fernandes Tourinho,Belo Oriente,8,42.8,312580,310630
+Fernandes Tourinho,Governador Valadares,8,35.8,312580,312770
+Fernandes Tourinho,Itabirinha,4,110.5,312580,313180
+Ferros,Belo Horizonte,11,122.9,312590,310620
+Ferros,Ferros,2,0.0,312590,312590
+Ferros,Itabira,10,48.4,312590,313170
+Ferros,Santa Luzia,1,105.5,312590,315780
+Fervedouro,Carangola,10,26.1,312595,311330
+Fervedouro,Muriaé,49,45.1,312595,314390
+Fervedouro,Raul Soares,1,72.2,312595,315400
+Fervedouro,Santa Margarida,2,38.7,312595,315790
+Fervedouro,Tarumirim,1,163.7,312595,316840
+Florestal,Belo Horizonte,9,52.1,312600,310620
+Florestal,Betim,1,25.3,312600,310670
+Florestal,Espera Feliz,5,276.6,312600,312420
+Formiga,Bambuí,2,76.3,312610,310510
+Formiga,Belo Horizonte,8,167.1,312610,310620
+Formiga,Divinópolis,151,63.2,312610,312230
+Formiga,Formiga,16,0.0,312610,312610
+Formiga,Itapecerica,1,31.8,312610,313350
+Formiga,Lagoa da Prata,9,50.6,312610,313720
+Formiga,Oliveira,2,67.7,312610,314560
+Formiga,Santo Antônio do Amparo,1,75.7,312610,315990
+Formoso,Belo Horizonte,1,604.5,312620,310620
+Formoso,Patos de Minas,3,407.7,312620,314800
+Formoso,Pirapora,3,300.4,312620,315120
+Formoso,Uberaba,1,564.1,312620,317010
+Formoso,Unaí,9,172.6,312620,317040
+Fortaleza de Minas,Passos,9,18.0,312630,314790
+Fortuna de Minas,Belo Horizonte,2,67.0,312640,310620
+Fortuna de Minas,Sete Lagoas,9,23.8,312640,316720
+Francisco Badaró,Araçuaí,10,34.4,312650,310340
+Francisco Badaró,Belo Horizonte,28,366.5,312650,310620
+Francisco Badaró,Diamantina,1,192.0,312650,312160
+Francisco Badaró,Itamarandiba,1,110.3,312650,313250
+Francisco Badaró,Minas Novas,1,36.1,312650,314180
+Francisco Dumont,Belo Horizonte,3,291.8,312660,310620
+Francisco Dumont,Bocaiúva,2,49.9,312660,310730
+Francisco Dumont,Montes Claros,21,75.4,312660,314330
+Francisco Sá,Belo Horizonte,1,386.2,312670,310620
+Francisco Sá,Francisco Sá,48,0.0,312670,312670
+Francisco Sá,Montes Claros,50,49.4,312670,314330
+Franciscópolis,Belo Horizonte,5,298.1,312675,310620
+Franciscópolis,Governador Valadares,2,100.1,312675,312770
+Franciscópolis,Itambacuri,4,34.9,312675,313270
+Franciscópolis,Malacacheta,19,15.1,312675,313920
+Franciscópolis,Teófilo Otoni,6,53.8,312675,316860
+Frei Gaspar,Belo Horizonte,4,335.0,312680,310620
+Frei Gaspar,Governador Valadares,2,103.7,312680,312770
+Frei Gaspar,Ipatinga,4,195.3,312680,313130
+Frei Gaspar,Itabirinha,1,59.6,312680,313180
+Frei Gaspar,Itambacuri,25,27.4,312680,313270
+Frei Gaspar,Tarumirim,1,148.3,312680,316840
+Frei Gaspar,Teófilo Otoni,12,23.8,312680,316860
+Frei Inocêncio,Belo Horizonte,5,261.1,312690,310620
+Frei Inocêncio,Bom Jesus do Galho,8,146.9,312690,310780
+Frei Inocêncio,Governador Valadares,16,32.8,312690,312770
+Frei Inocêncio,Itambacuri,3,63.7,312690,313270
+Frei Inocêncio,Mendes Pimentel,10,54.2,312690,314150
+Frei Inocêncio,Muriaé,2,289.1,312690,314390
+Frei Lagonegro,Coluna,1,10.7,312695,311680
+Frei Lagonegro,Governador Valadares,3,115.7,312695,312770
+Frei Lagonegro,Montes Claros,1,198.2,312695,314330
+Frei Lagonegro,Peçanha,14,47.6,312695,314860
+Fronteira,Frutal,1,40.0,312700,312710
+Fronteira,Uberaba,13,143.9,312700,317010
+Fronteira dos Vales,Águas Formosas,3,21.3,312705,310090
+Fronteira dos Vales,Teófilo Otoni,3,124.5,312705,316860
+Fruta de Leite,Montes Claros,1,158.5,312707,314330
+Fruta de Leite,Salinas,11,26.2,312707,315700
+Frutal,Frutal,36,0.0,312710,312710
+Frutal,Uberaba,77,107.6,312710,317010
+Funilândia,Belo Horizonte,1,63.2,312720,310620
+Funilândia,Sete Lagoas,7,22.6,312720,316720
+Galiléia,Belo Horizonte,1,271.5,312730,310620
+Galiléia,Belo Oriente,1,102.3,312730,310630
+Galiléia,Conselheiro Pena,7,20.2,312730,311840
+Galiléia,Governador Valadares,17,45.7,312730,312770
+Galiléia,Tarumirim,6,58.2,312730,316840
+Gameleiras,Monte Azul,3,27.5,312733,314290
+Gameleiras,Montes Claros,13,200.1,312733,314330
+Glaucilândia,Montes Claros,4,23.2,312735,314330
+Goiabeira,Itabirinha,1,45.8,312737,313180
+Goiabeira,Mendes Pimentel,2,40.5,312737,314150
+Goiabeira,Muriaé,2,267.3,312737,314390
+Goianá,Juiz de Fora,22,28.5,312738,313670
+Gonçalves,Alfenas,2,137.6,312740,310160
+Gonçalves,Andradas,3,98.6,312740,310260
+Gonçalves,Paraisópolis,2,14.4,312740,314730
+Gonçalves,Poços de Caldas,1,121.7,312740,315180
+Gonçalves,Pouso Alegre,2,48.4,312740,315250
+Gonçalves,Santa Rita do Sapucaí,4,47.8,312740,315960
+Gonzaga,Belo Oriente,25,44.1,312750,310630
+Gonzaga,Governador Valadares,22,56.3,312750,312770
+Gonzaga,Ipatinga,1,72.9,312750,313130
+Gonzaga,Itabirinha,1,134.2,312750,313180
+Gonzaga,Peçanha,8,32.0,312750,314860
+Gouveia,Belo Horizonte,18,164.6,312760,310620
+Gouveia,Curvelo,1,79.6,312760,312090
+Gouveia,Diamantina,4,27.9,312760,312160
+Gouveia,Gouveia,3,0.0,312760,312760
+Governador Valadares,Belo Horizonte,24,240.1,312770,310620
+Governador Valadares,Bom Jesus do Galho,1,114.7,312770,310780
+Governador Valadares,Governador Valadares,638,0.0,312770,312770
+Governador Valadares,Ipatinga,1,92.3,312770,313130
+Governador Valadares,Itabirinha,31,81.5,312770,313180
+Governador Valadares,Itanhomi,55,35.8,312770,313320
+Governador Valadares,Muriaé,8,256.3,312770,314390
+Governador Valadares,Tarumirim,5,47.5,312770,316840
+Grão Mogol,Francisco Sá,5,64.4,312780,312670
+Grão Mogol,Grão Mogol,18,0.0,312780,312780
+Grão Mogol,Montes Claros,27,105.8,312780,314330
+Grupiara,Araguari,5,52.7,312790,310350
+Guanhães,Belo Horizonte,27,165.4,312800,310620
+Guanhães,Guanhães,128,0.0,312800,312800
+Guanhães,Itabira,11,99.2,312800,313170
+Guanhães,Itanhomi,1,120.7,312800,313320
+Guanhães,Sabinópolis,2,20.0,312800,315680
+Guapé,Guapé,4,0.0,312810,312810
+Guapé,Passos,20,72.3,312810,314790
+Guapé,Piumhi,1,32.7,312810,315150
+Guapé,São Sebastião do Paraíso,1,113.1,312810,316470
+Guaraciaba,Muriaé,4,90.6,312820,314390
+Guaraciaba,Ponte Nova,32,20.1,312820,315210
+Guaraciama,Bocaiúva,5,18.7,312825,310730
+Guaraciama,Montes Claros,11,38.0,312825,314330
+Guaranésia,Alfenas,11,89.4,312830,310160
+Guaranésia,Guaranésia,7,0.0,312830,312830
+Guaranésia,Monte Santo de Minas,1,22.1,312830,314320
+Guaranésia,Passos,6,67.6,312830,314790
+Guaranésia,Poço Fundo,5,102.0,312830,315170
+Guarani,Juiz de Fora,14,53.8,312840,313670
+Guarani,Muriaé,12,74.9,312840,314390
+Guarani,Raul Soares,1,153.0,312840,315400
+Guarani,Rio Pomba,1,16.5,312840,315580
+Guarani,Ubá,1,28.8,312840,316990
+Guarará,Bicas,1,3.0,312850,310690
+Guarará,Juiz de Fora,11,31.7,312850,313670
+Guarda-Mor,Guarda-Mor,10,0.0,312860,312860
+Guarda-Mor,Patos de Minas,9,111.8,312860,314800
+Guarda-Mor,Vazante,1,32.3,312860,317100
+Guaxupé,Alfenas,35,80.1,312870,310160
+Guaxupé,Alterosa,7,59.4,312870,310200
+Guaxupé,Guaxupé,51,0.0,312870,312870
+Guaxupé,Machado,2,92.0,312870,313900
+Guaxupé,Monte Santo de Minas,1,30.6,312870,314320
+Guaxupé,Passos,8,66.0,312870,314790
+Guaxupé,São Sebastião do Paraíso,22,52.0,312870,316470
+Guidoval,Muriaé,35,44.6,312880,314390
+Guidoval,Ubá,6,15.3,312880,316990
+Guimarânia,Araguari,4,149.4,312890,310350
+Guimarânia,Belo Horizonte,1,322.9,312890,310620
+Guimarânia,Patos de Minas,13,40.1,312890,314800
+Guimarânia,São Gotardo,1,93.9,312890,316210
+Guiricema,Juiz de Fora,6,105.5,312900,313670
+Guiricema,Muriaé,43,38.5,312900,314390
+Guiricema,Viçosa,1,33.0,312900,317130
+Guiricema,Visconde do Rio Branco,1,12.5,312900,317200
+Gurinhatã,Uberlândia,2,164.3,312910,317020
+Heliodora,Machado,1,58.0,312920,313900
+Heliodora,Pouso Alegre,9,44.5,312920,315250
+Iapu,Belo Oriente,1,36.9,312930,310630
+Iapu,Caratinga,4,40.1,312930,311340
+Iapu,Ipatinga,46,33.1,312930,313130
+Ibertioga,Barbacena,14,30.1,312940,310560
+Ibertioga,Barroso,4,27.2,312940,310590
+Ibertioga,Ibertioga,1,0.0,312940,312940
+Ibertioga,Juiz de Fora,2,73.6,312940,313670
+Ibiá,Belo Horizonte,1,277.2,312950,310620
+Ibiá,Ibiá,39,0.0,312950,312950
+Ibiá,Uberaba,55,150.2,312950,317010
+Ibiaí,Montes Claros,7,111.9,312960,314330
+Ibiaí,Pirapora,17,54.9,312960,315120
+Ibiracatu,Brasília de Minas,1,67.0,312965,310860
+Ibiracatu,Montes Claros,12,122.7,312965,314330
+Ibiracatu,São João da Ponte,1,34.2,312965,316240
+Ibiraci,Cássia,12,24.9,312970,311510
+Ibiraci,Passos,11,60.5,312970,314790
+Ibirité,Belo Horizonte,471,17.4,312980,310620
+Ibirité,Contagem,2,11.7,312980,311860
+Ibirité,Ibirité,43,0.0,312980,312980
+Ibitiúra de Minas,Andradas,6,13.5,312990,310260
+Ibitiúra de Minas,Poços de Caldas,7,33.2,312990,315180
+Ibituruna,Barroso,1,80.0,313000,310590
+Ibituruna,Bom Sucesso,2,12.8,313000,310800
+Ibituruna,Santo Antônio do Amparo,1,28.6,313000,315990
+Ibituruna,São João del Rei,2,50.7,313000,316250
+Ibituruna,Varginha,1,84.1,313000,317070
+Icaraí de Minas,Brasília de Minas,6,50.7,313005,310860
+Icaraí de Minas,Montes Claros,22,124.3,313005,314330
+Icaraí de Minas,Pirapora,1,126.1,313005,315120
+Igarapé,Belo Horizonte,51,41.6,313010,310620
+Igarapé,Betim,32,15.0,313010,310670
+Igarapé,Igarapé,3,0.0,313010,313010
+Igarapé,Mateus Leme,1,16.2,313010,314070
+Igaratinga,Belo Horizonte,11,80.7,313020,310620
+Igaratinga,Divinópolis,9,32.2,313020,312230
+Igaratinga,Ipatinga,1,234.2,313020,313130
+Igaratinga,Itaúna,3,19.2,313020,313380
+Igaratinga,Pará de Minas,14,14.7,313020,314710
+Iguatama,Divinópolis,15,83.0,313030,312230
+Iguatama,Iguatama,5,0.0,313030,313030
+Ijaci,Lavras,15,11.3,313040,313820
+Ijaci,Varginha,2,68.0,313040,317070
+Ilicínea,Alfenas,9,55.6,313050,310160
+Ilicínea,Belo Horizonte,2,227.0,313050,310620
+Ilicínea,Ilicínea,95,0.0,313050,313050
+Ilicínea,Monte Santo de Minas,1,122.9,313050,314320
+Ilicínea,Passos,10,85.0,313050,314790
+Ilicínea,Poço Fundo,1,95.4,313050,315170
+Ilicínea,Varginha,2,79.9,313050,317070
+Imbé de Minas,Belo Horizonte,1,208.9,313055,310620
+Imbé de Minas,Belo Oriente,3,68.2,313055,310630
+Imbé de Minas,Bom Jesus do Galho,4,44.5,313055,310780
+Imbé de Minas,Caratinga,4,27.8,313055,311340
+Imbé de Minas,Ipatinga,21,59.9,313055,313130
+Imbé de Minas,Muriaé,1,175.2,313055,314390
+Inconfidentes,Ouro Fino,14,5.8,313060,314600
+Inconfidentes,Poço Fundo,1,69.9,313060,315170
+Inconfidentes,Pouso Alegre,14,41.5,313060,315250
+Indaiabira,Belo Horizonte,2,526.0,313065,310620
+Indaiabira,Montes Claros,6,225.6,313065,314330
+Indaiabira,Taiobeiras,13,35.7,313065,316800
+Indianópolis,Araguari,6,52.9,313070,310350
+Indianópolis,Uberlândia,6,38.4,313070,317020
+Indianópolis,Vazante,2,158.5,313070,317100
+Ingaí,Belo Horizonte,9,193.5,313080,310620
+Ingaí,Carrancas,1,30.1,313080,311460
+Ingaí,Lavras,11,19.4,313080,313820
+Ingaí,Santo Antônio do Amparo,2,50.5,313080,315990
+Ingaí,Varginha,2,56.1,313080,317070
+Inhapim,Belo Horizonte,3,194.4,313090,310620
+Inhapim,Bom Jesus do Galho,2,37.0,313090,310780
+Inhapim,Caratinga,1,26.7,313090,311340
+Inhapim,Inhapim,13,0.0,313090,313090
+Inhapim,Ipatinga,87,43.2,313090,313130
+Inhapim,Tarumirim,2,32.3,313090,316840
+Inhaúma,Belo Horizonte,2,67.5,313100,310620
+Inhaúma,Sete Lagoas,28,15.3,313100,316720
+Inimutaba,Belo Horizonte,9,140.3,313110,310620
+Inimutaba,Curvelo,32,7.5,313110,312090
+Ipaba,Bom Jesus do Galho,6,47.6,313115,310780
+Ipaba,Caratinga,1,51.3,313115,311340
+Ipaba,Ipatinga,92,13.6,313115,313130
+Ipaba,Tarumirim,7,45.7,313115,316840
+Ipanema,Belo Horizonte,3,232.8,313120,310620
+Ipanema,Conselheiro Pena,7,74.4,313120,311840
+Ipanema,Governador Valadares,1,107.5,313120,312770
+Ipanema,Ipanema,39,0.0,313120,313120
+Ipanema,Manhuaçu,2,60.7,313120,313940
+Ipanema,Manhumirim,1,66.3,313120,313950
+Ipanema,Muriaé,74,162.6,313120,314390
+Ipanema,Mutum,1,28.9,313120,314400
+Ipanema,Ponte Nova,1,142.3,313120,315210
+Ipatinga,Belo Horizonte,18,155.5,313130,310620
+Ipatinga,Bom Jesus do Galho,52,44.7,313130,310780
+Ipatinga,Camanducaia,1,521.1,313130,311050
+Ipatinga,Coronel Fabriciano,2,11.5,313130,311940
+Ipatinga,Ipatinga,994,0.0,313130,313130
+Ipatinga,Tarumirim,5,58.9,313130,316840
+Ipiaçu,Capinópolis,1,39.2,313140,311260
+Ipiaçu,Ituiutaba,3,59.1,313140,313420
+Ipiaçu,Uberlândia,2,179.2,313140,317020
+Ipuiúna,Andradas,1,39.4,313150,310260
+Ipuiúna,Caldas,2,28.1,313150,311030
+Ipuiúna,Poços de Caldas,2,52.2,313150,315180
+Ipuiúna,Pouso Alegre,22,30.0,313150,315250
+Iraí de Minas,Araguari,10,86.1,313160,310350
+Iraí de Minas,Monte Carmelo,1,28.4,313160,314310
+Iraí de Minas,Patrocínio,1,50.0,313160,314810
+Iraí de Minas,Uberlândia,3,84.0,313160,317020
+Itabira,Belo Horizonte,93,81.9,313170,310620
+Itabira,Itabira,219,0.0,313170,313170
+Itabira,Itanhomi,1,150.9,313170,313320
+Itabirinha,Cláudio,1,424.8,313180,311660
+Itabirinha,Governador Valadares,14,81.5,313180,312770
+Itabirinha,Itabirinha,34,0.0,313180,313180
+Itabirinha,Oliveira,1,444.6,313180,314560
+Itabirito,Belo Horizonte,187,39.5,313190,310620
+Itabirito,Igarapé,2,56.3,313190,313010
+Itabirito,Itabirito,48,0.0,313190,313190
+Itacambira,Montes Claros,20,70.3,313200,314330
+Itacarambi,Itacarambi,4,0.0,313210,313210
+Itacarambi,Januária,2,51.7,313210,313520
+Itacarambi,Manga,2,42.1,313210,313930
+Itacarambi,Montes Claros,35,182.7,313210,314330
+Itaguara,Belo Horizonte,6,77.6,313220,310620
+Itaguara,Cláudio,4,29.5,313220,311660
+Itaguara,Divinópolis,12,50.5,313220,312230
+Itaguara,Itaguara,12,0.0,313220,313220
+Itaguara,Itaúna,6,36.6,313220,313380
+Itaguara,Oliveira,4,49.1,313220,314560
+Itaipé,Belo Horizonte,6,368.2,313230,310620
+Itaipé,Caraí,9,24.1,313230,311300
+Itaipé,Ipatinga,6,247.9,313230,313130
+Itaipé,Itaipé,1,0.0,313230,313230
+Itaipé,Itambacuri,13,70.0,313230,313270
+Itaipé,Teófilo Otoni,21,54.1,313230,316860
+Itajubá,Alfenas,1,122.5,313240,310160
+Itajubá,Itajubá,100,0.0,313240,313240
+Itajubá,Poço Fundo,1,88.6,313240,315170
+Itajubá,Poços de Caldas,42,135.1,313240,315180
+Itajubá,Pouso Alegre,6,54.2,313240,315250
+Itamarandiba,Belo Horizonte,56,256.3,313250,310620
+Itamarandiba,Diamantina,10,89.3,313250,312160
+Itamarandiba,Itamarandiba,88,0.0,313250,313250
+Itamarati de Minas,Juiz de Fora,1,66.2,313260,313670
+Itamarati de Minas,Muriaé,16,56.5,313260,314390
+Itambacuri,Belo Horizonte,1,316.6,313270,310620
+Itambacuri,Belo Oriente,1,156.8,313270,310630
+Itambacuri,Governador Valadares,13,95.9,313270,312770
+Itambacuri,Ipatinga,7,183.7,313270,313130
+Itambacuri,Itambacuri,218,0.0,313270,313270
+Itambacuri,Teófilo Otoni,19,26.4,313270,316860
+Itambé do Mato Dentro,Belo Horizonte,4,85.7,313280,310620
+Itambé do Mato Dentro,Itabira,3,25.7,313280,313170
+Itamogi,Belo Horizonte,1,348.0,313290,310620
+Itamogi,Passos,4,60.0,313290,314790
+Itamogi,São Sebastião do Paraíso,12,18.6,313290,316470
+Itamonte,Aiuruoca,1,43.4,313300,310120
+Itamonte,Itamonte,70,0.0,313300,313300
+Itamonte,Itanhandu,4,7.2,313300,313310
+Itamonte,São Lourenço,1,26.8,313300,316370
+Itamonte,Varginha,12,99.8,313300,317070
+Itanhandu,Itanhandu,221,0.0,313310,313310
+Itanhandu,São Lourenço,2,23.5,313310,316370
+Itanhandu,Varginha,18,96.9,313310,317070
+Itanhomi,Belo Horizonte,6,232.6,313320,310620
+Itanhomi,Governador Valadares,13,35.8,313320,312770
+Itanhomi,Inhapim,1,50.0,313320,313090
+Itanhomi,Itanhomi,150,0.0,313320,313320
+Itanhomi,Muriaé,2,223.8,313320,314390
+Itaobim,Belo Horizonte,13,453.6,313330,310620
+Itaobim,Governador Valadares,1,259.6,313330,312770
+Itaobim,Itaobim,19,0.0,313330,313330
+Itaobim,Teófilo Otoni,25,144.9,313330,316860
+Itapagipe,Frutal,3,47.6,313340,312710
+Itapagipe,Uberaba,16,149.5,313340,317010
+Itapecerica,Belo Horizonte,2,138.1,313350,310620
+Itapecerica,Divinópolis,41,40.2,313350,312230
+Itapecerica,Itapecerica,50,0.0,313350,313350
+Itapecerica,Lagoa da Prata,1,66.3,313350,313720
+Itapecerica,Oliveira,3,39.8,313350,314560
+Itapeva,Camanducaia,8,9.5,313360,311050
+Itapeva,Extrema,2,13.6,313360,312510
+Itapeva,Pouso Alegre,23,66.4,313360,315250
+Itatiaiuçu,Belo Horizonte,6,59.2,313370,310620
+Itatiaiuçu,Betim,1,33.9,313370,310670
+Itatiaiuçu,Cláudio,5,45.0,313370,311660
+Itatiaiuçu,Divinópolis,9,51.1,313370,312230
+Itatiaiuçu,Itaguara,1,22.6,313370,313220
+Itatiaiuçu,Itaúna,18,21.2,313370,313380
+Itatiaiuçu,Oliveira,1,69.8,313370,314560
+Itaú de Minas,Monte Santo de Minas,1,55.4,313375,314320
+Itaú de Minas,Passos,40,14.9,313375,314790
+Itaú de Minas,Poço Fundo,1,142.0,313375,315170
+Itaú de Minas,São Sebastião do Paraíso,8,31.7,313375,316470
+Itaúna,Belo Horizonte,17,69.0,313380,310620
+Itaúna,Divinópolis,93,36.5,313380,312230
+Itaúna,Itaúna,161,0.0,313380,313380
+Itaúna,Oliveira,5,74.1,313380,314560
+Itaverava,Barbacena,17,63.5,313390,310560
+Itaverava,Belo Horizonte,1,90.4,313390,310620
+Itaverava,Conselheiro Lafaiete,2,18.5,313390,311830
+Itinga,Araçuaí,1,41.2,313400,310340
+Itinga,Belo Horizonte,9,433.6,313400,310620
+Itinga,Governador Valadares,1,250.6,313400,312770
+Itinga,Itaobim,4,29.1,313400,313330
+Itinga,Medina,13,53.0,313400,314140
+Itinga,Pedra Azul,22,85.3,313400,314870
+Itinga,Teófilo Otoni,4,142.2,313400,316860
+Itueta,Aimorés,1,20.2,313410,310110
+Itueta,Governador Valadares,5,96.3,313410,312770
+Itueta,Muriaé,4,226.5,313410,314390
+Itueta,Resplendor,3,8.6,313410,315430
+Ituiutaba,Araguari,2,138.2,313420,310350
+Ituiutaba,Frutal,1,130.2,313420,312710
+Ituiutaba,Ituiutaba,48,0.0,313420,313420
+Ituiutaba,Patrocínio,1,260.5,313420,314810
+Ituiutaba,Uberaba,3,180.9,313420,317010
+Ituiutaba,Uberlândia,49,127.2,313420,317020
+Itumirim,Belo Horizonte,2,182.8,313430,310620
+Itumirim,Lavras,21,15.5,313430,313820
+Itumirim,Varginha,3,64.2,313430,317070
+Iturama,Iturama,25,0.0,313440,313440
+Iturama,Uberaba,31,234.7,313440,317010
+Itutinga,Lavras,8,35.9,313450,313820
+Itutinga,Varginha,5,85.3,313450,317070
+Jaboticatubas,Belo Horizonte,92,49.3,313460,310620
+Jaboticatubas,Jaboticatubas,5,0.0,313460,313460
+Jaboticatubas,Lagoa Santa,3,19.8,313460,313760
+Jacinto,Almenara,1,44.1,313470,310170
+Jacinto,Belo Horizonte,5,570.1,313470,310620
+Jacinto,Governador Valadares,1,349.0,313470,312770
+Jacinto,Itaobim,1,137.3,313470,313330
+Jacinto,Jacinto,29,0.0,313470,313470
+Jacinto,Teófilo Otoni,4,230.9,313470,316860
+Jacuí,Passos,10,35.7,313480,314790
+Jacuí,São Sebastião do Paraíso,5,28.2,313480,316470
+Jacutinga,Jacutinga,14,0.0,313490,313490
+Jacutinga,Muriaé,7,457.0,313490,314390
+Jacutinga,Poços de Caldas,1,56.0,313490,315180
+Jacutinga,Pouso Alegre,26,70.1,313490,315250
+Jaguaraçu,Bom Jesus do Galho,3,49.7,313500,310780
+Jaguaraçu,Ipatinga,7,29.9,313500,313130
+Jaguaraçu,Tarumirim,2,88.0,313500,316840
+Jaguaraçu,Timóteo,1,13.8,313500,316870
+Jaíba,Belo Horizonte,3,511.1,313505,310620
+Jaíba,Jaíba,3,0.0,313505,313505
+Jaíba,Janaúba,16,64.9,313505,313510
+Jaíba,Manga,27,70.0,313505,313930
+Jaíba,Montes Claros,68,156.7,313505,314330
+Jaíba,São João del Rei,3,648.1,313505,316250
+Jampruca,Governador Valadares,14,46.4,313507,312770
+Jampruca,Itabirinha,2,61.8,313507,313180
+Jampruca,Itambacuri,3,49.5,313507,313270
+Janaúba,Belo Horizonte,2,463.5,313510,310620
+Janaúba,Janaúba,154,0.0,313510,313510
+Janaúba,Mirabela,1,104.4,313510,314200
+Janaúba,Montes Claros,47,119.9,313510,314330
+Januária,Belo Horizonte,1,495.2,313520,310620
+Januária,Janaúba,2,118.1,313520,313510
+Januária,Januária,55,0.0,313520,313520
+Januária,Montes Claros,75,147.7,313520,314330
+Japaraíba,Belo Horizonte,2,165.6,313530,310620
+Japaraíba,Divinópolis,8,62.1,313530,312230
+Japaraíba,Lagoa da Prata,3,13.8,313530,313720
+Japaraíba,Poço Fundo,1,189.0,313530,315170
+Japonvar,Brasília de Minas,4,29.0,313535,310860
+Japonvar,Mirabela,2,31.1,313535,314200
+Japonvar,Montes Claros,11,92.0,313535,314330
+Jeceaba,Belo Horizonte,23,68.2,313540,310620
+Jeceaba,Congonhas,7,13.1,313540,311800
+Jeceaba,Conselheiro Lafaiete,2,24.7,313540,311830
+Jeceaba,Jeceaba,1,0.0,313540,313540
+Jenipapo de Minas,Araçuaí,4,32.9,313545,310340
+Jenipapo de Minas,Belo Horizonte,5,362.0,313545,310620
+Jenipapo de Minas,Gouveia,1,218.9,313545,312760
+Jenipapo de Minas,Itamarandiba,1,107.0,313545,313250
+Jenipapo de Minas,Minas Novas,1,38.7,313545,314180
+Jequeri,Abre Campo,1,25.9,313550,310030
+Jequeri,Belo Horizonte,3,145.0,313550,310620
+Jequeri,Muriaé,2,81.1,313550,314390
+Jequeri,Ponte Nova,22,25.6,313550,315210
+Jequeri,Rio Casca,1,25.3,313550,315490
+Jequitaí,Coração de Jesus,1,61.0,313560,311880
+Jequitaí,Montes Claros,18,82.3,313560,314330
+Jequitaí,Pirapora,6,55.5,313560,315120
+Jequitibá,Belo Horizonte,12,76.9,313570,310620
+Jequitibá,Sete Lagoas,14,34.2,313570,316720
+Jequitinhonha,Belo Horizonte,14,496.5,313580,310620
+Jequitinhonha,Governador Valadares,1,287.5,313580,312770
+Jequitinhonha,Itaobim,8,55.1,313580,313330
+Jequitinhonha,Jequitinhonha,20,0.0,313580,313580
+Jequitinhonha,Pedra Azul,5,55.9,313580,314870
+Jequitinhonha,Teófilo Otoni,18,167.9,313580,316860
+Jesuânia,Itanhandu,3,49.1,313590,313310
+Jesuânia,Pouso Alegre,1,71.4,313590,315250
+Jesuânia,São Lourenço,8,27.6,313590,316370
+Jesuânia,Varginha,3,51.4,313590,317070
+Joaíma,Belo Horizonte,8,475.9,313600,310620
+Joaíma,Governador Valadares,3,263.6,313600,312770
+Joaíma,Ipatinga,1,351.9,313600,313130
+Joaíma,Pedra Azul,6,77.1,313600,314870
+Joaíma,Teófilo Otoni,14,143.9,313600,316860
+Joanésia,Belo Horizonte,1,155.7,313610,310620
+Joanésia,Ipatinga,41,37.6,313610,313130
+Joanésia,Itanhomi,10,85.7,313610,313320
+Joanésia,Serro,1,97.2,313610,316710
+João Monlevade,Belo Horizonte,120,80.5,313620,310620
+João Monlevade,Igarapé,1,121.2,313620,313010
+João Monlevade,Itabira,48,21.2,313620,313170
+João Monlevade,João Monlevade,147,0.0,313620,313620
+João Pinheiro,Belo Horizonte,29,338.3,313630,310620
+João Pinheiro,Curvelo,1,216.0,313630,312090
+João Pinheiro,Itanhomi,1,481.6,313630,313320
+João Pinheiro,João Pinheiro,79,0.0,313630,313630
+João Pinheiro,Patos de Minas,34,102.4,313630,314800
+João Pinheiro,Uberaba,4,291.4,313630,317010
+João Pinheiro,Uberlândia,1,255.6,313630,317020
+Joaquim Felício,Bocaiúva,1,81.6,313640,310730
+Joaquim Felício,Montes Claros,6,118.7,313640,314330
+Jordânia,Almenara,2,64.8,313650,310170
+Jordânia,Governador Valadares,1,378.8,313650,312770
+Jordânia,Jacinto,1,29.9,313650,313470
+Jordânia,Jordânia,1,0.0,313650,313650
+Jordânia,Pedra Azul,4,118.4,313650,314870
+Jordânia,Teófilo Otoni,5,260.4,313650,316860
+José Gonçalves de Minas,Belo Horizonte,6,363.5,313652,310620
+José Gonçalves de Minas,Capelinha,1,87.7,313652,311230
+José Gonçalves de Minas,Diamantina,2,182.1,313652,312160
+José Gonçalves de Minas,Turmalina,1,44.2,313652,316970
+José Raydan,Belo Horizonte,2,242.3,313655,310620
+José Raydan,Governador Valadares,1,91.7,313655,312770
+José Raydan,Peçanha,6,36.9,313655,314860
+José Raydan,Santa Maria do Suaçuí,3,9.1,313655,315820
+Josenópolis,Francisco Sá,3,104.2,313657,312670
+Josenópolis,Montes Claros,3,145.9,313657,314330
+Nova União,Belo Horizonte,13,45.5,313660,310620
+Nova União,Caeté,3,25.1,313660,311000
+Juatuba,Belo Horizonte,46,42.5,313665,310620
+Juatuba,Betim,21,14.1,313665,310670
+Juiz de Fora,Belo Horizonte,3,213.0,313670,310620
+Juiz de Fora,Juiz de Fora,2706,0.0,313670,313670
+Juramento,Montes Claros,22,33.0,313680,314330
+Juruaia,Alfenas,6,67.8,313690,310160
+Juruaia,Juruaia,4,0.0,313690,313690
+Juruaia,Passos,13,59.4,313690,314790
+Juruaia,Poço Fundo,2,86.7,313690,315170
+Juvenília,Manga,6,59.4,313695,313930
+Juvenília,Montes Claros,9,275.4,313695,314330
+Ladainha,Ataléia,11,80.9,313700,310470
+Ladainha,Governador Valadares,3,138.1,313700,312770
+Ladainha,Ipatinga,2,221.5,313700,313130
+Ladainha,Itabirinha,2,117.1,313700,313180
+Ladainha,Itambacuri,23,44.9,313700,313270
+Ladainha,Ladainha,3,0.0,313700,313700
+Ladainha,Padre Paraíso,1,67.5,313700,314630
+Ladainha,Teófilo Otoni,32,35.8,313700,316860
+Lagamar,Belo Horizonte,2,358.7,313710,310620
+Lagamar,Lagamar,1,0.0,313710,313710
+Lagamar,Patos de Minas,21,56.8,313710,314800
+Lagamar,Uberaba,4,212.1,313710,317010
+Lagamar,Vazante,5,23.2,313710,317100
+Lagoa da Prata,Belo Horizonte,13,168.4,313720,310620
+Lagoa da Prata,Divinópolis,116,68.1,313720,312230
+Lagoa da Prata,Lagoa da Prata,24,0.0,313720,313720
+Lagoa da Prata,Santo Antônio do Monte,1,27.3,313720,316040
+Lagoa dos Patos,Coração de Jesus,3,40.1,313730,311880
+Lagoa dos Patos,Montes Claros,6,80.5,313730,314330
+Lagoa Dourada,Barbacena,3,46.4,313740,310560
+Lagoa Dourada,Barroso,3,31.8,313740,310590
+Lagoa Dourada,Belo Horizonte,7,111.2,313740,310620
+Lagoa Dourada,Carandaí,1,28.0,313740,311320
+Lagoa Dourada,São João del Rei,44,31.2,313740,316250
+Lagoa Formosa,Belo Horizonte,13,288.7,313750,310620
+Lagoa Formosa,Lagoa Formosa,17,0.0,313750,313750
+Lagoa Formosa,Patos de Minas,39,22.1,313750,314800
+Lagoa Grande,Belo Horizonte,12,357.5,313753,310620
+Lagoa Grande,Patos de Minas,22,85.4,313753,314800
+Lagoa Grande,São Gotardo,1,171.3,313753,316210
+Lagoa Santa,Belo Horizonte,228,33.3,313760,310620
+Lagoa Santa,Lagoa Santa,119,0.0,313760,313760
+Lajinha,Belo Horizonte,1,242.9,313770,310620
+Lajinha,Lajinha,2,0.0,313770,313770
+Lajinha,Matipó,7,76.3,313770,314090
+Lajinha,Muriaé,53,133.5,313770,314390
+Lajinha,Mutum,2,42.1,313770,314400
+Lajinha,Sabinópolis,1,225.2,313770,315680
+Lajinha,Santa Margarida,1,70.3,313770,315790
+Lajinha,Viçosa,1,147.1,313770,317130
+Lambari,Baependi,1,47.3,313780,310490
+Lambari,Conceição do Rio Verde,1,28.8,313780,311770
+Lambari,Lambari,47,0.0,313780,313780
+Lambari,Machado,3,67.4,313780,313900
+Lambari,Paraguaçu,1,62.1,313780,314720
+Lambari,São Lourenço,15,34.3,313780,316370
+Lambari,Três Corações,1,32.0,313780,316930
+Lambari,Varginha,25,47.3,313780,317070
+Lamim,Barbacena,3,57.5,313790,310560
+Lamim,Belo Horizonte,4,108.0,313790,310620
+Laranjal,Juiz de Fora,1,99.6,313800,313670
+Laranjal,Muriaé,54,28.5,313800,314390
+Laranjal,Raul Soares,5,140.3,313800,315400
+Lassance,Belo Horizonte,2,236.3,313810,310620
+Lassance,Montes Claros,21,148.8,313810,314330
+Lassance,Pirapora,9,71.4,313810,315120
+Lavras,Belo Horizonte,6,184.0,313820,310620
+Lavras,Itanhandu,2,117.0,313820,313310
+Lavras,Lavras,353,0.0,313820,313820
+Lavras,Perdões,10,19.4,313820,314990
+Lavras,Pouso Alegre,1,146.2,313820,315250
+Lavras,Varginha,49,56.7,313820,317070
+Leandro Ferreira,Divinópolis,3,51.7,313830,312230
+Leandro Ferreira,Itaúna,2,61.3,313830,313380
+Leandro Ferreira,Pará de Minas,1,46.4,313830,314710
+Leme do Prado,Belo Horizonte,9,342.0,313835,310620
+Leme do Prado,Turmalina,6,23.2,313835,316970
+Leopoldina,Juiz de Fora,10,76.7,313840,313670
+Leopoldina,Leopoldina,24,0.0,313840,313840
+Leopoldina,Muriaé,264,53.0,313840,314390
+Liberdade,Aiuruoca,5,30.0,313850,310120
+Liberdade,Baependi,2,59.3,313850,310490
+Liberdade,Belo Horizonte,1,237.3,313850,310620
+Liberdade,Juiz de Fora,3,105.0,313850,313670
+Lima Duarte,Belo Horizonte,1,213.5,313860,310620
+Lima Duarte,Juiz de Fora,52,47.1,313860,313670
+Lima Duarte,Lima Duarte,19,0.0,313860,313860
+Limeira do Oeste,Frutal,4,179.6,313862,312710
+Limeira do Oeste,Uberaba,10,275.8,313862,317010
+Lontra,Brasília de Minas,7,36.8,313865,310860
+Lontra,Januária,2,46.5,313865,313520
+Lontra,Mirabela,2,42.2,313865,314200
+Lontra,Montes Claros,10,102.9,313865,314330
+Luisburgo,Belo Horizonte,2,199.9,313867,310620
+Luisburgo,Carangola,2,33.6,313867,311330
+Luisburgo,Manhumirim,1,17.8,313867,313950
+Luisburgo,Matipó,1,30.3,313867,314090
+Luisburgo,Muriaé,14,81.6,313867,314390
+Luisburgo,Santa Margarida,1,16.7,313867,315790
+Luisburgo,Tarumirim,2,129.1,313867,316840
+Luislândia,Brasília de Minas,10,19.0,313868,310860
+Luislândia,Coração de Jesus,1,67.5,313868,311880
+Luislândia,Montes Claros,10,102.0,313868,314330
+Luislândia,São João da Ponte,1,65.0,313868,316240
+Luminárias,Lavras,7,31.2,313870,313820
+Luminárias,Santo Antônio do Amparo,1,62.7,313870,315990
+Luminárias,Varginha,4,55.0,313870,317070
+Luz,Belo Horizonte,7,183.5,313880,310620
+Luz,Divinópolis,22,90.8,313880,312230
+Luz,Luz,35,0.0,313880,313880
+Luz,Oliveira,4,133.9,313880,314560
+Machacalis,Águas Formosas,1,23.0,313890,310090
+Machacalis,Belo Horizonte,1,463.9,313890,310620
+Machacalis,Governador Valadares,1,236.7,313890,312770
+Machacalis,Ipatinga,1,328.3,313890,313130
+Machacalis,Machacalis,7,0.0,313890,313890
+Machacalis,Teófilo Otoni,17,121.1,313890,316860
+Machado,Alfenas,39,28.5,313900,310160
+Machado,Machado,37,0.0,313900,313900
+Machado,Paraguaçu,1,23.9,313900,314720
+Machado,Passos,3,128.6,313900,314790
+Machado,Poço Fundo,1,12.8,313900,315170
+Machado,Poços de Caldas,1,68.1,313900,315180
+Madre de Deus de Minas,Barroso,2,49.2,313910,310590
+Madre de Deus de Minas,Belo Horizonte,2,178.1,313910,310620
+Madre de Deus de Minas,Cruzília,2,63.7,313910,312080
+Madre de Deus de Minas,Juiz de Fora,3,106.4,313910,313670
+Madre de Deus de Minas,São João del Rei,11,39.2,313910,316250
+Madre de Deus de Minas,São Vicente de Minas,1,27.0,313910,316530
+Malacacheta,Belo Horizonte,3,302.8,313920,310620
+Malacacheta,Governador Valadares,1,113.7,313920,312770
+Malacacheta,Ipatinga,3,187.9,313920,313130
+Malacacheta,Malacacheta,76,0.0,313920,313920
+Malacacheta,Teófilo Otoni,30,60.5,313920,316860
+Mamonas,Janaúba,2,91.6,313925,313510
+Mamonas,Monte Azul,7,14.4,313925,314290
+Mamonas,Montes Claros,15,211.3,313925,314330
+Manga,Belo Horizonte,1,574.6,313930,310620
+Manga,Brasília de Minas,1,170.2,313930,310860
+Manga,Januária,1,93.5,313930,313520
+Manga,Manga,46,0.0,313930,313930
+Manga,Montes Claros,30,219.6,313930,314330
+Manhuaçu,Belo Horizonte,18,202.1,313940,310620
+Manhuaçu,Igarapé,1,237.7,313940,313010
+Manhuaçu,Itabirinha,2,205.6,313940,313180
+Manhuaçu,Manhuaçu,78,0.0,313940,313940
+Manhuaçu,Matipó,1,32.3,313940,314090
+Manhuaçu,Muriaé,260,103.0,313940,314390
+Manhuaçu,Rio Casca,1,64.5,313940,315490
+Manhumirim,Conselheiro Pena,4,140.6,313950,311840
+Manhumirim,Espera Feliz,2,33.8,313950,312420
+Manhumirim,Manhuaçu,1,13.0,313950,313940
+Manhumirim,Manhumirim,14,0.0,313950,313950
+Manhumirim,Muriaé,69,96.4,313950,314390
+Mantena,Belo Horizonte,3,334.9,313960,310620
+Mantena,Governador Valadares,39,101.7,313960,312770
+Mantena,Itabirinha,2,35.7,313960,313180
+Mantena,Mantena,46,0.0,313960,313960
+Mantena,Peçanha,1,168.3,313960,314860
+Maravilhas,Belo Horizonte,13,90.0,313970,310620
+Maravilhas,Pará de Minas,3,39.3,313970,314710
+Maravilhas,Sete Lagoas,11,45.6,313970,316720
+Mar de Espanha,Belo Horizonte,4,236.6,313980,310620
+Mar de Espanha,Juiz de Fora,49,36.6,313980,313670
+Mar de Espanha,Mar de Espanha,7,0.0,313980,313980
+Maria da Fé,Itajubá,11,15.4,313990,313240
+Maria da Fé,Poços de Caldas,6,136.1,313990,315180
+Maria da Fé,Pouso Alegre,2,58.5,313990,315250
+Maria da Fé,Santa Rita do Sapucaí,2,34.5,313990,315960
+Mariana,Belo Horizonte,113,74.0,314000,310620
+Mariana,Mariana,52,0.0,314000,314000
+Mariana,Ouro Preto,1,9.0,314000,314610
+Mariana,Ponte Nova,1,53.2,314000,315210
+Mariana,Viçosa,1,69.7,314000,317130
+Marilac,Governador Valadares,13,41.7,314010,312770
+Marilac,Itabirinha,4,89.6,314010,313180
+Marilac,Itanhomi,2,77.4,314010,313320
+Marilac,Muriaé,1,293.0,314010,314390
+Mário Campos,Belo Horizonte,34,29.7,314015,310620
+Mário Campos,Betim,5,9.0,314015,310670
+Mário Campos,Brumadinho,1,11.6,314015,310900
+Maripá de Minas,Bicas,1,10.8,314020,310690
+Maripá de Minas,Juiz de Fora,6,40.2,314020,313670
+Marliéria,Belo Horizonte,1,127.9,314030,310620
+Marliéria,Belo Oriente,2,60.5,314030,310630
+Marliéria,Ipatinga,14,33.7,314030,313130
+Marliéria,Timóteo,1,17.8,314030,316870
+Marmelópolis,Baependi,1,61.3,314040,310490
+Marmelópolis,Poço Fundo,1,110.7,314040,315170
+Marmelópolis,Pouso Alegre,1,83.0,314040,315250
+Martinho Campos,Belo Horizonte,1,151.3,314050,310620
+Martinho Campos,Bom Despacho,4,45.2,314050,310740
+Martinho Campos,Divinópolis,17,99.3,314050,312230
+Martinho Campos,Oliveira,2,157.8,314050,314560
+Martins Soares,Belo Oriente,1,131.4,314053,310630
+Martins Soares,Bom Jesus do Galho,3,66.2,314053,310780
+Martins Soares,Manhumirim,1,13.5,314053,313950
+Martins Soares,Matipó,37,48.5,314053,314090
+Martins Soares,Muriaé,43,109.6,314053,314390
+Martins Soares,Raul Soares,1,62.5,314053,315400
+Martins Soares,Tarumirim,1,109.3,314053,316840
+Mata Verde,Belo Horizonte,1,580.1,314055,310620
+Mata Verde,Governador Valadares,1,375.3,314055,312770
+Mata Verde,Medina,5,99.2,314055,314140
+Mata Verde,Teófilo Otoni,4,255.7,314055,316860
+Materlândia,Belo Horizonte,4,185.7,314060,310620
+Materlândia,Guanhães,1,36.0,314060,312800
+Materlândia,Itabira,2,129.1,314060,313170
+Materlândia,Sabinópolis,5,21.5,314060,315680
+Materlândia,São João Evangelista,2,32.1,314060,316280
+Mateus Leme,Belo Horizonte,56,52.0,314070,310620
+Mateus Leme,Betim,20,23.2,314070,310670
+Mateus Leme,Mateus Leme,11,0.0,314070,314070
+Mateus Leme,Montes Claros,1,366.9,314070,314330
+Mateus Leme,Pará de Minas,2,23.4,314070,314710
+Matias Barbosa,Juiz de Fora,83,12.7,314080,313670
+Matias Cardoso,Janaúba,1,123.9,314085,313510
+Matias Cardoso,Montes Claros,13,208.6,314085,314330
+Matipó,Abre Campo,2,14.3,314090,310030
+Matipó,Belo Horizonte,6,171.3,314090,310620
+Matipó,Belo Oriente,2,119.1,314090,310630
+Matipó,Bom Jesus do Galho,2,50.8,314090,310780
+Matipó,Carangola,5,59.5,314090,311330
+Matipó,Manhumirim,1,40.5,314090,313950
+Matipó,Matipó,86,0.0,314090,314090
+Matipó,Muriaé,89,93.8,314090,314390
+Mato Verde,Janaúba,5,65.3,314100,313510
+Mato Verde,Monte Azul,1,27.3,314100,314290
+Mato Verde,Montes Claros,18,183.3,314100,314330
+Mato Verde,Porteirinha,2,42.7,314100,315220
+Matozinhos,Belo Horizonte,183,43.4,314110,310620
+Matozinhos,Matozinhos,13,0.0,314110,314110
+Matozinhos,Pedro Leopoldo,1,8.1,314110,314930
+Matozinhos,Santa Luzia,2,33.8,314110,315780
+Matutina,Patos de Minas,3,89.0,314120,314800
+Matutina,São Gotardo,2,12.7,314120,316210
+Medeiros,Bambuí,1,25.4,314130,310510
+Medeiros,Belo Horizonte,2,238.9,314130,310620
+Medeiros,Divinópolis,8,138.2,314130,312230
+Medeiros,Oliveira,1,164.9,314130,314560
+Medina,Belo Horizonte,15,486.4,314140,310620
+Medina,Governador Valadares,1,297.0,314140,312770
+Medina,Ipatinga,1,378.5,314140,313130
+Medina,Itaobim,13,37.5,314140,313330
+Medina,Medina,39,0.0,314140,314140
+Medina,Teófilo Otoni,9,182.3,314140,316860
+Mendes Pimentel,Belo Horizonte,5,300.9,314150,310620
+Mendes Pimentel,Governador Valadares,9,61.3,314150,312770
+Mendes Pimentel,Itabirinha,2,20.4,314150,313180
+Mendes Pimentel,Mendes Pimentel,15,0.0,314150,314150
+Mercês,Juiz de Fora,5,62.6,314160,313670
+Mercês,Mercês,11,0.0,314160,314160
+Mercês,Muriaé,20,101.0,314160,314390
+Mercês,São João del Rei,5,95.4,314160,316250
+Mercês,Ubá,1,42.2,314160,316990
+Mesquita,Ipatinga,23,30.0,314170,313130
+Minas Novas,Belo Horizonte,52,332.5,314180,310620
+Minas Novas,Capelinha,5,53.5,314180,311230
+Minas Novas,Diamantina,2,156.0,314180,312160
+Minas Novas,Gouveia,1,183.5,314180,312760
+Minas Novas,Manga,1,308.8,314180,313930
+Minas Novas,Minas Novas,40,0.0,314180,314180
+Minas Novas,Turmalina,3,16.5,314180,316970
+Minduri,Cruzília,1,28.1,314190,312080
+Minduri,Itanhandu,1,76.6,314190,313310
+Minduri,Poço Fundo,3,141.6,314190,315170
+Minduri,São Lourenço,4,67.0,314190,316370
+Minduri,Varginha,3,87.3,314190,317070
+Mirabela,Coração de Jesus,1,52.6,314200,311880
+Mirabela,Mirabela,10,0.0,314200,314200
+Mirabela,Montes Claros,34,61.0,314200,314330
+Miradouro,Divino,5,36.8,314210,312200
+Miradouro,Espera Feliz,1,52.4,314210,312420
+Miradouro,Muriaé,70,26.6,314210,314390
+Miraí,Juiz de Fora,1,98.2,314220,313670
+Miraí,Muriaé,68,26.2,314220,314390
+Miraí,Tarumirim,1,222.0,314220,316840
+Miraí,Visconde do Rio Branco,1,31.3,314220,317200
+Miravânia,Manga,1,51.3,314225,313930
+Miravânia,Montes Claros,14,227.9,314225,314330
+Moeda,Belo Horizonte,19,46.9,314230,310620
+Moeda,Belo Vale,1,9.3,314230,310640
+Moeda,Nova Lima,1,44.0,314230,314480
+Moema,Belo Horizonte,2,154.8,314240,310620
+Moema,Bom Despacho,2,20.7,314240,310740
+Moema,Divinópolis,17,64.0,314240,312230
+Moema,Moema,8,0.0,314240,314240
+Moema,Oliveira,3,112.9,314240,314560
+Moema,Pará de Minas,1,84.4,314240,314710
+Monjolos,Belo Horizonte,3,178.9,314250,310620
+Monjolos,Curvelo,4,57.7,314250,312090
+Monjolos,Sete Lagoas,1,127.6,314250,316720
+Monsenhor Paulo,Alfenas,1,56.2,314260,310160
+Monsenhor Paulo,Itanhandu,3,86.4,314260,313310
+Monsenhor Paulo,Machado,2,40.0,314260,313900
+Monsenhor Paulo,Monsenhor Paulo,2,0.0,314260,314260
+Monsenhor Paulo,Pouso Alegre,1,66.5,314260,315250
+Monsenhor Paulo,Varginha,8,25.0,314260,317070
+Montalvânia,Belo Horizonte,1,613.5,314270,310620
+Montalvânia,Brasília de Minas,1,198.9,314270,310860
+Montalvânia,Montalvânia,12,0.0,314270,314270
+Montalvânia,Montes Claros,16,262.2,314270,314330
+Monte Alegre de Minas,Araguari,2,74.4,314280,310350
+Monte Alegre de Minas,Ituiutaba,1,64.1,314280,313420
+Monte Alegre de Minas,Monte Alegre de Minas,32,0.0,314280,314280
+Monte Alegre de Minas,Uberlândia,16,64.3,314280,317020
+Monte Azul,Curvelo,1,433.1,314290,312090
+Monte Azul,Janaúba,2,85.6,314290,313510
+Monte Azul,Monte Azul,26,0.0,314290,314290
+Monte Azul,Montes Claros,20,205.4,314290,314330
+Monte Belo,Alfenas,16,44.7,314300,310160
+Monte Belo,Alterosa,4,24.9,314300,310200
+Monte Belo,Machado,1,60.8,314300,313900
+Monte Belo,Monte Belo,1,0.0,314300,314300
+Monte Belo,Poço Fundo,1,65.9,314300,315170
+Monte Carmelo,Araguari,1,74.4,314310,310350
+Monte Carmelo,Belo Horizonte,1,396.5,314310,310620
+Monte Carmelo,Monte Carmelo,107,0.0,314310,314310
+Monte Carmelo,Patrocínio,13,58.7,314310,314810
+Monte Carmelo,Uberaba,2,123.0,314310,317010
+Monte Carmelo,Uberlândia,21,82.5,314310,317020
+Monte Formoso,Itaobim,2,42.9,314315,313330
+Monte Formoso,Teófilo Otoni,7,114.2,314315,316860
+Monte Santo de Minas,Alfenas,2,109.9,314320,310160
+Monte Santo de Minas,Monte Santo de Minas,21,0.0,314320,314320
+Monte Santo de Minas,Passos,31,65.0,314320,314790
+Monte Santo de Minas,Poço Fundo,1,124.1,314320,315170
+Monte Santo de Minas,São Sebastião do Paraíso,3,30.4,314320,316470
+Montes Claros,Belo Horizonte,46,355.1,314330,310620
+Montes Claros,Montes Claros,1451,0.0,314330,314330
+Montes Claros,Pirapora,1,133.7,314330,315120
+Monte Sião,Camanducaia,1,56.7,314340,311050
+Monte Sião,Ouro Fino,2,26.5,314340,314600
+Monte Sião,Poço Fundo,13,95.0,314340,315170
+Monte Sião,Poços de Caldas,1,71.7,314340,315180
+Monte Sião,Pouso Alegre,24,68.9,314340,315250
+Montezuma,Montes Claros,5,227.1,314345,314330
+Montezuma,Taiobeiras,6,76.8,314345,316800
+Morada Nova de Minas,Belo Horizonte,12,209.0,314350,310620
+Morada Nova de Minas,Morada Nova de Minas,10,0.0,314350,314350
+Morada Nova de Minas,Pompéu,1,78.8,314350,315200
+Morada Nova de Minas,Sete Lagoas,18,150.9,314350,316720
+Morro da Garça,Curvelo,18,29.3,314360,312090
+Morro do Pilar,Belo Horizonte,11,98.0,314370,310620
+Morro do Pilar,Itabira,6,48.2,314370,313170
+Munhoz,Pouso Alegre,4,60.9,314380,315250
+Muriaé,Belo Horizonte,2,211.0,314390,310620
+Muriaé,Muriaé,910,0.0,314390,314390
+Mutum,Belo Horizonte,7,261.5,314400,310620
+Mutum,Conselheiro Pena,1,71.7,314400,311840
+Mutum,Manhuaçu,6,79.2,314400,313940
+Mutum,Manhumirim,2,80.6,314400,313950
+Mutum,Muriaé,64,175.3,314400,314390
+Mutum,Mutum,7,0.0,314400,314400
+Mutum,Tarumirim,1,84.2,314400,316840
+Muzambinho,Alfenas,22,59.6,314410,310160
+Muzambinho,Guaxupé,1,20.9,314410,312870
+Muzambinho,Machado,2,71.4,314410,313900
+Muzambinho,Muzambinho,11,0.0,314410,314410
+Muzambinho,Passos,4,72.8,314410,314790
+Nacip Raydan,Governador Valadares,4,54.9,314420,312770
+Nacip Raydan,Itabirinha,1,107.6,314420,313180
+Nacip Raydan,Peçanha,9,34.5,314420,314860
+Nacip Raydan,Tarumirim,1,95.1,314420,316840
+Nanuque,Belo Horizonte,11,442.7,314430,310620
+Nanuque,Carlos Chagas,1,46.1,314430,311370
+Nanuque,Governador Valadares,4,202.9,314430,312770
+Nanuque,Ipatinga,2,293.0,314430,313130
+Nanuque,Nanuque,67,0.0,314430,314430
+Nanuque,Teófilo Otoni,31,122.5,314430,316860
+Naque,Abre Campo,1,120.6,314435,310030
+Naque,Belo Horizonte,3,185.3,314435,310620
+Naque,Belo Oriente,10,16.1,314435,310630
+Naque,Ipatinga,24,35.0,314435,313130
+Natalândia,Patos de Minas,2,233.2,314437,314800
+Natalândia,Unaí,4,46.9,314437,317040
+Natércia,Machado,1,64.4,314440,313900
+Natércia,Pouso Alegre,15,45.3,314440,315250
+Natércia,Santa Rita do Sapucaí,1,24.7,314440,315960
+Nazareno,Barroso,8,66.1,314450,310590
+Nazareno,Belo Horizonte,2,160.2,314450,310620
+Nazareno,Bom Sucesso,1,25.1,314450,310800
+Nazareno,Juiz de Fora,2,144.5,314450,313670
+Nazareno,Lavras,1,40.1,314450,313820
+Nazareno,Nazareno,2,0.0,314450,314450
+Nazareno,São João del Rei,11,37.8,314450,316250
+Nepomuceno,Alfenas,1,77.0,314460,310160
+Nepomuceno,Belo Horizonte,2,198.7,314460,310620
+Nepomuceno,Itanhandu,1,122.1,314460,313310
+Nepomuceno,Lavras,15,24.5,314460,313820
+Nepomuceno,Nepomuceno,41,0.0,314460,314460
+Nepomuceno,Santo Antônio do Amparo,1,45.8,314460,315990
+Nepomuceno,São Lourenço,1,99.8,314460,316370
+Nepomuceno,Varginha,26,41.4,314460,317070
+Ninheira,Montes Claros,12,275.2,314465,314330
+Ninheira,Taiobeiras,9,74.9,314465,316800
+Nova Belém,Governador Valadares,2,97.5,314467,312770
+Nova Belém,Itabirinha,1,16.0,314467,313180
+Nova Belém,Mantena,2,34.3,314467,313960
+Nova Era,Belo Horizonte,19,95.8,314470,310620
+Nova Era,Belo Oriente,7,83.8,314470,310630
+Nova Era,Itabira,12,25.0,314470,313170
+Nova Era,João Monlevade,14,15.5,314470,313620
+Nova Era,Nova Era,3,0.0,314470,314470
+Nova Era,Sabinópolis,1,122.5,314470,315680
+Nova Lima,Belo Horizonte,216,11.6,314480,310620
+Nova Lima,Nova Lima,131,0.0,314480,314480
+Nova Módica,Belo Horizonte,4,304.2,314490,310620
+Nova Módica,Governador Valadares,5,65.7,314490,312770
+Nova Módica,Itambacuri,6,49.7,314490,313270
+Nova Módica,Teófilo Otoni,8,64.3,314490,316860
+Nova Ponte,Araguari,8,80.4,314500,310350
+Nova Ponte,Nova Ponte,6,0.0,314500,314500
+Nova Ponte,Uberlândia,10,67.8,314500,317020
+Nova Porteirinha,Montes Claros,11,119.7,314505,314330
+Nova Resende,Ilicínea,2,65.2,314510,313050
+Nova Resende,Monte Santo de Minas,3,58.4,314510,314320
+Nova Resende,Nova Resende,2,0.0,314510,314510
+Nova Resende,Passos,36,49.4,314510,314790
+Nova Resende,São Sebastião do Paraíso,1,63.6,314510,316470
+Nova Serrana,Belo Horizonte,25,109.8,314520,310620
+Nova Serrana,Betim,2,81.9,314520,310670
+Nova Serrana,Divinópolis,78,33.6,314520,312230
+Nova Serrana,Itaúna,27,48.0,314520,313380
+Nova Serrana,Nova Serrana,32,0.0,314520,314520
+Nova Serrana,Oliveira,3,92.8,314520,314560
+Nova Serrana,Pará de Minas,11,39.5,314520,314710
+Nova Serrana,Teófilo Otoni,1,428.7,314520,316860
+Novo Cruzeiro,Belo Horizonte,6,348.6,314530,310620
+Novo Cruzeiro,Governador Valadares,8,154.9,314530,312770
+Novo Cruzeiro,Itambacuri,13,66.1,314530,313270
+Novo Cruzeiro,Muriaé,3,410.3,314530,314390
+Novo Cruzeiro,Novo Cruzeiro,1,0.0,314530,314530
+Novo Cruzeiro,Padre Paraíso,4,60.4,314530,314630
+Novo Cruzeiro,Pedra Azul,1,174.6,314530,314870
+Novo Cruzeiro,Tarumirim,16,202.2,314530,316840
+Novo Cruzeiro,Teófilo Otoni,35,59.2,314530,316860
+Novo Oriente de Minas,Itambacuri,1,84.6,314535,313270
+Novo Oriente de Minas,Teófilo Otoni,29,58.7,314535,316860
+Novorizonte,Montes Claros,3,175.0,314537,314330
+Novorizonte,Salinas,9,21.1,314537,315700
+Novorizonte,Taiobeiras,8,29.7,314537,316800
+Olaria,Belo Horizonte,9,215.3,314540,310620
+Olaria,Juiz de Fora,7,62.2,314540,313670
+Olaria,Lima Duarte,1,15.1,314540,313860
+Olhos-d'Água,Bocaiúva,4,41.4,314545,310730
+Olhos-d'Água,Montes Claros,5,80.8,314545,314330
+Olímpio Noronha,Itanhandu,1,42.0,314550,313310
+Olímpio Noronha,São Lourenço,9,22.3,314550,316370
+Olímpio Noronha,Varginha,2,59.7,314550,317070
+Oliveira,Belo Horizonte,8,126.7,314560,310620
+Oliveira,Divinópolis,54,59.2,314560,312230
+Oliveira,Lagoa da Prata,1,105.8,314560,313720
+Oliveira,Oliveira,121,0.0,314560,314560
+Oliveira,Santo Antônio do Amparo,2,29.4,314560,315990
+Oliveira Fortes,Juiz de Fora,8,48.0,314570,313670
+Oliveira Fortes,Santos Dumont,2,16.4,314570,316070
+Onça de Pitangui,Belo Horizonte,2,93.6,314580,310620
+Onça de Pitangui,Divinópolis,4,50.1,314580,312230
+Onça de Pitangui,Itaúna,4,45.1,314580,313380
+Onça de Pitangui,Pará de Minas,3,25.3,314580,314710
+Onça de Pitangui,Santo Antônio do Monte,1,64.3,314580,316040
+Oratórios,Belo Horizonte,1,130.8,314585,310620
+Oratórios,Muriaé,2,89.7,314585,314390
+Oratórios,Ponte Nova,10,10.9,314585,315210
+Oratórios,Raul Soares,2,52.0,314585,315400
+Orizânia,Belo Horizonte,1,191.9,314587,310620
+Orizânia,Carangola,11,31.2,314587,311330
+Orizânia,Muriaé,38,71.3,314587,314390
+Ouro Branco,Belo Horizonte,63,71.1,314590,310620
+Ouro Branco,Congonhas,5,17.7,314590,311800
+Ouro Branco,Igarapé,1,81.0,314590,313010
+Ouro Branco,Ouro Branco,78,0.0,314590,314590
+Ouro Fino,Itajubá,1,95.6,314600,313240
+Ouro Fino,Machado,1,81.5,314600,313900
+Ouro Fino,Ouro Fino,61,0.0,314600,314600
+Ouro Fino,Pouso Alegre,38,45.0,314600,315250
+Ouro Fino,Santa Rita do Sapucaí,1,68.5,314600,315960
+Ouro Preto,Belo Horizonte,155,68.4,314610,310620
+Ouro Preto,Itabirito,1,34.1,314610,313190
+Ouro Preto,Ouro Preto,68,0.0,314610,314610
+Ouro Verde de Minas,Ataléia,16,17.0,314620,310470
+Ouro Verde de Minas,Governador Valadares,4,113.1,314620,312770
+Ouro Verde de Minas,Teófilo Otoni,24,33.9,314620,316860
+Padre Carvalho,Montes Claros,2,150.1,314625,314330
+Padre Carvalho,Salinas,5,32.3,314625,315700
+Padre Carvalho,Taiobeiras,1,68.6,314625,316800
+Padre Paraíso,Belo Horizonte,14,408.8,314630,310620
+Padre Paraíso,Governador Valadares,1,204.1,314630,312770
+Padre Paraíso,Ipatinga,3,289.1,314630,313130
+Padre Paraíso,Padre Paraíso,10,0.0,314630,314630
+Padre Paraíso,Teófilo Otoni,36,87.7,314630,316860
+Paineiras,Abaeté,1,29.8,314640,310020
+Paineiras,Belo Horizonte,6,202.6,314640,310620
+Paineiras,Bom Despacho,1,97.5,314640,310740
+Paineiras,Sete Lagoas,7,149.3,314640,316720
+Pains,Arcos,1,15.9,314650,310420
+Pains,Bambuí,1,51.8,314650,310510
+Pains,Bom Despacho,1,82.4,314650,310740
+Pains,Divinópolis,3,81.5,314650,312230
+Pains,Formiga,1,26.5,314650,312610
+Pains,Luz,1,63.3,314650,313880
+Pains,Pains,10,0.0,314650,314650
+Pains,Passos,8,106.0,314650,314790
+Pai Pedro,Janaúba,5,39.0,314655,313510
+Pai Pedro,Montes Claros,17,158.3,314655,314330
+Pai Pedro,Porteirinha,5,24.0,314655,315220
+Paiva,Barbacena,7,37.8,314660,310560
+Paiva,Juiz de Fora,1,52.6,314660,313670
+Palma,Juiz de Fora,3,114.2,314670,313670
+Palma,Muriaé,56,28.3,314670,314390
+Palma,Palma,2,0.0,314670,314670
+Palmópolis,Belo Horizonte,2,512.9,314675,310620
+Palmópolis,Felisburgo,2,37.9,314675,312560
+Palmópolis,Ipatinga,2,377.4,314675,313130
+Palmópolis,Medina,1,126.4,314675,314140
+Palmópolis,Pedra Azul,1,122.6,314675,314870
+Palmópolis,Teófilo Otoni,6,170.3,314675,316860
+Papagaios,Belo Horizonte,17,100.0,314690,310620
+Papagaios,Bom Despacho,2,61.8,314690,310740
+Papagaios,Pará de Minas,3,48.0,314690,314710
+Papagaios,Pompéu,5,36.1,314690,315200
+Papagaios,Sete Lagoas,24,52.7,314690,316720
+Paracatu,Belo Horizonte,24,431.6,314700,310620
+Paracatu,Paracatu,79,0.0,314700,314700
+Paracatu,Patos de Minas,51,157.3,314700,314800
+Paracatu,Uberaba,1,300.6,314700,317010
+Paracatu,Unaí,1,97.9,314700,317040
+Pará de Minas,Belo Horizonte,23,70.6,314710,310620
+Pará de Minas,Divinópolis,134,46.9,314710,312230
+Pará de Minas,Itaúna,39,24.0,314710,313380
+Pará de Minas,Nova Serrana,1,39.5,314710,314520
+Pará de Minas,Oliveira,7,95.9,314710,314560
+Pará de Minas,Pará de Minas,206,0.0,314710,314710
+Paraguaçu,Alfenas,19,25.9,314720,310160
+Paraguaçu,Machado,2,23.9,314720,313900
+Paraguaçu,Paraguaçu,6,0.0,314720,314720
+Paraguaçu,Poço Fundo,1,35.5,314720,315170
+Paraguaçu,Varginha,2,31.4,314720,317070
+Paraisópolis,Itajubá,10,36.3,314730,313240
+Paraisópolis,Paraisópolis,11,0.0,314730,314730
+Paraisópolis,Poços de Caldas,17,117.4,314730,315180
+Paraisópolis,Pouso Alegre,6,38.9,314730,315250
+Paraopeba,Belo Horizonte,45,87.2,314740,310620
+Paraopeba,Bom Despacho,1,102.6,314740,310740
+Paraopeba,Sete Lagoas,55,26.9,314740,316720
+Passabém,Itabira,3,31.5,314750,313170
+Passa Quatro,Baependi,1,48.5,314760,310490
+Passa Quatro,Belo Horizonte,2,294.3,314760,310620
+Passa Quatro,Itanhandu,3,10.9,314760,313310
+Passa Quatro,Passa Quatro,376,0.0,314760,314760
+Passa Quatro,São Lourenço,1,31.9,314760,316370
+Passa Quatro,Varginha,16,104.4,314760,317070
+Passa Tempo,Belo Horizonte,4,99.8,314770,310620
+Passa Tempo,Divinópolis,21,68.8,314770,312230
+Passa Tempo,Itaguara,1,28.9,314770,313220
+Passa Tempo,Oliveira,3,34.9,314770,314560
+Passa Tempo,Passa Tempo,12,0.0,314770,314770
+Passa Tempo,Santo Antônio do Amparo,3,54.8,314770,315990
+Passa Vinte,Aiuruoca,4,46.1,314780,310120
+Passa Vinte,Bom Jardim de Minas,3,29.3,314780,310750
+Passa Vinte,Juiz de Fora,16,104.7,314780,313670
+Passos,Alfenas,2,104.2,314790,310160
+Passos,Belo Horizonte,1,292.5,314790,310620
+Passos,Passos,437,0.0,314790,314790
+Patis,Brasília de Minas,2,40.4,314795,310860
+Patis,Coração de Jesus,2,74.3,314795,311880
+Patis,Mirabela,1,21.7,314795,314200
+Patis,Montes Claros,13,76.1,314795,314330
+Patos de Minas,Belo Horizonte,53,307.4,314800,310620
+Patos de Minas,Patos de Minas,511,0.0,314800,314800
+Patos de Minas,Uberaba,3,197.7,314800,317010
+Patrocínio,Araguari,1,131.6,314810,310350
+Patrocínio,Belo Horizonte,1,338.0,314810,310620
+Patrocínio,Patos de Minas,1,62.9,314810,314800
+Patrocínio,Patrocínio,112,0.0,314810,314810
+Patrocínio,Uberaba,1,135.0,314810,317010
+Patrocínio,Uberlândia,14,133.6,314810,317020
+Patrocínio do Muriaé,Muriaé,51,16.6,314820,314390
+Patrocínio do Muriaé,Uberlândia,1,678.7,314820,317020
+Paula Cândido,Juiz de Fora,1,105.3,314830,313670
+Paula Cândido,Muriaé,13,69.4,314830,314390
+Paula Cândido,Ponte Nova,5,51.4,314830,315210
+Paula Cândido,Viçosa,15,16.9,314830,317130
+Paulistas,Belo Horizonte,3,200.5,314840,310620
+Paulistas,Governador Valadares,2,108.4,314840,312770
+Paulistas,Peçanha,6,35.2,314840,314860
+Paulistas,São João Evangelista,3,17.2,314840,316280
+Pavão,Águas Formosas,3,39.2,314850,310090
+Pavão,Governador Valadares,1,187.6,314850,312770
+Pavão,Ipatinga,1,279.1,314850,313130
+Pavão,Itambacuri,3,98.8,314850,313270
+Pavão,Teófilo Otoni,20,72.4,314850,316860
+Peçanha,Belo Horizonte,7,210.4,314860,310620
+Peçanha,Governador Valadares,12,73.4,314860,312770
+Peçanha,Manhumirim,1,210.1,314860,313950
+Peçanha,Peçanha,213,0.0,314860,314860
+Pedra Azul,Belo Horizonte,7,518.4,314870,310620
+Pedra Azul,Diamantina,1,350.2,314870,312160
+Pedra Azul,Jequitinhonha,1,55.9,314870,313580
+Pedra Azul,Montes Claros,17,288.0,314870,314330
+Pedra Azul,Pedra Azul,153,0.0,314870,314870
+Pedra Azul,Teófilo Otoni,4,208.1,314870,316860
+Pedra Bonita,Belo Horizonte,1,180.6,314875,310620
+Pedra Bonita,Carangola,1,38.8,314875,311330
+Pedra Bonita,Espera Feliz,2,45.9,314875,312420
+Pedra Bonita,Itabirinha,1,245.8,314875,313180
+Pedra Bonita,Manhuaçu,1,42.7,314875,313940
+Pedra Bonita,Matipó,1,26.6,314875,314090
+Pedra Bonita,Muriaé,28,67.4,314875,314390
+Pedra Bonita,Santa Margarida,2,17.4,314875,315790
+Pedra do Anta,Belo Horizonte,1,147.9,314880,310620
+Pedra do Anta,Muriaé,9,68.9,314880,314390
+Pedra do Anta,Ponte Nova,8,28.6,314880,315210
+Pedra do Anta,Viçosa,9,24.6,314880,317130
+Pedra do Indaiá,Divinópolis,4,32.5,314890,312230
+Pedra do Indaiá,Lagoa da Prata,1,43.6,314890,313720
+Pedra do Indaiá,Oliveira,1,63.0,314890,314560
+Pedra do Indaiá,Santo Antônio do Monte,1,20.9,314890,316040
+Pedra Dourada,Carangola,3,17.1,314900,311330
+Pedra Dourada,Muriaé,21,39.7,314900,314390
+Pedralva,Baependi,1,67.2,314910,310490
+Pedralva,Itajubá,5,20.4,314910,313240
+Pedralva,Pedralva,6,0.0,314910,314910
+Pedralva,Poço Fundo,2,72.4,314910,315170
+Pedralva,Poços de Caldas,7,124.4,314910,315180
+Pedralva,Pouso Alegre,3,48.4,314910,315250
+Pedras de Maria da Cruz,Januária,8,13.3,314915,313520
+Pedras de Maria da Cruz,Manga,2,106.3,314915,313930
+Pedras de Maria da Cruz,Montes Claros,12,136.8,314915,314330
+Pedrinópolis,Araxá,1,67.7,314920,310400
+Pedrinópolis,Uberaba,9,77.3,314920,317010
+Pedro Leopoldo,Belo Horizonte,221,35.5,314930,310620
+Pedro Leopoldo,Lagoa Santa,2,15.2,314930,313760
+Pedro Leopoldo,Pedro Leopoldo,58,0.0,314930,314930
+Pedro Teixeira,Juiz de Fora,2,41.6,314940,313670
+Pequeri,Bicas,3,14.5,314950,310690
+Pequeri,Juiz de Fora,8,24.6,314950,313670
+Pequi,Belo Horizonte,17,82.8,314960,310620
+Pequi,Pará de Minas,2,26.3,314960,314710
+Pequi,Sete Lagoas,4,47.5,314960,316720
+Perdigão,Belo Horizonte,5,120.1,314970,310620
+Perdigão,Bom Despacho,1,29.7,314970,310740
+Perdigão,Divinópolis,36,30.2,314970,312230
+Perdigão,Lagoa da Prata,2,48.6,314970,313720
+Perdizes,Belo Horizonte,2,357.4,314980,310620
+Perdizes,Perdizes,2,0.0,314980,314980
+Perdizes,Uberaba,42,81.7,314980,317010
+Perdões,Belo Horizonte,3,176.9,314990,310620
+Perdões,Itanhandu,4,134.8,314990,313310
+Perdões,Lavras,14,19.4,314990,313820
+Perdões,Perdões,29,0.0,314990,314990
+Perdões,Pouso Alegre,1,153.9,314990,315250
+Perdões,Santo Antônio do Amparo,1,24.1,314990,315990
+Perdões,Varginha,18,62.8,314990,317070
+Periquito,Bom Jesus do Galho,3,75.1,314995,310780
+Periquito,Caratinga,6,71.2,314995,311340
+Periquito,Governador Valadares,2,45.4,314995,312770
+Periquito,Ipatinga,13,46.9,314995,313130
+Pescador,Governador Valadares,4,66.8,315000,312770
+Pescador,Itambacuri,6,37.1,315000,313270
+Pescador,Teófilo Otoni,3,55.4,315000,316860
+Piau,Juiz de Fora,15,27.8,315010,313670
+Piedade de Caratinga,Bom Jesus do Galho,3,26.2,315015,310780
+Piedade de Caratinga,Caratinga,9,7.4,315015,311340
+Piedade de Caratinga,Ipatinga,43,56.6,315015,313130
+Piedade de Caratinga,Muriaé,3,155.1,315015,314390
+Piedade de Ponte Nova,Ponte Nova,12,26.3,315020,315210
+Piedade de Ponte Nova,Raul Soares,6,33.5,315020,315400
+Piedade de Ponte Nova,Rio Casca,2,8.9,315020,315490
+Piedade do Rio Grande,Barbacena,5,51.1,315030,310560
+Piedade do Rio Grande,Barroso,2,38.5,315030,310590
+Piedade do Rio Grande,Belo Horizonte,1,173.8,315030,310620
+Piedade do Rio Grande,Juiz de Fora,1,93.4,315030,313670
+Piedade do Rio Grande,Piedade do Rio Grande,2,0.0,315030,315030
+Piedade do Rio Grande,São João del Rei,10,37.6,315030,316250
+Piedade dos Gerais,Belo Horizonte,18,67.8,315040,310620
+Piedade dos Gerais,Betim,7,55.7,315040,310670
+Piedade dos Gerais,Igarapé,1,45.2,315040,313010
+Pimenta,Conceição do Mato Dentro,1,295.9,315050,311750
+Pimenta,Curvelo,1,240.0,315050,312090
+Pimenta,Ilicínea,1,51.0,315050,313050
+Pimenta,Monte Santo de Minas,3,145.7,315050,314320
+Pimenta,Muriaé,1,363.8,315050,314390
+Pimenta,Passos,19,88.3,315050,314790
+Pimenta,Pimenta,2,0.0,315050,315050
+Pimenta,Piumhi,3,16.7,315050,315150
+Pingo-d'Água,Belo Oriente,1,56.7,315053,310630
+Pingo-d'Água,Caratinga,1,29.1,315053,311340
+Pingo-d'Água,Coronel Fabriciano,2,31.7,315053,311940
+Pingo-d'Água,Ipatinga,36,30.3,315053,313130
+Pingo-d'Água,Tarumirim,1,65.2,315053,316840
+Pintópolis,Montes Claros,9,155.2,315057,314330
+Pintópolis,São Francisco,4,32.1,315057,316110
+Piracema,Belo Horizonte,3,86.3,315060,310620
+Piracema,Divinópolis,6,58.6,315060,312230
+Piracema,Itaguara,9,13.1,315060,313220
+Piracema,Itaúna,5,49.5,315060,313380
+Piracema,Santo Antônio do Amparo,1,66.7,315060,315990
+Pirajuba,Uberaba,13,80.3,315070,317010
+Piranga,Barbacena,33,77.7,315080,310560
+Piranga,Belo Horizonte,46,107.6,315080,310620
+Piranga,Congonhas,11,61.6,315080,311800
+Piranga,Conselheiro Lafaiete,1,50.6,315080,311830
+Piranga,Piranga,5,0.0,315080,315080
+Piranga,Ponte Nova,1,50.6,315080,315210
+Piranguçu,Andradas,7,121.8,315090,310260
+Piranguçu,Baependi,1,88.8,315090,310490
+Piranguçu,Itajubá,7,12.2,315090,313240
+Piranguçu,Poços de Caldas,2,137.8,315090,315180
+Piranguçu,Pouso Alegre,1,56.0,315090,315250
+Piranguinho,Andradas,1,113.1,315100,310260
+Piranguinho,Baependi,1,82.4,315100,310490
+Piranguinho,Itajubá,6,8.6,315100,313240
+Piranguinho,Poços de Caldas,4,126.8,315100,315180
+Piranguinho,Pouso Alegre,1,45.7,315100,315250
+Piranguinho,Santa Rita do Sapucaí,1,24.3,315100,315960
+Pirapetinga,Muriaé,102,58.8,315110,314390
+Pirapetinga,Pirapetinga,30,0.0,315110,315110
+Pirapora,Belo Horizonte,10,305.3,315120,310620
+Pirapora,Montes Claros,60,133.7,315120,314330
+Pirapora,Pirapora,135,0.0,315120,315120
+Piraúba,Juiz de Fora,4,62.8,315130,313670
+Piraúba,Muriaé,38,70.0,315130,314390
+Piraúba,Ubá,3,19.5,315130,316990
+Pitangui,Belo Horizonte,3,103.3,315140,310620
+Pitangui,Divinópolis,24,54.3,315140,312230
+Pitangui,Formiga,1,103.6,315140,312610
+Pitangui,Itaúna,6,54.4,315140,313380
+Pitangui,Oliveira,2,113.0,315140,314560
+Pitangui,Pará de Minas,13,35.5,315140,314710
+Pitangui,Pitangui,2,0.0,315140,315140
+Piumhi,Belo Horizonte,5,219.8,315150,310620
+Piumhi,Formiga,1,55.4,315150,312610
+Piumhi,Monte Santo de Minas,3,132.9,315150,314320
+Piumhi,Passos,44,73.1,315150,314790
+Piumhi,Piumhi,34,0.0,315150,315150
+Piumhi,Pouso Alegre,1,196.0,315150,315250
+Piumhi,São Sebastião do Paraíso,6,118.3,315150,316470
+Planura,Frutal,7,27.4,315160,312710
+Planura,Uberaba,15,89.8,315160,317010
+Poço Fundo,Alfenas,19,40.2,315170,310160
+Poço Fundo,Machado,1,12.8,315170,313900
+Poço Fundo,Poço Fundo,16,0.0,315170,315170
+Poço Fundo,Pouso Alegre,1,49.5,315170,315250
+Poços de Caldas,Belo Horizonte,10,343.0,315180,310620
+Poços de Caldas,Caldas,1,24.1,315180,311030
+Poços de Caldas,Poços de Caldas,414,0.0,315180,315180
+Poços de Caldas,Pouso Alegre,1,81.8,315180,315250
+Poços de Caldas,Uberlândia,1,364.9,315180,317020
+Pocrane,Conselheiro Pena,3,52.7,315190,311840
+Pocrane,Ipanema,2,21.7,315190,313120
+Pocrane,Itanhomi,1,55.4,315190,313320
+Pocrane,Muriaé,14,184.3,315190,314390
+Pocrane,Pocrane,1,0.0,315190,315190
+Pompéu,Belo Horizonte,47,135.7,315200,310620
+Pompéu,Pompéu,38,0.0,315200,315200
+Pompéu,Sete Lagoas,26,83.6,315200,316720
+Ponte Nova,Belo Horizonte,7,120.4,315210,310620
+Ponte Nova,Muriaé,35,96.9,315210,314390
+Ponte Nova,Ponte Nova,247,0.0,315210,315210
+Ponto Chique,Montes Claros,3,127.5,315213,314330
+Ponto Chique,Pirapora,4,80.8,315213,315120
+Ponto dos Volantes,Belo Horizonte,4,436.1,315217,310620
+Ponto dos Volantes,Governador Valadares,6,238.7,315217,312770
+Ponto dos Volantes,Medina,13,58.7,315217,314140
+Ponto dos Volantes,Teófilo Otoni,14,123.6,315217,316860
+Porteirinha,Belo Horizonte,2,474.3,315220,310620
+Porteirinha,Janaúba,8,30.4,315220,313510
+Porteirinha,Montes Claros,54,141.7,315220,314330
+Porteirinha,Porteirinha,97,0.0,315220,315220
+Porto Firme,Abre Campo,1,75.4,315230,310030
+Porto Firme,Belo Horizonte,2,121.7,315230,310620
+Porto Firme,Bom Jesus do Galho,1,123.4,315230,310780
+Porto Firme,Muriaé,17,89.8,315230,314390
+Porto Firme,Ponte Nova,15,33.9,315230,315210
+Porto Firme,Viçosa,16,23.0,315230,317130
+Poté,Ataléia,1,76.4,315240,310470
+Poté,Governador Valadares,5,118.3,315240,312770
+Poté,Ipatinga,1,201.9,315240,313130
+Poté,Itambacuri,9,27.6,315240,313270
+Poté,Itanhomi,1,152.2,315240,313320
+Poté,Poté,1,0.0,315240,315240
+Poté,Teófilo Otoni,42,30.4,315240,316860
+Pouso Alegre,Alfenas,1,89.6,315250,310160
+Pouso Alegre,Belo Horizonte,2,329.9,315250,310620
+Pouso Alegre,Itajubá,1,54.2,315250,313240
+Pouso Alegre,Machado,1,61.3,315250,313900
+Pouso Alegre,Poço Fundo,1,49.5,315250,315170
+Pouso Alegre,Pouso Alegre,297,0.0,315250,315250
+Pouso Alegre,Santa Rita do Sapucaí,1,24.0,315250,315960
+Pouso Alto,Itanhandu,2,11.8,315260,313310
+Pouso Alto,Pouso Alto,6,0.0,315260,315260
+Pouso Alto,São Lourenço,7,12.2,315260,316370
+Pouso Alto,Varginha,11,85.5,315260,317070
+Prados,Belo Horizonte,1,127.0,315270,310620
+Prados,Juiz de Fora,1,108.7,315270,313670
+Prados,Machado,1,202.8,315270,313900
+Prados,Prados,2,0.0,315270,315270
+Prados,Resende Costa,1,22.4,315270,315420
+Prados,São João del Rei,26,20.7,315270,316250
+Prata,Araguari,42,106.5,315280,310350
+Prata,Prata,10,0.0,315280,315280
+Prata,Uberlândia,21,83.1,315280,317020
+Pratápolis,Cássia,1,18.9,315290,311510
+Pratápolis,Monte Santo de Minas,3,51.1,315290,314320
+Pratápolis,Passos,13,26.2,315290,314790
+Pratápolis,Pratápolis,2,0.0,315290,315290
+Pratápolis,São Sebastião do Paraíso,7,23.5,315290,316470
+Pratinha,Araxá,1,61.8,315300,310400
+Pratinha,Uberaba,16,164.2,315300,317010
+Presidente Bernardes,Belo Horizonte,3,122.2,315310,310620
+Presidente Bernardes,Juiz de Fora,1,111.2,315310,313670
+Presidente Bernardes,Muriaé,21,93.8,315310,314390
+Presidente Bernardes,Ponte Nova,4,48.8,315310,315210
+Presidente Bernardes,Presidente Bernardes,4,0.0,315310,315310
+Presidente Juscelino,Belo Horizonte,10,143.5,315320,310620
+Presidente Juscelino,Curvelo,19,40.8,315320,312090
+Presidente Kubitschek,Belo Horizonte,1,150.8,315330,310620
+Presidente Kubitschek,Diamantina,5,41.3,315330,312160
+Presidente Olegário,Belo Horizonte,4,309.9,315340,310620
+Presidente Olegário,Patos de Minas,18,22.7,315340,314800
+Presidente Olegário,Presidente Olegário,2,0.0,315340,315340
+Presidente Olegário,Uberaba,2,218.5,315340,317010
+Presidente Olegário,Vazante,3,69.6,315340,317100
+Alto Jequitibá,Belo Horizonte,1,213.0,315350,310620
+Alto Jequitibá,Carangola,2,35.3,315350,311330
+Alto Jequitibá,Juiz de Fora,1,206.2,315350,313670
+Alto Jequitibá,Manhuaçu,1,19.7,315350,313940
+Alto Jequitibá,Manhumirim,4,8.0,315350,313950
+Alto Jequitibá,Muriaé,29,89.0,315350,314390
+Alto Jequitibá,Ponte Nova,1,98.3,315350,315210
+Prudente de Morais,Belo Horizonte,6,54.3,315360,310620
+Prudente de Morais,Sete Lagoas,21,9.6,315360,316720
+Quartel Geral,Abaeté,2,17.2,315370,310020
+Quartel Geral,Belo Horizonte,2,184.7,315370,310620
+Quartel Geral,Sete Lagoas,8,139.4,315370,316720
+Queluzito,Barbacena,6,55.3,315380,310560
+Queluzito,Belo Horizonte,24,90.9,315380,310620
+Queluzito,Conselheiro Lafaiete,4,13.6,315380,311830
+Raposos,Belo Horizonte,41,14.6,315390,310620
+Raposos,Nova Lima,23,4.9,315390,314480
+Raul Soares,Belo Horizonte,6,156.3,315400,310620
+Raul Soares,Muriaé,4,114.5,315400,314390
+Raul Soares,Ponte Nova,54,59.1,315400,315210
+Raul Soares,Raul Soares,347,0.0,315400,315400
+Recreio,Juiz de Fora,1,94.0,315410,313670
+Recreio,Muriaé,85,45.5,315410,314390
+Recreio,Recreio,6,0.0,315410,315410
+Reduto,Espera Feliz,2,46.2,315415,312420
+Reduto,Manhuaçu,2,5.6,315415,313940
+Reduto,Matipó,21,37.7,315415,314090
+Reduto,Muriaé,42,106.6,315415,314390
+Resende Costa,Barbacena,1,58.8,315420,310560
+Resende Costa,Barroso,2,40.0,315420,310590
+Resende Costa,Belo Horizonte,5,115.1,315420,310620
+Resende Costa,Conselheiro Lafaiete,1,55.0,315420,311830
+Resende Costa,Juiz de Fora,3,131.1,315420,313670
+Resende Costa,Resende Costa,7,0.0,315420,315420
+Resende Costa,São João del Rei,12,24.1,315420,316250
+Resplendor,Belo Horizonte,1,288.6,315430,310620
+Resplendor,Governador Valadares,14,89.0,315430,312770
+Resplendor,Muriaé,5,231.9,315430,314390
+Resplendor,Resplendor,7,0.0,315430,315430
+Ressaquinha,Barbacena,18,18.2,315440,310560
+Riachinho,Belo Horizonte,4,466.0,315445,310620
+Riachinho,Manga,2,275.0,315445,313930
+Riachinho,Montes Claros,4,234.1,315445,314330
+Riachinho,Patos de Minas,5,270.4,315445,314800
+Riachinho,Unaí,2,97.7,315445,317040
+Riacho dos Machados,Belo Horizonte,2,445.7,315450,310620
+Riacho dos Machados,Janaúba,1,35.9,315450,313510
+Riacho dos Machados,Montes Claros,7,119.1,315450,314330
+Riacho dos Machados,Porteirinha,1,28.8,315450,315220
+Riacho dos Machados,Salinas,1,83.2,315450,315700
+Ribeirão das Neves,Belo Horizonte,1018,23.6,315460,310620
+Ribeirão das Neves,Ribeirão das Neves,21,0.0,315460,315460
+Ribeirão das Neves,Rio Casca,1,158.5,315460,315490
+Ribeirão Vermelho,Lavras,11,8.7,315470,313820
+Ribeirão Vermelho,Varginha,5,56.0,315470,317070
+Rio Acima,Belo Horizonte,45,23.7,315480,310620
+Rio Acima,Nova Lima,10,12.8,315480,314480
+Rio Casca,Belo Horizonte,5,138.3,315490,310620
+Rio Casca,Belo Oriente,1,113.0,315490,310630
+Rio Casca,Muriaé,1,104.5,315490,314390
+Rio Casca,Ponte Nova,31,34.2,315490,315210
+Rio Casca,Raul Soares,2,24.9,315490,315400
+Rio Casca,Rio Casca,136,0.0,315490,315490
+Rio Doce,Muriaé,1,112.3,315500,314390
+Rio Doce,Ponte Nova,9,19.0,315500,315210
+Rio do Prado,Almenara,2,48.3,315510,310170
+Rio do Prado,Belo Horizonte,1,511.9,315510,310620
+Rio do Prado,Felisburgo,1,20.6,315510,312560
+Rio do Prado,Governador Valadares,1,289.3,315510,312770
+Rio do Prado,Jacinto,2,59.6,315510,313470
+Rio do Prado,Medina,10,105.8,315510,314140
+Rio do Prado,Pedra Azul,4,101.1,315510,314870
+Rio do Prado,Teófilo Otoni,11,171.4,315510,316860
+Rio Espera,Barbacena,8,51.5,315520,310560
+Rio Espera,Belo Horizonte,7,114.4,315520,310620
+Rio Espera,Conselheiro Lafaiete,1,39.1,315520,311830
+Rio Espera,Rio Espera,2,0.0,315520,315520
+Rio Espera,São João del Rei,1,87.3,315520,316250
+Rio Manso,Belo Horizonte,9,54.4,315530,310620
+Rio Manso,Betim,2,34.6,315530,310670
+Rio Manso,Igarapé,1,21.7,315530,313010
+Rio Novo,Juiz de Fora,38,38.6,315540,313670
+Rio Paranaíba,Belo Horizonte,1,254.7,315550,310620
+Rio Paranaíba,Patos de Minas,10,71.6,315550,314800
+Rio Paranaíba,Patrocínio,1,83.3,315550,314810
+Rio Paranaíba,Rio Paranaíba,3,0.0,315550,315550
+Rio Paranaíba,São Gotardo,2,23.9,315550,316210
+Rio Paranaíba,Uberaba,1,189.5,315550,317010
+Rio Pardo de Minas,Montes Claros,18,188.1,315560,314330
+Rio Pardo de Minas,Rio Pardo de Minas,10,0.0,315560,315560
+Rio Pardo de Minas,Salinas,1,67.5,315560,315700
+Rio Pardo de Minas,Taiobeiras,13,40.0,315560,316800
+Rio Piracicaba,Belo Horizonte,18,79.7,315570,310620
+Rio Piracicaba,Itabira,19,34.2,315570,313170
+Rio Piracicaba,João Monlevade,12,13.2,315570,313620
+Rio Piracicaba,Rio Piracicaba,3,0.0,315570,315570
+Rio Piracicaba,São Domingos do Prata,1,22.8,315570,316100
+Rio Piracicaba,Tarumirim,15,141.9,315570,316840
+Rio Pomba,Juiz de Fora,7,56.3,315580,313670
+Rio Pomba,Muriaé,24,85.5,315580,314390
+Rio Pomba,Rio Pomba,8,0.0,315580,315580
+Rio Preto,Juiz de Fora,18,62.1,315590,313670
+Rio Preto,Rio Preto,2,0.0,315590,315590
+Rio Vermelho,Belo Horizonte,11,205.9,315600,310620
+Rio Vermelho,Diamantina,2,62.4,315600,312160
+Rio Vermelho,Guanhães,4,54.2,315600,312800
+Rio Vermelho,Itabira,4,149.8,315600,313170
+Rio Vermelho,Serro,4,52.5,315600,316710
+Ritápolis,Barroso,1,39.7,315610,310590
+Ritápolis,Juiz de Fora,2,129.6,315610,313670
+Ritápolis,São João del Rei,13,13.7,315610,316250
+Rochedo de Minas,Juiz de Fora,10,36.5,315620,313670
+Rochedo de Minas,São João Nepomuceno,6,9.9,315620,316290
+Rodeiro,Juiz de Fora,1,79.3,315630,313670
+Rodeiro,Muriaé,34,51.9,315630,314390
+Rodeiro,Ubá,7,12.0,315630,316990
+Romaria,Araguari,1,69.7,315640,310350
+Romaria,Romaria,4,0.0,315640,315640
+Romaria,Uberlândia,1,70.7,315640,317020
+Rosário da Limeira,Muriaé,42,22.0,315645,314390
+Rosário da Limeira,Tarumirim,1,196.0,315645,316840
+Rubelita,Montes Claros,3,175.2,315650,314330
+Rubelita,Salinas,5,26.7,315650,315700
+Rubelita,Taiobeiras,1,66.5,315650,316800
+Rubim,Belo Horizonte,3,533.3,315660,310620
+Rubim,Governador Valadares,2,313.7,315660,312770
+Rubim,Itaobim,1,104.7,315660,313330
+Rubim,Jequitinhonha,2,49.8,315660,313580
+Rubim,Medina,13,101.4,315660,314140
+Rubim,Rubim,9,0.0,315660,315660
+Rubim,Teófilo Otoni,8,194.9,315660,316860
+Sabará,Belo Horizonte,415,13.6,315670,310620
+Sabará,Lagoa Santa,3,30.6,315670,313760
+Sabará,Poço Fundo,1,307.6,315670,315170
+Sabinópolis,Belo Horizonte,14,166.0,315680,310620
+Sabinópolis,Guanhães,5,20.0,315680,312800
+Sabinópolis,Itabira,3,107.6,315680,313170
+Sabinópolis,Sabinópolis,15,0.0,315680,315680
+Sabinópolis,Serro,1,32.2,315680,316710
+Sacramento,Sacramento,32,0.0,315690,315690
+Sacramento,Uberaba,80,55.0,315690,317010
+Salinas,Belo Horizonte,4,452.2,315700,310620
+Salinas,Montes Claros,41,179.7,315700,314330
+Salinas,Salinas,43,0.0,315700,315700
+Salto da Divisa,Belo Horizonte,3,606.8,315710,310620
+Salto da Divisa,Jacinto,7,40.0,315710,313470
+Salto da Divisa,Medina,3,165.2,315710,314140
+Salto da Divisa,Pedra Azul,1,142.1,315710,314870
+Salto da Divisa,Teófilo Otoni,6,265.6,315710,316860
+Santa Bárbara,Belo Horizonte,44,54.4,315720,310620
+Santa Bárbara,Igarapé,2,93.3,315720,313010
+Santa Bárbara,Itabira,11,42.5,315720,313170
+Santa Bárbara,Santa Bárbara,11,0.0,315720,315720
+Santa Bárbara do Leste,Belo Horizonte,1,187.7,315725,310620
+Santa Bárbara do Leste,Caratinga,8,20.9,315725,311340
+Santa Bárbara do Leste,Ipatinga,11,68.7,315725,313130
+Santa Bárbara do Leste,Muriaé,14,130.1,315725,314390
+Santa Bárbara do Monte Verde,Juiz de Fora,10,43.5,315727,313670
+Santa Bárbara do Tugúrio,Barbacena,20,22.3,315730,310560
+Santa Bárbara do Tugúrio,Barroso,1,43.7,315730,310590
+Santa Bárbara do Tugúrio,Belo Horizonte,1,152.2,315730,310620
+Santa Bárbara do Tugúrio,Juiz de Fora,3,61.1,315730,313670
+Santa Cruz de Minas,Barbacena,1,48.2,315733,310560
+Santa Cruz de Minas,Barroso,2,26.7,315733,310590
+Santa Cruz de Minas,Belo Horizonte,10,136.4,315733,310620
+Santa Cruz de Minas,São João del Rei,29,4.1,315733,316250
+Santa Cruz de Salinas,Montes Claros,7,237.2,315737,314330
+Santa Cruz de Salinas,Salinas,1,58.6,315737,315700
+Santa Cruz de Salinas,Taiobeiras,3,61.0,315737,316800
+Santa Cruz do Escalvado,Muriaé,2,109.4,315740,314390
+Santa Cruz do Escalvado,Ponte Nova,19,22.3,315740,315210
+Santa Efigênia de Minas,Governador Valadares,11,52.1,315750,312770
+Santa Efigênia de Minas,Tarumirim,4,67.9,315750,316840
+Santa Fé de Minas,Montes Claros,6,164.4,315760,314330
+Santa Fé de Minas,Pirapora,5,88.7,315760,315120
+Santa Helena de Minas,Águas Formosas,4,30.9,315765,310090
+Santa Helena de Minas,Ipatinga,1,343.0,315765,313130
+Santa Helena de Minas,Machacalis,2,16.0,315765,313890
+Santa Helena de Minas,Teófilo Otoni,8,135.0,315765,316860
+Santa Juliana,Araxá,1,68.5,315770,310400
+Santa Juliana,Santa Juliana,1,0.0,315770,315770
+Santa Juliana,Uberaba,22,66.0,315770,317010
+Santa Luzia,Belo Horizonte,759,19.3,315780,310620
+Santa Luzia,Santa Luzia,98,0.0,315780,315780
+Santa Margarida,Carangola,1,45.2,315790,311330
+Santa Margarida,Manhuaçu,1,26.7,315790,313940
+Santa Margarida,Muriaé,51,83.6,315790,314390
+Santa Margarida,Santa Margarida,26,0.0,315790,315790
+Santa Maria de Itabira,Belo Horizonte,19,100.9,315800,310620
+Santa Maria de Itabira,Itabira,19,22.5,315800,313170
+Santa Maria de Itabira,Santa Maria de Itabira,1,0.0,315800,315800
+Santa Maria do Salto,Almenara,2,59.3,315810,310170
+Santa Maria do Salto,Belo Horizonte,2,572.0,315810,310620
+Santa Maria do Salto,Governador Valadares,2,347.1,315810,312770
+Santa Maria do Salto,Jacinto,10,19.1,315810,313470
+Santa Maria do Salto,Teófilo Otoni,4,230.6,315810,316860
+Santa Maria do Suaçuí,Belo Horizonte,8,250.3,315820,310620
+Santa Maria do Suaçuí,Governador Valadares,6,89.6,315820,312770
+Santa Maria do Suaçuí,Peçanha,1,42.6,315820,314860
+Santa Maria do Suaçuí,Santa Maria do Suaçuí,11,0.0,315820,315820
+Santana da Vargem,Lavras,1,52.5,315830,313820
+Santana da Vargem,Três Pontas,3,13.0,315830,316940
+Santana da Vargem,Varginha,5,35.0,315830,317070
+Santana de Cataguases,Espera Feliz,2,97.6,315840,312420
+Santana de Cataguases,Juiz de Fora,3,96.8,315840,313670
+Santana de Cataguases,Muriaé,27,26.2,315840,314390
+Santana de Pirapama,Belo Horizonte,10,102.5,315850,310620
+Santana de Pirapama,Sete Lagoas,20,55.3,315850,316720
+Santana do Deserto,Barroso,1,119.4,315860,310590
+Santana do Deserto,Belo Horizonte,1,239.2,315860,310620
+Santana do Deserto,Juiz de Fora,30,28.3,315860,313670
+Santana do Garambéu,Barbacena,11,54.1,315870,310560
+Santana do Jacaré,Campo Belo,15,15.2,315880,311120
+Santana do Jacaré,Divinópolis,11,84.3,315880,312230
+Santana do Jacaré,Santo Antônio do Amparo,6,22.9,315880,315990
+Santana do Manhuaçu,Belo Horizonte,1,211.2,315890,310620
+Santana do Manhuaçu,Bom Jesus do Galho,6,51.5,315890,310780
+Santana do Manhuaçu,Carangola,1,70.3,315890,311330
+Santana do Manhuaçu,Conselheiro Pena,1,114.4,315890,311840
+Santana do Manhuaçu,Itanhomi,4,104.4,315890,313320
+Santana do Manhuaçu,Manhuaçu,2,20.0,315890,313940
+Santana do Manhuaçu,Muriaé,22,122.5,315890,314390
+Santana do Paraíso,Belo Horizonte,5,157.8,315895,310620
+Santana do Paraíso,Belo Oriente,285,17.7,315895,310630
+Santana do Paraíso,Bom Jesus do Galho,7,56.6,315895,310780
+Santana do Paraíso,Ipatinga,95,12.5,315895,313130
+Santana do Paraíso,Itanhomi,1,75.1,315895,313320
+Santana do Paraíso,Tarumirim,38,57.8,315895,316840
+Santana do Riacho,Belo Horizonte,13,86.9,315900,310620
+Santana do Riacho,Lagoa Santa,1,54.1,315900,313760
+Santana do Riacho,Vespasiano,1,61.9,315900,317120
+Santana dos Montes,Barbacena,3,49.4,315910,310560
+Santana dos Montes,Barroso,1,53.4,315910,310590
+Santana dos Montes,Belo Horizonte,2,99.4,315910,310620
+Santa Rita de Caldas,Andradas,1,24.5,315920,310260
+Santa Rita de Caldas,Caldas,5,12.7,315920,311030
+Santa Rita de Caldas,Machado,1,58.1,315920,313900
+Santa Rita de Caldas,Poço Fundo,3,46.9,315920,315170
+Santa Rita de Caldas,Poços de Caldas,21,36.0,315920,315180
+Santa Rita de Jacutinga,Aiuruoca,1,55.9,315930,310120
+Santa Rita de Jacutinga,Juiz de Fora,6,88.8,315930,313670
+Santa Rita de Minas,Bom Jesus do Galho,1,19.9,315935,310780
+Santa Rita de Minas,Caratinga,6,9.4,315935,311340
+Santa Rita de Minas,Governador Valadares,1,114.7,315935,312770
+Santa Rita de Minas,Ipatinga,16,60.3,315935,313130
+Santa Rita de Minas,Muriaé,2,141.6,315935,314390
+Santa Rita de Ibitipoca,Barbacena,13,40.2,315940,310560
+Santa Rita de Ibitipoca,Barroso,1,42.3,315940,310590
+Santa Rita de Ibitipoca,Belo Horizonte,1,182.3,315940,310620
+Santa Rita do Itueto,Aimorés,1,36.3,315950,310110
+Santa Rita do Itueto,Governador Valadares,6,81.4,315950,312770
+Santa Rita do Itueto,Mendes Pimentel,1,77.9,315950,314150
+Santa Rita do Itueto,Muriaé,4,222.2,315950,314390
+Santa Rita do Itueto,Resplendor,4,13.6,315950,315430
+Santa Rita do Itueto,Tarumirim,3,66.4,315950,316840
+Santa Rita do Sapucaí,Alfenas,1,95.4,315960,310160
+Santa Rita do Sapucaí,Itanhandu,1,79.1,315960,313310
+Santa Rita do Sapucaí,Poço Fundo,1,58.5,315960,315170
+Santa Rita do Sapucaí,Pouso Alegre,41,24.0,315960,315250
+Santa Rita do Sapucaí,Santa Rita do Sapucaí,51,0.0,315960,315960
+Santa Rosa da Serra,Belo Horizonte,1,216.8,315970,310620
+Santa Rosa da Serra,Patos de Minas,8,117.6,315970,314800
+Santa Rosa da Serra,São Gotardo,2,25.7,315970,316210
+Santa Rosa da Serra,Vazante,1,197.4,315970,317100
+Santa Vitória,Araguari,1,203.9,315980,310350
+Santa Vitória,Ituiutaba,1,70.8,315980,313420
+Santa Vitória,Santa Vitória,24,0.0,315980,315980
+Santa Vitória,Uberlândia,10,196.5,315980,317020
+Santo Antônio do Amparo,Belo Horizonte,1,153.0,315990,310620
+Santo Antônio do Amparo,Divinópolis,13,86.5,315990,312230
+Santo Antônio do Amparo,Lavras,1,34.1,315990,313820
+Santo Antônio do Amparo,Oliveira,10,29.4,315990,314560
+Santo Antônio do Amparo,Santo Antônio do Amparo,46,0.0,315990,315990
+Santo Antônio do Aventureiro,Além Paraíba,6,19.3,316000,310150
+Santo Antônio do Aventureiro,Muriaé,14,84.0,316000,314390
+Santo Antônio do Grama,Ponte Nova,13,33.2,316010,315210
+Santo Antônio do Grama,Rio Casca,25,10.8,316010,315490
+Santo Antônio do Itambé,Belo Horizonte,12,175.2,316020,310620
+Santo Antônio do Itambé,Diamantina,2,39.2,316020,312160
+Santo Antônio do Itambé,Serro,12,17.6,316020,316710
+Santo Antônio do Jacinto,Almenara,2,67.8,316030,310170
+Santo Antônio do Jacinto,Belo Horizonte,1,547.3,316030,310620
+Santo Antônio do Jacinto,Itambacuri,2,231.0,316030,313270
+Santo Antônio do Jacinto,Itaobim,1,141.5,316030,313330
+Santo Antônio do Jacinto,Jacinto,10,45.3,316030,313470
+Santo Antônio do Jacinto,Teófilo Otoni,9,204.6,316030,316860
+Santo Antônio do Monte,Belo Horizonte,3,142.8,316040,310620
+Santo Antônio do Monte,Divinópolis,47,40.8,316040,312230
+Santo Antônio do Monte,Lagoa da Prata,11,27.3,316040,313720
+Santo Antônio do Monte,Santo Antônio do Monte,24,0.0,316040,316040
+Santo Antônio do Retiro,Montes Claros,11,204.0,316045,314330
+Santo Antônio do Retiro,Rio Pardo de Minas,1,31.7,316045,315560
+Santo Antônio do Retiro,Salinas,1,98.9,316045,315700
+Santo Antônio do Retiro,Taiobeiras,6,67.1,316045,316800
+Santo Antônio do Rio Abaixo,Belo Horizonte,2,105.3,316050,310620
+Santo Antônio do Rio Abaixo,Itabira,1,44.2,316050,313170
+Santo Hipólito,Belo Horizonte,2,183.3,316060,310620
+Santo Hipólito,Curvelo,12,55.1,316060,312090
+Santo Hipólito,Muriaé,1,369.6,316060,314390
+Santo Hipólito,Sete Lagoas,1,129.9,316060,316720
+Santos Dumont,Belo Horizonte,2,175.0,316070,310620
+Santos Dumont,Juiz de Fora,95,39.9,316070,313670
+Santos Dumont,Santos Dumont,41,0.0,316070,316070
+São Bento Abade,Três Corações,7,22.8,316080,316930
+São Bento Abade,Varginha,9,37.3,316080,317070
+São Brás do Suaçuí,Belo Horizonte,12,78.2,316090,310620
+São Brás do Suaçuí,Congonhas,3,16.3,316090,311800
+São Brás do Suaçuí,Conselheiro Lafaiete,1,17.6,316090,311830
+São Domingos das Dores,Belo Horizonte,6,206.0,316095,310620
+São Domingos das Dores,Bom Jesus do Galho,7,46.1,316095,310780
+São Domingos das Dores,Caratinga,1,32.1,316095,311340
+São Domingos das Dores,Inhapim,8,11.7,316095,313090
+São Domingos das Dores,Ipatinga,27,54.2,316095,313130
+São Domingos do Prata,Belo Horizonte,46,101.6,316100,310620
+São Domingos do Prata,Itabira,2,37.9,316100,313170
+São Domingos do Prata,João Monlevade,8,22.9,316100,313620
+São Domingos do Prata,Matipó,2,80.1,316100,314090
+São Domingos do Prata,São Domingos do Prata,35,0.0,316100,316100
+São Félix de Minas,Governador Valadares,11,56.5,316105,312770
+São Félix de Minas,Mendes Pimentel,1,11.6,316105,314150
+São Francisco,Belo Horizonte,2,452.8,316110,310620
+São Francisco,Brasília de Minas,4,54.7,316110,310860
+São Francisco,Montes Claros,68,137.3,316110,314330
+São Francisco,Oliveira,1,528.0,316110,314560
+São Francisco,Poço Fundo,1,659.3,316110,315170
+São Francisco,São Francisco,78,0.0,316110,316110
+São Francisco de Paula,Divinópolis,16,60.5,316120,312230
+São Francisco de Paula,Lagoa da Prata,2,96.1,316120,313720
+São Francisco de Paula,Oliveira,39,16.4,316120,314560
+São Francisco de Paula,Santo Antônio do Amparo,2,27.4,316120,315990
+São Francisco de Sales,Uberaba,5,190.2,316130,317010
+São Francisco do Glória,Muriaé,28,39.0,316140,314390
+São Francisco do Glória,Tarumirim,1,170.0,316140,316840
+São Geraldo,Muriaé,37,53.2,316150,314390
+São Geraldo,Visconde do Rio Branco,1,9.8,316150,317200
+São Geraldo da Piedade,Belo Horizonte,1,210.4,316160,310620
+São Geraldo da Piedade,Belo Oriente,23,46.8,316160,310630
+São Geraldo da Piedade,Governador Valadares,12,36.2,316160,312770
+São Geraldo da Piedade,Itabirinha,1,115.2,316160,313180
+São Geraldo da Piedade,Peçanha,4,43.6,316160,314860
+São Geraldo do Baixio,Governador Valadares,12,62.0,316165,312770
+São Geraldo do Baixio,Itabirinha,2,40.9,316165,313180
+São Geraldo do Baixio,Mantena,3,42.4,316165,313960
+São Geraldo do Baixio,Mendes Pimentel,2,29.1,316165,314150
+São Geraldo do Baixio,Muriaé,2,267.6,316165,314390
+São Geraldo do Baixio,Tarumirim,6,79.2,316165,316840
+São Gonçalo do Abaeté,Belo Horizonte,2,266.3,316170,310620
+São Gonçalo do Abaeté,Patos de Minas,4,76.7,316170,314800
+São Gonçalo do Pará,Belo Horizonte,4,96.6,316180,310620
+São Gonçalo do Pará,Divinópolis,32,21.6,316180,312230
+São Gonçalo do Pará,Lagoa da Prata,1,71.8,316180,313720
+São Gonçalo do Pará,Santo Antônio do Amparo,8,107.5,316180,315990
+São Gonçalo do Pará,Santo Antônio do Monte,1,46.7,316180,316040
+São Gonçalo do Rio Abaixo,Belo Horizonte,20,61.3,316190,310620
+São Gonçalo do Rio Abaixo,Itabira,15,26.7,316190,313170
+São Gonçalo do Rio Abaixo,João Monlevade,1,19.3,316190,313620
+São Gonçalo do Sapucaí,Elói Mendes,1,31.6,316200,312360
+São Gonçalo do Sapucaí,Ilicínea,1,108.8,316200,313050
+São Gonçalo do Sapucaí,Itajubá,1,61.1,316200,313240
+São Gonçalo do Sapucaí,Itanhandu,1,81.3,316200,313310
+São Gonçalo do Sapucaí,Machado,2,40.9,316200,313900
+São Gonçalo do Sapucaí,Poço Fundo,1,40.0,316200,315170
+São Gonçalo do Sapucaí,Pouso Alegre,2,51.5,316200,315250
+São Gonçalo do Sapucaí,São Gonçalo do Sapucaí,1,0.0,316200,316200
+São Gonçalo do Sapucaí,Varginha,27,40.9,316200,317070
+São Gotardo,Belo Horizonte,8,231.5,316210,310620
+São Gotardo,Patos de Minas,30,92.3,316210,314800
+São Gotardo,São Gotardo,71,0.0,316210,316210
+São Gotardo,Uberaba,5,205.2,316210,317010
+São Gotardo,Uberlândia,1,236.2,316210,317020
+São João Batista do Glória,Passos,25,13.8,316220,314790
+São João Batista do Glória,São João Batista do Glória,1,0.0,316220,316220
+São João da Lagoa,Coração de Jesus,1,18.4,316225,311880
+São João da Lagoa,Montes Claros,15,52.4,316225,314330
+São João da Mata,Poço Fundo,2,16.8,316230,315170
+São João da Mata,Pouso Alegre,7,33.2,316230,315250
+São João da Ponte,Belo Horizonte,4,444.1,316240,310620
+São João da Ponte,Brasília de Minas,4,55.0,316240,310860
+São João da Ponte,Montes Claros,37,90.1,316240,314330
+São João da Ponte,São João da Ponte,32,0.0,316240,316240
+São João das Missões,Januária,1,73.9,316245,313520
+São João das Missões,Manga,17,21.3,316245,313930
+São João das Missões,Montes Claros,10,206.9,316245,314330
+São João del Rei,Barbacena,4,51.4,316250,310560
+São João del Rei,Barroso,1,29.8,316250,310590
+São João del Rei,Belo Horizonte,18,138.9,316250,310620
+São João del Rei,Juiz de Fora,18,117.3,316250,313670
+São João del Rei,São João del Rei,308,0.0,316250,316250
+São João do Manhuaçu,Carangola,1,39.7,316255,311330
+São João do Manhuaçu,Divino,4,24.4,316255,312200
+São João do Manhuaçu,Matipó,3,23.3,316255,314090
+São João do Manhuaçu,Muriaé,40,84.6,316255,314390
+São João do Manteninha,Belo Horizonte,1,320.2,316257,310620
+São João do Manteninha,Governador Valadares,20,83.9,316257,312770
+São João do Manteninha,Mendes Pimentel,3,26.5,316257,314150
+São João do Manteninha,São João do Manteninha,25,0.0,316257,316257
+São João do Oriente,Belo Oriente,1,36.5,316260,310630
+São João do Oriente,Caratinga,1,50.1,316260,311340
+São João do Oriente,Conselheiro Pena,2,74.4,316260,311840
+São João do Oriente,Ipatinga,41,41.7,316260,313130
+São João do Oriente,Itanhomi,4,36.1,316260,313320
+São João do Oriente,Raul Soares,1,90.1,316260,315400
+São João do Oriente,Tarumirim,6,17.2,316260,316840
+São João do Pacuí,Belo Horizonte,6,382.2,316265,310620
+São João do Pacuí,Coração de Jesus,1,24.7,316265,311880
+São João do Pacuí,Montes Claros,6,73.5,316265,314330
+São João do Paraíso,Belo Horizonte,3,551.4,316270,310620
+São João do Paraíso,Montes Claros,27,253.2,316270,314330
+São João do Paraíso,São João do Paraíso,13,0.0,316270,316270
+São João do Paraíso,Taiobeiras,13,59.9,316270,316800
+São João Evangelista,Belo Horizonte,20,196.3,316280,310620
+São João Evangelista,Governador Valadares,18,93.0,316280,312770
+São João Evangelista,Guanhães,1,30.9,316280,312800
+São João Evangelista,Peçanha,7,21.6,316280,314860
+São João Evangelista,São João Evangelista,8,0.0,316280,316280
+São João Nepomuceno,Juiz de Fora,74,42.1,316290,313670
+São João Nepomuceno,São João Nepomuceno,26,0.0,316290,316290
+São Joaquim de Bicas,Belo Horizonte,140,36.8,316292,310620
+São Joaquim de Bicas,Betim,22,10.2,316292,310670
+São José da Barra,Alpinópolis,5,18.1,316294,310190
+São José da Barra,Cássia,2,65.2,316294,311510
+São José da Barra,Passos,13,31.1,316294,314790
+São José da Lapa,Belo Horizonte,106,25.0,316295,310620
+São José da Lapa,Matozinhos,1,20.2,316295,314110
+São José da Lapa,Pedro Leopoldo,3,12.2,316295,314930
+São José da Lapa,Vespasiano,2,4.4,316295,317120
+São José da Safira,Belo Horizonte,6,258.8,316300,310620
+São José da Safira,Belo Oriente,14,106.0,316300,310630
+São José da Safira,Bom Jesus do Galho,2,168.2,316300,310780
+São José da Safira,Governador Valadares,5,63.1,316300,312770
+São José da Safira,Itambacuri,1,58.5,316300,313270
+São José da Safira,Muriaé,2,312.6,316300,314390
+São José da Varginha,Belo Horizonte,1,69.2,316310,310620
+São José da Varginha,Divinópolis,9,63.1,316310,312230
+São José da Varginha,Pará de Minas,6,17.4,316310,314710
+São José do Alegre,Itajubá,3,13.2,316320,313240
+São José do Alegre,Poços de Caldas,1,123.2,316320,315180
+São José do Divino,Governador Valadares,1,71.9,316330,312770
+São José do Divino,Itabirinha,5,19.0,316330,313180
+São José do Divino,Itambacuri,5,58.9,316330,313270
+São José do Divino,Teófilo Otoni,4,69.8,316330,316860
+São José do Goiabal,Abre Campo,1,48.2,316340,310030
+São José do Goiabal,Belo Horizonte,3,128.4,316340,310620
+São José do Goiabal,Itanhomi,1,121.8,316340,313320
+São José do Goiabal,Muriaé,1,138.2,316340,314390
+São José do Goiabal,Ponte Nova,25,58.5,316340,315210
+São José do Goiabal,Raul Soares,9,33.1,316340,315400
+São José do Jacuri,Governador Valadares,2,100.2,316350,312770
+São José do Jacuri,Peçanha,21,32.4,316350,314860
+São José do Mantimento,Conselheiro Pena,1,96.8,316360,311840
+São José do Mantimento,Ipanema,1,22.8,316360,313120
+São José do Mantimento,Itanhomi,3,93.3,316360,313320
+São José do Mantimento,Manhuaçu,1,41.2,316360,313940
+São José do Mantimento,Manhumirim,1,44.6,316360,313950
+São José do Mantimento,Muriaé,15,140.9,316360,314390
+São Lourenço,Baependi,1,23.9,316370,310490
+São Lourenço,Carmo de Minas,2,8.2,316370,311410
+São Lourenço,Itanhandu,3,23.5,316370,313310
+São Lourenço,São Lourenço,116,0.0,316370,316370
+São Lourenço,Varginha,36,73.4,316370,317070
+São Miguel do Anta,Belo Horizonte,2,153.9,316380,310620
+São Miguel do Anta,Muriaé,8,59.2,316380,314390
+São Miguel do Anta,Ponte Nova,10,37.8,316380,315210
+São Miguel do Anta,Viçosa,13,17.7,316380,317130
+São Pedro da União,Alfenas,1,76.5,316390,310160
+São Pedro da União,Alpinópolis,9,37.6,316390,310190
+São Pedro da União,Guaxupé,3,22.2,316390,312870
+São Pedro da União,Ilicínea,16,84.5,316390,313050
+São Pedro da União,Paraguaçu,1,102.3,316390,314720
+São Pedro da União,Passos,5,45.4,316390,314790
+São Pedro da União,São Pedro da União,1,0.0,316390,316390
+São Pedro dos Ferros,Belo Horizonte,1,150.2,316400,310620
+São Pedro dos Ferros,Belo Oriente,1,105.4,316400,310630
+São Pedro dos Ferros,Muriaé,3,107.7,316400,314390
+São Pedro dos Ferros,Ponte Nova,25,48.7,316400,315210
+São Pedro dos Ferros,Raul Soares,9,10.5,316400,315400
+São Pedro dos Ferros,Rio Casca,66,14.9,316400,315490
+São Pedro do Suaçuí,Governador Valadares,1,88.3,316410,312770
+São Pedro do Suaçuí,Peçanha,25,20.9,316410,314860
+São Romão,Belo Horizonte,1,413.0,316420,310620
+São Romão,Brasília de Minas,3,70.3,316420,310860
+São Romão,Coração de Jesus,4,83.3,316420,311880
+São Romão,Mirabela,1,98.0,316420,314200
+São Romão,Montes Claros,10,134.0,316420,314330
+São Romão,São Francisco,1,51.4,316420,316110
+São Roque de Minas,Passos,11,58.6,316430,314790
+São Roque de Minas,Piumhi,1,49.0,316430,315150
+São Roque de Minas,Uberaba,1,174.6,316430,317010
+São Sebastião da Bela Vista,Alfenas,1,84.0,316440,310160
+São Sebastião da Bela Vista,Machado,2,55.9,316440,313900
+São Sebastião da Bela Vista,Poço Fundo,6,46.8,316440,315170
+São Sebastião da Bela Vista,Pouso Alegre,19,20.3,316440,315250
+São Sebastião da Bela Vista,Santa Rita do Sapucaí,2,11.6,316440,315960
+São Sebastião da Vargem Alegre,Juiz de Fora,1,105.7,316443,313670
+São Sebastião da Vargem Alegre,Muriaé,20,28.3,316443,314390
+São Sebastião do Anta,Belo Horizonte,5,209.8,316447,310620
+São Sebastião do Anta,Caratinga,2,36.4,316447,311340
+São Sebastião do Anta,Inhapim,6,15.6,316447,313090
+São Sebastião do Anta,Ipatinga,16,57.1,316447,313130
+São Sebastião do Maranhão,Belo Horizonte,3,249.8,316450,310620
+São Sebastião do Maranhão,Governador Valadares,12,108.5,316450,312770
+São Sebastião do Maranhão,Peçanha,1,51.6,316450,314860
+São Sebastião do Maranhão,Santa Maria do Suaçuí,7,20.0,316450,315820
+São Sebastião do Oeste,Divinópolis,21,15.1,316460,312230
+São Sebastião do Oeste,Itapecerica,10,25.2,316460,313350
+São Sebastião do Oeste,Lagoa da Prata,1,63.0,316460,313720
+São Sebastião do Paraíso,Alfenas,1,121.9,316470,310160
+São Sebastião do Paraíso,Belo Horizonte,1,337.0,316470,310620
+São Sebastião do Paraíso,Passos,69,45.3,316470,314790
+São Sebastião do Paraíso,São Sebastião do Paraíso,71,0.0,316470,316470
+São Sebastião do Rio Preto,Belo Horizonte,1,106.2,316480,310620
+São Sebastião do Rio Preto,Itabira,5,37.3,316480,313170
+São Sebastião do Rio Verde,Baependi,1,30.1,316490,310490
+São Sebastião do Rio Verde,São Lourenço,6,13.9,316490,316370
+São Sebastião do Rio Verde,Varginha,1,87.3,316490,317070
+São Tiago,Barroso,9,63.1,316500,310590
+São Tiago,Belo Horizonte,6,125.0,316500,310620
+São Tiago,Juiz de Fora,2,152.9,316500,313670
+São Tiago,Santo Antônio do Amparo,4,42.6,316500,315990
+São Tiago,São João del Rei,22,35.9,316500,316250
+São Tiago,São Tiago,4,0.0,316500,316500
+São Tomás de Aquino,Passos,7,51.3,316510,314790
+São Tomás de Aquino,São Sebastião do Paraíso,1,18.5,316510,316470
+São Tomé das Letras,Belo Horizonte,2,227.8,316520,310620
+São Tomé das Letras,Cruzília,1,22.4,316520,312080
+São Tomé das Letras,Três Corações,4,28.1,316520,316930
+São Tomé das Letras,Varginha,5,49.9,316520,317070
+São Vicente de Minas,Cruzília,5,41.1,316530,312080
+São Vicente de Minas,São João del Rei,6,65.7,316530,316250
+São Vicente de Minas,São Vicente de Minas,4,0.0,316530,316530
+Sapucaí-Mirim,Itajubá,1,46.7,316540,313240
+Sapucaí-Mirim,Machado,1,120.1,316540,313900
+Sapucaí-Mirim,Poços de Caldas,2,136.4,316540,315180
+Sapucaí-Mirim,Pouso Alegre,1,60.7,316540,315250
+Sapucaí-Mirim,Santa Rita do Sapucaí,8,55.2,316540,315960
+Sardoá,Governador Valadares,9,45.2,316550,312770
+Sardoá,Guanhães,1,59.7,316550,312800
+Sarzedo,Belo Horizonte,119,24.9,316553,310620
+Setubinha,Belo Horizonte,4,318.8,316555,310620
+Setubinha,Governador Valadares,1,141.7,316555,312770
+Setubinha,Malacacheta,5,28.4,316555,313920
+Setubinha,Teófilo Otoni,15,75.2,316555,316860
+Sem-Peixe,Ponte Nova,17,35.7,316556,315210
+Sem-Peixe,Rio Casca,10,24.1,316556,315490
+Senador Amaral,Cambuí,2,12.2,316557,311060
+Senador Amaral,Poço Fundo,1,92.3,316557,315170
+Senador Amaral,Pouso Alegre,14,47.2,316557,315250
+Senador Cortes,Juiz de Fora,9,41.5,316560,313670
+Senador Firmino,Muriaé,37,79.3,316570,314390
+Senador Firmino,Rio Pomba,1,40.6,316570,315580
+Senador Firmino,Senador Firmino,1,0.0,316570,316570
+Senador Firmino,Tarumirim,3,214.8,316570,316840
+Senador Firmino,Ubá,1,27.9,316570,316990
+Senador Modestino Gonçalves,Belo Horizonte,8,232.2,316590,310620
+Senador Modestino Gonçalves,Diamantina,13,51.4,316590,312160
+Senhora de Oliveira,Barbacena,10,65.5,316600,310560
+Senhora de Oliveira,Barroso,2,78.9,316600,310590
+Senhora de Oliveira,Belo Horizonte,3,114.8,316600,310620
+Senhora de Oliveira,Juiz de Fora,1,107.1,316600,313670
+Senhora do Porto,Belo Horizonte,3,145.4,316610,310620
+Senhora do Porto,Guanhães,9,20.5,316610,312800
+Senhora do Porto,Itabira,8,82.7,316610,313170
+Senhora do Porto,Peçanha,1,67.2,316610,314860
+Senhora dos Remédios,Barbacena,42,29.6,316620,310560
+Senhora dos Remédios,Barroso,4,44.6,316620,310590
+Senhora dos Remédios,Juiz de Fora,3,84.7,316620,313670
+Sericita,Matipó,19,25.5,316630,314090
+Sericita,Muriaé,3,73.7,316630,314390
+Sericita,Ponte Nova,15,45.0,316630,315210
+Sericita,Raul Soares,1,41.5,316630,315400
+Sericita,Rio Casca,7,32.7,316630,315490
+Seritinga,Aiuruoca,3,11.7,316640,310120
+Serra Azul de Minas,Belo Horizonte,12,191.4,316650,310620
+Serra Azul de Minas,Diamantina,1,46.9,316650,312160
+Serra Azul de Minas,Serro,9,35.1,316650,316710
+Serra da Saudade,Divinópolis,1,122.9,316660,312230
+Serra dos Aimorés,Ataléia,4,95.5,316670,310470
+Serra dos Aimorés,Carlos Chagas,1,55.5,316670,311370
+Serra dos Aimorés,Nanuque,7,12.1,316670,314430
+Serra dos Aimorés,Teófilo Otoni,4,133.7,316670,316860
+Serra do Salitre,Belo Horizonte,8,302.0,316680,310620
+Serra do Salitre,Patos de Minas,14,59.5,316680,314800
+Serra do Salitre,Serra do Salitre,32,0.0,316680,316680
+Serra do Salitre,Uberaba,1,150.2,316680,317010
+Serrania,Alfenas,18,16.8,316690,310160
+Serrania,Machado,2,19.5,316690,313900
+Serrania,Serrania,3,0.0,316690,316690
+Serranópolis de Minas,Janaúba,2,46.6,316695,313510
+Serranópolis de Minas,Montes Claros,6,147.8,316695,314330
+Serranópolis de Minas,Porteirinha,1,18.2,316695,315220
+Serranos,Aiuruoca,5,13.9,316700,310120
+Serranos,Cruzília,1,31.6,316700,312080
+Serro,Belo Horizonte,36,157.7,316710,310620
+Serro,Diamantina,8,46.0,316710,312160
+Serro,Serro,31,0.0,316710,316710
+Sete Lagoas,Araguari,1,425.3,316720,310350
+Sete Lagoas,Belo Horizonte,249,60.4,316720,310620
+Sete Lagoas,Bom Despacho,1,109.8,316720,310740
+Sete Lagoas,Curvelo,5,81.6,316720,312090
+Sete Lagoas,Sete Lagoas,570,0.0,316720,316720
+Silveirânia,Juiz de Fora,4,67.9,316730,313670
+Silveirânia,Muriaé,21,87.7,316730,314390
+Silveirânia,Rio Pomba,1,13.4,316730,315580
+Silvianópolis,Poço Fundo,2,30.2,316740,315170
+Silvianópolis,Pouso Alegre,6,24.7,316740,315250
+Simão Pereira,Juiz de Fora,34,23.3,316750,313670
+Simonésia,Belo Horizonte,10,203.3,316760,310620
+Simonésia,Belo Oriente,9,112.2,316760,310630
+Simonésia,Bom Jesus do Galho,1,46.4,316760,310780
+Simonésia,Manhuaçu,5,15.2,316760,313940
+Simonésia,Manhumirim,3,25.7,316760,313950
+Simonésia,Muriaé,72,118.1,316760,314390
+Simonésia,Sabinópolis,1,197.8,316760,315680
+Sobrália,Belo Oriente,6,40.6,316770,310630
+Sobrália,Governador Valadares,20,45.0,316770,312770
+Sobrália,Ipatinga,1,52.6,316770,313130
+Sobrália,Itabirinha,1,117.3,316770,313180
+Soledade de Minas,Itanhandu,1,28.5,316780,313310
+Soledade de Minas,Passa Quatro,1,37.6,316780,314760
+Soledade de Minas,São Lourenço,27,6.1,316780,316370
+Soledade de Minas,Varginha,4,68.9,316780,317070
+Tabuleiro,Juiz de Fora,4,45.4,316790,313670
+Tabuleiro,Muriaé,2,94.5,316790,314390
+Tabuleiro,Rio Pomba,3,11.7,316790,315580
+Tabuleiro,Ubá,1,41.3,316790,316990
+Taiobeiras,Capelinha,1,211.4,316800,311230
+Taiobeiras,Montes Claros,35,202.6,316800,314330
+Taiobeiras,Taiobeiras,45,0.0,316800,316800
+Taparuba,Conselheiro Pena,4,67.2,316805,311840
+Taparuba,Ipanema,3,11.3,316805,313120
+Taparuba,Itanhomi,1,70.6,316805,313320
+Taparuba,Muriaé,16,171.1,316805,314390
+Tapira,Araxá,1,38.6,316810,310400
+Tapira,Itanhomi,5,526.2,316810,313320
+Tapira,Uberaba,11,119.6,316810,317010
+Tapiraí,Bambuí,5,14.5,316820,310510
+Tapiraí,Divinópolis,3,120.1,316820,312230
+Tapiraí,Lagoa da Prata,1,52.0,316820,313720
+Taquaraçu de Minas,Belo Horizonte,18,38.4,316830,310620
+Tarumirim,Governador Valadares,16,47.5,316840,312770
+Tarumirim,Itanhomi,3,19.3,316840,313320
+Tarumirim,Tarumirim,7,0.0,316840,316840
+Teixeiras,Muriaé,21,73.2,316850,314390
+Teixeiras,Ponte Nova,18,26.8,316850,315210
+Teixeiras,Viçosa,12,11.6,316850,317130
+Teófilo Otoni,Belo Horizonte,29,343.0,316860,310620
+Teófilo Otoni,Governador Valadares,22,119.7,316860,312770
+Teófilo Otoni,Ipatinga,12,209.2,316860,313130
+Teófilo Otoni,Itambacuri,2,26.4,316860,313270
+Teófilo Otoni,Teófilo Otoni,773,0.0,316860,316860
+Teófilo Otoni,Uberlândia,1,721.5,316860,317020
+Timóteo,Abre Campo,3,82.4,316870,310030
+Timóteo,Belo Horizonte,2,140.7,316870,310620
+Timóteo,Coronel Fabriciano,2,5.9,316870,311940
+Timóteo,Ipatinga,282,16.3,316870,313130
+Timóteo,Itabirinha,1,185.8,316870,313180
+Timóteo,Itanhomi,1,93.2,316870,313320
+Timóteo,Timóteo,62,0.0,316870,316870
+Tiradentes,Barbacena,1,42.9,316880,310560
+Tiradentes,Barroso,4,21.6,316880,310590
+Tiradentes,Belo Horizonte,6,133.8,316880,310620
+Tiradentes,Juiz de Fora,1,111.7,316880,313670
+Tiradentes,São João del Rei,18,10.1,316880,316250
+Tiros,Belo Horizonte,16,236.2,316890,310620
+Tiros,Patos de Minas,4,72.3,316890,314800
+Tiros,São Gotardo,2,35.4,316890,316210
+Tiros,Tiros,4,0.0,316890,316890
+Tocantins,Belo Horizonte,1,168.7,316900,310620
+Tocantins,Juiz de Fora,5,73.0,316900,313670
+Tocantins,Muriaé,89,67.6,316900,314390
+Tocantins,Ubá,7,10.1,316900,316990
+Tocos do Moji,Belo Horizonte,3,352.5,316905,310620
+Tocos do Moji,Pouso Alegre,8,22.7,316905,315250
+Toledo,Camanducaia,1,24.5,316910,311050
+Toledo,Pouso Alegre,6,72.4,316910,315250
+Tombos,Belo Horizonte,1,227.0,316920,310620
+Tombos,Carangola,10,19.4,316920,311330
+Tombos,Espera Feliz,2,31.2,316920,312420
+Tombos,Muriaé,48,43.2,316920,314390
+Tombos,Tarumirim,2,180.9,316920,316840
+Tombos,Tombos,5,0.0,316920,316920
+Três Corações,Alfenas,1,77.9,316930,310160
+Três Corações,Belo Horizonte,3,240.4,316930,310620
+Três Corações,Conceição do Rio Verde,1,26.6,316930,311770
+Três Corações,Elói Mendes,1,33.5,316930,312360
+Três Corações,Itanhandu,3,74.0,316930,313310
+Três Corações,Machado,4,68.5,316930,313900
+Três Corações,Monsenhor Paulo,1,30.2,316930,314260
+Três Corações,Pouso Alegre,1,91.7,316930,315250
+Três Corações,Três Corações,66,0.0,316930,316930
+Três Corações,Varginha,98,24.3,316930,317070
+Três Marias,Belo Horizonte,26,234.4,316935,310620
+Três Marias,Curvelo,30,103.9,316935,312090
+Três Marias,Patos de Minas,1,142.3,316935,314800
+Três Marias,Sete Lagoas,6,174.1,316935,316720
+Três Marias,Três Marias,24,0.0,316935,316935
+Três Pontas,Barbacena,1,180.8,316940,310560
+Três Pontas,Belo Horizonte,6,229.4,316940,310620
+Três Pontas,Itanhandu,2,119.2,316940,313310
+Três Pontas,Passos,2,134.7,316940,314790
+Três Pontas,Três Pontas,51,0.0,316940,316940
+Três Pontas,Varginha,63,22.7,316940,317070
+Tumiritinga,Belo Oriente,1,91.9,316950,310630
+Tumiritinga,Governador Valadares,14,34.0,316950,312770
+Tumiritinga,Itabirinha,1,63.0,316950,313180
+Tumiritinga,Itanhomi,1,31.4,316950,313320
+Tumiritinga,Tarumirim,3,50.6,316950,316840
+Tupaciguara,Araguari,20,52.3,316960,310350
+Tupaciguara,Tupaciguara,18,0.0,316960,316960
+Tupaciguara,Uberlândia,17,57.4,316960,317020
+Turmalina,Belo Horizonte,39,319.5,316970,310620
+Turmalina,Diamantina,16,140.5,316970,312160
+Turmalina,Turmalina,28,0.0,316970,316970
+Turvolândia,Machado,6,25.8,316980,313900
+Turvolândia,Paraguaçu,1,36.9,316980,314720
+Turvolândia,Pouso Alegre,10,42.3,316980,315250
+Turvolândia,Santa Rita do Sapucaí,3,42.7,316980,315960
+Ubá,Belo Horizonte,1,168.5,316990,310620
+Ubá,Juiz de Fora,9,82.2,316990,313670
+Ubá,Muriaé,271,59.3,316990,314390
+Ubá,Rio Pomba,2,30.0,316990,315580
+Ubá,Ubá,51,0.0,316990,316990
+Ubaí,Brasília de Minas,10,38.2,317000,310860
+Ubaí,Coração de Jesus,5,63.0,317000,311880
+Ubaí,Mirabela,3,66.4,317000,314200
+Ubaí,Montes Claros,20,108.8,317000,314330
+Ubaporanga,Belo Horizonte,1,194.0,317005,310620
+Ubaporanga,Bom Jesus do Galho,3,30.5,317005,310780
+Ubaporanga,Caratinga,9,17.3,317005,311340
+Ubaporanga,Ipatinga,39,47.4,317005,313130
+Uberaba,Belo Horizonte,4,420.4,317010,310620
+Uberaba,Uberaba,1399,0.0,317010,317010
+Uberlândia,Belo Horizonte,10,466.8,317020,310620
+Uberlândia,Montes Claros,1,523.8,317020,314330
+Uberlândia,Uberlândia,1694,0.0,317020,317020
+Umburatiba,Águas Formosas,1,43.1,317030,310090
+Umburatiba,Carlos Chagas,2,54.0,317030,311370
+Umburatiba,Teófilo Otoni,7,120.4,317030,316860
+Unaí,Belo Horizonte,13,505.6,317040,310620
+Unaí,Buritis,1,96.6,317040,310930
+Unaí,Patos de Minas,54,253.4,317040,314800
+Unaí,Uberaba,5,392.9,317040,317010
+Unaí,Unaí,191,0.0,317040,317040
+União de Minas,Iturama,1,26.6,317043,313440
+União de Minas,Uberaba,1,251.1,317043,317010
+Uruana de Minas,Patos de Minas,3,284.4,317047,314800
+Uruana de Minas,Unaí,3,77.0,317047,317040
+Urucânia,Muriaé,7,94.2,317050,314390
+Urucânia,Ponte Nova,38,18.5,317050,315210
+Urucânia,Raul Soares,15,41.5,317050,315400
+Urucânia,Rio Casca,1,17.3,317050,315490
+Urucuia,Brasília de Minas,1,140.1,317052,310860
+Urucuia,Montes Claros,14,210.6,317052,314330
+Urucuia,Urucuia,13,0.0,317052,317052
+Vargem Alegre,Abre Campo,1,79.5,317057,310030
+Vargem Alegre,Caratinga,1,26.4,317057,311340
+Vargem Alegre,Coronel Fabriciano,1,35.2,317057,311940
+Vargem Alegre,Ipatinga,18,27.8,317057,313130
+Vargem Bonita,Passos,1,50.2,317060,314790
+Vargem Bonita,Piumhi,2,45.2,317060,315150
+Vargem Grande do Rio Pardo,Montes Claros,11,222.7,317065,314330
+Vargem Grande do Rio Pardo,Taiobeiras,2,46.1,317065,316800
+Varginha,Belo Horizonte,7,239.2,317070,310620
+Varginha,Itanhandu,2,96.9,317070,313310
+Varginha,Machado,3,52.0,317070,313900
+Varginha,Passos,2,153.5,317070,314790
+Varginha,Pouso Alegre,4,91.1,317070,315250
+Varginha,São Sebastião do Paraíso,1,176.4,317070,316470
+Varginha,Varginha,395,0.0,317070,317070
+Varjão de Minas,Belo Horizonte,2,279.1,317075,310620
+Varjão de Minas,Patos de Minas,14,56.4,317075,314800
+Varjão de Minas,Vazante,1,101.6,317075,317100
+Várzea da Palma,Belo Horizonte,4,271.6,317080,310620
+Várzea da Palma,Montes Claros,60,133.3,317080,314330
+Várzea da Palma,Pirapora,8,35.8,317080,315120
+Várzea da Palma,Várzea da Palma,58,0.0,317080,317080
+Varzelândia,Belo Horizonte,3,469.6,317090,310620
+Varzelândia,Brasília de Minas,2,71.2,317090,310860
+Varzelândia,Manga,1,105.6,317090,313930
+Varzelândia,Montes Claros,21,115.6,317090,314330
+Varzelândia,São João da Ponte,5,25.5,317090,316240
+Varzelândia,Varzelândia,1,0.0,317090,317090
+Vazante,Belo Horizonte,9,378.7,317100,310620
+Vazante,Patos de Minas,25,79.8,317100,314800
+Vazante,Vazante,33,0.0,317100,317100
+Verdelândia,Janaúba,3,39.7,317103,313510
+Verdelândia,Manga,2,99.2,317103,313930
+Verdelândia,Montes Claros,13,129.6,317103,314330
+Veredinha,Belo Horizonte,10,308.2,317107,310620
+Veredinha,Diamantina,6,131.2,317107,312160
+Veredinha,Turmalina,6,12.0,317107,316970
+Veríssimo,Uberaba,11,38.5,317110,317010
+Vermelho Novo,Belo Horizonte,1,174.9,317115,310620
+Vermelho Novo,Caratinga,7,30.4,317115,311340
+Vermelho Novo,Ipatinga,17,67.7,317115,313130
+Vespasiano,Belo Horizonte,546,25.8,317120,310620
+Vespasiano,Vespasiano,19,0.0,317120,317120
+Viçosa,Belo Horizonte,11,143.6,317130,310620
+Viçosa,Muriaé,61,67.5,317130,314390
+Viçosa,Ponte Nova,81,37.6,317130,315210
+Viçosa,Viçosa,104,0.0,317130,317130
+Vieiras,Muriaé,27,32.3,317140,314390
+Mathias Lobato,Governador Valadares,7,31.8,317150,312770
+Mathias Lobato,Itambacuri,2,64.9,317150,313270
+Mathias Lobato,Itanhomi,10,66.7,317150,313320
+Virgem da Lapa,Araçuaí,8,30.5,317160,310340
+Virgem da Lapa,Belo Horizonte,19,385.5,317160,310620
+Virgem da Lapa,Minas Novas,1,53.2,317160,314180
+Virgem da Lapa,Virgem da Lapa,3,0.0,317160,317160
+Virgínia,Poço Fundo,2,108.6,317170,315170
+Virgínia,Pouso Alegre,2,87.5,317170,315250
+Virgínia,São Lourenço,7,24.8,317170,316370
+Virgínia,Varginha,12,93.3,317170,317070
+Virgínia,Virgínia,1,0.0,317170,317170
+Virginópolis,Belo Horizonte,8,177.9,317180,310620
+Virginópolis,Guanhães,8,24.7,317180,312800
+Virginópolis,Ipatinga,4,75.3,317180,313130
+Virginópolis,Itabira,5,104.3,317180,313170
+Virginópolis,Itabirinha,1,157.5,317180,313180
+Virginópolis,Peçanha,3,34.2,317180,314860
+Virginópolis,Sabinópolis,3,43.6,317180,315680
+Virginópolis,Virginópolis,9,0.0,317180,317180
+Virgolândia,Governador Valadares,17,57.2,317190,312770
+Virgolândia,Itabirinha,6,113.7,317190,313180
+Virgolândia,Muriaé,1,295.0,317190,314390
+Virgolândia,Peçanha,11,27.8,317190,314860
+Visconde do Rio Branco,Belo Horizonte,5,166.3,317200,310620
+Visconde do Rio Branco,Juiz de Fora,9,98.2,317200,313670
+Visconde do Rio Branco,Muriaé,153,50.4,317200,314390
+Visconde do Rio Branco,Ubá,3,16.2,317200,316990
+Visconde do Rio Branco,Uberaba,1,550.9,317200,317010
+Visconde do Rio Branco,Visconde do Rio Branco,30,0.0,317200,317200
+Volta Grande,Além Paraíba,2,18.3,317210,310150
+Volta Grande,Juiz de Fora,4,83.1,317210,313670
+Volta Grande,Muriaé,19,73.5,317210,314390
+Volta Grande,Recreio,2,28.0,317210,315410
+Wenceslau Braz,Itajubá,1,15.4,317220,313240
+Wenceslau Braz,Poços de Caldas,2,149.6,317220,315180
+Wenceslau Braz,Pouso Alegre,1,68.1,317220,315250

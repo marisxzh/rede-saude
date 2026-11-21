@@ -1,0 +1,16 @@
+﻿Comunidade Louvain (0 = sem fluxo intermunicipal),Número de municípios,População somada (IBGE 2025),Polo com maior força de entrada,Internações intermunicipais recebidas pelo polo,Entradas intermunicipais dos municípios do grupo,Saídas intermunicipais dos municípios do grupo,Internações entre municípios da mesma comunidade,Internações entre municípios do grupo e outros grupos,Macrorregião mais frequente,% dos municípios na macrorregião mais frequente,Microrregião mais frequente,% dos municípios na microrregião mais frequente,Modularidade global da rede
+1,27,1391271.0,Uberlândia,914,1325,1322,1267,113,TRIÂNGULO DO NORTE,100.0,PATROCÍNIO/MONTE CARMELO,33.3,0.7973
+2,127,7013621.0,Belo Horizonte,18815,21485,18712,18444,3309,CENTRO,70.1,SETE LAGOAS,18.1,0.7973
+3,109,1541597.0,Muriaé,7875,9994,10228,9768,686,SUDESTE,51.4,MANHUAÇU,21.1,0.7973
+4,37,825013.0,Ipatinga,3602,4249,4343,4003,586,VALE DO AÇO,94.6,IPATINGA,37.8,0.7973
+5,105,1426532.0,Teófilo Otoni,1416,4072,4763,3791,1253,NORDESTE,53.3,GOVERNADOR VALADARES,21.9,0.7973
+6,27,827413.0,Uberaba,1948,1972,1828,1795,210,TRIÂNGULO DO SUL,100.0,FRUTAL/ITURAMA,40.7,0.7973
+7,52,1342069.0,Divinópolis,4464,5798,6133,5702,527,OESTE,100.0,DIVINÓPOLIS,15.4,0.7973
+8,90,1719800.0,Montes Claros,3737,4351,4544,4253,389,NORTE,95.6,JANAÚBA/MONTE AZUL,16.7,0.7973
+9,51,931936.0,Varginha,2540,3172,3395,3091,385,SUL,96.1,SÃO LOURENÇO,47.1,0.7973
+10,53,1058913.0,Pouso Alegre,1716,3017,3118,2941,253,EXTREMO SUL,100.0,POUSO ALEGRE/SANTA RITA DO SAPUCAÍ,60.4,0.7973
+11,53,942780.0,Passos,2130,4519,4452,4338,295,SUDOESTE,96.2,ALFENAS/MACHADO,30.2,0.7973
+12,43,657080.0,Barbacena,1257,2353,2847,2201,798,CENTRO SUL,97.7,SÃO JOÃO DEL REI,37.2,0.7973
+13,37,815397.0,Juiz de Fora,2152,2180,1981,1915,331,SUDESTE,100.0,LIMA DUARTE,35.1,0.7973
+14,31,715335.0,Patos de Minas,1545,1627,2186,1596,621,NOROESTE,100.0,PATOS DE MINAS,35.5,0.7973
+15,11,184684.0,Curvelo,859,859,1121,796,388,CENTRO,100.0,CURVELO,100.0,0.7973
