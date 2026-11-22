@@ -41,7 +41,7 @@ def analisar(uf, ano, dados, saida, planilha_path, nichos, min_fluxo, cnes_arqui
                      dist_km=p["dist_km"].round(1))
         salvar(p, caminho, COL_FLUXOS)
 
-    # ---- A) Visao geral ----------------------------------------------------
+    # A) Visao geral
     pares = montar_pares(df, coord)
     exportar_fluxos(pares, saida / "fluxos_geral.csv")               # lista de arestas (o grafo)
     resultados = {"Geral (todas as internações)": metricas(pares)}
@@ -75,7 +75,7 @@ def analisar(uf, ano, dados, saida, planilha_path, nichos, min_fluxo, cnes_arqui
     print(f"Municipios sem recebimento intermunicipal registrado: "
           f"{(tab['recebeu_fluxos'] == 'Não').sum()} de {len(tab)}.")
 
-    # ---- B) Por complexidade (hipotese: mais complexo = mais deslocamento) ------
+    # B) Por complexidade (hipotese: mais complexo = mais deslocamento)
     if "cx" in df.columns:
         print("\nValores do campo COMPLEX encontrados:")
         print(df["COMPLEX"].value_counts().to_string())
@@ -92,13 +92,13 @@ def analisar(uf, ano, dados, saida, planilha_path, nichos, min_fluxo, cnes_arqui
     else:
         print("\n[aviso] Coluna COMPLEX ausente: bloco de complexidade foi pulado.")
 
-    # ---- C) Por tipo de doenca (capitulo do CID-10) --------------------------
+    # C) Por tipo de doenca (capitulo do CID-10)
     if "cap" in df.columns:
         diag = tabela_diagnosticos(df, coord)
         salvar(diag, saida / "por_tipo_de_doenca.csv", COL_METRICAS)
         grafico(diag.set_index("grupo"), saida / "por_tipo_de_doenca.png", ordenar_por="pct_mais_de_60km")
 
-    # ---- D) Por hospital (CNES) ---------------------------------------------
+    # D) Por hospital (CNES)
     codigos = sorted(c.zfill(7) for c in df["CNES"].dropna().unique() if c) if "CNES" in df.columns else []
     nomes_cnes = carregar_nomes_cnes(uf, dados, codigos, cnes_arquivo, sem_nomes)
     hosp = tabela_hospitais(df, nomes, nomes_cnes)
@@ -108,7 +108,7 @@ def analisar(uf, ano, dados, saida, planilha_path, nichos, min_fluxo, cnes_arqui
         print("\nMaiores hospitais por nº de internações:")
         print(hosp.head(10)[cols].rename(columns=COL_HOSPITAIS).to_string(index=False))
 
-    # ---- E) Nichos (opcional, ex.: --nicho "Mama=C50") ------------------------
+    # E) Nichos (opcional, ex.: --nicho "Mama=C50")
     for item in nichos:
         nome, prefixos, nivel, slug, descricao_cid = interpretar_nicho(item)
         if "DIAG_PRINC" not in df.columns:
@@ -141,7 +141,7 @@ def analisar(uf, ano, dados, saida, planilha_path, nichos, min_fluxo, cnes_arqui
         salvar(resumo_n, saida / f"comunidades_nicho_{slug}.csv", COL_RESUMO_COMUNIDADES)
         exportar_tabelas_gephi(p_n, tab_n, coord, pasta_gephi, f"nicho_{slug}")
 
-    # ---- Resultado final -----------------------------------------------------
+    # Resultado final
     res = pd.DataFrame(resultados).T
     res.index.name = "grupo"
     res["internacoes"] = res["internacoes"].astype(int)
